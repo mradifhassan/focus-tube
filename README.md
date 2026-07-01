@@ -2,22 +2,17 @@
 <img width="1200" height="475" alt="GHBanner" src="/assets/image.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# Introduction
 
-This contains everything you need to run your app locally.
+As students, we all know how easy it is to lose focus. We log onto YouTube with the best intentions—to attend an online class or finish a course—only to find ourselves caught in an endless loop of distracting recommendations and algorithms.
 
-View your app in AI Studio: https://ai.studio/apps/6576ef2c-49cf-406f-8f45-0f3e3e79362b
+To bridge this gap, I created this static platform: a dedicated, clutter-free space designed entirely for focused learning.
 
-## Run Locally
+This is my small initiative to streamline your preparation for the HSC curriculum. By removing the noise of traditional social media, you can fully immerse yourself in your studies. To start, I have curated and integrated resources from two of the finest channels available, delivering top-tier educational content across Physics, Chemistry, Mathematics, and Biology (PCMB).
 
-**Prerequisites:**  Node.js
+* Your education deserves your undivided attention. Welcome, and happy learning!
+
+## Installation
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-# focus-tube
-# focus-tube
-# focus-tube
+

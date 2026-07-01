@@ -225,8 +225,272 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         description: `শাওন রেজা
 নটরডেম কলেজ
 জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
-      }
-  
+      }, 
+               {
+        id: "kRnXF7BP-_8",
+        title: "Organic Conversion (Aliphatic)। অর্গানিক কনভার্সন (অ্যালিফ্যাটিক)",
+        duration: "41:40",
+        views: "43K views",
+        publishedText: "Apr 17, 2023",
+        thumbnail: "https://i.ytimg.com/vi/kRnXF7BP-_8/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `
+        class notes: https://drive.google.com/file/d/1WRtEnDuAdT0UuX0ltYvWlebEv1SSagJH/view
+        শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "RAKLOaEjfrY",
+        title: "Organic Conversion (Aromatic)। অর্গানিক কনভার্সন (অ্যারোমেটিক)",
+        duration: "1:02:57",
+        views: "16K views",
+        publishedText: "May 1, 2023",
+        thumbnail: "https://i.ytimg.com/vi/RAKLOaEjfrY/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `
+        class notes: https://drive.google.com/file/d/1Fu6aMz4WxtMvk3UsVt-6CBC1gDvbVGq_/view
+        শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "5UZ60arP1qo",
+        title: "01. Introduction to Organic Chemistry (জৈব রসায়নের সূচনা ও ইতিহাস) । জৈব রসায়ন | Basic to Admission",
+        duration: "1:23:37",
+        views: "52K views",
+        publishedText: "Mar 10, 2023",
+        thumbnail: "https://i.ytimg.com/vi/5UZ60arP1qo/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "ULkubqXJo02",
+        title: "02. Homologous Series (সমগোত্রীয় শ্রেণি) । জৈব রসায়ন | Basic to Admission",
+        duration: "1:40:33",
+        views: "25K views",
+        publishedText: "Mar 18, 2025",
+        thumbnail: "https://i.ytimg.com/vi/ULkubqXJoFE/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "cS2kG4S7r2M",
+        title: "03. Nomenclature 01 (জৈব যৌগের নামকরণ-01) । জৈব রসায়ন | Basic to Admission",
+        duration: "1:56:21",
+        views: "26K views",
+        publishedText: "Mar 25, 2023",
+        thumbnail: "https://i.ytimg.com/vi/cS2kG4S7r2M/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+       /*        {
+        id: "7AlCvxOKoSE",
+        title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
+        duration: "9:38",
+        views: "5.8K views",
+        publishedText: "Jun 2, 2023",
+        thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "7AlCvxOKoSE",
+        title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
+        duration: "9:38",
+        views: "5.8K views",
+        publishedText: "Jun 2, 2023",
+        thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "7AlCvxOKoSE",
+        title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
+        duration: "9:38",
+        views: "5.8K views",
+        publishedText: "Jun 2, 2023",
+        thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "7AlCvxOKoSE",
+        title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
+        duration: "9:38",
+        views: "5.8K views",
+        publishedText: "Jun 2, 2023",
+        thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "7AlCvxOKoSE",
+        title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
+        duration: "9:38",
+        views: "5.8K views",
+        publishedText: "Jun 2, 2023",
+        thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "7AlCvxOKoSE",
+        title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
+        duration: "9:38",
+        views: "5.8K views",
+        publishedText: "Jun 2, 2023",
+        thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "7AlCvxOKoSE",
+        title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
+        duration: "9:38",
+        views: "5.8K views",
+        publishedText: "Jun 2, 2023",
+        thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "7AlCvxOKoSE",
+        title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
+        duration: "9:38",
+        views: "5.8K views",
+        publishedText: "Jun 2, 2023",
+        thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "7AlCvxOKoSE",
+        title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
+        duration: "9:38",
+        views: "5.8K views",
+        publishedText: "Jun 2, 2023",
+        thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "7AlCvxOKoSE",
+        title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
+        duration: "9:38",
+        views: "5.8K views",
+        publishedText: "Jun 2, 2023",
+        thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "7AlCvxOKoSE",
+        title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
+        duration: "9:38",
+        views: "5.8K views",
+        publishedText: "Jun 2, 2023",
+        thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "7AlCvxOKoSE",
+        title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
+        duration: "9:38",
+        views: "5.8K views",
+        publishedText: "Jun 2, 2023",
+        thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "7AlCvxOKoSE",
+        title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
+        duration: "9:38",
+        views: "5.8K views",
+        publishedText: "Jun 2, 2023",
+        thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "7AlCvxOKoSE",
+        title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
+        duration: "9:38",
+        views: "5.8K views",
+        publishedText: "Jun 2, 2023",
+        thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, 
+               {
+        id: "7AlCvxOKoSE",
+        title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
+        duration: "9:38",
+        views: "5.8K views",
+        publishedText: "Jun 2, 2023",
+        thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা
+নটরডেম কলেজ
+জেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }, */
+      
     ],
   playlists: [
       {
@@ -248,14 +512,14 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
       {
         id: "Organic_Chemistry_03",
         title: "Organic Chemistry (জৈব রসায়ন) । Basic to Admission",
-        videoCount: 29,
+        videoCount: 5,
         thumbnail: "https://i.ytimg.com/vi/kRnXF7BP-_8/hqdefault.jpg",
         updatedText: "Updated 1 month ago",
-        videos: ["kRnXF7BP-_8"]
+        videos: ["kRnXF7BP-_8", "RAKLOaEjfrY",  "5UZ60arP1qo", "ULkubqXJo02", "cS2kG4S7r2M"]
       }
     ]
   },
-  "UCBA6OI6vEDK13jfoiuX694A": {
+  /* "UCBA6OI6vEDK13jfoiuX694A": {
     videos: [
       {
         id: "fJ9rUzIMcZQ",
@@ -350,7 +614,7 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         videos: ["V-_O7nl0Ii0", "CevxZvSJLk8"]
       }
     ] 
-  }
+  } */
 };
 
 // Helper SVG icons as reusable strings for vanilla DOM insertion
