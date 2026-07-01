@@ -1,0 +1,6 @@
+{
+  "name": "FreeTube Static Alternative",
+  "description": "A distraction-free, open-source HTML, CSS, and JavaScript static website alternative to YouTube and FreeTube with pinned subscriptions and privacy shield.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
