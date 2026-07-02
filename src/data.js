@@ -1501,12 +1501,12 @@ Lectured by: Maksudul Hossain Jewel`
         videos:  ["Y2-6OInzV44", "ZhCQu47G2m4", "hO0vRj4i8RE", "zN5ONZFUFgQ", "Z7cZLp0ZFzU", "9OUNZ6MQmhQ", "aRn13XFKuj0", "GRI173t9t28", "izmEeudNgU4", "yfIiE2csYIc", "J_hYeNvs4EI", "pmCub0w_4OM"] 
       },
       {
-        id: "PL_orp_chem_fun",
-        title: "Fun Chemistry Conceptual Lectures (রসায়ন ১ম ও ২য় পত্র)",
-        videoCount: 30,
+        id: "Physics_Periodic_Motion_02",
+        title: "Physics Periodic Motion (পর্যায়বৃত্ত গতি)",
+        videoCount: 12,
         thumbnail: "https://i.ytimg.com/vi/V-_O7nl0Ii0/hqdefault.jpg",
         updatedText: "Updated 1 week ago",
-        videos: ["V-_O7nl0Ii0", "CevxZvSJLk8"]
+        videos: ["LVE9SjOd0Hw", "3u_UKd8iTTE", "Hi6Uo6NQ8Zc", "_uqioK_AnbM", "29RYUx1KUu0", "o7X58xkiXo", "9iWqKmnK3_0", "UhJCLSLHi5M", "bS7SoiY8Gzc", "7B3GW6siIVI", "kB2OYCRCHRA", "9HVn0cLmf3o"]
       }
     ] 
   } 
