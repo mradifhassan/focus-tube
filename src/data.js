@@ -521,6 +521,8 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
   },
 "UCBA6OI6vEDK13jfoiuX694A": {
     videos: [
+//Mathematics Portion
+//Differentiation
       {
         id: "DWCUCsXoMQc",
         title: "01. Continuous & Discontinuous Function | Continuous and Discontinuous Function",
@@ -1081,7 +1083,221 @@ Subject: Math
 Topic: Continuous & Discontinuous Function
 Class: HSC 1st Year
 Lectured by: Ashikuzzaman Rasel`
-      }
+     },
+// Physics
+// Wave
+      {
+        id: "Y2-6OInzV44",
+        title: "01. General Discussion about Wave | তরঙ্গ সম্পর্কীয় সাধারণ আলোচনা",
+        duration: "21:37",
+        views: "217K views",
+        publishedText: "Jan 1, 2019",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala
+Lecture: Wave
+Subject: Physics
+Topic: General Discussion about Wave
+      {
+        id: "Y2-6OInzV44",
+        title: "01. General Discussion about Wave | তরঙ্গ সম্পর্কীয় সাধারণ আলোচনা",
+        duration: "21:37",
+        views: "217K views",
+        publishedText: "Jan 1, 2019",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        
+Class: HSC 1st Year
+Lectured by: Sourov Bijoy`
+      },  
+      {
+        id: "ZhCQu47G2m4",
+        title: "02. Intensity of Wave | তরঙ্গের তীব্রতা | OnnoRokom Pathshala",
+        duration: "14:50",
+        views: "114K views",
+        publishedText: "Jan 2, 2019",
+        thumbnail: "https://i.ytimg.com/vi/ZhCQu47G2m4/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala
+Lecture: Wave
+Subject: Physics
+Topic: General Discussion about Wave
+Class: HSC 1st Year
+Lectured by: Sourov Bijoy`
+      },  
+
+      {
+        id: "hO0vRj4i8RE",
+        title: "03. Wave Superposition | Wave Superposition | OnnoRokom Pathshala",
+        duration: "5:50",
+        views: "93K views",
+        publishedText: "Jan 3, 2019",
+        thumbnail: "https://i.ytimg.com/vi/hO0vRj4i8RE/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala
+Lecture: Wave
+Subject: Physics
+Topic: General Discussion about Wave
+Class: HSC 1st Year
+Lectured by: Sourov Bijoy`
+      },  
+
+      {
+        id: "zN5ONZFUFgQ",
+        title: "04. Static Wave | স্থির তরঙ্গ | OnnoRokom Pathshala",
+        duration: "29:30",
+        views: "217K views",
+        publishedText: "Jan 4, 2019",
+        thumbnail: "https://i.ytimg.com/vi/zN5ONZFUFgQ/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala
+Lecture: Wave
+Subject: Physics
+Topic: General Discussion about Wave
+Class: HSC 1st Year
+Lectured by: Sourov Bijoy`
+      },
+
+      {
+        id: "Z7cZLp0ZFzU",
+        title: "05. Wire in Tension | Tensioned Wire | OnnoRokom Pathshala",
+        duration: "14:32",
+        views: "217K views",
+        publishedText: "Jan 18, 2019",
+        thumbnail: "https://i.ytimg.com/vi/Z7cZLp0ZFzU/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala
+Lecture: Wave
+Subject: Physics
+Topic: General Discussion about Wave
+Class: HSC 1st Year
+Lectured by: Sourov Bijoy`
+      },
+
+      {
+        id: "9OUNZ6MQmhQ",
+        title: "06. Beat Related Math | বীট সংক্রান্ত অংক | OnnoRokom Pathshala",
+        duration: "10:20",
+        views: "85K views",
+        publishedText: "Jan 19, 2019",
+        thumbnail: "https://i.ytimg.com/vi/9OUNZ6MQmhQ/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala
+Lecture: Wave
+Subject: Physics
+Topic: General Discussion about Wave
+Class: HSC 1st Year
+Lectured by: Sourov Bijoy`
+      },
+
+      {
+        id: "aRn13XFKuj0",
+        title: "Beat - Mathematical Problem Part 01 | বীট – এর গাণিতিক সমস্যা পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "10:20",
+        views: "269K views",
+        publishedText: "Jan 14, 2017",
+        thumbnail: "https://i.ytimg.com/vi/aRn13XFKuj0/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala
+Lecture: Wave
+Subject: Physics
+Topic: Bit - Mathematical Problem Part 01
+Class: HSC 1st Year
+Lectured by: Mahmudul Hasan Sohag`
+      },
+
+      {
+        id: "GRI173t9t28",
+        title: "Beat - Mathematical Problem Part 02 | বীট – এর গাণিতিক সমস্যা পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "15:49",
+        views: "122K views",
+        publishedText: "Jan 15, 2017",
+        thumbnail: "https://i.ytimg.com/vi/GRI173t9t28/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala
+Lecture: Wave
+Subject: Physics
+Topic: Bit - Mathematical Problem Part 01
+Class: HSC 1st Year
+Lectured by: Mahmudul Hasan Sohag`
+      },
+
+      {
+        id: "izmEeudNgU4",
+        title: "Beat - Mathematical Problem Part 03 | বীট – এর গাণিতিক সমস্যা পর্ব ০৩ | OnnoRokom Pathshala",
+        duration: "13:20",
+        views: "84K views",
+        publishedText: "Jan 16, 2017",
+        thumbnail: "https://i.ytimg.com/vi/izmEeudNgU4/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala
+Lecture: Wave
+Subject: Physics
+Topic: Bit - Mathematical Problem Part 01
+Class: HSC 1st Year
+Lectured by: Mahmudul Hasan Sohag`
+      },
+
+      {
+        id: "yfIiE2csYIc",
+        title: "Beat - Mathematical Problem Part 04 | বীট – এর গাণিতিক সমস্যা পর্ব ০৪ | OnnoRokom Pathshala",
+        duration: "6:42",
+        views: "66K views",
+        publishedText: "Jan 16, 2017",
+        thumbnail: "https://i.ytimg.com/vi/yfIiE2csYIc/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala
+Lecture: Wave
+Subject: Physics
+Topic: Bit - Mathematical Problem Part 01
+Class: HSC 1st Year
+Lectured by: Mahmudul Hasan Sohag`
+      },
+
+      {
+        id: "J_hYeNvs4EI",
+        title: "07. Relative Intensity and Intensity Level | প্রমাণ তীব্রতা ও তীব্রতা লেভেল",
+        duration: "12:52",
+        views: "85K views",
+        publishedText: "Jan 20, 2019",
+        thumbnail: "https://i.ytimg.com/vi/J_hYeNvs4EI/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala
+Lecture: Wave
+Subject: Physics
+Topic: General Discussion about Wave
+Class: HSC 1st Year
+Lectured by: Sourov Bijoy`
+      },
+
+      {
+        id: "pmCub0w_4OM",
+        title: "08. প্রমাণ তীব্রতা ও তীব্রতা লেভেল এর গাণিতিক সমস্যাবলি | OnnoRokom Pathshala",
+        duration: "15:06",
+        views: "46K views",
+        publishedText: "Jan 22, 2019",
+        thumbnail: "https://i.ytimg.com/vi/pmCub0w_4OM/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala
+Lecture: Wave
+Subject: Physics
+Topic: General Discussion about Wave
+Class: HSC 1st Year
+Lectured by: Sourov Bijoy`
+      },
     ],
     playlists: [
       {
@@ -1094,12 +1310,12 @@ Lectured by: Ashikuzzaman Rasel`
 
       },
       {
-        id: "PL_orp_math_calc",
-        title: "Out of the Box Math & Calculus Tricks (উচ্চতর গণিত)",
-        videoCount: 25,
-        thumbnail: "https://i.ytimg.com/vi/3JZ_D3ELwOQ/hqdefault.jpg",
+        id: "Physics_Wave_01",
+        title: "Physics Wave (তরঙ্গ)",
+        videoCount: 12,
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
         updatedText: "Updated 3 days ago",
-        videos: ["3JZ_D3ELwOQ", "RgKAFK5djSk"]
+        videos:  ["Y2-6OInzV44", "ZhCQu47G2m4", "hO0vRj4i8RE", "zN5ONZFUFgQ", "Z7cZLp0ZFzU", "9OUNZ6MQmhQ", "aRn13XFKuj0", "GRI173t9t28", "izmEeudNgU4", "yfIiE2csYIc", "J_hYeNvs4EI", "pmCub0w_4OM"] 
       },
       {
         id: "PL_orp_chem_fun",
