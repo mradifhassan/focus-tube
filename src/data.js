@@ -519,83 +519,579 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
       }
     ]
   },
-  /* "UCBA6OI6vEDK13jfoiuX694A": {
+"UCBA6OI6vEDK13jfoiuX694A": {
     videos: [
       {
-        id: "fJ9rUzIMcZQ",
-        title: "পদার্থবিজ্ঞান ১ম পত্র: ভেক্টর - মাস্টার লেকচার ১ (Physics 1st Paper: Vector)",
-        duration: "45:12",
+        id: "DWCUCsXoMQc",
+        title: "01. Continuous & Discontinuous Function | Continuous and Discontinuous Function",
+        duration: "6:11",
         views: "520K views",
-        publishedText: "2 days ago",
-        thumbnail: "https://i.ytimg.com/vi/fJ9rUzIMcZQ/hqdefault.jpg",
+        publishedText: "May 1, 2016",
+        thumbnail: "https://i.ytimg.com/vi/DWCUCsXoMQc/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
-        description: "ভেক্টর রাশির যোগ, বিয়োগ, ডট গুণন ও ক্রস গুণনের একদম গোড়া থেকে কনসেপচুয়াল আলোচনা।"
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
       },
       {
-        id: "3JZ_D3ELwOQ",
-        title: "ক্যালকুলাস সহজে বোঝার জাদুকরী উপায় (Intuitive Calculus & Limits)",
-        duration: "32:18",
-        views: "410K views",
-        publishedText: "5 days ago",
-        thumbnail: "https://i.ytimg.com/vi/3JZ_D3ELwOQ/hqdefault.jpg",
+        id: "VIdLvHC407c",
+        title: "02. Existence of Limit | লিমিটের অস্তিত্ব | OnnoRokom Pathshala",
+        duration: "8:11",
+        views: "181K views",
+        publishedText: "May 1, 2016",
+        thumbnail: "https://i.ytimg.com/vi/VIdLvHC407c/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
-        description: "ডিফারেন্সিয়েশন ও ইন্টিগ্রেশনের বাস্তব জীবনের প্রয়োগ এবং লিমিটের মূল ধারণা।"
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
       },
       {
-        id: "V-_O7nl0Ii0",
-        title: "রসায়ন জাদুকরী ট্রিকস: পর্যায় সারণি ও রাসায়নিক বন্ধন (Chemistry Out of Box)",
-        duration: "28:50",
-        views: "380K views",
-        publishedText: "2 weeks ago",
-        thumbnail: "https://i.ytimg.com/vi/V-_O7nl0Ii0/hqdefault.jpg",
+        id: "xThVr1W1Pnw",
+        title: "03. Infinite Limit | Infinite Limit | OnnoRokom Pathshala",
+        duration: "13:12",
+        views: "520K views",
+        publishedText: "May 1, 2016",
+        thumbnail: "https://i.ytimg.com/vi/xThVr1W1Pnw/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
-        description: "মুখস্থ না করে পর্যায় সারণির মৌলগুলোর ধর্ম এবং অরবিটাল সংকরায়ণ বোঝার সহজ টেকনিক।"
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
       },
       {
-        id: "l482T0yNkeo",
-        title: "গতিবিদ্যা ও নিউটনের বলবিদ্যা: গাণিতিক সমস্যা সমাধান (Newtonian Mechanics)",
-        duration: "38:25",
-        views: "445K views",
-        publishedText: "3 weeks ago",
-        thumbnail: "https://i.ytimg.com/vi/l482T0yNkeo/hqdefault.jpg",
+        id: "P6ON5damQFE",
+        title: "04. Series Type | Series Type | OnnoRokom Pathshala",
+        duration: "5:39",
+        views: "124K views",
+        publishedText: "May 1, 2016",
+        thumbnail: "https://i.ytimg.com/vi/P6ON5damQFE/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
-        description: "ঘর্ষণ বল, কৌণিক ভরবেগ এবং ব্যাংকিং কোণ সম্পর্কিত বুয়েট ও ঢাকা বিশ্ববিদ্যালয় ভর্তি পরীক্ষার প্রশ্ন সমাধান।"
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
       },
       {
-        id: "RgKAFK5djSk",
-        title: "গণিতের ভয় দূর করার ৫টি সাইকোলজিক্যাল নিয়ম (Overcome Math Anxiety)",
-        duration: "16:40",
-        views: "290K views",
-        publishedText: "1 month ago",
-        thumbnail: "https://i.ytimg.com/vi/RgKAFK5djSk/hqdefault.jpg",
+        id: "WNzrs9L1qFA",
+        title: "05. Exponential | Exponential | OnnoRokom Pathshala",
+        duration: "6:30",
+        views: "116K views",
+        publishedText: "May 1, 2016",
+        thumbnail: "https://i.ytimg.com/vi/WNzrs9L1qFA/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
-        description: "কীভাবে কঠিন গাণিতিক সমীকরণকে ছবির মতো কল্পনা করে মস্তিষ্কে গেঁথে রাখা যায়।"
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
       },
       {
-        id: "CevxZvSJLk8",
-        title: "জৈব রসায়ন (Organic Chemistry): নামকরণের সহজ সূত্রাবলী",
-        duration: "52:10",
-        views: "610K views",
-        publishedText: "2 months ago",
-        thumbnail: "https://i.ytimg.com/vi/CevxZvSJLk8/hqdefault.jpg",
+        id: "0TqfjNhZHiI",
+        title: "06. Trigonometric Function Part 01 | ত্রিকোণমিতিক ফাংশন পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "13:53",
+        views: "105K views",
+        publishedText: "May 2, 2016",
+        thumbnail: "https://i.ytimg.com/vi/0TqfjNhZHiI/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
-        description: "অ্যালকেন, অ্যালকিন, অ্যালকাইন ও কার্যকরী মূলকের আইইউপিএসি (IUPAC) নামকরণ পদ্ধতি।"
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Yearnp
+Lectured by: Ashikuzzaman Rasel`
+      },
+      {
+        id: "WlikLWCJBVE",
+        title: "06. Trigonometric Function Part 02 | ত্রিকোণমিতিক ফাংশন পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "12:34",
+        views: "98K views",
+        publishedText: "May 2, 2016",
+        thumbnail: "https://i.ytimg.com/vi/WlikLWCJBVE/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+      {
+        id: "mD_VcAXrUZw",
+        title: "06. Trigonometric Function Part 03 | ত্রিকোণমিতিক ফাংশন পর্ব ০৩ | OnnoRokom Pathshala",
+        duration: "10:02",
+        views: "81K views",
+        publishedText: "May 2, 2016",
+        thumbnail: "https://i.ytimg.com/vi/mD_VcAXrUZw/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+      {
+        id: "9GCpKsdzumk",
+        title: "07. L'Hospital Rule Part 01 | লা-হসপিটাল রুল পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "14:25",
+        views: "168K views",
+        publishedText: "May 2, 2016",
+        thumbnail: "https://i.ytimg.com/vi/9GCpKsdzumk/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+      {
+        id: "NfRBFiaeySY",
+        title: "07. L'Hospital Rule Part 02 | La-Hospital Rule Part 02 | OnnoRokom Pathshala",
+        duration: "9:24",
+        views: "520K views",
+        publishedText: "May 1, 2016",
+        thumbnail: "https://i.ytimg.com/vi/NfRBFiaeySY/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+      {
+        id: "-kotvsCL-Cw",
+        title: "08. Continuity | Inseparability | OnnoRokom Pathshala",
+        duration: "18:10",
+        views: "281K views",
+        publishedText: "May 2, 2016",
+        thumbnail: "https://i.ytimg.com/vi/-kotvsCL-Cw/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+      {
+        id: "V1bJaBd5X6Y",
+        title: "01. Differentiation Coefficient | অন্তরক সহগ | OnnoRokom Pathshala",
+        duration: "8:13",
+        views: "368K views",
+        publishedText: "May 4, 2016",
+        thumbnail: "https://i.ytimg.com/vi/V1bJaBd5X6Y/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+      {
+        id: "0RJBWAXjf_4",
+        title: "02. Proving the Formula for Integrating in the Basic Rule Part 01 | OnnoRokom Pathshala",
+        duration: "13:51",
+        views: "285K views",
+        publishedText: "May 5, 2016",
+        thumbnail: "https://i.ytimg.com/vi/0RJBWAXjf_4/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+      {
+        id: "jU8HtTQr4OU",
+        title: "02. মূল নিয়মে অন্তরীকরণের সূত্র প্রতিপাদন পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "17:46",
+        views: "151K views",
+        publishedText: "May 5, 2016",
+        thumbnail: "https://i.ytimg.com/vi/jU8HtTQr4OU/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+      {
+        id: "YkuAwBpzXDs",
+        title: "03. Determination of Differentiation Coefficient | Determination of Differentiation Coefficient |...",
+        duration: "7:20",
+        views: "139K views",
+        publishedText: "May 5, 2016",
+        thumbnail: "https://i.ytimg.com/vi/YkuAwBpzXDs/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+            {
+        id: "wMMi4dqAw7c",
+        title: "04. Differentiation of (uv) | Proving U.V. | OnnoRokom Pathshala",
+        duration: "9:38",
+        views: "115K views",
+        publishedText: "May 5, 2016",
+        thumbnail: "https://i.ytimg.com/vi/wMMi4dqAw7c/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+      {
+        id: "nH5zbORU1RI",
+        title: "05. Differentiation of u by v | ইউ/ভি এর অন্তরীকরণ | OnnoRokom Pathshala",
+        duration: "9:25",
+        views: "90K views",
+        publishedText: "May 7, 2016",
+        thumbnail: "https://i.ytimg.com/vi/nH5zbORU1RI/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+
+      {
+        id: "U0AzIZr8xdU",
+        title: "06. Chain Rule Part 01 | চেইন রূল পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "12:35",
+        views: "145K views",
+        publishedText: "May 7, 2016",
+        thumbnail: "https://i.ytimg.com/vi/U0AzIZr8xdU/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+
+      {
+        id: "c6z46owVRxY",
+        title: "06. Chain Rule Part 02 | চেইন রূল পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "9:29",
+        views: "99K views",
+        publishedText: "May 7, 2016",
+        thumbnail: "https://i.ytimg.com/vi/c6z46owVRxY/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+
+      {
+        id: "rYSLtUh5_FA",
+        title: "07. Inverse Circular Function | Inverse Circular Function | OnnoRokom Pathshala",
+        duration: "7:20",
+        views: "100K views",
+        publishedText: "May 7, 2016",
+        thumbnail: "https://i.ytimg.com/vi/rYSLtUh5_FA/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+
+      {
+        id: "Wxnv4q2ndMQ",
+        title: "08. Differentiation after Substitution | OnnoRokom Pathshala",
+        duration: "7:41",
+        views: "99K views",
+        publishedText: "May 7, 2016",
+        thumbnail: "https://i.ytimg.com/vi/Wxnv4q2ndMQ/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+
+      {
+        id: "QmK5n2AF61I",
+        title: "09. Particular Type Differentiation Part 01 | Particular Type Differentiation Part 01",
+        duration: "11:17",
+        views: "107K views",
+        publishedText: "May 7, 2016",
+        thumbnail: "https://i.ytimg.com/vi/QmK5n2AF61I/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+
+      {
+        id: "3vBzgjhzDU4",
+        title: "09. Particular Type Differentiation Part 02 | পার্টিকুলার টাইপ অনতরীকরণ পর্ব ০২",
+        duration: "9:39",
+        views: "96K views",
+        publishedText: "May 7, 2016",
+        thumbnail: "https://i.ytimg.com/vi/3vBzgjhzDU4/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+
+      {
+        id: "QAs-4QDgpHE",
+        title: "10. প্যারামেত্রিক ফাংশন এবং ফাংশনের সাপেক্ষে ফাংশনের অন্তরীকরণ | OnnoRokom Pathshala",
+        duration: "8:18",
+        views: "99K views",
+        publishedText: "May 7, 2016",
+        thumbnail: "https://i.ytimg.com/vi/QAs-4QDgpHE/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+
+      {
+        id: "7LZh5Uhtz3o",
+        title: "01. n-th derivative Part 01 | এন তম অন্তরক পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "12:10",
+        views: "144K views",
+        publishedText: "May 8, 2016",
+        thumbnail: "https://i.ytimg.com/vi/7LZh5Uhtz3o/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+
+      {
+        id: "FTOsKAQXtjc",
+        title: "01. n-th derivative Part 02 | এন তম অন্তরক পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "16:26",
+        views: "76K views",
+        publishedText: "May 8, 2016",
+        thumbnail: "https://i.ytimg.com/vi/FTOsKAQXtjc/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+
+      {
+        id: "5btc3KvVJN0",
+        title: "01. n-th derivative Part 03 | এন তম অন্তরক পর্ব ০৩ | OnnoRokom Pathshala",
+        duration: "17:01",
+        views: "63K views",
+        publishedText: "May 8, 2016",
+        thumbnail: "https://i.ytimg.com/vi/5btc3KvVJN0/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+
+      {
+        id: "eMs3AYc9VNQ",
+        title: "02. Tangent & Perpendicular Part 01 | স্পর্শক ও অভিলম্ব পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "13:56",
+        views: "95K views",
+        publishedText: "May 9, 2016",
+        thumbnail: "https://i.ytimg.com/vi/eMs3AYc9VNQ/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+
+      {
+        id: "zsOzfTdSQrQ",
+        title: "02. Tangent & Perpendicular Part 02 | স্পর্শক ও অভিলম্ব পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "10:32",
+        views: "64K views",
+        publishedText: "May 9, 2016",
+        thumbnail: "https://i.ytimg.com/vi/zsOzfTdSQrQ/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+
+      {
+        id: "kHxkKshgzGA",
+        title: "02. Tangent & Perpendicular Part 03 | Tangent & Perpendicular Part 03 | OnnoRokom Pathshala",
+        duration: "15:25",
+        views: "55K views",
+        publishedText: "May 9, 2016",
+        thumbnail: "https://i.ytimg.com/vi/kHxkKshgzGA/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+
+      {
+        id: "9wAclB37rcU",
+        title: "03. Maxima & Minima Part 01 | Guruman Laguman Part 01 | OnnoRokom Pathshala",
+        duration: "12:05",
+        views: "140K views",
+        publishedText: "May 9, 2016",
+        thumbnail: "https://i.ytimg.com/vi/9wAclB37rcU/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+
+      {
+        id: "CWeubWxS0Yk",
+        title: "03. Maxima & Minima Part 02 | গুরুমান লগুমান পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "11:38",
+        views: "95K views",
+        publishedText: "May 9, 2016",
+        thumbnail: "https://i.ytimg.com/vi/CWeubWxS0Yk/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      },
+
+      {
+        id: "jImlqKEIBaI",
+        title: "03. Maxima & Minima Part 03 | গুরুমান লগুমান পর্ব ০৩ | OnnoRokom Pathshala",
+        duration: "11:49",
+        views: "66K views",
+        publishedText: "May 9, 2016",
+        thumbnail: "https://i.ytimg.com/vi/jImlqKEIBaI/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
+      }, 
+
+     {
+        id: "LZv7jqAmVC8",
+        title: "03. Maxima & Minima Part 04 | গুরুমান লগুমান পর্ব ০৪ | OnnoRokom Pathshala",
+        duration: "5:21",
+        views: "51K views",
+        publishedText: "May 9, 2016",
+        thumbnail: "https://i.ytimg.com/vi/LZv7jqAmVC8/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Math
+Lecture: Differentiation (Limit)
+Subject: Math
+Topic: Continuous & Discontinuous Function
+Class: HSC 1st Year
+Lectured by: Ashikuzzaman Rasel`
       }
     ],
     playlists: [
       {
-        id: "PL_orp_phys_1st",
-        title: "HSC Physics 1st Paper Complete Course (পদার্থবিজ্ঞান)",
-        videoCount: 42,
-        thumbnail: "https://i.ytimg.com/vi/fJ9rUzIMcZQ/hqdefault.jpg",
+        id: "Differentiation_01",
+        title: "HSC Higher Mathematics 1st Paper: Differentiation (অন্তরীকরণ)",
+        videoCount: 34,
+        thumbnail: "https://i.ytimg.com/vi/DWCUCsXoMQc/hqdefault.jpg",
         updatedText: "Updated yesterday",
-        videos: ["fJ9rUzIMcZQ", "l482T0yNkeo"]
+        videos: ["DWCUCsXoMQc", "VIdLvHC407c", "xThVr1W1Pnw", "P6ON5damQFE", "WNzrs9L1qFA", "0TqfjNhZHiI", "WlikLWCJBVE", "mD_VcAXrUZw", "9GCpKsdzumk", "NfRBFiaeySY", "-kotvsCL-Cw", "V1bJaBd5X6Y", "0RJBWAXjf_4", "jU8HtTQr4OU", "YkuAwBpzXDs", "wMMi4dqAw7c","nH5zbORU1RI", "U0AzIZr8xdU", "c6z46owVRxY", "rYSLtUh5_FA", "Wxnv4q2ndMQ", "QmK5n2AF61I", "3vBzgjhzDU4", "QAs-4QDgpHE", "7LZh5Uhtz3o", "FTOsKAQXtjc", "5btc3KvVJN0", "eMs3AYc9VNQ", "zsOzfTdSQrQ", "kHxkKshgzGA", "9wAclB37rcU", "CWeubWxS0Yk", "jImlqKEIBaI", "LZv7jqAmVC8"]
+
       },
       {
         id: "PL_orp_math_calc",
@@ -614,7 +1110,7 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         videos: ["V-_O7nl0Ii0", "CevxZvSJLk8"]
       }
     ] 
-  } */
+  } 
 };
 
 // Helper SVG icons as reusable strings for vanilla DOM insertion
