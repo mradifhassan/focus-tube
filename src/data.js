@@ -1376,12 +1376,12 @@ Class: HSC 1st Yea
 Lectured by: Maksudul Hossain Jewel`
       },
       {
-        id: "o7X58xkiXo",
+        id: "-o7X58xkiXo",
         title: "03. Phase Part 01 | দশা পর্ব ০১ | OnnoRokom Pathshala",
         duration: "8:37",
         views: "136K views",
         publishedText: "Mar 22, 2015",
-        thumbnail: "https://i.ytimg.com/vi/o7X58xkiXo/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/-o7X58xkiXo/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]
@@ -1504,9 +1504,9 @@ Lectured by: Maksudul Hossain Jewel`
         id: "Physics_Periodic_Motion_02",
         title: "Physics Periodic Motion (পর্যায়বৃত্ত গতি)",
         videoCount: 12,
-        thumbnail: "https://i.ytimg.com/vi/V-_O7nl0Ii0/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/LVE9SjOd0Hw/hqdefault.jpg",
         updatedText: "Updated 1 week ago",
-        videos: ["LVE9SjOd0Hw", "3u_UKd8iTTE", "Hi6Uo6NQ8Zc", "_uqioK_AnbM", "29RYUx1KUu0", "o7X58xkiXo", "9iWqKmnK3_0", "UhJCLSLHi5M", "bS7SoiY8Gzc", "7B3GW6siIVI", "kB2OYCRCHRA", "9HVn0cLmf3o"]
+        videos: ["LVE9SjOd0Hw", "3u_UKd8iTTE", "Hi6Uo6NQ8Zc", "_uqioK_AnbM", "29RYUx1KUu0", "-o7X58xkiXo", "9iWqKmnK3_0", "UhJCLSLHi5M", "bS7SoiY8Gzc", "7B3GW6siIVI", "kB2OYCRCHRA", "9HVn0cLmf3o"]
       }
     ] 
   } 
