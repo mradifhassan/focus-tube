@@ -1298,6 +1298,189 @@ Topic: General Discussion about Wave
 Class: HSC 1st Year
 Lectured by: Sourov Bijoy`
       },
+
+// Periodic Motion
+      {
+        id: "LVE9SjOd0Hw",
+        title: "01. Periodic Motion | পর্যায়বৃত্ত গতি | OnnoRokom Pathshala",
+        duration: "8:44",
+        views: "370K views",
+        publishedText: "Mar 17, 2015",
+        thumbnail: "https://i.ytimg.com/vi/LVE9SjOd0Hw/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]
+Subject: Physics
+Topic: SHM Part 01
+Class: HSC 1st Yea
+Lectured by: Maksudul Hossain Jewel`
+      },
+      {
+        id: "3u_UKd8iTTE",
+        title: "02. SHM Part 01 | সরল ছন্দিত স্পন্দন পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "15:19",
+        views: "298K views",
+        publishedText: "Mar 17, 2015",
+        thumbnail: "https://i.ytimg.com/vi/3u_UKd8iTTE/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]
+Subject: Physics
+Topic: SHM Part 01
+Class: HSC 1st Yea
+Lectured by: Maksudul Hossain Jewel`
+      },
+      {
+        id: "Hi6Uo6NQ8Zc",
+        title: "02. SHM Part 02 | সরল ছন্দিত স্পন্দন পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "11:13",
+        views: "195K views",
+        publishedText: "Mar 17, 2015",
+        thumbnail: "https://i.ytimg.com/vi/Hi6Uo6NQ8Zc/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]
+Subject: Physics
+Topic: SHM Part 01
+Class: HSC 1st Yea
+Lectured by: Maksudul Hossain Jewel`
+      },
+      {
+        id: "_uqioK_AnbM",
+        title: "02. SHM Part 03 | সরল ছন্দিত স্পন্দন পর্ব ০৩ | OnnoRokom Pathshala",
+        duration: "11:25",
+        views: "163K views",
+        publishedText: "Mar 17, 2015",
+        thumbnail: "https://i.ytimg.com/vi/_uqioK_AnbM/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]
+Subject: Physics
+Topic: SHM Part 01
+Class: HSC 1st Yea
+Lectured by: Maksudul Hossain Jewel`
+      },
+      {
+        id: "29RYUx1KUu0",
+        title: "02. SHM Part 04 | সরল ছন্দিত স্পন্দন পর্ব ০৪ | OnnoRokom Pathshala",
+        duration: "10:14",
+        views: "128K views",
+        publishedText: "Mar 17, 2015",
+        thumbnail: "https://i.ytimg.com/vi/29RYUx1KUu0/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]
+Subject: Physics
+Topic: SHM Part 01
+Class: HSC 1st Yea
+Lectured by: Maksudul Hossain Jewel`
+      },
+      {
+        id: "o7X58xkiXo",
+        title: "03. Phase Part 01 | দশা পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "8:37",
+        views: "136K views",
+        publishedText: "Mar 22, 2015",
+        thumbnail: "https://i.ytimg.com/vi/o7X58xkiXo/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]
+Subject: Physics
+Topic: SHM Part 01
+Class: HSC 1st Yea
+Lectured by: Maksudul Hossain Jewel`
+      },
+      {
+        id: "9iWqKmnK3_0",
+        title: "03. Phase Part 02 | দশা পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "9:30",
+        views: "92K views",
+        publishedText: "Mar 22, 2015",
+        thumbnail: "https://i.ytimg.com/vi/9iWqKmnK3_0/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]
+Subject: Physics
+Topic: SHM Part 01
+Class: HSC 1st Yea
+Lectured by: Maksudul Hossain Jewel`
+      },
+      {
+        id: "UhJCLSLHi5M",
+        title: "03. Phase Part 03 | দশা পর্ব ০৩ | OnnoRokom Pathshala",
+        duration: "13:47",
+        views: "89K views",
+        publishedText: "Mar 22, 2015",
+        thumbnail: "https://i.ytimg.com/vi/UhJCLSLHi5M/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]
+Subject: Physics
+Topic: SHM Part 01
+Class: HSC 1st Yea
+Lectured by: Maksudul Hossain Jewel`
+      },
+      {
+        id: "bS7SoiY8Gzc",
+        title: "03. Phase Part 04 | দশা পর্ব ০৪ | OnnoRokom Pathshala",
+        duration: "10:17",
+        views: "80K views",
+        publishedText: "Mar 22, 2015",
+        thumbnail: "https://i.ytimg.com/vi/bS7SoiY8Gzc/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]
+Subject: Physics
+Topic: SHM Part 01
+Class: HSC 1st Yea
+Lectured by: Maksudul Hossain Jewel`
+      },
+      {
+        id: "7B3GW6siIVI",
+        title: "04. SHM Differential Equation Part 01 | সরল ছন্দিত স্পন্দনের অন্তরক সমীকরণ পর্ব ০১",
+        duration: "8:30",
+        views: "94K views",
+        publishedText: "Mar 25, 2015",
+        thumbnail: "https://i.ytimg.com/vi/7B3GW6siIVI/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]
+Subject: Physics
+Topic: SHM Part 01
+Class: HSC 1st Yea
+Lectured by: Maksudul Hossain Jewel`
+      },
+      {
+        id: "kB2OYCRCHRA",
+        title: "04. SHM Differential Equation Part 02 | সরল ছন্দিত স্পন্দনের অন্তরক সমীকরণ পর্ব ০২",
+        duration: "15:07",
+        views: "111K views",
+        publishedText: "Mar 25, 2015",
+        thumbnail: "https://i.ytimg.com/vi/kB2OYCRCHRA/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]
+Subject: Physics
+Topic: SHM Part 01
+Class: HSC 1st Yea
+Lectured by: Maksudul Hossain Jewel`
+      },
+      {
+        id: "9HVn0cLmf3o",
+        title: "05. SHM Practical Application | সরল ছন্দিত স্পন্দনের বাস্তব প্রয়োগ | OnnoRokom Pathshala",
+        duration: "10:17",
+        views: "87K views",
+        publishedText: "Mar 25, 2015",
+        thumbnail: "https://i.ytimg.com/vi/9HVn0cLmf3o/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]
+Subject: Physics
+Topic: SHM Part 01
+Class: HSC 1st Yea
+Lectured by: Maksudul Hossain Jewel`
+      }
+
     ],
     playlists: [
       {
