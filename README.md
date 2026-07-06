@@ -11,6 +11,5 @@ To bridge this gap, I created this static platform: a dedicated, clutter-free sp
 This is my small initiative to streamline your preparation for the HSC curriculum. By removing the noise of traditional social media, you can fully immerse yourself in your studies. To start, I have curated and integrated resources from two of the finest channels available, delivering top-tier educational content across Physics, Chemistry, Mathematics, and Biology (PCMB).
 ## Your education deserves your undivided attention. Welcome, and happy learning!
 
-site: <a href="https://mradifhassan.github.io/focus-tube">mradifhassan.github.io/focus-tube</a>
 
 
