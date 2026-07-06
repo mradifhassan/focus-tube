@@ -1479,6 +1479,52 @@ Subject: Physics
 Topic: SHM Part 01
 Class: HSC 1st Yea
 Lectured by: Maksudul Hossain Jewel`
+      },
+// Thermodynamics
+      {
+        id: "63P4qKc3V8w",
+        title: "01. General Discussion about Thermodynamics | তাপ গতিবিদ্যার সাধারণ আলোচনা",
+        duration: "4:03",
+        views: "302K views",
+        publishedText: "Jul 15, 2017 ",
+        thumbnail: "https://i.ytimg.com/vi/63P4qKc3V8w/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala
+Lecture: Thermodynamics
+Subject: Physics
+Class: HSC 2nd Year
+Lectured by: Sourov Bijoy`
+      },
+      {
+        id: "pJUHbfe-t74",
+        title: "02. Temperature Scale | তাপমাত্রার স্কেল | OnnoRokom Pathshala",
+        duration: "8:02",
+        views: "199K views",
+        publishedText: "Jul 22, 2017 ",
+        thumbnail: "https://i.ytimg.com/vi/pJUHbfe-t74/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala
+Lecture: Thermodynamics
+Subject: Physics
+Class: HSC 2nd Year
+Lectured by: Sourov Bijoy`
+      },
+      {
+        id: "Jfcff-LpDcI",
+        title: "03. Relation Between Different Temperature Scales | বিভিন্ন তাপমাত্রার স্কেলের মধ্যে সম্পর্ক",
+        duration: "4:03",
+        views: "178K views",
+        publishedText: "Jul 30, 2017 ",
+        thumbnail: "https://i.ytimg.com/vi/Jfcff-LpDcI/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala
+Lecture: Thermodynamics
+Subject: Physics
+Class: HSC 2nd Year
+Lectured by: Sourov Bijoy`
       }
 
     ],
@@ -1507,7 +1553,15 @@ Lectured by: Maksudul Hossain Jewel`
         thumbnail: "https://i.ytimg.com/vi/LVE9SjOd0Hw/hqdefault.jpg",
         updatedText: "Updated 1 week ago",
         videos: ["LVE9SjOd0Hw", "3u_UKd8iTTE", "Hi6Uo6NQ8Zc", "_uqioK_AnbM", "29RYUx1KUu0", "-o7X58xkiXo", "9iWqKmnK3_0", "UhJCLSLHi5M", "bS7SoiY8Gzc", "7B3GW6siIVI", "kB2OYCRCHRA", "9HVn0cLmf3o"]
-      }
+      },
+{
+        id: "Physics_Thermodynamics_03",
+        title: "Physics Thermodynamics (তাপগতিবিদ্যা)",
+        videoCount: 3,
+        thumbnail: "https://i.ytimg.com/vi/LVE9SjOd0Hw/hqdefault.jpg",
+        updatedText: "Updated 1 week ago",
+        videos: ["63P4qKc3V8w", "pJUHbfe-t74", "Jfcff-LpDcI"]
+      },
     ] 
   } 
 };
