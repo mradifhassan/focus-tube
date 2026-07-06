@@ -1558,7 +1558,7 @@ Lectured by: Sourov Bijoy`
         id: "Physics_Thermodynamics_03",
         title: "Physics Thermodynamics (তাপগতিবিদ্যা)",
         videoCount: 3,
-        thumbnail: "https://i.ytimg.com/vi/LVE9SjOd0Hw/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/63P4qKc3V8w/hqdefault.jpg",
         updatedText: "Updated 1 week ago",
         videos: ["63P4qKc3V8w", "pJUHbfe-t74", "Jfcff-LpDcI"]
       },
