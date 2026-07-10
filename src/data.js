@@ -1528,6 +1528,16 @@ Don't forget to like, share, and subscribe for more IB Physics tutorials. Click 
         description: `8.01x - MIT Help Sessions
 SHO - Angular Frequency vs  Angular Velocity.`
       },
+      {
+        id: "MZ5eKUlO2fU",
+        title: "My Million$ Video - Angular Velocity vs Angular Frequency - it's a MUST",
+        duration: "12:01",
+        views: "86K",
+        publishedText: "Nov 17, 2017",
+        thumbnail: "https://i.ytimg.com/vi/MZ5eKUlO2fU/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        description: `My Million$ Video - Angular Velocity vs Angular Frequency - it's a MUST`
+      },
 // Thermodynamics
       {
         id: "63P4qKc3V8w",
@@ -1600,7 +1610,7 @@ Lectured by: Sourov Bijoy`
         videoCount: 12,
         thumbnail: "https://i.ytimg.com/vi/LVE9SjOd0Hw/hqdefault.jpg",
         updatedText: "Updated 1 week ago",
-        videos: ["LVE9SjOd0Hw", "3u_UKd8iTTE", "Hi6Uo6NQ8Zc", "_uqioK_AnbM", "29RYUx1KUu0", "-o7X58xkiXo", "9iWqKmnK3_0", "UhJCLSLHi5M", "bS7SoiY8Gzc", "7B3GW6siIVI", "kB2OYCRCHRA", "9HVn0cLmf3o", "s5q3Ozq8Yg0", "s5q3Ozq8Yg0"]
+        videos: ["LVE9SjOd0Hw", "3u_UKd8iTTE", "Hi6Uo6NQ8Zc", "_uqioK_AnbM", "29RYUx1KUu0", "-o7X58xkiXo", "9iWqKmnK3_0", "UhJCLSLHi5M", "bS7SoiY8Gzc", "7B3GW6siIVI", "kB2OYCRCHRA", "9HVn0cLmf3o", "s5q3Ozq8Yg0", "s5q3Ozq8Yg0", "MZ5eKUlO2fU"]
       },
 {
         id: "Physics_Thermodynamics_03",
