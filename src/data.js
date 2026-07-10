@@ -1610,7 +1610,7 @@ Lectured by: Sourov Bijoy`
         videoCount: 12,
         thumbnail: "https://i.ytimg.com/vi/LVE9SjOd0Hw/hqdefault.jpg",
         updatedText: "Updated 1 week ago",
-        videos: ["LVE9SjOd0Hw", "3u_UKd8iTTE", "Hi6Uo6NQ8Zc", "_uqioK_AnbM", "29RYUx1KUu0", "-o7X58xkiXo", "9iWqKmnK3_0", "UhJCLSLHi5M", "bS7SoiY8Gzc", "7B3GW6siIVI", "kB2OYCRCHRA", "9HVn0cLmf3o", "s5q3Ozq8Yg0", "s5q3Ozq8Yg0", "MZ5eKUlO2fU"]
+        videos: ["LVE9SjOd0Hw", "3u_UKd8iTTE", "Hi6Uo6NQ8Zc", "_uqioK_AnbM", "29RYUx1KUu0", "-o7X58xkiXo", "9iWqKmnK3_0", "UhJCLSLHi5M", "bS7SoiY8Gzc", "7B3GW6siIVI", "kB2OYCRCHRA", "9HVn0cLmf3o", "wIgWv1KexOU", "s5q3Ozq8Yg0", "MZ5eKUlO2fU"]
       },
 {
         id: "Physics_Thermodynamics_03",
