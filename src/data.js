@@ -4,6 +4,11 @@
  * Strictly adheres to vanilla ES6 JavaScript (No .ts/.tsx).
  */
 
+import { publicDecrypt } from "crypto";
+import { channel } from "diagnostics_channel";
+import { view } from "motion/react-client";
+import { title } from "process";
+
 // ============================================================================
 // USER CONFIGURATION: PINNED & SUBSCRIBED CHANNELS
 // Users or developers can write/edit channel links directly here in the main codebase.
@@ -1479,6 +1484,49 @@ Subject: Physics
 Topic: SHM Part 01
 Class: HSC 1st Yea
 Lectured by: Maksudul Hossain Jewel`
+      },
+      {
+        id: "wIgWv1KexOU",
+        title: "IBDP Physics. Simple Harmonic Motion- Visually explained . Part 1.",
+        duration: "9:08",
+        views: "13K",
+        publishedText: "Mar 27, 2025",
+        thumbnail: "https://i.ytimg.com/vi/wIgWv1KexOU/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        description: `Welcome to the first video of our IB Physics video series! In this video, we explore Simple Harmonic Motion (SHM)—a fundamental topic in IB DP Physics. Discover the key concepts behind oscillatory motion, including the restoring force  F=−kx, equilibrium, and energy conservation in oscillating systems. Whether you're studying for your IB exams or simply passionate about physics, this video provides clear, step-by-step explanations and real-world examples of SHM in action.
+
+In This Video, You Will Learn:
+
+What Simple Harmonic Motion is and why it's important in IB Physics
+The physics behind oscillations: pendulums, spring-mass systems, and more
+How to derive and use the key formula 
+F=−kx
+Tips and problem-solving strategies for mastering SHM concepts
+For additional resources and detailed notes: yasirsphysics@gmail.com
+
+Don't forget to like, share, and subscribe for more IB Physics tutorials. Click the bell icon to get notified when Part 2 is released!
+
+#IBPhysics #SimpleHarmonicMotion #IBDP #Oscillations #PhysicsTutorial
+
+00:00 - Simple Harmonic Motion,  Nature Loves it
+00:43 - Two Important conditions, F= -Kx
+04:06 - Checkpoint!
+04:47 - Acceleration and Angular frequency
+06:16- Summary
+06:42- Amplitude, Time Period, Frequency
+08:24 - Homework
+08:58 - Next week, energy and pendulums`
+      },
+      {
+        id: "s5q3Ozq8Yg0",
+        title: "8.01x - Module 15.08 - SHO Angular Frequency vs Angular Velocity.",
+        duration: "4:05",
+        views: "5.1K",
+        publishedText: "Feb 16, 2015",
+        thumbnail: "https://i.ytimg.com/vi/s5q3Ozq8Yg0/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        description: `8.01x - MIT Help Sessions
+SHO - Angular Frequency vs  Angular Velocity.`
       },
 // Thermodynamics
       {
