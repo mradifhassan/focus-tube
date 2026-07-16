@@ -60,8 +60,6 @@ export const BUILTIN_CATALOG = {
         id: "Zz_fOmRFN88",
         title: "গুণগত রসায়ন (Qualitative Chemistry)। All in One",
         duration: "11:26:49",
-        views: "577K views",
-        publishedText: "Dec 16, 2024",
         thumbnail: "https://i.ytimg.com/vi/Zz_fOmRFN88/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -75,8 +73,6 @@ class note: https://drive.google.com/file/d/16wY0SoSXwaKSVtGFUIbJW5G56KaR0O3A/vi
         id: "H83W_HTlzlc",
         title: "রাসায়নিক পরিবর্তন (Chemical Change)। All in One",
         duration: "7:25:49",
-        views: "373K views",
-        publishedText: "Aug 16, 2024",
         thumbnail: "https://i.ytimg.com/vi/H83W_HTlzlc/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -90,8 +86,6 @@ class note: https://drive.google.com/drive/folders/16V382ng4SguwD9JqwAxmxGBTIEDc
         id: "zLC6TKypyjU",
         title: "পরিমাণগত রসায়ন (Quantitative Chemistry)। All in One",
         duration: "8:03:16",
-        views: "349K views",
-        publishedText: "Aug 30, 2024",
         thumbnail: "https://i.ytimg.com/vi/zLC6TKypyjU/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -105,8 +99,6 @@ class note: https://drive.google.com/drive/folders/1MYuC1EMSIGTWpa74nSDaDh4lXttN
         id: "lJoeZDLsU64",
         title: "তড়িৎ রসায়ন (Electro Chemistry)। All in One",
         duration: "8:19:38",
-        views: "291K views",
-        publishedText: "Oct 3, 2024",
         thumbnail: "https://i.ytimg.com/vi/lJoeZDLsU64/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -120,8 +112,6 @@ class note: https://drive.google.com/drive/folders/1ujmqkJaBXMsNReYcWWDSBjLzbR8P
         id: "kokKBsLZOk8",
         title: "HSC 27: গুণগত রসায়ন। Mission Year Final. Qualitative Chemistry",
         duration: "4:34:19",
-        views: "19K views",
-        publishedText: "May 24, 2026",
         thumbnail: "https://i.ytimg.com/vi/kokKBsLZOk8/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -138,8 +128,6 @@ fb page
         id: "CCkzzRQuTao",
         title: "HSC 27: মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন । Mission Year Final: Periodic Properties and Bonds",
         duration: "4:02:47",
-        views: "17K views",
-        publishedText: "May 26, 2026",
         thumbnail: "https://i.ytimg.com/vi/CCkzzRQuTao/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -155,8 +143,6 @@ fb page
         id: "jRT3nJSi2XA",
         title: "কর্মমূখী রসায়ন (Vocational Chemistry)। All in One",
         duration: "1:37:01",
-        views: "211K views",
-        publishedText: "Aug 12, 2024",
         thumbnail: "https://i.ytimg.com/vi/jRT3nJSi2XA/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -169,8 +155,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "I9qN6pCzqeU",
         title: "HSC Foundation: একক রূপান্তর (Unit Conversion)",
         duration: "33:56",
-        views: "46K views",
-        publishedText: "May 29, 2023",
         thumbnail: "https://i.ytimg.com/vi/I9qN6pCzqeU/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -182,8 +166,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "RQycfd6ADlQ",
         title: "HSC Foundation: SI, CGS, FPS, MKS System (একক পদ্ধতি)",
         duration: "15:53",
-        views: "33K views",
-        publishedText: "May 30, 2023",
         thumbnail: "https://i.ytimg.com/vi/RQycfd6ADlQ/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -195,8 +177,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "fVYWwJNtxrY",
         title: "HSC Foundation: Application of Units in Equation (সমীকরণে একক বসানোর নিয়ম)",
         duration: "10:49",
-        views: "8K views",
-        publishedText: "May 31, 2023",
         thumbnail: "https://i.ytimg.com/vi/fVYWwJNtxrY/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -209,8 +189,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "iwA47iju5n8",
         title: "HSC Foundation: Molar Mass vs Atomic Mass vs Molecular Mass(মোলার ভর vs পারমাণবিক ভর vs আণবিক ভর)",
         duration: "13:45",
-        views: "12K views",
-        publishedText: "May 30, 2023",
         thumbnail: "https://i.ytimg.com/vi/iwA47iju5n8/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -222,8 +200,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "7AlCvxOKoSE",
         title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
         duration: "9:38",
-        views: "5.8K views",
-        publishedText: "Jun 2, 2023",
         thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -235,8 +211,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "kRnXF7BP-_8",
         title: "Organic Conversion (Aliphatic)। অর্গানিক কনভার্সন (অ্যালিফ্যাটিক)",
         duration: "41:40",
-        views: "43K views",
-        publishedText: "Apr 17, 2023",
         thumbnail: "https://i.ytimg.com/vi/kRnXF7BP-_8/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -250,8 +224,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "RAKLOaEjfrY",
         title: "Organic Conversion (Aromatic)। অর্গানিক কনভার্সন (অ্যারোমেটিক)",
         duration: "1:02:57",
-        views: "16K views",
-        publishedText: "May 1, 2023",
         thumbnail: "https://i.ytimg.com/vi/RAKLOaEjfrY/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -265,8 +237,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "5UZ60arP1qo",
         title: "01. Introduction to Organic Chemistry (জৈব রসায়নের সূচনা ও ইতিহাস) । জৈব রসায়ন | Basic to Admission",
         duration: "1:23:37",
-        views: "52K views",
-        publishedText: "Mar 10, 2023",
         thumbnail: "https://i.ytimg.com/vi/5UZ60arP1qo/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -278,8 +248,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "ULkubqXJo02",
         title: "02. Homologous Series (সমগোত্রীয় শ্রেণি) । জৈব রসায়ন | Basic to Admission",
         duration: "1:40:33",
-        views: "25K views",
-        publishedText: "Mar 18, 2025",
         thumbnail: "https://i.ytimg.com/vi/ULkubqXJoFE/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -291,8 +259,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "cS2kG4S7r2M",
         title: "03. Nomenclature 01 (জৈব যৌগের নামকরণ-01) । জৈব রসায়ন | Basic to Admission",
         duration: "1:56:21",
-        views: "26K views",
-        publishedText: "Mar 25, 2023",
         thumbnail: "https://i.ytimg.com/vi/cS2kG4S7r2M/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -304,8 +270,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "7AlCvxOKoSE",
         title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
         duration: "9:38",
-        views: "5.8K views",
-        publishedText: "Jun 2, 2023",
         thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -317,8 +281,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "7AlCvxOKoSE",
         title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
         duration: "9:38",
-        views: "5.8K views",
-        publishedText: "Jun 2, 2023",
         thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -330,8 +292,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "7AlCvxOKoSE",
         title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
         duration: "9:38",
-        views: "5.8K views",
-        publishedText: "Jun 2, 2023",
         thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -343,8 +303,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "7AlCvxOKoSE",
         title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
         duration: "9:38",
-        views: "5.8K views",
-        publishedText: "Jun 2, 2023",
         thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -356,8 +314,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "7AlCvxOKoSE",
         title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
         duration: "9:38",
-        views: "5.8K views",
-        publishedText: "Jun 2, 2023",
         thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -369,8 +325,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "7AlCvxOKoSE",
         title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
         duration: "9:38",
-        views: "5.8K views",
-        publishedText: "Jun 2, 2023",
         thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -382,8 +336,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "7AlCvxOKoSE",
         title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
         duration: "9:38",
-        views: "5.8K views",
-        publishedText: "Jun 2, 2023",
         thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -395,8 +347,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "7AlCvxOKoSE",
         title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
         duration: "9:38",
-        views: "5.8K views",
-        publishedText: "Jun 2, 2023",
         thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -408,8 +358,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "7AlCvxOKoSE",
         title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
         duration: "9:38",
-        views: "5.8K views",
-        publishedText: "Jun 2, 2023",
         thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -421,8 +369,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "7AlCvxOKoSE",
         title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
         duration: "9:38",
-        views: "5.8K views",
-        publishedText: "Jun 2, 2023",
         thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -434,8 +380,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "7AlCvxOKoSE",
         title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
         duration: "9:38",
-        views: "5.8K views",
-        publishedText: "Jun 2, 2023",
         thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -447,8 +391,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "7AlCvxOKoSE",
         title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
         duration: "9:38",
-        views: "5.8K views",
-        publishedText: "Jun 2, 2023",
         thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -460,8 +402,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "7AlCvxOKoSE",
         title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
         duration: "9:38",
-        views: "5.8K views",
-        publishedText: "Jun 2, 2023",
         thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -473,8 +413,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "7AlCvxOKoSE",
         title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
         duration: "9:38",
-        views: "5.8K views",
-        publishedText: "Jun 2, 2023",
         thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -486,8 +424,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "7AlCvxOKoSE",
         title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
         duration: "9:38",
-        views: "5.8K views",
-        publishedText: "Jun 2, 2023",
         thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
         channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
         channelName: "আলকেমি (Alchemy)",
@@ -532,8 +468,6 @@ class notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/v
         id: "DWCUCsXoMQc",
         title: "01. Continuous & Discontinuous Function | Continuous and Discontinuous Function",
         duration: "6:11",
-        views: "520K views",
-        publishedText: "May 1, 2016",
         thumbnail: "https://i.ytimg.com/vi/DWCUCsXoMQc/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -548,8 +482,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "VIdLvHC407c",
         title: "02. Existence of Limit | লিমিটের অস্তিত্ব | OnnoRokom Pathshala",
         duration: "8:11",
-        views: "181K views",
-        publishedText: "May 1, 2016",
         thumbnail: "https://i.ytimg.com/vi/VIdLvHC407c/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -564,8 +496,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "xThVr1W1Pnw",
         title: "03. Infinite Limit | Infinite Limit | OnnoRokom Pathshala",
         duration: "13:12",
-        views: "520K views",
-        publishedText: "May 1, 2016",
         thumbnail: "https://i.ytimg.com/vi/xThVr1W1Pnw/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -580,8 +510,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "P6ON5damQFE",
         title: "04. Series Type | Series Type | OnnoRokom Pathshala",
         duration: "5:39",
-        views: "124K views",
-        publishedText: "May 1, 2016",
         thumbnail: "https://i.ytimg.com/vi/P6ON5damQFE/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -596,8 +524,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "WNzrs9L1qFA",
         title: "05. Exponential | Exponential | OnnoRokom Pathshala",
         duration: "6:30",
-        views: "116K views",
-        publishedText: "May 1, 2016",
         thumbnail: "https://i.ytimg.com/vi/WNzrs9L1qFA/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -612,8 +538,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "0TqfjNhZHiI",
         title: "06. Trigonometric Function Part 01 | ত্রিকোণমিতিক ফাংশন পর্ব ০১ | OnnoRokom Pathshala",
         duration: "13:53",
-        views: "105K views",
-        publishedText: "May 2, 2016",
         thumbnail: "https://i.ytimg.com/vi/0TqfjNhZHiI/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -628,8 +552,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "WlikLWCJBVE",
         title: "06. Trigonometric Function Part 02 | ত্রিকোণমিতিক ফাংশন পর্ব ০২ | OnnoRokom Pathshala",
         duration: "12:34",
-        views: "98K views",
-        publishedText: "May 2, 2016",
         thumbnail: "https://i.ytimg.com/vi/WlikLWCJBVE/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -644,8 +566,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "mD_VcAXrUZw",
         title: "06. Trigonometric Function Part 03 | ত্রিকোণমিতিক ফাংশন পর্ব ০৩ | OnnoRokom Pathshala",
         duration: "10:02",
-        views: "81K views",
-        publishedText: "May 2, 2016",
         thumbnail: "https://i.ytimg.com/vi/mD_VcAXrUZw/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -660,8 +580,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "9GCpKsdzumk",
         title: "07. L'Hospital Rule Part 01 | লা-হসপিটাল রুল পর্ব ০১ | OnnoRokom Pathshala",
         duration: "14:25",
-        views: "168K views",
-        publishedText: "May 2, 2016",
         thumbnail: "https://i.ytimg.com/vi/9GCpKsdzumk/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -676,8 +594,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "NfRBFiaeySY",
         title: "07. L'Hospital Rule Part 02 | La-Hospital Rule Part 02 | OnnoRokom Pathshala",
         duration: "9:24",
-        views: "520K views",
-        publishedText: "May 1, 2016",
         thumbnail: "https://i.ytimg.com/vi/NfRBFiaeySY/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -692,8 +608,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "-kotvsCL-Cw",
         title: "08. Continuity | Inseparability | OnnoRokom Pathshala",
         duration: "18:10",
-        views: "281K views",
-        publishedText: "May 2, 2016",
         thumbnail: "https://i.ytimg.com/vi/-kotvsCL-Cw/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -708,8 +622,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "V1bJaBd5X6Y",
         title: "01. Differentiation Coefficient | অন্তরক সহগ | OnnoRokom Pathshala",
         duration: "8:13",
-        views: "368K views",
-        publishedText: "May 4, 2016",
         thumbnail: "https://i.ytimg.com/vi/V1bJaBd5X6Y/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -724,8 +636,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "0RJBWAXjf_4",
         title: "02. Proving the Formula for Integrating in the Basic Rule Part 01 | OnnoRokom Pathshala",
         duration: "13:51",
-        views: "285K views",
-        publishedText: "May 5, 2016",
         thumbnail: "https://i.ytimg.com/vi/0RJBWAXjf_4/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -740,8 +650,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "jU8HtTQr4OU",
         title: "02. মূল নিয়মে অন্তরীকরণের সূত্র প্রতিপাদন পর্ব ০২ | OnnoRokom Pathshala",
         duration: "17:46",
-        views: "151K views",
-        publishedText: "May 5, 2016",
         thumbnail: "https://i.ytimg.com/vi/jU8HtTQr4OU/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -756,8 +664,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "YkuAwBpzXDs",
         title: "03. Determination of Differentiation Coefficient | Determination of Differentiation Coefficient |...",
         duration: "7:20",
-        views: "139K views",
-        publishedText: "May 5, 2016",
         thumbnail: "https://i.ytimg.com/vi/YkuAwBpzXDs/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -772,8 +678,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "wMMi4dqAw7c",
         title: "04. Differentiation of (uv) | Proving U.V. | OnnoRokom Pathshala",
         duration: "9:38",
-        views: "115K views",
-        publishedText: "May 5, 2016",
         thumbnail: "https://i.ytimg.com/vi/wMMi4dqAw7c/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -788,8 +692,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "nH5zbORU1RI",
         title: "05. Differentiation of u by v | ইউ/ভি এর অন্তরীকরণ | OnnoRokom Pathshala",
         duration: "9:25",
-        views: "90K views",
-        publishedText: "May 7, 2016",
         thumbnail: "https://i.ytimg.com/vi/nH5zbORU1RI/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -805,8 +707,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "U0AzIZr8xdU",
         title: "06. Chain Rule Part 01 | চেইন রূল পর্ব ০১ | OnnoRokom Pathshala",
         duration: "12:35",
-        views: "145K views",
-        publishedText: "May 7, 2016",
         thumbnail: "https://i.ytimg.com/vi/U0AzIZr8xdU/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -822,8 +722,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "c6z46owVRxY",
         title: "06. Chain Rule Part 02 | চেইন রূল পর্ব ০২ | OnnoRokom Pathshala",
         duration: "9:29",
-        views: "99K views",
-        publishedText: "May 7, 2016",
         thumbnail: "https://i.ytimg.com/vi/c6z46owVRxY/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -839,8 +737,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "rYSLtUh5_FA",
         title: "07. Inverse Circular Function | Inverse Circular Function | OnnoRokom Pathshala",
         duration: "7:20",
-        views: "100K views",
-        publishedText: "May 7, 2016",
         thumbnail: "https://i.ytimg.com/vi/rYSLtUh5_FA/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -856,8 +752,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "Wxnv4q2ndMQ",
         title: "08. Differentiation after Substitution | OnnoRokom Pathshala",
         duration: "7:41",
-        views: "99K views",
-        publishedText: "May 7, 2016",
         thumbnail: "https://i.ytimg.com/vi/Wxnv4q2ndMQ/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -873,8 +767,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "QmK5n2AF61I",
         title: "09. Particular Type Differentiation Part 01 | Particular Type Differentiation Part 01",
         duration: "11:17",
-        views: "107K views",
-        publishedText: "May 7, 2016",
         thumbnail: "https://i.ytimg.com/vi/QmK5n2AF61I/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -890,8 +782,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "3vBzgjhzDU4",
         title: "09. Particular Type Differentiation Part 02 | পার্টিকুলার টাইপ অনতরীকরণ পর্ব ০২",
         duration: "9:39",
-        views: "96K views",
-        publishedText: "May 7, 2016",
         thumbnail: "https://i.ytimg.com/vi/3vBzgjhzDU4/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -907,8 +797,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "QAs-4QDgpHE",
         title: "10. প্যারামেত্রিক ফাংশন এবং ফাংশনের সাপেক্ষে ফাংশনের অন্তরীকরণ | OnnoRokom Pathshala",
         duration: "8:18",
-        views: "99K views",
-        publishedText: "May 7, 2016",
         thumbnail: "https://i.ytimg.com/vi/QAs-4QDgpHE/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -924,8 +812,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "7LZh5Uhtz3o",
         title: "01. n-th derivative Part 01 | এন তম অন্তরক পর্ব ০১ | OnnoRokom Pathshala",
         duration: "12:10",
-        views: "144K views",
-        publishedText: "May 8, 2016",
         thumbnail: "https://i.ytimg.com/vi/7LZh5Uhtz3o/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -941,8 +827,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "FTOsKAQXtjc",
         title: "01. n-th derivative Part 02 | এন তম অন্তরক পর্ব ০২ | OnnoRokom Pathshala",
         duration: "16:26",
-        views: "76K views",
-        publishedText: "May 8, 2016",
         thumbnail: "https://i.ytimg.com/vi/FTOsKAQXtjc/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -958,8 +842,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "5btc3KvVJN0",
         title: "01. n-th derivative Part 03 | এন তম অন্তরক পর্ব ০৩ | OnnoRokom Pathshala",
         duration: "17:01",
-        views: "63K views",
-        publishedText: "May 8, 2016",
         thumbnail: "https://i.ytimg.com/vi/5btc3KvVJN0/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -975,8 +857,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "eMs3AYc9VNQ",
         title: "02. Tangent & Perpendicular Part 01 | স্পর্শক ও অভিলম্ব পর্ব ০১ | OnnoRokom Pathshala",
         duration: "13:56",
-        views: "95K views",
-        publishedText: "May 9, 2016",
         thumbnail: "https://i.ytimg.com/vi/eMs3AYc9VNQ/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -992,8 +872,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "zsOzfTdSQrQ",
         title: "02. Tangent & Perpendicular Part 02 | স্পর্শক ও অভিলম্ব পর্ব ০২ | OnnoRokom Pathshala",
         duration: "10:32",
-        views: "64K views",
-        publishedText: "May 9, 2016",
         thumbnail: "https://i.ytimg.com/vi/zsOzfTdSQrQ/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1009,8 +887,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "kHxkKshgzGA",
         title: "02. Tangent & Perpendicular Part 03 | Tangent & Perpendicular Part 03 | OnnoRokom Pathshala",
         duration: "15:25",
-        views: "55K views",
-        publishedText: "May 9, 2016",
         thumbnail: "https://i.ytimg.com/vi/kHxkKshgzGA/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1026,8 +902,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "9wAclB37rcU",
         title: "03. Maxima & Minima Part 01 | Guruman Laguman Part 01 | OnnoRokom Pathshala",
         duration: "12:05",
-        views: "140K views",
-        publishedText: "May 9, 2016",
         thumbnail: "https://i.ytimg.com/vi/9wAclB37rcU/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1043,8 +917,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "CWeubWxS0Yk",
         title: "03. Maxima & Minima Part 02 | গুরুমান লগুমান পর্ব ০২ | OnnoRokom Pathshala",
         duration: "11:38",
-        views: "95K views",
-        publishedText: "May 9, 2016",
         thumbnail: "https://i.ytimg.com/vi/CWeubWxS0Yk/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1060,8 +932,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "jImlqKEIBaI",
         title: "03. Maxima & Minima Part 03 | গুরুমান লগুমান পর্ব ০৩ | OnnoRokom Pathshala",
         duration: "11:49",
-        views: "66K views",
-        publishedText: "May 9, 2016",
         thumbnail: "https://i.ytimg.com/vi/jImlqKEIBaI/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1077,8 +947,6 @@ Lectured by: Ashikuzzaman Rasel`
         id: "LZv7jqAmVC8",
         title: "03. Maxima & Minima Part 04 | গুরুমান লগুমান পর্ব ০৪ | OnnoRokom Pathshala",
         duration: "5:21",
-        views: "51K views",
-        publishedText: "May 9, 2016",
         thumbnail: "https://i.ytimg.com/vi/LZv7jqAmVC8/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1090,13 +958,617 @@ Class: HSC 1st Year
 Lectured by: Ashikuzzaman Rasel`
      },
 // Physics
+// Newtonian Mechanics
+{
+        id: "jgsnZoZ-hVg",
+        title: "01. Newton's 1st law Part 01 | নিউটনের প্রথম সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "8:18",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "idxuC5TzCgU",
+        title: "01. Newton's 1st law Part 02 | নিউটনের প্রথম সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "15:16",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "Fl822BDrcN0",
+        title: "01. Newton's 1st law Part 03 | নিউটনের প্রথম সূত্র পর্ব ০৩ | OnnoRokom Pathshala",
+        duration: "12:10",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "tsEpmGRwwFw",
+        title: "01. Newton's 1st law Part 04 | নিউটনের প্রথম সূত্র পর্ব ০৪ | OnnoRokom Pathshala",
+        duration: "14:07",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "wCc3e1LE9-s",
+        title: "01. Newton's 1st law Part 05 | নিউটনের প্রথম সূত্র পর্ব ০৫ | OnnoRokom Pathshala",
+        duration: "8:52",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "GVoQGv5V-8w",
+        title: "02. Newton's 2nd law Part 01 | নিউটনের দ্বিতীয় সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "12:56",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "VlSByMqhQGM",
+        title: "02. Newton's 2nd law Part 02 | নিউটনের দ্বিতীয় সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "14:53",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "oJogS-Kv-4w",
+        title: "02. Newton's 2nd law Part 03 | নিউটনের দ্বিতীয় সূত্র পর্ব ০৩ | OnnoRokom Pathshala",
+        duration: "12:49",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "DkT9szIPS-w", 
+        title: "02. Newton's 2nd law Part 04 | নিউটনের দ্বিতীয় সূত্র পর্ব ০৪ | OnnoRokom Pathshala",
+        duration: "11:03",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "vrfc3GebITQ",
+        title: "02. Newton's 2nd law Part 05 | নিউটনের দ্বিতীয় সূত্র পর্ব ০৫ | OnnoRokom Pathshala",
+        duration: "10:44",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "PlpNd6zcSeU",
+        title: "03. Newton's 3rd law Part 01 | নিউটনের তৃতীয় সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "15:51",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "U9QRfxy22yM",
+        title: "03. Newton's 3rd law Part 02 | নিউটনের তৃতীয় সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "5:59",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "j1x4niLVbYQ",
+        title: "01. Center of Gravity Part 01 | ভরকেন্দ্র পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "13:07",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "PfSONKumv2A",
+        title: "01. Center of Gravity Part 02 | ভরকেন্দ্র পর্ব ০২ | OnnoRokom Pathshala ",
+        duration: "15:59",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "Vu1y7BuOIh0",
+        title: "01. Center of Gravity Part 03 | ভরকেন্দ্র পর্ব ০৩ | OnnoRokom Pathshala",
+        duration: "13:56",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "Op6xiICaoOo",
+        title: "01. Center of Gravity Part 04 | ভরকেন্দ্র পর্ব ০৪ | OnnoRokom Pathshala",
+        duration: "13:56",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "RrstMhs1oPg",
+        title: "01. Center of Gravity Part 05 | ভরকেন্দ্র পর্ব ০৫ | OnnoRokom Pathshala",
+        duration: "12 :18", 
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "JF_BD5zSxPw",
+        title: "02. Conservation of Momentum Basic Part 01 | ভরবেগের সংরক্ষণশীলতা পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "12:45",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "qOtMqwZpTrM",
+        title: "02. Conservation of Momentum Basic Part 02 | ভরবেগের সংরক্ষণশীলতা পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "17:03",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "dlEh1U1ei5I",
+        title: "02. Conservation of Momentum Basic Part 03 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৩ | OnnoRokom Pathshala",
+        duration: "18:02",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "dlEh1U1ei5I",
+        title: "02. Conservation of Momentum Basic Part 04 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৪ | OnnoRokom Pathshala",
+        duration: "11:52",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "ZbvpldoW8w",
+        title: "02. Conservation of Momentum Basic Part 05 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৫ | OnnoRokom Pathshala",
+        duration: "17:16",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "SE5bmqIBjZY",
+        title: "02. Conservation of Momentum Basic Part 06 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৬ | OnnoRokom Pathshala",
+        duration: "10:57",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "hsO2bC-GQXk",
+        title: "02. Conservation of Momentum Basic Part 07 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৭ | OnnoRokom Pathshala",
+        duration: "9:08",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "j8H4WyxAKxI",
+        title: "01. Conservation of Momentum Part 01 | ভরবেগের সংরক্ষণশীলতা পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "15:51",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "LHZ1WA34bgg",
+        title: "01. Conservation of Momentum Part 02 | ভরবেগের সংরক্ষণশীলতা পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "15:35",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "sPjboJPiV7Y",
+        title: "02. Conservation of Kinetic Energy Part 01 | গতিশক্তির সংরক্ষণশীলতা পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "17:36",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "ES1C2hmceNY",
+        title: "02. Conservation of Kinetic Energy Part 02 | গতিশক্তির সংরক্ষণশীলতা পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "8:18",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "fEz2ifplYhs",
+        title: "03. External and Internal Force | অন্তর্গত ও বহিরাগত বল | OnnoRokom Pathshala",
+        duration: "16:50",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+//HSC Combo
+{
+        id: "KphXn1GYcG0",
+        title: "HSC Physics Part-01",
+        duration: "1:57:58",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Vector-Dynamics Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "yEScNi9si7c",
+        title: "HSC Physics Part-01",
+        duration: "54:19",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Vector-Dynamics Part 02
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "0A6g4Z30E7Q",
+        title: "HSC Physics Part-02",
+        duration: "2:02:20",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Newtonian Mechanics-Work, Power and Energy Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "hp_qTlguG_I",
+        title: "HSC Physics Part-02",
+        duration: "1:05:42",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Newtonian Mechanics-Work, Power and Energy Part 02
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "9AeM-QnwF4k",
+        title: "HSC Physics Part-03",
+        duration: "1:38:47",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Gravitation and Gravity-Structural Properties of Matter Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      },  
+{
+        id: "0v8Prmi6xYg",
+        title: "HSC Physics Part-03",
+        duration: "58:45",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Gravitation and Gravity-Structural Properties of Matter Part 02
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "quSUCOrsbeU",
+        title: "HSC Physics Part-04",
+        duration: "1:48:54",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Periodic Motion-Waves
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      },  
+{
+        id: "lP8277QSPTU",
+        title: "HSC Physics Part-05",
+        duration: "1:48:54",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Thermodynamics-Ideal Gas and Its motion Part
+Class: HSC 2nd Year
+Lectured by: Maksudul Hossain Jewel`
+      },
+{
+        id: "8txuXBijYUw",
+        title: "HSC Physics Part-06",
+        duration: "1:58:36",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Static Electricty-Current Electricity Part 01
+Class: HSC 2nd Year
+Lectured by: Maksudul Hossain Jewel`
+      },
+{
+        id: "8txuXBijYUw",
+        title: "HSC Physics Part-06",
+        duration: "1:07:05",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Static Electricty-Current Electricity Part 02
+Class: HSC 2nd Year
+Lectured by: Tusher Chakroborty`
+      },
+{
+        id: "UI7fgWG6doU",
+        title: "HSC Physics Part-07",
+        duration: "1:48:13",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Electro-Magentism Part 01
+Class: HSC 2nd Year
+Lectured by: Tusher Chakroborty`
+      },
+{
+        id: "yA8OAvJlp90",
+        title: "HSC Physics Part-07",
+        duration: "1:04:41",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Electro-Magentism Part 02
+Class: HSC 2nd Year
+Lectured by: Tusher Chakroborty`
+      },
+{
+        id: "Y2_DZTOmu4o",
+        title: "HSC Physics Part-08",
+        duration: "1:48:13",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Geometrical Optics-Wave Theory Part 01
+Class: HSC 2nd Year
+Lectured by: Tusher Chakroborty`
+      },
+{
+        id: "Jara5dO9dyg",
+        title: "HSC Physics Part-08",
+        duration: "1:04:41",
+        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Geometrical Optics-Wave Theroy Part 02
+Class: HSC 2nd Year
+Lectured by: Tusher Chakroborty`
+      },
 // Wave
+
+
       {
         id: "Y2-6OInzV44",
         title: "01. General Discussion about Wave | তরঙ্গ সম্পর্কীয় সাধারণ আলোচনা",
         duration: "21:37",
-        views: "217K views",
-        publishedText: "Jan 1, 2019",
         thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1108,8 +1580,6 @@ Topic: General Discussion about Wave
         id: "Y2-6OInzV44",
         title: "01. General Discussion about Wave | তরঙ্গ সম্পর্কীয় সাধারণ আলোচনা",
         duration: "21:37",
-        views: "217K views",
-        publishedText: "Jan 1, 2019",
         thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1121,8 +1591,6 @@ Lectured by: Sourov Bijoy`
         id: "ZhCQu47G2m4",
         title: "02. Intensity of Wave | তরঙ্গের তীব্রতা | OnnoRokom Pathshala",
         duration: "14:50",
-        views: "114K views",
-        publishedText: "Jan 2, 2019",
         thumbnail: "https://i.ytimg.com/vi/ZhCQu47G2m4/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1138,8 +1606,6 @@ Lectured by: Sourov Bijoy`
         id: "hO0vRj4i8RE",
         title: "03. Wave Superposition | Wave Superposition | OnnoRokom Pathshala",
         duration: "5:50",
-        views: "93K views",
-        publishedText: "Jan 3, 2019",
         thumbnail: "https://i.ytimg.com/vi/hO0vRj4i8RE/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1155,8 +1621,6 @@ Lectured by: Sourov Bijoy`
         id: "zN5ONZFUFgQ",
         title: "04. Static Wave | স্থির তরঙ্গ | OnnoRokom Pathshala",
         duration: "29:30",
-        views: "217K views",
-        publishedText: "Jan 4, 2019",
         thumbnail: "https://i.ytimg.com/vi/zN5ONZFUFgQ/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1172,8 +1636,6 @@ Lectured by: Sourov Bijoy`
         id: "Z7cZLp0ZFzU",
         title: "05. Wire in Tension | Tensioned Wire | OnnoRokom Pathshala",
         duration: "14:32",
-        views: "217K views",
-        publishedText: "Jan 18, 2019",
         thumbnail: "https://i.ytimg.com/vi/Z7cZLp0ZFzU/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1189,8 +1651,6 @@ Lectured by: Sourov Bijoy`
         id: "9OUNZ6MQmhQ",
         title: "06. Beat Related Math | বীট সংক্রান্ত অংক | OnnoRokom Pathshala",
         duration: "10:20",
-        views: "85K views",
-        publishedText: "Jan 19, 2019",
         thumbnail: "https://i.ytimg.com/vi/9OUNZ6MQmhQ/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1206,8 +1666,6 @@ Lectured by: Sourov Bijoy`
         id: "aRn13XFKuj0",
         title: "Beat - Mathematical Problem Part 01 | বীট – এর গাণিতিক সমস্যা পর্ব ০১ | OnnoRokom Pathshala",
         duration: "10:20",
-        views: "269K views",
-        publishedText: "Jan 14, 2017",
         thumbnail: "https://i.ytimg.com/vi/aRn13XFKuj0/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1223,8 +1681,6 @@ Lectured by: Mahmudul Hasan Sohag`
         id: "GRI173t9t28",
         title: "Beat - Mathematical Problem Part 02 | বীট – এর গাণিতিক সমস্যা পর্ব ০২ | OnnoRokom Pathshala",
         duration: "15:49",
-        views: "122K views",
-        publishedText: "Jan 15, 2017",
         thumbnail: "https://i.ytimg.com/vi/GRI173t9t28/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1240,8 +1696,6 @@ Lectured by: Mahmudul Hasan Sohag`
         id: "izmEeudNgU4",
         title: "Beat - Mathematical Problem Part 03 | বীট – এর গাণিতিক সমস্যা পর্ব ০৩ | OnnoRokom Pathshala",
         duration: "13:20",
-        views: "84K views",
-        publishedText: "Jan 16, 2017",
         thumbnail: "https://i.ytimg.com/vi/izmEeudNgU4/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1257,8 +1711,6 @@ Lectured by: Mahmudul Hasan Sohag`
         id: "yfIiE2csYIc",
         title: "Beat - Mathematical Problem Part 04 | বীট – এর গাণিতিক সমস্যা পর্ব ০৪ | OnnoRokom Pathshala",
         duration: "6:42",
-        views: "66K views",
-        publishedText: "Jan 16, 2017",
         thumbnail: "https://i.ytimg.com/vi/yfIiE2csYIc/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1274,8 +1726,6 @@ Lectured by: Mahmudul Hasan Sohag`
         id: "J_hYeNvs4EI",
         title: "07. Relative Intensity and Intensity Level | প্রমাণ তীব্রতা ও তীব্রতা লেভেল",
         duration: "12:52",
-        views: "85K views",
-        publishedText: "Jan 20, 2019",
         thumbnail: "https://i.ytimg.com/vi/J_hYeNvs4EI/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1291,8 +1741,6 @@ Lectured by: Sourov Bijoy`
         id: "pmCub0w_4OM",
         title: "08. প্রমাণ তীব্রতা ও তীব্রতা লেভেল এর গাণিতিক সমস্যাবলি | OnnoRokom Pathshala",
         duration: "15:06",
-        views: "46K views",
-        publishedText: "Jan 22, 2019",
         thumbnail: "https://i.ytimg.com/vi/pmCub0w_4OM/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1309,8 +1757,6 @@ Lectured by: Sourov Bijoy`
         id: "LVE9SjOd0Hw",
         title: "01. Periodic Motion | পর্যায়বৃত্ত গতি | OnnoRokom Pathshala",
         duration: "8:44",
-        views: "370K views",
-        publishedText: "Mar 17, 2015",
         thumbnail: "https://i.ytimg.com/vi/LVE9SjOd0Hw/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1324,8 +1770,6 @@ Lectured by: Maksudul Hossain Jewel`
         id: "3u_UKd8iTTE",
         title: "02. SHM Part 01 | সরল ছন্দিত স্পন্দন পর্ব ০১ | OnnoRokom Pathshala",
         duration: "15:19",
-        views: "298K views",
-        publishedText: "Mar 17, 2015",
         thumbnail: "https://i.ytimg.com/vi/3u_UKd8iTTE/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1339,8 +1783,6 @@ Lectured by: Maksudul Hossain Jewel`
         id: "Hi6Uo6NQ8Zc",
         title: "02. SHM Part 02 | সরল ছন্দিত স্পন্দন পর্ব ০২ | OnnoRokom Pathshala",
         duration: "11:13",
-        views: "195K views",
-        publishedText: "Mar 17, 2015",
         thumbnail: "https://i.ytimg.com/vi/Hi6Uo6NQ8Zc/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1354,8 +1796,6 @@ Lectured by: Maksudul Hossain Jewel`
         id: "_uqioK_AnbM",
         title: "02. SHM Part 03 | সরল ছন্দিত স্পন্দন পর্ব ০৩ | OnnoRokom Pathshala",
         duration: "11:25",
-        views: "163K views",
-        publishedText: "Mar 17, 2015",
         thumbnail: "https://i.ytimg.com/vi/_uqioK_AnbM/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1369,8 +1809,6 @@ Lectured by: Maksudul Hossain Jewel`
         id: "29RYUx1KUu0",
         title: "02. SHM Part 04 | সরল ছন্দিত স্পন্দন পর্ব ০৪ | OnnoRokom Pathshala",
         duration: "10:14",
-        views: "128K views",
-        publishedText: "Mar 17, 2015",
         thumbnail: "https://i.ytimg.com/vi/29RYUx1KUu0/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1384,8 +1822,6 @@ Lectured by: Maksudul Hossain Jewel`
         id: "-o7X58xkiXo",
         title: "03. Phase Part 01 | দশা পর্ব ০১ | OnnoRokom Pathshala",
         duration: "8:37",
-        views: "136K views",
-        publishedText: "Mar 22, 2015",
         thumbnail: "https://i.ytimg.com/vi/-o7X58xkiXo/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1399,8 +1835,6 @@ Lectured by: Maksudul Hossain Jewel`
         id: "9iWqKmnK3_0",
         title: "03. Phase Part 02 | দশা পর্ব ০২ | OnnoRokom Pathshala",
         duration: "9:30",
-        views: "92K views",
-        publishedText: "Mar 22, 2015",
         thumbnail: "https://i.ytimg.com/vi/9iWqKmnK3_0/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1414,8 +1848,6 @@ Lectured by: Maksudul Hossain Jewel`
         id: "UhJCLSLHi5M",
         title: "03. Phase Part 03 | দশা পর্ব ০৩ | OnnoRokom Pathshala",
         duration: "13:47",
-        views: "89K views",
-        publishedText: "Mar 22, 2015",
         thumbnail: "https://i.ytimg.com/vi/UhJCLSLHi5M/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1429,8 +1861,6 @@ Lectured by: Maksudul Hossain Jewel`
         id: "bS7SoiY8Gzc",
         title: "03. Phase Part 04 | দশা পর্ব ০৪ | OnnoRokom Pathshala",
         duration: "10:17",
-        views: "80K views",
-        publishedText: "Mar 22, 2015",
         thumbnail: "https://i.ytimg.com/vi/bS7SoiY8Gzc/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1444,8 +1874,6 @@ Lectured by: Maksudul Hossain Jewel`
         id: "7B3GW6siIVI",
         title: "04. SHM Differential Equation Part 01 | সরল ছন্দিত স্পন্দনের অন্তরক সমীকরণ পর্ব ০১",
         duration: "8:30",
-        views: "94K views",
-        publishedText: "Mar 25, 2015",
         thumbnail: "https://i.ytimg.com/vi/7B3GW6siIVI/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1459,8 +1887,6 @@ Lectured by: Maksudul Hossain Jewel`
         id: "kB2OYCRCHRA",
         title: "04. SHM Differential Equation Part 02 | সরল ছন্দিত স্পন্দনের অন্তরক সমীকরণ পর্ব ০২",
         duration: "15:07",
-        views: "111K views",
-        publishedText: "Mar 25, 2015",
         thumbnail: "https://i.ytimg.com/vi/kB2OYCRCHRA/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1474,8 +1900,6 @@ Lectured by: Maksudul Hossain Jewel`
         id: "9HVn0cLmf3o",
         title: "05. SHM Practical Application | সরল ছন্দিত স্পন্দনের বাস্তব প্রয়োগ | OnnoRokom Pathshala",
         duration: "10:17",
-        views: "87K views",
-        publishedText: "Mar 25, 2015",
         thumbnail: "https://i.ytimg.com/vi/9HVn0cLmf3o/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1489,8 +1913,6 @@ Lectured by: Maksudul Hossain Jewel`
         id: "wIgWv1KexOU",
         title: "IBDP Physics. Simple Harmonic Motion- Visually explained . Part 1.",
         duration: "9:08",
-        views: "13K",
-        publishedText: "Mar 27, 2025",
         thumbnail: "https://i.ytimg.com/vi/wIgWv1KexOU/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         description: `Welcome to the first video of our IB Physics video series! In this video, we explore Simple Harmonic Motion (SHM)—a fundamental topic in IB DP Physics. Discover the key concepts behind oscillatory motion, including the restoring force  F=−kx, equilibrium, and energy conservation in oscillating systems. Whether you're studying for your IB exams or simply passionate about physics, this video provides clear, step-by-step explanations and real-world examples of SHM in action.
@@ -1521,8 +1943,6 @@ Don't forget to like, share, and subscribe for more IB Physics tutorials. Click 
         id: "s5q3Ozq8Yg0",
         title: "8.01x - Module 15.08 - SHO Angular Frequency vs Angular Velocity.",
         duration: "4:05",
-        views: "5.1K",
-        publishedText: "Feb 16, 2015",
         thumbnail: "https://i.ytimg.com/vi/s5q3Ozq8Yg0/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         description: `8.01x - MIT Help Sessions
@@ -1532,8 +1952,6 @@ SHO - Angular Frequency vs  Angular Velocity.`
         id: "MZ5eKUlO2fU",
         title: "My Million$ Video - Angular Velocity vs Angular Frequency - it's a MUST",
         duration: "12:01",
-        views: "86K",
-        publishedText: "Nov 17, 2017",
         thumbnail: "https://i.ytimg.com/vi/MZ5eKUlO2fU/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         description: `My Million$ Video - Angular Velocity vs Angular Frequency - it's a MUST`
@@ -1543,8 +1961,6 @@ SHO - Angular Frequency vs  Angular Velocity.`
         id: "63P4qKc3V8w",
         title: "01. General Discussion about Thermodynamics | তাপ গতিবিদ্যার সাধারণ আলোচনা",
         duration: "4:03",
-        views: "302K views",
-        publishedText: "Jul 15, 2017 ",
         thumbnail: "https://i.ytimg.com/vi/63P4qKc3V8w/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1558,8 +1974,6 @@ Lectured by: Sourov Bijoy`
         id: "pJUHbfe-t74",
         title: "02. Temperature Scale | তাপমাত্রার স্কেল | OnnoRokom Pathshala",
         duration: "8:02",
-        views: "199K views",
-        publishedText: "Jul 22, 2017 ",
         thumbnail: "https://i.ytimg.com/vi/pJUHbfe-t74/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1573,8 +1987,6 @@ Lectured by: Sourov Bijoy`
         id: "Jfcff-LpDcI",
         title: "03. Relation Between Different Temperature Scales | বিভিন্ন তাপমাত্রার স্কেলের মধ্যে সম্পর্ক",
         duration: "4:03",
-        views: "178K views",
-        publishedText: "Jul 30, 2017 ",
         thumbnail: "https://i.ytimg.com/vi/Jfcff-LpDcI/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
@@ -1620,6 +2032,21 @@ Lectured by: Sourov Bijoy`
         updatedText: "Updated 1 week ago",
         videos: ["63P4qKc3V8w", "pJUHbfe-t74", "Jfcff-LpDcI"]
       },
+{
+        id: "Physics_Combo_by_Udvash",
+        title: "Physics Combo by Udvash",
+        videoCount: 16,
+        thumbnail: "https://i.ytimg.com/vi/KphXn1GYcG0/hqdefault.jpg",
+        updatedText: "Updated 1 week ago",
+        videos: ["KphXn1GYcG0", "yEScNi9si7c", "0A6g4Z30E7Q", "hp_qTlguG_I", "9AeM-QnwF4k", "0v8Prmi6xYg", "quSUCOrsbeU", "lP8277QSPTU", "8txuXBijYUw", "8txuXBijYUw", "UI7fgWG6doU", "yA8OAvJlp90", "Y2_DZTOmu4o", "Jara5dO9dyg"]
+      },
+{
+        id: "Physics_Newtonian_Mechanics_04",
+        title: "Physics Newtonian Mechanics (নিউটনিয়ান বলবিদ্যা)",
+        videoCount: 30,
+        thumbnail: "https://i.ytimg.com/vi/jgsnZoZ-hVg/hqdefault.jpg",
+        updatedText: "Updated 1 week ago",
+        videos: ["jgsnZoZ-hVg", "idxuC5TzCgU", "Fl822BDrcN0", "tsEpmGRwwFw", "wCc3e1LE9-s", "GVoQGv5V-8w", "VlSByMqhQGM", "oJogS-Kv-4w", "DkT9szIPS-w", "vrfc3GebITQ", "PlpNd6zcSeU", "U9QRfxy22yM", "j1x4niLVbYQ", "PfSONKumv2A", "Vu1y7BuOIh0", "Op6xiICaoOo", "RrstMhs1oPg", "JF_BD5zSxPw", "qOtMqwZpTrM", "dlEh1U1ei5I", "dlEh1U1ei5I", "ZbvpldoW8w", "SE5bmqIBjZY", "hsO2bC-GQXk", "j8H4WyxAKxI", "LHZ1WA34bgg", "sPjboJPiV7Y", "ES1C2hmceNY", "fEz2ifplYhs"]      },
     ] 
   } 
 };
