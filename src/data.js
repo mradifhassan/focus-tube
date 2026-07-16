@@ -959,11 +959,13 @@ Lectured by: Ashikuzzaman Rasel`
      },
 // Physics
 // Newtonian Mechanics
+// Physics
+// Newtonian Mechanics
 {
         id: "jgsnZoZ-hVg",
         title: "01. Newton's 1st law Part 01 | নিউটনের প্রথম সূত্র পর্ব ০১ | OnnoRokom Pathshala",
         duration: "8:18",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/jgsnZoZ-hVg/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -977,7 +979,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "idxuC5TzCgU",
         title: "01. Newton's 1st law Part 02 | নিউটনের প্রথম সূত্র পর্ব ০২ | OnnoRokom Pathshala",
         duration: "15:16",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/idxuC5TzCgU/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -991,7 +993,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "Fl822BDrcN0",
         title: "01. Newton's 1st law Part 03 | নিউটনের প্রথম সূত্র পর্ব ০৩ | OnnoRokom Pathshala",
         duration: "12:10",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/Fl822BDrcN0/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1005,7 +1007,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "tsEpmGRwwFw",
         title: "01. Newton's 1st law Part 04 | নিউটনের প্রথম সূত্র পর্ব ০৪ | OnnoRokom Pathshala",
         duration: "14:07",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/tsEpmGRwwFw/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1019,7 +1021,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "wCc3e1LE9-s",
         title: "01. Newton's 1st law Part 05 | নিউটনের প্রথম সূত্র পর্ব ০৫ | OnnoRokom Pathshala",
         duration: "8:52",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/wCc3e1LE9-s/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1033,7 +1035,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "GVoQGv5V-8w",
         title: "02. Newton's 2nd law Part 01 | নিউটনের দ্বিতীয় সূত্র পর্ব ০১ | OnnoRokom Pathshala",
         duration: "12:56",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/GVoQGv5V-8w/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1047,7 +1049,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "VlSByMqhQGM",
         title: "02. Newton's 2nd law Part 02 | নিউটনের দ্বিতীয় সূত্র পর্ব ০২ | OnnoRokom Pathshala",
         duration: "14:53",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/VlSByMqhQGM/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1061,7 +1063,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "oJogS-Kv-4w",
         title: "02. Newton's 2nd law Part 03 | নিউটনের দ্বিতীয় সূত্র পর্ব ০৩ | OnnoRokom Pathshala",
         duration: "12:49",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/oJogS-Kv-4w/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1075,7 +1077,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "DkT9szIPS-w", 
         title: "02. Newton's 2nd law Part 04 | নিউটনের দ্বিতীয় সূত্র পর্ব ০৪ | OnnoRokom Pathshala",
         duration: "11:03",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/DkT9szIPS-w/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1089,7 +1091,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "vrfc3GebITQ",
         title: "02. Newton's 2nd law Part 05 | নিউটনের দ্বিতীয় সূত্র পর্ব ০৫ | OnnoRokom Pathshala",
         duration: "10:44",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/vrfc3GebITQ/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1103,7 +1105,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "PlpNd6zcSeU",
         title: "03. Newton's 3rd law Part 01 | নিউটনের তৃতীয় সূত্র পর্ব ০১ | OnnoRokom Pathshala",
         duration: "15:51",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/PlpNd6zcSeU/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1117,7 +1119,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "U9QRfxy22yM",
         title: "03. Newton's 3rd law Part 02 | নিউটনের তৃতীয় সূত্র পর্ব ০২ | OnnoRokom Pathshala",
         duration: "5:59",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/U9QRfxy22yM/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1131,7 +1133,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "j1x4niLVbYQ",
         title: "01. Center of Gravity Part 01 | ভরকেন্দ্র পর্ব ০১ | OnnoRokom Pathshala",
         duration: "13:07",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/j1x4niLVbYQ/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1145,7 +1147,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "PfSONKumv2A",
         title: "01. Center of Gravity Part 02 | ভরকেন্দ্র পর্ব ০২ | OnnoRokom Pathshala ",
         duration: "15:59",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/PfSONKumv2A/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1159,7 +1161,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "Vu1y7BuOIh0",
         title: "01. Center of Gravity Part 03 | ভরকেন্দ্র পর্ব ০৩ | OnnoRokom Pathshala",
         duration: "13:56",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/Vu1y7BuOIh0/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1173,7 +1175,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "Op6xiICaoOo",
         title: "01. Center of Gravity Part 04 | ভরকেন্দ্র পর্ব ০৪ | OnnoRokom Pathshala",
         duration: "13:56",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/Op6xiICaoOo/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1187,7 +1189,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "RrstMhs1oPg",
         title: "01. Center of Gravity Part 05 | ভরকেন্দ্র পর্ব ০৫ | OnnoRokom Pathshala",
         duration: "12 :18", 
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/RrstMhs1oPg/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1201,7 +1203,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "JF_BD5zSxPw",
         title: "02. Conservation of Momentum Basic Part 01 | ভরবেগের সংরক্ষণশীলতা পর্ব ০১ | OnnoRokom Pathshala",
         duration: "12:45",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/JF_BD5zSxPw/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1215,7 +1217,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "qOtMqwZpTrM",
         title: "02. Conservation of Momentum Basic Part 02 | ভরবেগের সংরক্ষণশীলতা পর্ব ০২ | OnnoRokom Pathshala",
         duration: "17:03",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/qOtMqwZpTrM/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1229,7 +1231,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "dlEh1U1ei5I",
         title: "02. Conservation of Momentum Basic Part 03 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৩ | OnnoRokom Pathshala",
         duration: "18:02",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/dlEh1U1ei5I/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1243,7 +1245,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "dlEh1U1ei5I",
         title: "02. Conservation of Momentum Basic Part 04 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৪ | OnnoRokom Pathshala",
         duration: "11:52",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/dlEh1U1ei5I/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1257,7 +1259,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "ZbvpldoW8w",
         title: "02. Conservation of Momentum Basic Part 05 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৫ | OnnoRokom Pathshala",
         duration: "17:16",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/ZbvpldoW8w/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1271,7 +1273,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "SE5bmqIBjZY",
         title: "02. Conservation of Momentum Basic Part 06 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৬ | OnnoRokom Pathshala",
         duration: "10:57",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/SE5bmqIBjZY/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1285,7 +1287,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "hsO2bC-GQXk",
         title: "02. Conservation of Momentum Basic Part 07 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৭ | OnnoRokom Pathshala",
         duration: "9:08",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/hsO2bC-GQXk/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1299,7 +1301,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "j8H4WyxAKxI",
         title: "01. Conservation of Momentum Part 01 | ভরবেগের সংরক্ষণশীলতা পর্ব ০১ | OnnoRokom Pathshala",
         duration: "15:51",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/j8H4WyxAKxI/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1313,7 +1315,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "LHZ1WA34bgg",
         title: "01. Conservation of Momentum Part 02 | ভরবেগের সংরক্ষণশীলতা পর্ব ০২ | OnnoRokom Pathshala",
         duration: "15:35",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/LHZ1WA34bgg/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1327,7 +1329,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "sPjboJPiV7Y",
         title: "02. Conservation of Kinetic Energy Part 01 | গতিশক্তির সংরক্ষণশীলতা পর্ব ০১ | OnnoRokom Pathshala",
         duration: "17:36",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/sPjboJPiV7Y/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1341,7 +1343,7 @@ Lectured by: Maksudul Hossain Jewel`
         id: "ES1C2hmceNY",
         title: "02. Conservation of Kinetic Energy Part 02 | গতিশক্তির সংরক্ষণশীলতা পর্ব ০২ | OnnoRokom Pathshala",
         duration: "8:18",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/ES1C2hmceNY/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1355,7 +1357,24 @@ Lectured by: Maksudul Hossain Jewel`
         id: "fEz2ifplYhs",
         title: "03. External and Internal Force | অন্তর্গত ও বহিরাগত বল | OnnoRokom Pathshala",
         duration: "16:50",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/fEz2ifplYhs/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      },
+//HSC Combo
+// Physics
+// Newtonian Mechanics
+{
+        id: "jgsnZoZ-hVg",
+        title: "01. Newton's 1st law Part 01 | নিউটনের প্রথম সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "8:18",
+        thumbnail: "https://i.ytimg.com/vi/jgsnZoZ-hVg/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
@@ -1365,202 +1384,397 @@ Topic: Newton's 1st law Part 01
 Class: HSC 1st Year
 Lectured by: Maksudul Hossain Jewel`
       }, 
-//HSC Combo
 {
-        id: "KphXn1GYcG0",
-        title: "HSC Physics Part-01",
-        duration: "1:57:58",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        id: "idxuC5TzCgU",
+        title: "01. Newton's 1st law Part 02 | নিউটনের প্রথম সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "15:16",
+        thumbnail: "https://i.ytimg.com/vi/idxuC5TzCgU/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
-Video Title: Udvash
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
 Subject: Physics
-Topic: Vector-Dynamics Part 01
+Topic: Newton's 1st law Part 01
 Class: HSC 1st Year
 Lectured by: Maksudul Hossain Jewel`
       }, 
 {
-        id: "yEScNi9si7c",
-        title: "HSC Physics Part-01",
-        duration: "54:19",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        id: "Fl822BDrcN0",
+        title: "01. Newton's 1st law Part 03 | নিউটনের প্রথম সূত্র পর্ব ০৩ | OnnoRokom Pathshala",
+        duration: "12:10",
+        thumbnail: "https://i.ytimg.com/vi/Fl822BDrcN0/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
-Video Title: Udvash
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
 Subject: Physics
-Topic: Vector-Dynamics Part 02
+Topic: Newton's 1st law Part 01
 Class: HSC 1st Year
 Lectured by: Maksudul Hossain Jewel`
       }, 
 {
-        id: "0A6g4Z30E7Q",
-        title: "HSC Physics Part-02",
-        duration: "2:02:20",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        id: "tsEpmGRwwFw",
+        title: "01. Newton's 1st law Part 04 | নিউটনের প্রথম সূত্র পর্ব ০৪ | OnnoRokom Pathshala",
+        duration: "14:07",
+        thumbnail: "https://i.ytimg.com/vi/tsEpmGRwwFw/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
-Video Title: Udvash
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
 Subject: Physics
-Topic: Newtonian Mechanics-Work, Power and Energy Part 01
+Topic: Newton's 1st law Part 01
 Class: HSC 1st Year
 Lectured by: Maksudul Hossain Jewel`
       }, 
 {
-        id: "hp_qTlguG_I",
-        title: "HSC Physics Part-02",
-        duration: "1:05:42",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        id: "wCc3e1LE9-s",
+        title: "01. Newton's 1st law Part 05 | নিউটনের প্রথম সূত্র পর্ব ০৫ | OnnoRokom Pathshala",
+        duration: "8:52",
+        thumbnail: "https://i.ytimg.com/vi/wCc3e1LE9-s/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
-Video Title: Udvash
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
 Subject: Physics
-Topic: Newtonian Mechanics-Work, Power and Energy Part 02
+Topic: Newton's 1st law Part 01
 Class: HSC 1st Year
 Lectured by: Maksudul Hossain Jewel`
       }, 
 {
-        id: "9AeM-QnwF4k",
-        title: "HSC Physics Part-03",
-        duration: "1:38:47",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        id: "GVoQGv5V-8w",
+        title: "02. Newton's 2nd law Part 01 | নিউটনের দ্বিতীয় সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "12:56",
+        thumbnail: "https://i.ytimg.com/vi/GVoQGv5V-8w/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
-Video Title: Udvash
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
 Subject: Physics
-Topic: Gravitation and Gravity-Structural Properties of Matter Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      },  
-{
-        id: "0v8Prmi6xYg",
-        title: "HSC Physics Part-03",
-        duration: "58:45",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: Udvash
-Subject: Physics
-Topic: Gravitation and Gravity-Structural Properties of Matter Part 02
+Topic: Newton's 1st law Part 01
 Class: HSC 1st Year
 Lectured by: Maksudul Hossain Jewel`
       }, 
 {
-        id: "quSUCOrsbeU",
-        title: "HSC Physics Part-04",
-        duration: "1:48:54",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        id: "VlSByMqhQGM",
+        title: "02. Newton's 2nd law Part 02 | নিউটনের দ্বিতীয় সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "14:53",
+        thumbnail: "https://i.ytimg.com/vi/VlSByMqhQGM/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
-Video Title: Udvash
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
 Subject: Physics
-Topic: Periodic Motion-Waves
+Topic: Newton's 1st law Part 01
 Class: HSC 1st Year
 Lectured by: Maksudul Hossain Jewel`
-      },  
+      }, 
 {
-        id: "lP8277QSPTU",
-        title: "HSC Physics Part-05",
-        duration: "1:48:54",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        id: "oJogS-Kv-4w",
+        title: "02. Newton's 2nd law Part 03 | নিউটনের দ্বিতীয় সূত্র পর্ব ০৩ | OnnoRokom Pathshala",
+        duration: "12:49",
+        thumbnail: "https://i.ytimg.com/vi/oJogS-Kv-4w/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
-Video Title: Udvash
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
 Subject: Physics
-Topic: Thermodynamics-Ideal Gas and Its motion Part
-Class: HSC 2nd Year
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
 Lectured by: Maksudul Hossain Jewel`
-      },
+      }, 
 {
-        id: "8txuXBijYUw",
-        title: "HSC Physics Part-06",
-        duration: "1:58:36",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        id: "DkT9szIPS-w", 
+        title: "02. Newton's 2nd law Part 04 | নিউটনের দ্বিতীয় সূত্র পর্ব ০৪ | OnnoRokom Pathshala",
+        duration: "11:03",
+        thumbnail: "https://i.ytimg.com/vi/DkT9szIPS-w/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
-Video Title: Udvash
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
 Subject: Physics
-Topic: Static Electricty-Current Electricity Part 01
-Class: HSC 2nd Year
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
 Lectured by: Maksudul Hossain Jewel`
-      },
+      }, 
 {
-        id: "8txuXBijYUw",
-        title: "HSC Physics Part-06",
-        duration: "1:07:05",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        id: "vrfc3GebITQ",
+        title: "02. Newton's 2nd law Part 05 | নিউটনের দ্বিতীয় সূত্র পর্ব ০৫ | OnnoRokom Pathshala",
+        duration: "10:44",
+        thumbnail: "https://i.ytimg.com/vi/vrfc3GebITQ/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
-Video Title: Udvash
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
 Subject: Physics
-Topic: Static Electricty-Current Electricity Part 02
-Class: HSC 2nd Year
-Lectured by: Tusher Chakroborty`
-      },
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
 {
-        id: "UI7fgWG6doU",
-        title: "HSC Physics Part-07",
-        duration: "1:48:13",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        id: "PlpNd6zcSeU",
+        title: "03. Newton's 3rd law Part 01 | নিউটনের তৃতীয় সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "15:51",
+        thumbnail: "https://i.ytimg.com/vi/PlpNd6zcSeU/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
-Video Title: Udvash
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
 Subject: Physics
-Topic: Electro-Magentism Part 01
-Class: HSC 2nd Year
-Lectured by: Tusher Chakroborty`
-      },
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
 {
-        id: "yA8OAvJlp90",
-        title: "HSC Physics Part-07",
-        duration: "1:04:41",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        id: "U9QRfxy22yM",
+        title: "03. Newton's 3rd law Part 02 | নিউটনের তৃতীয় সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "5:59",
+        thumbnail: "https://i.ytimg.com/vi/U9QRfxy22yM/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
-Video Title: Udvash
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
 Subject: Physics
-Topic: Electro-Magentism Part 02
-Class: HSC 2nd Year
-Lectured by: Tusher Chakroborty`
-      },
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
 {
-        id: "Y2_DZTOmu4o",
-        title: "HSC Physics Part-08",
-        duration: "1:48:13",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        id: "j1x4niLVbYQ",
+        title: "01. Center of Gravity Part 01 | ভরকেন্দ্র পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "13:07",
+        thumbnail: "https://i.ytimg.com/vi/j1x4niLVbYQ/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
-Video Title: Udvash
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
 Subject: Physics
-Topic: Geometrical Optics-Wave Theory Part 01
-Class: HSC 2nd Year
-Lectured by: Tusher Chakroborty`
-      },
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
 {
-        id: "Jara5dO9dyg",
-        title: "HSC Physics Part-08",
-        duration: "1:04:41",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+        id: "PfSONKumv2A",
+        title: "01. Center of Gravity Part 02 | ভরকেন্দ্র পর্ব ০২ | OnnoRokom Pathshala ",
+        duration: "15:59",
+        thumbnail: "https://i.ytimg.com/vi/PfSONKumv2A/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
         channelName: "OnnoRokom Pathshala",
         description: `
-Video Title: Udvash
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
 Subject: Physics
-Topic: Geometrical Optics-Wave Theroy Part 02
-Class: HSC 2nd Year
-Lectured by: Tusher Chakroborty`
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "Vu1y7BuOIh0",
+        title: "01. Center of Gravity Part 03 | ভরকেন্দ্র পর্ব ০৩ | OnnoRokom Pathshala",
+        duration: "13:56",
+        thumbnail: "https://i.ytimg.com/vi/Vu1y7BuOIh0/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "Op6xiICaoOo",
+        title: "01. Center of Gravity Part 04 | ভরকেন্দ্র পর্ব ০৪ | OnnoRokom Pathshala",
+        duration: "13:56",
+        thumbnail: "https://i.ytimg.com/vi/Op6xiICaoOo/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "RrstMhs1oPg",
+        title: "01. Center of Gravity Part 05 | ভরকেন্দ্র পর্ব ০৫ | OnnoRokom Pathshala",
+        duration: "12 :18", 
+        thumbnail: "https://i.ytimg.com/vi/RrstMhs1oPg/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "JF_BD5zSxPw",
+        title: "02. Conservation of Momentum Basic Part 01 | ভরবেগের সংরক্ষণশীলতা পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "12:45",
+        thumbnail: "https://i.ytimg.com/vi/JF_BD5zSxPw/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "qOtMqwZpTrM",
+        title: "02. Conservation of Momentum Basic Part 02 | ভরবেগের সংরক্ষণশীলতা পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "17:03",
+        thumbnail: "https://i.ytimg.com/vi/qOtMqwZpTrM/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "dlEh1U1ei5I",
+        title: "02. Conservation of Momentum Basic Part 03 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৩ | OnnoRokom Pathshala",
+        duration: "18:02",
+        thumbnail: "https://i.ytimg.com/vi/dlEh1U1ei5I/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "dlEh1U1ei5I",
+        title: "02. Conservation of Momentum Basic Part 04 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৪ | OnnoRokom Pathshala",
+        duration: "11:52",
+        thumbnail: "https://i.ytimg.com/vi/dlEh1U1ei5I/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "ZbvpldoW8w",
+        title: "02. Conservation of Momentum Basic Part 05 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৫ | OnnoRokom Pathshala",
+        duration: "17:16",
+        thumbnail: "https://i.ytimg.com/vi/ZbvpldoW8w/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "SE5bmqIBjZY",
+        title: "02. Conservation of Momentum Basic Part 06 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৬ | OnnoRokom Pathshala",
+        duration: "10:57",
+        thumbnail: "https://i.ytimg.com/vi/SE5bmqIBjZY/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "hsO2bC-GQXk",
+        title: "02. Conservation of Momentum Basic Part 07 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৭ | OnnoRokom Pathshala",
+        duration: "9:08",
+        thumbnail: "https://i.ytimg.com/vi/hsO2bC-GQXk/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "j8H4WyxAKxI",
+        title: "01. Conservation of Momentum Part 01 | ভরবেগের সংরক্ষণশীলতা পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "15:51",
+        thumbnail: "https://i.ytimg.com/vi/j8H4WyxAKxI/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "LHZ1WA34bgg",
+        title: "01. Conservation of Momentum Part 02 | ভরবেগের সংরক্ষণশীলতা পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "15:35",
+        thumbnail: "https://i.ytimg.com/vi/LHZ1WA34bgg/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "sPjboJPiV7Y",
+        title: "02. Conservation of Kinetic Energy Part 01 | গতিশক্তির সংরক্ষণশীলতা পর্ব ০১ | OnnoRokom Pathshala",
+        duration: "17:36",
+        thumbnail: "https://i.ytimg.com/vi/sPjboJPiV7Y/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "ES1C2hmceNY",
+        title: "02. Conservation of Kinetic Energy Part 02 | গতিশক্তির সংরক্ষণশীলতা পর্ব ০২ | OnnoRokom Pathshala",
+        duration: "8:18",
+        thumbnail: "https://i.ytimg.com/vi/ES1C2hmceNY/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "fEz2ifplYhs",
+        title: "03. External and Internal Force | অন্তর্গত ও বহিরাগত বল | OnnoRokom Pathshala",
+        duration: "16:50",
+        thumbnail: "https://i.ytimg.com/vi/fEz2ifplYhs/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
+Subject: Physics
+Topic: Newton's 1st law Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
       },
 // Wave
 
