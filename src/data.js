@@ -1368,6 +1368,203 @@ Class: HSC 1st Year
 Lectured by: Maksudul Hossain Jewel`
       },
 //HSC Combo
+//HSC Combo
+{
+        id: "KphXn1GYcG0",
+        title: "HSC Physics Part-01",
+        duration: "1:57:58",
+        thumbnail: "https://i.ytimg.com/vi/KphXn1GYcG0/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Vector-Dynamics Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "yEScNi9si7c",
+        title: "HSC Physics Part-01",
+        duration: "54:19",
+        thumbnail: "https://i.ytimg.com/vi/yEScNi9si7c/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Vector-Dynamics Part 02
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "0A6g4Z30E7Q",
+        title: "HSC Physics Part-02",
+        duration: "2:02:20",
+        thumbnail: "https://i.ytimg.com/vi/0A6g4Z30E7Q/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Newtonian Mechanics-Work, Power and Energy Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "hp_qTlguG_I",
+        title: "HSC Physics Part-02",
+        duration: "1:05:42",
+        thumbnail: "https://i.ytimg.com/vi/hp_qTlguG_I/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Newtonian Mechanics-Work, Power and Energy Part 02
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "9AeM-QnwF4k",
+        title: "HSC Physics Part-03",
+        duration: "1:38:47",
+        thumbnail: "https://i.ytimg.com/vi/9AeM-QnwF4k/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Gravitation and Gravity-Structural Properties of Matter Part 01
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      },  
+{
+        id: "0v8Prmi6xYg",
+        title: "HSC Physics Part-03",
+        duration: "58:45",
+        thumbnail: "https://i.ytimg.com/vi/0v8Prmi6xYg/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Gravitation and Gravity-Structural Properties of Matter Part 02
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      }, 
+{
+        id: "quSUCOrsbeU",
+        title: "HSC Physics Part-04",
+        duration: "1:48:54",
+        thumbnail: "https://i.ytimg.com/vi/quSUCOrsbeU/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Periodic Motion-Waves
+Class: HSC 1st Year
+Lectured by: Maksudul Hossain Jewel`
+      },  
+{
+        id: "lP8277QSPTU",
+        title: "HSC Physics Part-05",
+        duration: "1:48:54",
+        thumbnail: "https://i.ytimg.com/vi/lP8277QSPTU/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Thermodynamics-Ideal Gas and Its motion Part
+Class: HSC 2nd Year
+Lectured by: Maksudul Hossain Jewel`
+      },
+{
+        id: "8txuXBijYUw",
+        title: "HSC Physics Part-06",
+        duration: "1:58:36",
+        thumbnail: "https://i.ytimg.com/vi/8txuXBijYUw/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Static Electricty-Current Electricity Part 01
+Class: HSC 2nd Year
+Lectured by: Maksudul Hossain Jewel`
+      },
+{
+        id: "8txuXBijYUw",
+        title: "HSC Physics Part-06",
+        duration: "1:07:05",
+        thumbnail: "https://i.ytimg.com/vi/8txuXBijYUw/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Static Electricty-Current Electricity Part 02
+Class: HSC 2nd Year
+Lectured by: Tusher Chakroborty`
+      },
+{
+        id: "UI7fgWG6doU",
+        title: "HSC Physics Part-07",
+        duration: "1:48:13",
+        thumbnail: "https://i.ytimg.com/vi/UI7fgWG6doU/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Electro-Magentism Part 01
+Class: HSC 2nd Year
+Lectured by: Tusher Chakroborty`
+      },
+{
+        id: "yA8OAvJlp90",
+        title: "HSC Physics Part-07",
+        duration: "1:04:41",
+        thumbnail: "https://i.ytimg.com/vi/yA8OAvJlp90/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Electro-Magentism Part 02
+Class: HSC 2nd Year
+Lectured by: Tusher Chakroborty`
+      },
+{
+        id: "Y2_DZTOmu4o",
+        title: "HSC Physics Part-08",
+        duration: "1:48:13",
+        thumbnail: "https://i.ytimg.com/vi/Y2_DZTOmu4o/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Geometrical Optics-Wave Theory Part 01
+Class: HSC 2nd Year
+Lectured by: Tusher Chakroborty`
+      },
+{
+        id: "Jara5dO9dyg",
+        title: "HSC Physics Part-08",
+        duration: "1:04:41",
+        thumbnail: "https://i.ytimg.com/vi/Jara5dO9dyg/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `
+Video Title: Udvash
+Subject: Physics
+Topic: Geometrical Optics-Wave Theroy Part 02
+Class: HSC 2nd Year
+Lectured by: Tusher Chakroborty`
+      },
 // Physics
 // Newtonian Mechanics
 {
