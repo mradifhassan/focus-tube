@@ -2457,7 +2457,7 @@ Lectured by: Sourov Bijoy`
         videoCount: 30,
         thumbnail: "https://i.ytimg.com/vi/jgsnZoZ-hVg/hqdefault.jpg",
         updatedText: "Updated 1 week ago",
-        videos: ["jgsnZoZ-hVg", "idxuC5TzCgU", "Fl822BDrcN0", "tsEpmGRwwFw", "wCc3e1LE9-s", "GVoQGv5V-8w", "VlSByMqhQGM", "oJogS-Kv-4w", "DkT9szIPS-w", "vrfc3GebITQ", "PlpNd6zcSeU", "U9QRfxy22yM", "j1x4niLVbYQ", "PfSONKumv2A", "Vu1y7BuOIh0", "Op6xiICaoOo", "RrstMhs1oPg", "JF_BD5zSxPw", "qOtMqwZpTrM", "dlEh1U1ei5I", "dlEh1U1ei5I", "ZbvpldoW8w", "SE5bmqIBjZY", "hsO2bC-GQXk", "j8H4WyxAKxI", "LHZ1WA34bgg", "sPjboJPiV7Y", "ES1C2hmceNY", "fEz2ifplYhs"]      },
+        videos: ["jgsnZoZ-hVg", "idxuC5TzCgU", "Fl822BDrcN0", "tsEpmGRwwFw", "wCc3e1LE9-s", "GVoQGv5V-8w", "VlSByMqhQGM", "oJogS-Kv-4w", "DkT9szIPS-w", "vrfc3GebITQ", "PlpNd6zcSeU", "U9QRfxy22yM", "j1x4niLVbYQ", "PfSONKumv2A", "Vu1y7BuOIh0", "Op6xiICaoOo", "RrstMhs1oPg", "JF_BD5zSxPw", "qOtMqwZpTrM", "dlEh1U1ei5I", "dlEh1U1ei5I", "-ZbvpldoW8w", "SE5bmqIBjZY", "hsO2bC-GQXk", "j8H4WyxAKxI", "LHZ1WA34bgg", "sPjboJPiV7Y", "ES1C2hmceNY", "fEz2ifplYhs"]      },
     ] 
   } 
 };
