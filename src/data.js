@@ -2485,6 +2485,32 @@ Subject: Physics
 Class: HSC 2nd Year
 Lectured by: Sourov Bijoy`
       },
+       {
+        id: "LUacLjVUsx4",
+        title: "10. Reversible and Non-reversible process | প্রত্যাবর্তী এবং অপ্রত্যাবর্তী প্রক্রিয়া",
+        duration: "8:20",
+        thumbnail: "https://i.ytimg.com/vi/LUacLjVUsx4/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala
+Lecture: Thermodynamics
+Subject: Physics
+Class: HSC 2nd Year
+Lectured by: Sourov Bijoy`
+      },
+            {
+        id: "R6xA5OUAe_g",
+        title: "11. Carnot Engine and Refrigerator | কার্নোর ইঞ্জিন এবং কার্নোর রেফ্রিজারেটর",
+        duration: "520:57",
+        thumbnail: "https://i.ytimg.com/vi/R6xA5OUAe_g/hqdefault.jpg",
+        channelId: "UCBA6OI6vEDK13jfoiuX694A",
+        channelName: "OnnoRokom Pathshala",
+        description: `Video Title: OnnoRokom Pathshala
+Lecture: Thermodynamics
+Subject: Physics
+Class: HSC 2nd Year
+Lectured by: Sourov Bijoy`
+      },
 
     ],
     playlists: [
@@ -2527,7 +2553,7 @@ Lectured by: Sourov Bijoy`
         videoCount: 16,
         thumbnail: "https://i.ytimg.com/vi/KphXn1GYcG0/hqdefault.jpg",
         updatedText: "Updated 1 week ago",
-        videos: ["KphXn1GYcG0", "yEScNi9si7c", "0A6g4Z30E7Q", "hp_qTlguG_I", "9AeM-QnwF4k", "0v8Prmi6xYg", "quSUCOrsbeU", "lP8277QSPTU", "8txuXBijYUw", "8txuXBijYUw", "UI7fgWG6doU", "yA8OAvJlp90", "Y2_DZTOmu4o", "Jara5dO9dyg"]
+        videos: ["KphXn1GYcG0", "yEScNi9si7c", "0A6g4Z30E7Q", "hp_qTlguG_I", "9AeM-QnwF4k", "0v8Prmi6xYg", "quSUCOrsbeU", "lP8277QSPTU", "8txuXBijYUw", "8txuXBijYUw", "UI7fgWG6doU", "yA8OAvJlp90", "Y2_DZTOmu4o", "Jara5dO9dyg", "LUacLjVUsx4", "R6xA5OUAe_g"]
       },
 {
         id: "Physics_Newtonian_Mechanics_04",
