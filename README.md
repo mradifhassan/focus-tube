@@ -12,7 +12,7 @@ This is my small initiative to streamline your preparation for the HSC curriculu
 ## Your education deserves your undivided attention. Welcome, and happy learning!
 
 ## Table of Contents
-1. [Environment Setup](#1-environment--setup)
+1. [Environment Setup](#1-environment-setup)
 2. [Contribution Guidelines](#2-contribution-guidelines)
 
 ## 1. Environment Setup
@@ -107,8 +107,7 @@ Class: HSC 2nd Year
 Lectured by: Sourov Bijoy`
       },
 ```
-Let's say it has ended here.
-2. Now you want to add a playlist, if you are in Linux, follow the instruction sets below-
+2. Let's say it has ended here. Now you want to add a playlist, if you are in Linux, follow the instruction sets below-
 ```bash
 python3 -m venv base 
 source base/bin/activate
