@@ -40,6 +40,7 @@ chmod +x FocusTube.desktop
 ```
 ### 1.2: For Windows
 You can install FocusTube as a Web App (PWA) or create a dedicated desktop shortcut using Google Chrome or Microsoft Edge.
+
 **Method A:** Install as a PWA (Recommended)
 1. Open Google Chrome or Microsoft Edge and navigate to the FocusTube site.
 2. Click the Install icon in the address bar (or go to `Menu (⋮) > Save and share > Install page as app)`.
