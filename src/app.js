@@ -97,7 +97,123 @@ class FreeTubeApp {
     this.showAddModal = false;
     this.showUserModal = false;
 
+    // Isolated single-video route (e.g. #/v/dQw4w9WgXcQ)
+    // Totally separate from the feed/recommendations — just player + title + duration + description.
+    this.isolatedVideoId = this.parseIsolatedRoute();
+    this.isolatedVideoData = null;
+    window.addEventListener('hashchange', () => {
+      this.isolatedVideoId = this.parseIsolatedRoute();
+      this.isolatedVideoData = null;
+      this.render();
+    });
+
     this.init();
+  }
+
+  // ============================================================================
+  // ISOLATED SINGLE-VIDEO VIEW (hash route: #/v/VIDEO_ID)
+  // ============================================================================
+  parseIsolatedRoute() {
+    const m = window.location.hash.match(/^#\/v\/([a-zA-Z0-9_-]{6,20})$/);
+    return m ? m[1] : null;
+  }
+
+  escapeHtml(str) {
+    const div = document.createElement('div');
+    div.textContent = str == null ? '' : String(str);
+    return div.innerHTML;
+  }
+
+  async fetchIsolatedVideoMeta(id) {
+    for (const instance of INVIDIOUS_INSTANCES) {
+      try {
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 3500);
+        const res = await fetch(`${instance}/api/v1/videos/${id}?fields=title,lengthSeconds,description`, { signal: controller.signal });
+        clearTimeout(timeout);
+        if (res.ok) {
+          const data = await res.json();
+          this.isolatedVideoData = {
+            id,
+            title: data.title || 'Untitled Video',
+            duration: this.formatSeconds(data.lengthSeconds || 0),
+            description: data.description || 'No description available.'
+          };
+          if (this.isolatedVideoId === id) this.renderIsolatedPage();
+          return;
+        }
+      } catch (e) {}
+    }
+    // Every Invidious instance failed — still let the video play, just without metadata.
+    this.isolatedVideoData = {
+      id,
+      title: 'Video ' + id,
+      duration: '--:--',
+      description: 'Could not fetch metadata right now (all sources unreachable). The player above may still work.'
+    };
+    if (this.isolatedVideoId === id) this.renderIsolatedPage();
+  }
+
+  async checkEmbeddable(id, fallbackElId) {
+    try {
+      const res = await fetch(`https://www.youtube.com/oembed?url=${encodeURIComponent('https://www.youtube.com/watch?v=' + id)}&format=json`);
+      if (!res.ok) {
+        const el = document.getElementById(fallbackElId);
+        if (el) el.classList.remove('hidden');
+      }
+    } catch (e) {
+      // Can't reach oEmbed (offline/CORS) — stay silent, the iframe itself is still the primary signal.
+    }
+  }
+
+  renderIsolatedMetaHtml(vid) {
+    return `
+      <h1 class="text-lg font-bold text-white leading-snug">${this.escapeHtml(vid.title)}</h1>
+      <p class="text-xs text-[#aaa] mt-1 font-mono">${this.escapeHtml(vid.duration)}</p>
+      <p class="text-xs text-[#ddd] whitespace-pre-line leading-relaxed mt-3">${this.escapeHtml(vid.description)}</p>
+    `;
+  }
+
+  renderIsolatedPage() {
+    const id = this.isolatedVideoId;
+    const vid = this.isolatedVideoData;
+    const host = this.privacyShield ? 'https://www.youtube-nocookie.com' : 'https://www.youtube.com';
+
+    this.root.innerHTML = `
+      <div class="min-h-screen bg-[#0f0f0f] text-[#f1f1f1] flex items-start justify-center p-4 sm:p-10 font-sans select-none">
+        <div class="max-w-3xl w-full flex flex-col gap-4">
+
+          <div class="flex items-center justify-between">
+            <span class="text-xs font-bold px-3 py-1 rounded-full bg-[#272727] text-[#aaa]">Isolated Video &bull; No Suggestions</span>
+            <a href="${window.location.pathname}" class="text-xs text-[#3ea6ff] hover:underline">Exit to FocusTube</a>
+          </div>
+
+          <div class="relative aspect-video w-full bg-black rounded-2xl overflow-hidden shadow-2xl border border-[#272727]">
+            <iframe
+              src="${host}/embed/${id}?rel=0&modestbranding=1"
+              title="${vid ? this.escapeHtml(vid.title) : 'Video player'}"
+              class="w-full h-full border-0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen>
+            </iframe>
+          </div>
+
+          <div id="isolated-embed-fallback" class="hidden bg-[#1f1f1f] border border-[#3f3f3f] rounded-xl p-4 text-sm text-[#ddd] flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
+            <span>This video's owner has disabled embedding, so it can't play here.</span>
+            <a href="https://www.youtube.com/watch?v=${id}" target="_blank" rel="noopener" class="shrink-0 px-4 py-2 bg-red-600 hover:bg-red-700 rounded-full text-white font-bold text-xs">Watch on YouTube</a>
+          </div>
+
+          <div id="isolated-meta">
+            ${vid ? this.renderIsolatedMetaHtml(vid) : `<div class="animate-pulse text-sm text-[#aaa]">Fetching title, duration &amp; description&hellip;</div>`}
+          </div>
+        </div>
+      </div>
+    `;
+
+    if (!vid) {
+      this.fetchIsolatedVideoMeta(id);
+    }
+    this.checkEmbeddable(id, 'isolated-embed-fallback');
   }
 
   loadChannels() {
@@ -127,7 +243,9 @@ class FreeTubeApp {
   init() {
     this.render();
     this.setupEventListeners();
-    this.subscribedChannels.forEach(ch => this.fetchLiveChannelData(ch.id));
+    if (!this.isolatedVideoId) {
+      this.subscribedChannels.forEach(ch => this.fetchLiveChannelData(ch.id));
+    }
   }
 
   async fetchLiveChannelData(channelId) {
@@ -212,6 +330,11 @@ class FreeTubeApp {
   // MAIN RENDER FRAMEWORK
   // ============================================================================
   render() {
+    if (this.isolatedVideoId) {
+      this.renderIsolatedPage();
+      return;
+    }
+
     this.root.innerHTML = `
       <div class="flex flex-col min-h-screen bg-[#0f0f0f] text-[#f1f1f1] select-none font-sans">
         
@@ -698,8 +821,19 @@ class FreeTubeApp {
             </iframe>
           </div>
 
-          <!-- VIDEO TITLE -->
-          <h1 class="text-lg sm:text-xl font-bold text-white leading-snug">${vid.title}</h1>
+          <!-- EMBEDDING-DISABLED FALLBACK (shown only if this video can't be embedded) -->
+          <div id="watch-embed-fallback" class="hidden bg-[#1f1f1f] border border-[#3f3f3f] rounded-xl p-4 text-sm text-[#ddd] flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
+            <span>This video's owner has disabled embedding, so it can't play here.</span>
+            <a href="https://www.youtube.com/watch?v=${vid.id}" target="_blank" rel="noopener" class="shrink-0 px-4 py-2 bg-red-600 hover:bg-red-700 rounded-full text-white font-bold text-xs">Watch on YouTube</a>
+          </div>
+
+          <!-- VIDEO TITLE + ISOLATED MODE LINK -->
+          <div class="flex items-start justify-between gap-4">
+            <h1 class="text-lg sm:text-xl font-bold text-white leading-snug">${vid.title}</h1>
+            <a href="${window.location.pathname}#/v/${vid.id}" target="_blank" rel="noopener" class="shrink-0 text-[11px] px-3 py-1.5 rounded-full bg-[#272727] hover:bg-[#3f3f3f] text-[#aaa] hover:text-white transition whitespace-nowrap" title="Open this video alone, with no recommendations or feed">
+              Open Isolated
+            </a>
+          </div>
 
           <!-- CHANNEL INFO & ACTIONS ROW -->
           <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-4 border-b border-[#272727]">
@@ -775,6 +909,10 @@ class FreeTubeApp {
   }
 
   attachWatchPageListeners() {
+    if (this.watchVideo) {
+      this.checkEmbeddable(this.watchVideo.id, 'watch-embed-fallback');
+    }
+
     const backBtn = document.getElementById('watch-back-btn');
     if (backBtn) {
       backBtn.onclick = () => {

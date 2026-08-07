@@ -4,11 +4,6 @@
  * Strictly adheres to vanilla ES6 JavaScript (No .ts/.tsx).
  */
 
-import { publicDecrypt } from "crypto";
-import { channel } from "diagnostics_channel";
-import { view } from "motion/react-client";
-import { title } from "process";
-
 // ============================================================================
 // USER CONFIGURATION: PINNED & SUBSCRIBED CHANNELS
 // Users or developers can write/edit channel links directly here in the main codebase.
@@ -1987,14 +1982,6 @@ Lectured by: Maksudul Hossain Jewel`
 Lecture: Wave
 Subject: Physics
 Topic: General Discussion about Wave
-      {
-        id: "Y2-6OInzV44",
-        title: "01. General Discussion about Wave | তরঙ্গ সম্পর্কীয় সাধারণ আলোচনা",
-        duration: "21:37",
-        thumbnail: "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        
 Class: HSC 1st Year
 Lectured by: Sourov Bijoy`
       },  
@@ -2512,6 +2499,624 @@ Class: HSC 2nd Year
 Lectured by: Sourov Bijoy`
       },
 
+// Static Electricity
+  {
+    id: "xrQEx2MoTMQ",
+    title: "01. Coulomb's Law (Introduction) | কুলম্বের সূত্র | OnnoRokom Pathshala",
+    duration: "16:23",
+    thumbnail: "https://i.ytimg.com/vi/xrQEx2MoTMQ/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics (Coulomb's Law)
+Subject: Physics
+Topic: Coulomb's Law (Introduction)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "EQEMhTtgPQ0",
+    title: "02. Coulomb's Law (Vector Form) | কুলম্বের সূত্র ভেক্টর Form | OnnoRokom Pathshala",
+    duration: "3:36",
+    thumbnail: "https://i.ytimg.com/vi/EQEMhTtgPQ0/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics (Coulomb's Law)
+Subject: Physics
+Topic: Coulomb's Law (Vector Form)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "EdaW3hHmEUw",
+    title: "03. Electric Field Strength due to Point Charge | বিন্দু আধানের দ্বারা সৃষ্ট তড়িৎ ক্ষেত্র প্রাবল্য",
+    duration: "12:59",
+    thumbnail: "https://i.ytimg.com/vi/EdaW3hHmEUw/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Electric Field Strength due to Point Charge
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "3bVFmivyOFo",
+    title: "04.00. Apply of the Formula | সূত্রের ব্যবহার | OnnoRokom Pathshala",
+    duration: "4:23",
+    thumbnail: "https://i.ytimg.com/vi/3bVFmivyOFo/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Apply of the Formula
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "5OZKRhBEu5A",
+    title: "04.01. Mathematical Problem (Electric Field Strength) Part 1",
+    duration: "20:16",
+    thumbnail: "https://i.ytimg.com/vi/5OZKRhBEu5A/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Mathematical Problem (Electric Field Strength) Part 1
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "yPAeKKvCqpI",
+    title: "04.01. Mathematical Problem (Electric Field Strength) Part 2 | গাণিতিক সমস্যা (তড়িৎ প্রাবল্য) পর্ব ২",
+    duration: "20:07",
+    thumbnail: "https://i.ytimg.com/vi/yPAeKKvCqpI/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Mathematical Problem (Electric Field Strength) Part 2
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "Wd6PVZSO7Wg",
+    title: "04.01. Mathematical Problem (Electric Field Strength) Part 3 | গাণিতিক সমস্যা (তড়িৎ প্রাবল্য) পর্ব ৩",
+    duration: "21:27",
+    thumbnail: "https://i.ytimg.com/vi/Wd6PVZSO7Wg/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Mathematical Problem (Electric Field Strength) Part 3
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "QxFNmsjXDcY",
+    title: "05. Electric Potential due to Point Charge | বিন্দু আধানের দ্বারা সৃষ্ট তড়িৎ বিভব",
+    duration: "26:16",
+    thumbnail: "https://i.ytimg.com/vi/QxFNmsjXDcY/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Electric Potential due to Point Charge
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "w8gHVx93XCo",
+    title: "06. Electric Potential (Review) | তড়িৎ বিভব (Review) | OnnoRokom Pathshala",
+    duration: "14:23",
+    thumbnail: "https://i.ytimg.com/vi/w8gHVx93XCo/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Electric Potential (Review)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "gL33vAOh8Pc",
+    title: "07. Potential Difference and Field Strength V=-∫Edr - Part 01 | বিভব পার্থক্য ও ক্ষেত্র প্রাবল্য",
+    duration: "18:14",
+    thumbnail: "https://i.ytimg.com/vi/gL33vAOh8Pc/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Potential Difference and Field Strength
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "idn05E0Zh8k",
+    title: "07. Potential Difference and Field Strength V=-∫Edr Part 02 | বিভব পার্থক্য ও ক্ষেত্র প্রাবল্য",
+    duration: "17:40",
+    thumbnail: "https://i.ytimg.com/vi/idn05E0Zh8k/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Potential Difference and Field Strength Part 2
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "K_m47hUzloY",
+    title: "08. Potential Difference and Field Strength E=-dv/dr | বিভব পার্থক্য ও ক্ষেত্র প্রাবল্য E=-dv/dr",
+    duration: "11:21",
+    thumbnail: "https://i.ytimg.com/vi/K_m47hUzloY/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Potential Difference and Field Strength E=-dv/dr
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "n3HAuDLH5zs",
+    title: "09. Equipotential Surface | সমবিভব তল | OnnoRokom Pathshala",
+    duration: "11:36",
+    thumbnail: "https://i.ytimg.com/vi/n3HAuDLH5zs/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Equipotential Surface
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "UvIBl58aSU0",
+    title: "10. Dipole | ডাইপোল | OnnoRokom Pathshala",
+    duration: "19:50",
+    thumbnail: "https://i.ytimg.com/vi/UvIBl58aSU0/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Dipole
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "vgQVB4Q2sns",
+    title: "11. Vector Direction of Dipole | ডাইপোল এর Direction | OnnoRokom Pathshala",
+    duration: "8:03",
+    thumbnail: "https://i.ytimg.com/vi/vgQVB4Q2sns/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Vector Direction of Dipole
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "cPf1WSuKg1w",
+    title: "12. Potential Energy of a Dipole in Electric Field | ডাইপোলে সঞ্চিত বিভব শক্তি",
+    duration: "20:22",
+    thumbnail: "https://i.ytimg.com/vi/cPf1WSuKg1w/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Potential Energy of a Dipole in Electric Field
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "x4fGNy9inho",
+    title: "13. ডাইপোলে সঞ্চিত বিভব শক্তি এর Physical Significance | OnnoRokom Pathshala",
+    duration: "20:54",
+    thumbnail: "https://i.ytimg.com/vi/x4fGNy9inho/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Physical Significance of Dipole Potential Energy
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "O-Ly_MpqoQE",
+    title: "14. Potential Energy of Dipole | ডাইপোল এর বিভব | OnnoRokom Pathshala",
+    duration: "23:55",
+    thumbnail: "https://i.ytimg.com/vi/O-Ly_MpqoQE/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Potential Energy of Dipole
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "LETlg93BR3o",
+    title: "15. Potential Energy of a Point due to Electric Field of Dipole",
+    duration: "15:44",
+    thumbnail: "https://i.ytimg.com/vi/LETlg93BR3o/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Potential Energy of a Point due to Electric Field of Dipole
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "nSQExLSkG2I",
+    title: "16. ডাইপোল ক্ষেত্রে উপস্থিত বিন্দুর ক্ষেত্রপাবল্য পর্ব ১ | OnnoRokom Pathshala",
+    duration: "16:29",
+    thumbnail: "https://i.ytimg.com/vi/nSQExLSkG2I/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Electric Field Strength at a Point in Dipole Field Part 1
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "CjSYqig_tgM",
+    title: "16. ডাইপোল ক্ষেত্রে উপস্থিত বিন্দুর ক্ষেত্রপাবল্য পর্ব ২ | OnnoRokom Pathshala",
+    duration: "19:55",
+    thumbnail: "https://i.ytimg.com/vi/CjSYqig_tgM/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Electric Field Strength at a Point in Dipole Field Part 2
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "CK20Le4uNLQ",
+    title: "17. Direction of Electric Field Strength due to Electric Field of Dipole",
+    duration: "11:07",
+    thumbnail: "https://i.ytimg.com/vi/CK20Le4uNLQ/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Direction of Electric Field Strength due to Dipole
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "vblMF4QJdEE",
+    title: "18. Capacitor | ধারক | OnnoRokom Pathshala",
+    duration: "14:13",
+    thumbnail: "https://i.ytimg.com/vi/vblMF4QJdEE/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Capacitor
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "SAzkZCc9dos",
+    title: "19. Capacitance of a Spherical Conductor Part 01 | গোলাকার পরিবাহকের ধারকত্ব",
+    duration: "10:56",
+    thumbnail: "https://i.ytimg.com/vi/SAzkZCc9dos/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Capacitance of a Spherical Conductor Part 1
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "Q2xtCzRh6ho",
+    title: "19. Capacitance of a Spherical Conductor Part 02 | গোলাকার পরিবাহকের ধারকত্ব",
+    duration: "11:29",
+    thumbnail: "https://i.ytimg.com/vi/Q2xtCzRh6ho/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Capacitance of a Spherical Conductor Part 2
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "EcJ7vv9bkC8",
+    title: "20. Parallel Plate Capacitor | সমান্তরাল পাত ধারক | OnnoRokom Pathshala",
+    duration: "8:03",
+    thumbnail: "https://i.ytimg.com/vi/EcJ7vv9bkC8/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Parallel Plate Capacitor
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "4RN-nDGhXK8",
+    title: "21. Parallel Plate Capacitor (Capacitance) | সমান্তরাল পাত ধারক (ধারকত্ব)",
+    duration: "9:11",
+    thumbnail: "https://i.ytimg.com/vi/4RN-nDGhXK8/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Parallel Plate Capacitor Capacitance
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "1lVrGHcsGVo",
+    title: "22. Permittivity (Capacitance) | ভেদনযোগ্যতা - ধারকত্ব | OnnoRokom Pathshala",
+    duration: "9:46",
+    thumbnail: "https://i.ytimg.com/vi/1lVrGHcsGVo/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Electrostatics
+Subject: Physics
+Topic: Permittivity (Capacitance)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "0gBD0GyuOeQ",
+    title: "01. Gauss's law Part 01_Coulomb's law | গাউসের সূত্র পর্ব ০১_কুলম্বের সূত্র | OnnoRokom Pathshala",
+    duration: "9:11",
+    thumbnail: "https://i.ytimg.com/vi/0gBD0GyuOeQ/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Gauss's Law
+Subject: Physics
+Topic: Gauss's law Part 1 (Coulomb's law)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "gXqQ2K_or1s",
+    title: "01. Gauss's law Part 02_Perpendicular Component of Vector | গাউসের সূত্র পর্ব ০২_ভেক্টরের লম্ব উপাংশ",
+    duration: "13:51",
+    thumbnail: "https://i.ytimg.com/vi/gXqQ2K_or1s/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Gauss's Law
+Subject: Physics
+Topic: Gauss's law Part 2 (Perpendicular Component of Vector)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "HJj99FjuPjk",
+    title: "02. Gauss's law Part 03_Vector Components | গাউসের সূত্র পর্ব ০৩_ভেক্টর উপাংশ",
+    duration: "8:33",
+    thumbnail: "https://i.ytimg.com/vi/HJj99FjuPjk/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Gauss's Law
+Subject: Physics
+Topic: Gauss's law Part 3 (Vector Components)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "E8wXS25PNNw",
+    title: "03. Electric Flux Part 01_Field Line 1 | তড়িৎ ফ্লাক্স পর্ব ০১_ফিল্ড লাইন ১ | OnnoRokom Pathshala",
+    duration: "8:02",
+    thumbnail: "https://i.ytimg.com/vi/E8wXS25PNNw/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Gauss's Law
+Subject: Physics
+Topic: Electric Flux Part 1 (Field Line 1)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "zlMUs5EqGZg",
+    title: "03. Electric Flux Part 02_Field Line 2 | তড়িৎ ফ্লাক্স পর্ব ০২_ফিল্ড লাইন ২ | OnnoRokom Pathshala",
+    duration: "13:41",
+    thumbnail: "https://i.ytimg.com/vi/zlMUs5EqGZg/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Gauss's Law
+Subject: Physics
+Topic: Electric Flux Part 2 (Field Line 2)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "AARFPwO_4Yg",
+    title: "04. Electric Flux Part 03_Area Vector | তড়িৎ ফ্লাক্স পর্ব ০৩_এরিয়া ভেক্টর | OnnoRokom Pathshala",
+    duration: "23:00",
+    thumbnail: "https://i.ytimg.com/vi/AARFPwO_4Yg/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Gauss's Law
+Subject: Physics
+Topic: Electric Flux Part 3 (Area Vector)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "d5h5DTA4yqc",
+    title: "05. Electric Flux Part 04_Flux | তড়িৎ ফ্লাক্স পর্ব ০৪_ফ্লাক্স | OnnoRokom Pathshala",
+    duration: "10:57",
+    thumbnail: "https://i.ytimg.com/vi/d5h5DTA4yqc/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Gauss's Law
+Subject: Physics
+Topic: Electric Flux Part 4 (Flux)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "r4ADSD6NS_g",
+    title: "06. Electric Flux Part 05_Dot Product | তড়িৎ ফ্লাক্স পর্ব ০৫_ডট গুণফল | OnnoRokom Pathshala",
+    duration: "7:56",
+    thumbnail: "https://i.ytimg.com/vi/r4ADSD6NS_g/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Gauss's Law
+Subject: Physics
+Topic: Electric Flux Part 5 (Dot Product)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "Mt-8-hZOpfU",
+    title: "07. Gauss's Law Part 01 | গাউসের সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "26:56",
+    thumbnail: "https://i.ytimg.com/vi/Mt-8-hZOpfU/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Gauss's Law
+Subject: Physics
+Topic: Gauss's Law Part 1
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "dgyRX5Hojgo",
+    title: "07. Gauss's Law Part 02 | গাউসের সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "12:20",
+    thumbnail: "https://i.ytimg.com/vi/dgyRX5Hojgo/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Gauss's Law
+Subject: Physics
+Topic: Gauss's Law Part 2
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "xMA1sjlGVs4",
+    title: "08. Gauss's Law Part 03_Hollow Sphere 1 | গাউসের সূত্র পর্ব ০৩ _ফাঁপা গোলকের ক্ষেত্রপ্রাবল্য ১",
+    duration: "11:56",
+    thumbnail: "https://i.ytimg.com/vi/xMA1sjlGVs4/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Gauss's Law
+Subject: Physics
+Topic: Gauss's Law Part 3 (Hollow Sphere Field Strength 1)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "T4MuYVlVmuI",
+    title: "08. Gauss's Law Part 03_Hollow Sphere 2 | গাউসের সূত্র পর্ব ০৩ _ফাঁপা গোলকের ক্ষেত্রপ্রাবল্য ২",
+    duration: "17:29",
+    thumbnail: "https://i.ytimg.com/vi/T4MuYVlVmuI/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Gauss's Law
+Subject: Physics
+Topic: Gauss's Law Part 3 (Hollow Sphere Field Strength 2)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "w4Lho9cvw_8",
+    title: "08. Gauss's Law Part 03_Hollow Sphere 3 | গাউসের সূত্র পর্ব ০৩ _ফাঁপা গোলকের ক্ষেত্রপ্রাবল্য ৩",
+    duration: "15:01",
+    thumbnail: "https://i.ytimg.com/vi/w4Lho9cvw_8/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Gauss's Law
+Subject: Physics
+Topic: Gauss's Law Part 3 (Hollow Sphere Field Strength 3)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "AF2hl9Yu0bI",
+    title: "09. Gauss's Law Part 06_Solid Sphere 1 | গাউসের সূত্র পর্ব ০৬_নিরেট গোলকের ক্ষেত্রপ্রাবল্য ১",
+    duration: "14:42",
+    thumbnail: "https://i.ytimg.com/vi/AF2hl9Yu0bI/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Gauss's Law
+Subject: Physics
+Topic: Gauss's Law Part 6 (Solid Sphere Field Strength 1)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "Q8m8doabVB0",
+    title: "09. Gauss's Law Part 06_Solid Sphere 2 | গাউসের সূত্র পর্ব ০৬_নিরেট গোলকের ক্ষেত্রপ্রাবল্য ২",
+    duration: "17:33",
+    thumbnail: "https://i.ytimg.com/vi/Q8m8doabVB0/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Gauss's Law
+Subject: Physics
+Topic: Gauss's Law Part 6 (Solid Sphere Field Strength 2)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "sRX3M2H5b8s",
+    title: "10. Gauss's Law Part 08_Infinite Wire | গাউসের সূত্র পর্ব ০৮_অসীম তারের ক্ষেত্রপ্রাবল্য",
+    duration: "21:44",
+    thumbnail: "https://i.ytimg.com/vi/sRX3M2H5b8s/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Gauss's Law
+Subject: Physics
+Topic: Gauss's Law Part 8 (Infinite Wire Field Strength)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  }
+
     ],
     playlists: [
       {
@@ -2561,7 +3166,16 @@ Lectured by: Sourov Bijoy`
         videoCount: 30,
         thumbnail: "https://i.ytimg.com/vi/jgsnZoZ-hVg/hqdefault.jpg",
         updatedText: "Updated 1 week ago",
-        videos: ["jgsnZoZ-hVg", "idxuC5TzCgU", "Fl822BDrcN0", "tsEpmGRwwFw", "wCc3e1LE9-s", "GVoQGv5V-8w", "VlSByMqhQGM", "oJogS-Kv-4w", "DkT9szIPS-w", "vrfc3GebITQ", "PlpNd6zcSeU", "U9QRfxy22yM", "j1x4niLVbYQ", "PfSONKumv2A", "Vu1y7BuOIh0", "Op6xiICaoOo", "RrstMhs1oPg", "JF_BD5zSxPw", "qOtMqwZpTrM", "dlEh1U1ei5I", "dlEh1U1ei5I", "-ZbvpldoW8wxc", "SE5bmqIBjZY", "hsO2bC-GQXk", "j8H4WyxAKxI", "LHZ1WA34bgg", "sPjboJPiV7Y", "ES1C2hmceNY", "fEz2ifplYhs"]      },
+        videos: ["jgsnZoZ-hVg", "idxuC5TzCgU", "Fl822BDrcN0", "tsEpmGRwwFw", "wCc3e1LE9-s", "GVoQGv5V-8w", "VlSByMqhQGM", "oJogS-Kv-4w", "DkT9szIPS-w", "vrfc3GebITQ", "PlpNd6zcSeU", "U9QRfxy22yM", "j1x4niLVbYQ", "PfSONKumv2A", "Vu1y7BuOIh0", "Op6xiICaoOo", "RrstMhs1oPg", "JF_BD5zSxPw", "qOtMqwZpTrM", "dlEh1U1ei5I", "dlEh1U1ei5I", "-ZbvpldoW8wxc", "SE5bmqIBjZY", "hsO2bC-GQXk", "j8H4WyxAKxI", "LHZ1WA34bgg", "sPjboJPiV7Y", "ES1C2hmceNY", "fEz2ifplYhs"]      
+      },
+{
+        id: "Physics_Static_Electricity_05",
+        title: "Physics Static Electricity (স্থির তড়িৎ)",
+        videoCount: 44,
+        thumbnail: "https://i.ytimg.com/vi/xrQEx2MoTMQ/hqdefault.jpg",
+        updatedText: "Updated 1 week ago",
+        videos: ["xrQEx2MoTMQ", "EQEMhTtgPQ0", "EdaW3hHmEUw", "3bVFmivyOFo", "5OZKRhBEu5A", "yPAeKKvCqpI", "Wd6PVZSO7Wg", "QxFNmsjXDcY", "w8gHVx93XCo", "gL33vAOh8Pc", "idn05E0Zh8k", "K_m47hUzloY", "n3HAuDLH5zs", "UvIBl58aSU0", "vgQVB4Q2sns", "cPf1WSuKg1w", "x4fGNy9inho", "O-Ly_MpqoQE", "LETlg93BR3o", "nSQExLSkG2I", "CjSYqig_tgM", "CK20Le4uNLQ", "vblMF4QJdEE", "SAzkZCc9dos", "Q2xtCzRh6ho", "EcJ7vv9bkC8", "4RN-nDGhXK8", "1lVrGHcsGVo", "0gBD0GyuOeQ", "gXqQ2K_or1s", "HJj99FjuPjk", "E8wXS25PNNw", "zlMUs5EqGZg", "AARFPwO_4Yg", "d5h5DTA4yqc", "r4ADSD6NS_g", "Mt-8-hZOpfU", "dgyRX5Hojgo", "xMA1sjlGVs4", "T4MuYVlVmuI", "w4Lho9cvw_8", "AF2hl9Yu0bI", "Q8m8doabVB0", "sRX3M2H5b8s"],
+      },
     ] 
   } 
 };
