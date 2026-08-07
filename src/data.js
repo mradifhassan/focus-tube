@@ -2355,150 +2355,160 @@ SHO - Angular Frequency vs  Angular Velocity.`
         description: `My Million$ Video - Angular Velocity vs Angular Frequency - it's a MUST`
       },
 // Thermodynamics
-      {
-        id: "63P4qKc3V8w",
-        title: "01. General Discussion about Thermodynamics | তাপ গতিবিদ্যার সাধারণ আলোচনা",
-        duration: "4:03",
-        thumbnail: "https://i.ytimg.com/vi/63P4qKc3V8w/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `Video Title: OnnoRokom Pathshala
+  {
+    id: "63P4qKc3V8w",
+    title: "01. General Discussion about Thermodynamics | তাপ গতিবিদ্যার সাধারণ আলোচনা",
+    duration: "Unknown",
+    thumbnail: "https://i.ytimg.com/vi/63P4qKc3V8w/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
 Lecture: Thermodynamics
 Subject: Physics
+Topic: General Discussion about Thermodynamics
 Class: HSC 2nd Year
-Lectured by: Sourov Bijoy`
-      },
-      {
-        id: "pJUHbfe-t74",
-        title: "02. Temperature Scale | তাপমাত্রার স্কেল | OnnoRokom Pathshala",
-        duration: "8:02",
-        thumbnail: "https://i.ytimg.com/vi/pJUHbfe-t74/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `Video Title: OnnoRokom Pathshala
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "pJUHbfe-t74",
+    title: "02. Temperature Scale | তাপমাত্রার স্কেল | OnnoRokom Pathshala",
+    duration: "8:03",
+    thumbnail: "https://i.ytimg.com/vi/pJUHbfe-t74/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
 Lecture: Thermodynamics
 Subject: Physics
+Topic: Temperature Scale
 Class: HSC 2nd Year
-Lectured by: Sourov Bijoy`
-      },
-      {
-        id: "Jfcff-LpDcI",
-        title: "03. Relation Between Different Temperature Scales | বিভিন্ন তাপমাত্রার স্কেলের মধ্যে সম্পর্ক",
-        duration: "4:03",
-        thumbnail: "https://i.ytimg.com/vi/Jfcff-LpDcI/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `Video Title: OnnoRokom Pathshala
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "Jfcff-LpDcI",
+    title: "03. Relation Between Different Temperature Scales | বিভিন্ন তাপমাত্রার স্কেলের মধ্যে সম্পর্ক",
+    duration: "8:39",
+    thumbnail: "https://i.ytimg.com/vi/Jfcff-LpDcI/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
 Lecture: Thermodynamics
 Subject: Physics
+Topic: Relation Between Different Temperature Scales
 Class: HSC 2nd Year
-Lectured by: Sourov Bijoy`
-      },
-            {
-        id: "KTn5x5-nfBk",
-        title: "04. 1st Law of Thermodynamics | তাপগতিবিদ্যার প্রথম সূত্র | OnnoRokom Pathshala",
-        duration: "5:11",
-        thumbnail: "https://i.ytimg.com/vi/KTn5x5-nfBk/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `Video Title: OnnoRokom Pathshala
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "KTn5x5-nfBk",
+    title: "04. 1st Law of Thermodynamics | তাপগতিবিদ্যার প্রথম সূত্র | OnnoRokom Pathshala",
+    duration: "5:12",
+    thumbnail: "https://i.ytimg.com/vi/KTn5x5-nfBk/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
 Lecture: Thermodynamics
 Subject: Physics
+Topic: 1st Law of Thermodynamics
 Class: HSC 2nd Year
-Lectured by: Sourov Bijoy`
-      },
-            {
-        id: "D6-f57zKW2I",
-        title: "05. Uses of 1st law of thermodynamics | তাপগতিবিদ্যার প্রথম সূত্রের ব্যবহার",
-        duration: "12:20",
-        thumbnail: "https://i.ytimg.com/vi/D6-f57zKW2I/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `Video Title: OnnoRokom Pathshala
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "D6-f57zKW2I",
+    title: "05. Uses of 1st law of thermodynamics | তাপগতিবিদ্যার প্রথম সূত্রের ব্যবহার",
+    duration: "12:21",
+    thumbnail: "https://i.ytimg.com/vi/D6-f57zKW2I/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
 Lecture: Thermodynamics
 Subject: Physics
+Topic: Uses of 1st Law of Thermodynamics
 Class: HSC 2nd Year
-Lectured by: Sourov Bijoy`
-      },
-            {
-        id: "uX7cj9dzZeQ",
-        title: "06. Equation for work done | কৃতকাজের সমীকরণ | OnnoRokom Pathshala",
-        duration: "18:54",
-        thumbnail: "https://i.ytimg.com/vi/uX7cj9dzZeQ/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `Video Title: OnnoRokom Pathshala
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "uX7cj9dzZeQ",
+    title: "06. Equation for work done | কৃতকাজের সমীকরণ | OnnoRokom Pathshala",
+    duration: "18:55",
+    thumbnail: "https://i.ytimg.com/vi/uX7cj9dzZeQ/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
 Lecture: Thermodynamics
 Subject: Physics
+Topic: Equation for Work Done
 Class: HSC 2nd Year
-Lectured by: Sourov Bijoy`
-      },
-            {
-        id: "QCcCUImjKLA",
-        title: "07. Adiabatic process | রুদ্ধতাপীয় প্রক্রিয়া | OnnoRokom Pathshala",
-        duration: "16:22",
-        thumbnail: "https://i.ytimg.com/vi/QCcCUImjKLA/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `Video Title: OnnoRokom Pathshala
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "QCcCUImjKLA",
+    title: "07. Adiabatic process | রুদ্ধতাপীয় প্রক্রিয়া | OnnoRokom Pathshala",
+    duration: "16:23",
+    thumbnail: "https://i.ytimg.com/vi/QCcCUImjKLA/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
 Lecture: Thermodynamics
 Subject: Physics
+Topic: Adiabatic Process
 Class: HSC 2nd Year
-Lectured by: Sourov Bijoy`
-      },
-            {
-        id: "iIemQlMJLxI",
-        title: "08. 2nd Law of Thermodynamics | তাপগতিবিদ্যার ২য় সূত্র | OnnoRokom Pathshala",
-        duration: "3:33",
-        thumbnail: "https://i.ytimg.com/vi/iIemQlMJLxI/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `Video Title: OnnoRokom Pathshala
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "iIemQlMJLxI",
+    title: "08. 2nd Law of Thermodynamics | তাপগতিবিদ্যার ২য় সূত্র | OnnoRokom Pathshala",
+    duration: "3:34",
+    thumbnail: "https://i.ytimg.com/vi/iIemQlMJLxI/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
 Lecture: Thermodynamics
 Subject: Physics
+Topic: 2nd Law of Thermodynamics
 Class: HSC 2nd Year
-Lectured by: Sourov Bijoy`
-      },
-            {
-        id: "e3RBNBfq_yY",
-        title: "09. Entropy | এনট্রপি | OnnoRokom Pathshala",
-        duration: "5:57",
-        thumbnail: "https://i.ytimg.com/vi/e3RBNBfq_yY/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `Video Title: OnnoRokom Pathshala
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "e3RBNBfq_yY",
+    title: "09. Entropy | এনট্রপি | OnnoRokom Pathshala",
+    duration: "5:58",
+    thumbnail: "https://i.ytimg.com/vi/e3RBNBfq_yY/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
 Lecture: Thermodynamics
 Subject: Physics
+Topic: Entropy
 Class: HSC 2nd Year
-Lectured by: Sourov Bijoy`
-      },
-       {
-        id: "LUacLjVUsx4",
-        title: "10. Reversible and Non-reversible process | প্রত্যাবর্তী এবং অপ্রত্যাবর্তী প্রক্রিয়া",
-        duration: "8:20",
-        thumbnail: "https://i.ytimg.com/vi/LUacLjVUsx4/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `Video Title: OnnoRokom Pathshala
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "LUacLjVUsx4",
+    title: "10. Reversible and Non-reversible process | প্রত্যাবর্তী এবং অপ্রত্যাবর্তী প্রক্রিয়া",
+    duration: "8:21",
+    thumbnail: "https://i.ytimg.com/vi/LUacLjVUsx4/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
 Lecture: Thermodynamics
 Subject: Physics
+Topic: Reversible and Non-reversible Process
 Class: HSC 2nd Year
-Lectured by: Sourov Bijoy`
-      },
-            {
-        id: "R6xA5OUAe_g",
-        title: "11. Carnot Engine and Refrigerator | কার্নোর ইঞ্জিন এবং কার্নোর রেফ্রিজারেটর",
-        duration: "20:57",
-        thumbnail: "https://i.ytimg.com/vi/R6xA5OUAe_g/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `Video Title: OnnoRokom Pathshala
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "R6xA5OUAe_g",
+    title: "11. Carnot Engine and Refrigerator | কার্নোর ইঞ্জিন এবং কার্নোর রেফ্রিজারেটর",
+    duration: "20:58",
+    thumbnail: "https://i.ytimg.com/vi/R6xA5OUAe_g/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
 Lecture: Thermodynamics
 Subject: Physics
+Topic: Carnot Engine and Refrigerator
 Class: HSC 2nd Year
-Lectured by: Sourov Bijoy`
-      },
-
+Lectured by: OnnoRokom Pathshala`
+  },
 // Static Electricity
   {
     id: "xrQEx2MoTMQ",
@@ -3115,10 +3125,427 @@ Subject: Physics
 Topic: Gauss's Law Part 8 (Infinite Wire Field Strength)
 Class: HSC 2nd Year
 Lectured by: OnnoRokom Pathshala`
+  },
+// Ideal Gas
+  {
+    id: "dXpY7BlBPuQ",
+    title: "01. সম্পৃক্ত এবং অসম্পৃক্ত (আপেক্ষিক আর্দ্রতা) পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "12:57",
+    thumbnail: "https://i.ytimg.com/vi/dXpY7BlBPuQ/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Saturated and Unsaturated (Relative Humidity) Part 01
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "dqmZ-Ex8W4Y",
+    title: "01. Saturated and Unsaturated (Relative Humidity) Part 02 | OnnoRokom Pathshala",
+    duration: "14:59",
+    thumbnail: "https://i.ytimg.com/vi/dqmZ-Ex8W4Y/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Saturated and Unsaturated (Relative Humidity) Part 02
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "zKu9i_P4PSI",
+    title: "02. Saturated and Unsaturated (Dew Point) | সম্পৃক্ত এবং অসম্পৃক্ত (শিশিরাঙ্ক)",
+    duration: "10:32",
+    thumbnail: "https://i.ytimg.com/vi/zKu9i_P4PSI/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Saturated and Unsaturated (Dew Point)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "bXV8mqvxnaU",
+    title: "03. Saturated and Unsaturated (Vapor Pressure) | সম্পৃক্ত এবং অসম্পৃক্ত (জলীয় বাস্পচাপ)",
+    duration: "16:21",
+    thumbnail: "https://i.ytimg.com/vi/bXV8mqvxnaU/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Saturated and Unsaturated (Vapor Pressure)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "oKVKlLSpYhY",
+    title: "04. Mathematical Problem (Relative Humidity) | Mathematical Problem (Relative Humidity)",
+    duration: "9:16",
+    thumbnail: "https://i.ytimg.com/vi/oKVKlLSpYhY/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Mathematical Problem (Relative Humidity)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "DCLopZ85Yqo",
+    title: "05. Relative Humidity (Extra) Part 01 | আপেক্ষিক আর্দ্রতা (অতিরিক্ত) পর্ব ০১",
+    duration: "17:39",
+    thumbnail: "https://i.ytimg.com/vi/DCLopZ85Yqo/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Relative Humidity (Extra) Part 01
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "xLeinKZ9dDc",
+    title: "05. Relative Humidity (Extra) Part 02 | আপেক্ষিক আর্দ্রতা (অতিরিক্ত) পর্ব ০২",
+    duration: "12:18",
+    thumbnail: "https://i.ytimg.com/vi/xLeinKZ9dDc/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Relative Humidity (Extra) Part 02
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "o8XkQrh61WM",
+    title: "06. গাণিতিক সমস্যা (গ্লেমিয়ার ধ্রুবক+শিশিরাঙ্ক) | OnnoRokom Pathshala",
+    duration: "35:25",
+    thumbnail: "https://i.ytimg.com/vi/o8XkQrh61WM/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Mathematical Problem (Glaisher's Constant + Dew Point)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "Ba6s8ATJCa8",
+    title: "07. Proof PV=1/3 mNc^2 || Part 01 | OnnoRokom Pathshala",
+    duration: "13:21",
+    thumbnail: "https://i.ytimg.com/vi/Ba6s8ATJCa8/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Proof PV=1/3 mNc^2 Part 01
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "wHeBdhMvwQw",
+    title: "07. Proof PV=1/3 mNc^2 || Part 02 | OnnoRokom Pathshala",
+    duration: "19:45",
+    thumbnail: "https://i.ytimg.com/vi/wHeBdhMvwQw/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Proof PV=1/3 mNc^2 Part 02
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "GwL8NI2tq6c",
+    title: "08. Root Mean Sequence Velocity | বর্গমূল গড় বর্গবেগ | OnnoRokom Pathshala",
+    duration: "14:33",
+    thumbnail: "https://i.ytimg.com/vi/GwL8NI2tq6c/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Root Mean Square Velocity
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "lbKOaPV52mw",
+    title: "09. Final Result PV=1/3 mNc^2 | OnnoRokom Pathshala",
+    duration: "6:18",
+    thumbnail: "https://i.ytimg.com/vi/lbKOaPV52mw/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Final Result PV=1/3 mNc^2
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "mO85Tn8dUUY",
+    title: "10. Review of PV=1/3 mNc^2 | OnnoRokom Pathshala",
+    duration: "2:41",
+    thumbnail: "https://i.ytimg.com/vi/mO85Tn8dUUY/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Review of PV=1/3 mNc^2
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "2oxnrmIk05E",
+    title: "11. By Product of PV=1/3 mNc^2 | OnnoRokom Pathshala",
+    duration: "21:18",
+    thumbnail: "https://i.ytimg.com/vi/2oxnrmIk05E/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: By Product of PV=1/3 mNc^2
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "nq4K-oej0nE",
+    title: "12. Mathematical Problem (RMS velocity) | Mathematical Problem (RMS velocity)",
+    duration: "6:42",
+    thumbnail: "https://i.ytimg.com/vi/nq4K-oej0nE/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Mathematical Problem (RMS velocity)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "UvVt-YowPqc",
+    title: "13. Degrees of Freedom Part 01 | স্বাধীনতার মাত্রা পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "15:34",
+    thumbnail: "https://i.ytimg.com/vi/UvVt-YowPqc/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Degrees of Freedom Part 01
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "WW3N-8BqvYw",
+    title: "13. Degrees of Freedom Part 02 | স্বাধীনতার মাত্রা পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "16:03",
+    thumbnail: "https://i.ytimg.com/vi/WW3N-8BqvYw/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Degrees of Freedom Part 02
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "F0mKJDyXdfA",
+    title: "13. Degrees of Freedom Part 03 | Degrees of Freedom Part 03 | OnnoRokom Pathshala",
+    duration: "20:16",
+    thumbnail: "https://i.ytimg.com/vi/F0mKJDyXdfA/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Degrees of Freedom Part 03
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "T69PVHNW8ek",
+    title: "14. Mathematical Problem (Degrees of Freedom) | গাণিতিক সমস্যা (স্বাধীনতার মাত্রা)",
+    duration: "15:20",
+    thumbnail: "https://i.ytimg.com/vi/T69PVHNW8ek/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Mathematical Problem (Degrees of Freedom)
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "swobTXi6xo8",
+    title: "15. Mean Free Path | গড় মুক্ত পথ | OnnoRokom Pathshala",
+    duration: "18:05",
+    thumbnail: "https://i.ytimg.com/vi/swobTXi6xo8/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Ideal Gas & Kinetic Theory
+Subject: Physics
+Topic: Mean Free Path
+Class: HSC 2nd Year
+Lectured by: OnnoRokom Pathshala`
+  },
+// Dynamics 
+  {
+    id: "JTb6Rs4ZIcI",
+    title: "01. Introduction of Dynamics | গতিবিদ্যা এর সূচনা | OnnoRokom Pathshala",
+    duration: "2:12",
+    thumbnail: "https://i.ytimg.com/vi/JTb6Rs4ZIcI/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Dynamics
+Subject: Physics
+Topic: Introduction of Dynamics
+Class: HSC 1st Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "p0Rc3GcSz2o",
+    title: "02. Introduction of Linear Motion | একমাত্রিক গতির সূচনা | OnnoRokom Pathshala",
+    duration: "7:25",
+    thumbnail: "https://i.ytimg.com/vi/p0Rc3GcSz2o/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Dynamics
+Subject: Physics
+Topic: Introduction of Linear Motion
+Class: HSC 1st Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "NaqK4OMUGRU",
+    title: "03. Mathematics of Linear Motion | Some problems and solutions of one-dimensional motion",
+    duration: "19:35",
+    thumbnail: "https://i.ytimg.com/vi/NaqK4OMUGRU/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Dynamics
+Subject: Physics
+Topic: Mathematics of Linear Motion
+Class: HSC 1st Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "qTaoeE-3Le4",
+    title: "04. Graphs of Linear Motion | একমাত্রিক গতির লেখচিত্র | OnnoRokom Pathshala",
+    duration: "13:21",
+    thumbnail: "https://i.ytimg.com/vi/qTaoeE-3Le4/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Dynamics
+Subject: Physics
+Topic: Graphs of Linear Motion
+Class: HSC 1st Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "Wj8CLwi6iAo",
+    title: "05. Relative Velocity | আপেক্ষিক বেগ | OnnoRokom Pathshala",
+    duration: "25:58",
+    thumbnail: "https://i.ytimg.com/vi/Wj8CLwi6iAo/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Dynamics
+Subject: Physics
+Topic: Relative Velocity
+Class: HSC 1st Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "1jS4sowQf9g",
+    title: "06. Introduction of Projectile Motion | Introduction of Projectile Motion | OnnoRokom Pathshala",
+    duration: "14:05",
+    thumbnail: "https://i.ytimg.com/vi/1jS4sowQf9g/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Dynamics
+Subject: Physics
+Topic: Introduction of Projectile Motion
+Class: HSC 1st Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "pFGBJqojF44",
+    title: "07. Formula of Projectile | প্রাসের সূত্র সমূহ | OnnoRokom Pathshala",
+    duration: "20:56",
+    thumbnail: "https://i.ytimg.com/vi/pFGBJqojF44/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Dynamics
+Subject: Physics
+Topic: Formula of Projectile
+Class: HSC 1st Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "sXc4HLZvDUs",
+    title: "08. Mathematics of projectile | প্রাসের গাণিতিক সমস্যা ও সমাধান",
+    duration: "5:54",
+    thumbnail: "https://i.ytimg.com/vi/sXc4HLZvDUs/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Dynamics
+Subject: Physics
+Topic: Mathematics of Projectile
+Class: HSC 1st Year
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "u53miendGNY",
+    title: "09. Various Types of Projectile | বিভিন্ন প্রকারের প্রাসের গতি | OnnoRokom Pathshala",
+    duration: "15:13",
+    thumbnail: "https://i.ytimg.com/vi/u53miendGNY/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: OnnoRokom Pathshala_Physics
+Lecture: Dynamics
+Subject: Physics
+Topic: Various Types of Projectile
+Class: HSC 1st Year
+Lectured by: OnnoRokom Pathshala`
   }
 
     ],
     playlists: [
+      {
+        id: "Dynamics",
+        title: "Dynamics (গতিবিদ্যা)",
+        videoCount: 9,
+        thumbnail: "https://i.ytimg.com/vi/DWCUCsXoMQc/hqdefault.jpg",
+        updatedText: "Updated yesterday",
+        videos: ["JTb6Rs4ZIcI", "p0Rc3GcSz2o", "NaqK4OMUGRU", "qTaoeE-3Le4", "Wj8CLwi6iAo", "1jS4sowQf9g", "pFGBJqojF44", "sXc4HLZvDUs", "u53miendGNY"]
+      },
+
       {
         id: "Differentiation_01",
         title: "HSC Higher Mathematics 1st Paper: Differentiation (অন্তরীকরণ)",
@@ -3137,7 +3564,7 @@ Lectured by: OnnoRokom Pathshala`
         videos:  ["Y2-6OInzV44", "ZhCQu47G2m4", "hO0vRj4i8RE", "zN5ONZFUFgQ", "Z7cZLp0ZFzU", "9OUNZ6MQmhQ", "aRn13XFKuj0", "GRI173t9t28", "izmEeudNgU4", "yfIiE2csYIc", "J_hYeNvs4EI", "pmCub0w_4OM"] 
       },
       {
-        id: "Physics_Periodic_Motion_02",
+        id: "Physics_Periodic_Motion_01",
         title: "Physics Periodic Motion (পর্যায়বৃত্ত গতি)",
         videoCount: 12,
         thumbnail: "https://i.ytimg.com/vi/LVE9SjOd0Hw/hqdefault.jpg",
@@ -3145,9 +3572,18 @@ Lectured by: OnnoRokom Pathshala`
         videos: ["LVE9SjOd0Hw", "3u_UKd8iTTE", "Hi6Uo6NQ8Zc", "_uqioK_AnbM", "29RYUx1KUu0", "-o7X58xkiXo", "9iWqKmnK3_0", "UhJCLSLHi5M", "bS7SoiY8Gzc", "7B3GW6siIVI", "kB2OYCRCHRA", "9HVn0cLmf3o", "wIgWv1KexOU", "s5q3Ozq8Yg0", "MZ5eKUlO2fU"]
       },
 {
-        id: "Physics_Thermodynamics_03",
+        id: "Physics_Ideal_Gas_02",
+        title: "Physics Ideal Gas (আদর্শ গ্যাস)",
+        videoCount: 11,
+        thumbnail: "https://i.ytimg.com/vi/dXpY7BlBPuQ/hqdefault.jpg",
+        updatedText: "Updated 1 week ago",
+        videos: ["dXpY7BlBPuQ", "dqmZ-Ex8W4Y", "zKu9i_P4PSI", "bXV8mqvxnaU", "oKVKlLSpYhY", "DCLopZ85Yqo", "xLeinKZ9dDc", "o8XkQrh61WM", "Ba6s8ATJCa8", "wHeBdhMvwQw", "GwL8NI2tq6c", "lbKOaPV52mw", "mO85Tn8dUUY", "2oxnrmIk05E", "nq4K-oej0nE", "UvVt-YowPqc", "WW3N-8BqvYw", "F0mKJDyXdfA", "T69PVHNW8ek", "swobTXi6xo8"]
+
+      },
+{
+        id: "Physics_Thermodynamics_02",
         title: "Physics Thermodynamics (তাপগতিবিদ্যা)",
-        videoCount: 3,
+        videoCount: 11,
         thumbnail: "https://i.ytimg.com/vi/63P4qKc3V8w/hqdefault.jpg",
         updatedText: "Updated 1 week ago",
         videos: ["63P4qKc3V8w", "pJUHbfe-t74", "Jfcff-LpDcI", "KTn5x5-nfBk", "D6-f57zKW2I", "uX7cj9dzZeQ", "QCcCUImjKLA", "iIemQlMJLxI", "e3RBNBfq_yY", "LUacLjVUsx4", "R6xA5OUAe_g"]
