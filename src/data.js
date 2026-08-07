@@ -3541,7 +3541,7 @@ Lectured by: OnnoRokom Pathshala`
         id: "Dynamics",
         title: "Dynamics (গতিবিদ্যা)",
         videoCount: 9,
-        thumbnail: "https://i.ytimg.com/vi/DWCUCsXoMQc/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/JTb6Rs4ZIcI/hqdefault.jpg",
         updatedText: "Updated yesterday",
         videos: ["JTb6Rs4ZIcI", "p0Rc3GcSz2o", "NaqK4OMUGRU", "qTaoeE-3Le4", "Wj8CLwi6iAo", "1jS4sowQf9g", "pFGBJqojF44", "sXc4HLZvDUs", "u53miendGNY"]
       },
