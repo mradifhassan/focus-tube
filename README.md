@@ -119,7 +119,7 @@ Now paste the code
 ```bash
 import subprocess
 
-playlist_url = "https://youtube.com/playlist?list=PL0dr4HGr8HPhCx3DT950lsFvJVi0Hi91Q"
+playlist_url = input('Enter playlist url: ')
 
 # Print just the video IDs using --flat-playlist
 command = ["yt-dlp", "--flat-playlist", "--print", "id", playlist_url]
@@ -140,6 +140,7 @@ Or open an editor (i.e. `vim`), paste the code, `esc`, then `:wq` and run the co
 ```bash 
 vim script.py
 python3 script.py
+
 ```
 This will fetch the playlist videos as below-
 ```bash
