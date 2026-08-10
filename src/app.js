@@ -83,12 +83,29 @@ class FreeTubeApp {
     this.channelTab = 'videos'; // 'videos' | 'playlists' | 'about'
     this.searchQuery = '';
     this.feedFilter = 'all'; // 'all' | 'playlists' | 'science' | 'tech' | 'recently'
-    this.sidebarExpanded = true;
+    // Sidebar is a persistent mini/full rail on large screens, a slide-over drawer on small ones.
+    this.sidebarExpanded = window.innerWidth >= 1024;
+    this.isMobile = window.innerWidth < 1024;
+    window.addEventListener('resize', () => {
+      const nowMobile = window.innerWidth < 1024;
+      if (nowMobile !== this.isMobile) {
+        this.isMobile = nowMobile;
+        this.sidebarExpanded = !nowMobile;
+        this.render();
+      }
+    });
     
     // Player Stack
     this.watchVideo = null;
     this.watchHistoryStack = [];
     this.descriptionExpanded = false;
+
+    // Native-style playlist autoplay/queue state
+    this.playlistAutoplay = true;
+    this.playlistRepeat = false;
+    this.playlistShuffle = false;
+    this._ytPlayer = null;
+    this._ytApiPromise = null;
 
     this.dataCache = this.loadCatalog();
     this.root = document.getElementById('root');
@@ -99,11 +116,14 @@ class FreeTubeApp {
 
     // Isolated single-video route (e.g. #/v/dQw4w9WgXcQ)
     // Totally separate from the feed/recommendations — just player + title + duration + description.
-    this.isolatedVideoId = this.parseIsolatedRoute();
+    this.isolatedVideoId = null;
     this.isolatedVideoData = null;
+
+    // Shareable deep-link router: #/channel/<slug>, #/channel/<slug>/playlist/<id>,
+    // #/channel/<slug>/playlist/<id>/video/<n>, #/channel/<slug>/video/<videoId>, #/v/<videoId>
+    this.applyRoute(this.parseRoute(), { initial: true });
     window.addEventListener('hashchange', () => {
-      this.isolatedVideoId = this.parseIsolatedRoute();
-      this.isolatedVideoData = null;
+      this.applyRoute(this.parseRoute());
       this.render();
     });
 
@@ -111,13 +131,178 @@ class FreeTubeApp {
   }
 
   // ============================================================================
-  // ISOLATED SINGLE-VIDEO VIEW (hash route: #/v/VIDEO_ID)
+  // SHAREABLE HASH ROUTER
   // ============================================================================
-  parseIsolatedRoute() {
-    const m = window.location.hash.match(/^#\/v\/([a-zA-Z0-9_-]{6,20})$/);
-    return m ? m[1] : null;
+  slugify(str) {
+    const s = String(str || '')
+      .toLowerCase()
+      .trim()
+      .replace(/[^\p{L}\p{N}]+/gu, '-')
+      .replace(/^-+|-+$/g, '');
+    return s || 'channel';
   }
 
+  resolveChannel(key) {
+    if (!key) return null;
+    const decoded = decodeURIComponent(key);
+    let ch = this.subscribedChannels.find(c => c.id === decoded);
+    if (ch) return ch;
+    const slug = decoded.toLowerCase();
+    return this.subscribedChannels.find(c => this.slugify(c.name) === slug) || null;
+  }
+
+  parseRoute() {
+    const h = window.location.hash;
+
+    let m = h.match(/^#\/v\/([a-zA-Z0-9_-]{6,20})$/);
+    if (m) return { type: 'isolated', videoId: m[1] };
+
+    m = h.match(/^#\/channel\/([^/]+)\/playlist\/([^/]+)\/video\/(\d+)$/);
+    if (m) return { type: 'playlist_video', channelKey: m[1], playlistId: m[2], index: parseInt(m[3], 10) };
+
+    m = h.match(/^#\/channel\/([^/]+)\/playlist\/([^/]+)$/);
+    if (m) return { type: 'playlist', channelKey: m[1], playlistId: m[2] };
+
+    m = h.match(/^#\/channel\/([^/]+)\/video\/([^/]+)$/);
+    if (m) return { type: 'channel_video', channelKey: m[1], videoId: m[2] };
+
+    m = h.match(/^#\/channel\/([^/]+)$/);
+    if (m) return { type: 'channel', channelKey: m[1] };
+
+    if (h === '#/library') return { type: 'library' };
+    if (h === '#/subscriptions') return { type: 'subscriptions' };
+
+    return { type: 'home' };
+  }
+
+  // Applies a parsed route to app state. Does NOT touch the address bar (see syncHash()).
+  applyRoute(route, opts) {
+    opts = opts || {};
+
+    if (route.type === 'isolated') {
+      this.isolatedVideoId = route.videoId;
+      this.isolatedVideoData = null;
+      return;
+    }
+    this.isolatedVideoId = null;
+    this.isolatedVideoData = null;
+
+    if (route.type === 'home') {
+      this.watchVideo = null;
+      this.activeView = 'home';
+      this.selectedChannelId = null;
+      this.selectedPlaylist = null;
+      return;
+    }
+    if (route.type === 'library') {
+      this.watchVideo = null;
+      this.activeView = 'library';
+      this.selectedChannelId = null;
+      this.selectedPlaylist = null;
+      return;
+    }
+    if (route.type === 'subscriptions') {
+      this.watchVideo = null;
+      this.activeView = 'subscriptions';
+      this.selectedChannelId = null;
+      this.selectedPlaylist = null;
+      return;
+    }
+
+    // On the very first load, catalogs are populated synchronously from local cache/builtin data,
+    // so channel/playlist/video routes can resolve immediately even before live fetches complete.
+    const ch = this.resolveChannel(route.channelKey);
+    if (!ch) {
+      this.activeView = 'home';
+      return;
+    }
+    this.selectedChannelId = ch.id;
+
+    if (route.type === 'channel') {
+      this.watchVideo = null;
+      this.activeView = 'channel';
+      this.selectedPlaylist = null;
+      this.channelTab = 'videos';
+      return;
+    }
+
+    if (route.type === 'playlist' || route.type === 'playlist_video') {
+      const pls = this.getAllCachedPlaylists();
+      const decodedPlId = decodeURIComponent(route.playlistId);
+      const pl = pls.find(p => p.id === decodedPlId && p.channelId === ch.id) || pls.find(p => p.id === decodedPlId);
+      if (!pl) {
+        this.watchVideo = null;
+        this.activeView = 'channel';
+        return;
+      }
+      this.selectedPlaylist = pl;
+      if (route.type === 'playlist') {
+        this.watchVideo = null;
+        this.activeView = 'playlist_detail';
+      } else {
+        const vidId = pl.videos && pl.videos[route.index - 1];
+        if (vidId) {
+          const allVids = this.getAllCachedVideos();
+          this.watchVideo = allVids.find(v => v.id === vidId) || { id: vidId, title: 'Video', channelId: ch.id, channelName: ch.name };
+        }
+      }
+      return;
+    }
+
+    if (route.type === 'channel_video') {
+      const allVids = this.getAllCachedVideos();
+      const vidId = decodeURIComponent(route.videoId);
+      this.watchVideo = allVids.find(v => v.id === vidId) || { id: vidId, title: 'Video', channelId: ch.id, channelName: ch.name };
+      this.selectedPlaylist = null;
+      return;
+    }
+  }
+
+  // Builds the canonical shareable hash for the current app state and writes it to the
+  // address bar via pushState (no hashchange fires, so this never causes a re-render loop).
+  buildRouteHash() {
+    if (this.isolatedVideoId) return `#/v/${this.isolatedVideoId}`;
+
+    if (this.watchVideo) {
+      const ch = this.subscribedChannels.find(c => c.id === this.watchVideo.channelId);
+      const chKey = encodeURIComponent(ch ? this.slugify(ch.name) : (this.watchVideo.channelId || 'channel'));
+      if (this.selectedPlaylist && Array.isArray(this.selectedPlaylist.videos)) {
+        const idx = this.selectedPlaylist.videos.indexOf(this.watchVideo.id);
+        if (idx >= 0) {
+          return `#/channel/${chKey}/playlist/${encodeURIComponent(this.selectedPlaylist.id)}/video/${idx + 1}`;
+        }
+      }
+      return `#/channel/${chKey}/video/${encodeURIComponent(this.watchVideo.id)}`;
+    }
+
+    if (this.activeView === 'playlist_detail' && this.selectedPlaylist) {
+      const owner = this.subscribedChannels.find(c => c.id === this.selectedPlaylist.channelId);
+      const chKey = encodeURIComponent(owner ? this.slugify(owner.name) : (this.selectedPlaylist.channelId || 'channel'));
+      return `#/channel/${chKey}/playlist/${encodeURIComponent(this.selectedPlaylist.id)}`;
+    }
+
+    if (this.activeView === 'channel' && this.selectedChannelId) {
+      const ch = this.subscribedChannels.find(c => c.id === this.selectedChannelId);
+      const chKey = encodeURIComponent(ch ? this.slugify(ch.name) : this.selectedChannelId);
+      return `#/channel/${chKey}`;
+    }
+
+    if (this.activeView === 'library') return '#/library';
+    if (this.activeView === 'subscriptions') return '#/subscriptions';
+
+    return '#/';
+  }
+
+  syncHash() {
+    const hash = this.buildRouteHash();
+    if (window.location.hash !== hash) {
+      history.pushState(null, '', hash);
+    }
+  }
+
+  // ============================================================================
+  // ISOLATED SINGLE-VIDEO VIEW (hash route: #/v/VIDEO_ID)
+  // ============================================================================
   escapeHtml(str) {
     const div = document.createElement('div');
     div.textContent = str == null ? '' : String(str);
@@ -339,41 +524,41 @@ class FreeTubeApp {
       <div class="flex flex-col min-h-screen bg-[#0f0f0f] text-[#f1f1f1] select-none font-sans">
         
         <!-- TOP NAVBAR -->
-        <header class="sticky top-0 z-40 bg-[#0f0f0f]/95 backdrop-blur h-14 px-4 flex items-center justify-between border-b border-[#272727]">
+        <header class="sticky top-0 z-40 bg-[#0f0f0f]/95 backdrop-blur h-14 px-2 sm:px-4 flex items-center justify-between gap-1 sm:gap-2 border-b border-[#272727]">
           
           <!-- LEFT BRANDING -->
-          <div class="flex items-center gap-4">
-            <button id="toggle-sidebar-btn" class="p-2 rounded-full hover:bg-[#272727] text-[#f1f1f1] transition">
+          <div class="flex items-center gap-1 sm:gap-4 shrink-0">
+            <button id="toggle-sidebar-btn" class="p-2 rounded-full hover:bg-[#272727] text-[#f1f1f1] transition shrink-0">
               <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg>
             </button>
-            <div id="nav-logo-btn" class="flex items-center gap-2 cursor-pointer">
+            <div id="nav-logo-btn" class="flex items-center gap-2 cursor-pointer shrink-0">
               <div class="bg-[#ff0000] text-white px-2 py-0.5 rounded-[6px] font-black tracking-tighter text-sm flex items-center justify-center shadow">
                 <svg class="w-4 h-4 fill-white inline mr-0.5" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
               </div>
-              <span class="font-bold text-lg tracking-tight text-white font-sans">FocusTube</span>
+              <span class="hidden sm:inline font-bold text-lg tracking-tight text-white font-sans">FocusTube</span>
             </div>
           </div>
 
           <!-- CENTER SEARCH BAR -->
-          <div class="flex items-center max-w-xl w-full mx-4">
-            <div class="flex flex-1 items-center bg-[#121212] border border-[#303030] rounded-l-full px-4 py-1.5 focus-within:border-[#3ea6ff]">
-              <input type="text" id="yt-search-input" value="${this.searchQuery}" placeholder="Search" class="w-full bg-transparent text-sm text-white placeholder-[#888] focus:outline-none" />
-              ${this.searchQuery ? `<button id="clear-search-btn" class="text-[#aaa] hover:text-white">${ICONS.close}</button>` : ''}
+          <div class="flex items-center flex-1 min-w-0 max-w-xl mx-1 sm:mx-4">
+            <div class="flex flex-1 min-w-0 items-center bg-[#121212] border border-[#303030] rounded-l-full px-2.5 sm:px-4 py-1.5 focus-within:border-[#3ea6ff]">
+              <input type="text" id="yt-search-input" value="${this.searchQuery}" placeholder="Search" class="w-full min-w-0 bg-transparent text-sm text-white placeholder-[#888] focus:outline-none" />
+              ${this.searchQuery ? `<button id="clear-search-btn" class="text-[#aaa] hover:text-white shrink-0">${ICONS.close}</button>` : ''}
             </div>
-            <button id="submit-search-btn" class="bg-[#222222] border border-l-0 border-[#303030] hover:bg-[#272727] px-6 py-2 rounded-r-full text-[#f1f1f1] transition">
+            <button id="submit-search-btn" class="shrink-0 bg-[#222222] border border-l-0 border-[#303030] hover:bg-[#272727] px-3 sm:px-6 py-2 rounded-r-full text-[#f1f1f1] transition">
               ${ICONS.search}
             </button>
           </div>
 
           <!-- RIGHT RAIL TOOLS -->
-          <div class="flex items-center gap-2 sm:gap-3">
+          <div class="flex items-center gap-1 sm:gap-3 shrink-0">
             <button id="add-channel-modal-btn" class="hidden sm:flex items-center gap-1.5 px-3.5 py-1.5 bg-[#272727] hover:bg-[#3f3f3f] rounded-full text-xs font-medium text-white transition">
               <svg class="w-4 h-4 text-[#ff0000]" fill="currentColor" viewBox="0 0 24 24"><path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/></svg>
               <span>Add Channel</span>
             </button>
 
-            <button id="change-user-modal-btn" class="flex items-center gap-2 px-3 py-1.5 rounded-full hover:bg-[#272727] text-xs font-medium transition" title="Change Username">
-              <div class="w-7 h-7 rounded-full bg-[#3ea6ff] text-black font-bold flex items-center justify-center uppercase shadow">
+            <button id="change-user-modal-btn" class="flex items-center gap-2 p-1 sm:px-3 sm:py-1.5 rounded-full hover:bg-[#272727] text-xs font-medium transition" title="Change Username">
+              <div class="w-7 h-7 rounded-full bg-[#3ea6ff] text-black font-bold flex items-center justify-center uppercase shadow shrink-0">
                 ${this.userName.charAt(0)}
               </div>
               <span class="hidden md:inline text-[#f1f1f1] max-w-[90px] truncate">${this.userName}</span>
@@ -383,9 +568,12 @@ class FreeTubeApp {
 
         <!-- APP WORKSPACE: LEFT SIDEBAR + MAIN CONTENT AREA -->
         <div class="flex flex-1 overflow-hidden relative">
-          
-          <!-- LEFT DRAWER SIDEBAR -->
-          <aside id="yt-sidebar" class="${this.sidebarExpanded ? 'w-60' : 'w-18'} shrink-0 bg-[#0f0f0f] border-r border-[#272727]/60 overflow-y-auto flex flex-col pt-3 transition-all duration-200 z-30">
+
+          <!-- MOBILE SIDEBAR BACKDROP -->
+          <div id="sidebar-backdrop" class="${this.sidebarExpanded ? 'fixed inset-0 bg-black/60 z-30 lg:hidden' : 'hidden'}"></div>
+
+          <!-- LEFT DRAWER SIDEBAR: slide-over on mobile, persistent mini/full rail on lg+ -->
+          <aside id="yt-sidebar" class="${this.sidebarExpanded ? 'translate-x-0 w-72 sm:w-64 lg:w-60' : '-translate-x-full lg:translate-x-0 w-72 sm:w-64 lg:w-18'} fixed lg:static inset-y-0 left-0 top-14 lg:top-auto h-[calc(100%-3.5rem)] lg:h-auto shrink-0 bg-[#0f0f0f] border-r border-[#272727]/60 overflow-y-auto flex flex-col pt-3 transition-transform lg:transition-all duration-200 z-30">
             
             <div class="px-3 flex flex-col gap-1">
               <div data-nav="home" class="yt-sidebar-item ${this.activeView === 'home' && !this.selectedChannelId ? 'active' : ''}">
@@ -743,7 +931,7 @@ class FreeTubeApp {
 
             <div class="flex flex-col gap-3 pt-2">
               ${plVideos.length > 0 ? `
-                <button data-vid="${plVideos[0].id}" data-ch="${plVideos[0].channelId}" class="w-full py-3 rounded-full bg-red-600 hover:bg-red-700 text-white font-bold text-sm flex items-center justify-center gap-2 shadow-lg transition">
+                <button data-vid="${plVideos[0].id}" data-ch="${plVideos[0].channelId}" data-in-playlist="true" class="w-full py-3 rounded-full bg-red-600 hover:bg-red-700 text-white font-bold text-sm flex items-center justify-center gap-2 shadow-lg transition">
                   ${ICONS.play} Play All
                 </button>
               ` : ''}
@@ -758,7 +946,7 @@ class FreeTubeApp {
         <div class="flex-1 flex flex-col gap-3">
           <h2 class="text-lg font-bold text-white mb-2">Videos in Playlist (${plVideos.length})</h2>
           ${plVideos.map((v, idx) => `
-            <div data-vid="${v.id}" data-ch="${v.channelId}" class="flex items-center gap-4 p-3 rounded-2xl hover:bg-[#272727] transition cursor-pointer group border border-transparent hover:border-[#383838]">
+            <div data-vid="${v.id}" data-ch="${v.channelId}" data-in-playlist="true" class="flex items-center gap-4 p-3 rounded-2xl hover:bg-[#272727] transition cursor-pointer group border border-transparent hover:border-[#383838] ${this.watchVideo && this.watchVideo.id === v.id ? 'bg-[#272727] border-[#383838]' : ''}">
               <span class="text-sm font-mono text-[#888] w-6 text-center shrink-0 group-hover:text-white font-bold">${idx + 1}</span>
               <div class="relative w-40 sm:w-48 aspect-video rounded-xl overflow-hidden bg-[#222] shrink-0">
                 <img src="${v.thumbnail}" alt="${v.title}" class="w-full h-full object-cover group-hover:scale-105 transition duration-300" />
@@ -783,37 +971,48 @@ class FreeTubeApp {
     const vid = this.watchVideo;
     const ch = this.subscribedChannels.find(c => c.id === vid.channelId) || { name: vid.channelName || 'YouTube Channel', initials: 'YT', avatarColor: 'bg-red-600' };
 
+    // "More videos" is scoped to ONLY this channel's own catalog — never pulls in outside/YouTube
+    // suggestions, so watching stays isolated to the channels the user actually follows here.
     const allVids = this.getAllCachedVideos();
-    const engine = new RelatedVideosEngine(allVids);
+    const channelVids = allVids.filter(v => v.channelId === vid.channelId);
+    const engine = new RelatedVideosEngine(channelVids);
     let upNext = engine.getUpNext(vid.id, 12).filter(v => v.id !== vid.id);
     if (upNext.length < 4) {
-      upNext = allVids.filter(v => v.id !== vid.id).slice(0, 12);
+      upNext = channelVids.filter(v => v.id !== vid.id).slice(0, 12);
     }
 
+    // Native-YouTube-style playlist queue: active only when the current video belongs to
+    // the selected playlist (e.g. opened via "Play All" or a #/channel/.../playlist/.../video/N link).
+    const inPlaylist = !!(this.selectedPlaylist && Array.isArray(this.selectedPlaylist.videos) && this.selectedPlaylist.videos.includes(vid.id));
+    const plIds = inPlaylist ? this.selectedPlaylist.videos : [];
+    const plIdx = inPlaylist ? plIds.indexOf(vid.id) : -1;
+
     const host = this.privacyShield ? 'https://www.youtube-nocookie.com' : 'https://www.youtube.com';
+    const origin = encodeURIComponent(window.location.origin);
 
     return `
       <!-- TOP BACK BUTTON RAIL -->
-      <div class="sticky top-0 z-30 bg-[#0f0f0f] px-6 py-3 border-b border-[#272727] flex items-center justify-between">
-        <button id="watch-back-btn" class="flex items-center gap-2 px-4 py-2 bg-[#272727] hover:bg-[#3f3f3f] text-white font-bold text-sm rounded-full transition shadow">
+      <div class="sticky top-0 z-30 bg-[#0f0f0f] px-3 sm:px-6 py-3 border-b border-[#272727] flex flex-wrap items-center justify-between gap-2">
+        <button id="watch-back-btn" class="flex items-center gap-2 px-3 sm:px-4 py-2 bg-[#272727] hover:bg-[#3f3f3f] text-white font-bold text-xs sm:text-sm rounded-full transition shadow">
           <span>&larr;</span>
           <span>Back (${this.watchHistoryStack.length > 0 ? 'Previous Video' : 'Home'})</span>
         </button>
 
-        <span class="text-xs font-semibold px-3 py-1 rounded-full bg-[#272727] text-[#aaa]">
+        <span class="text-[10px] sm:text-xs font-semibold px-3 py-1 rounded-full bg-[#272727] text-[#aaa]">
           ${this.privacyShield ? 'Privacy Shield Enabled' : 'Standard YouTube'}
         </span>
       </div>
 
-      <div class="p-4 lg:p-8 max-w-[1700px] mx-auto flex flex-col lg:flex-row gap-8">
+      <div class="p-3 sm:p-4 lg:p-8 max-w-[1700px] mx-auto flex flex-col lg:flex-row gap-4 sm:gap-8">
         
         <!-- LEFT MAIN WATCH CONTAINER -->
-        <div class="flex-1 flex flex-col gap-4 max-w-5xl">
+        <div class="flex-1 flex flex-col gap-4 max-w-5xl min-w-0">
           
           <!-- IFRAME PLAYER -->
           <div class="relative aspect-video w-full bg-black rounded-2xl overflow-hidden shadow-2xl border border-[#272727]">
-            <iframe 
-              src="${host}/embed/${vid.id}?autoplay=1&rel=0&modestbranding=1" 
+            <iframe
+              id="yt-watch-iframe"
+              src="${host}/embed/${vid.id}?autoplay=1&rel=0&modestbranding=1&enablejsapi=1&origin=${origin}"
               title="${vid.title}"
               class="w-full h-full border-0" 
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -878,30 +1077,75 @@ class FreeTubeApp {
 
         </div>
 
-        <!-- RIGHT SIDEBAR: UP NEXT -->
+        <!-- RIGHT SIDEBAR: NATIVE-STYLE PLAYLIST QUEUE (when watching from a playlist) OR CHANNEL-ONLY "MORE VIDEOS" -->
         <div class="w-full lg:w-96 flex flex-col gap-4 shrink-0">
-          <div class="flex items-center justify-between">
-            <h3 class="text-base font-bold text-white">
-              Up Next
-            </h3>
-            <span class="text-[11px] text-[#aaa] bg-[#272727] px-2.5 py-1 rounded-full">Autoplay</span>
-          </div>
-
-          <div class="flex flex-col gap-3">
-            ${upNext.map(v => `
-              <div data-related-vid="${v.id}" data-ch="${v.channelId}" class="flex gap-3 p-2 rounded-xl hover:bg-[#272727] transition cursor-pointer group">
-                <div class="relative w-40 aspect-video rounded-lg overflow-hidden bg-[#222] shrink-0">
-                  <img src="${v.thumbnail}" alt="${v.title}" class="w-full h-full object-cover group-hover:scale-105 transition" />
-                  <span class="absolute bottom-1 right-1 px-1 rounded bg-black/80 text-white text-[10px] font-mono">${v.duration}</span>
+          ${inPlaylist ? `
+            <div class="bg-[#1f1f1f] rounded-2xl border border-[#272727] overflow-hidden flex flex-col">
+              <div class="p-4 flex flex-col gap-2 border-b border-[#272727] bg-gradient-to-b from-[#2a2a2a] to-[#1f1f1f]">
+                <div class="flex items-start justify-between gap-2">
+                  <h3 class="text-sm font-bold text-white leading-snug">${this.selectedPlaylist.title}</h3>
+                  <button id="playlist-panel-close" class="text-[#aaa] hover:text-white shrink-0" title="Exit playlist">${ICONS.close}</button>
                 </div>
-                <div class="flex flex-col gap-1 flex-1 overflow-hidden">
-                  <h4 class="text-xs font-semibold text-white line-clamp-2 leading-snug group-hover:text-[#3ea6ff]">${v.title}</h4>
-                  <p class="text-[11px] text-[#aaa] truncate">${v.channelName}</p>
-                  <p class="text-[10px] text-[#888]">${v.views}</p>
+                <div class="flex items-center gap-2 text-xs text-[#aaa]">
+                  <span class="truncate">${this.selectedPlaylist.channelName || ch.name}</span>
+                  <span>&bull;</span>
+                  <span class="shrink-0">${plIdx + 1} / ${plIds.length}</span>
+                </div>
+                <div class="flex items-center gap-2 mt-1">
+                  <button id="playlist-repeat-btn" title="Repeat playlist" class="p-2 rounded-full transition ${this.playlistRepeat ? 'bg-[#3ea6ff] text-black' : 'bg-[#272727] hover:bg-[#3f3f3f] text-[#aaa]'}">&#128257;</button>
+                  <button id="playlist-shuffle-btn" title="Shuffle" class="p-2 rounded-full transition ${this.playlistShuffle ? 'bg-[#3ea6ff] text-black' : 'bg-[#272727] hover:bg-[#3f3f3f] text-[#aaa]'}">&#128256;</button>
+                  <button id="playlist-autoplay-toggle" title="Toggle autoplay" class="ml-auto flex items-center gap-2 px-3 py-1.5 rounded-full text-[11px] font-medium transition ${this.playlistAutoplay ? 'bg-[#272727] text-white' : 'bg-[#272727] text-[#777]'}">
+                    <span>Autoplay</span>
+                    <span class="w-8 h-4 rounded-full relative transition ${this.playlistAutoplay ? 'bg-[#3ea6ff]' : 'bg-[#555]'}">
+                      <span class="absolute top-0.5 ${this.playlistAutoplay ? 'left-4' : 'left-0.5'} w-3 h-3 rounded-full bg-white transition-all"></span>
+                    </span>
+                  </button>
                 </div>
               </div>
-            `).join('')}
-          </div>
+              <div class="max-h-[70vh] lg:max-h-[600px] overflow-y-auto flex flex-col">
+                ${plIds.map((id, i) => {
+                  const v = allVids.find(x => x.id === id) || { id, title: 'YouTube Broadcast (' + id + ')', thumbnail: 'https://i.ytimg.com/vi/' + id + '/hqdefault.jpg', channelName: this.selectedPlaylist.channelName, channelId: vid.channelId };
+                  const active = id === vid.id;
+                  return `
+                    <div data-related-vid="${id}" data-ch="${v.channelId || vid.channelId}" data-in-playlist="true" class="flex gap-3 p-2.5 items-center cursor-pointer group ${active ? 'bg-[#3f3f3f]' : 'hover:bg-[#272727]'}">
+                      <span class="w-5 text-center text-xs font-mono shrink-0 ${active ? 'text-[#3ea6ff]' : 'text-[#888]'}">${active ? '&#9654;' : i + 1}</span>
+                      <div class="relative w-28 aspect-video rounded-lg overflow-hidden bg-[#222] shrink-0">
+                        <img src="${v.thumbnail || ''}" alt="${v.title}" class="w-full h-full object-cover group-hover:scale-105 transition" />
+                        <span class="absolute bottom-0.5 right-0.5 px-1 rounded bg-black/80 text-white text-[9px] font-mono">${v.duration || ''}</span>
+                      </div>
+                      <div class="flex flex-col gap-0.5 flex-1 min-w-0">
+                        <h4 class="text-xs font-medium line-clamp-2 leading-snug ${active ? 'text-[#3ea6ff]' : 'text-white'}">${v.title}</h4>
+                        <p class="text-[10px] text-[#888] truncate">${v.channelName || ''}</p>
+                      </div>
+                    </div>
+                  `;
+                }).join('')}
+              </div>
+            </div>
+          ` : `
+            <div class="flex items-center justify-between">
+              <h3 class="text-base font-bold text-white">
+                More from ${ch.name}
+              </h3>
+            </div>
+
+            <div class="flex flex-col gap-3">
+              ${upNext.map(v => `
+                <div data-related-vid="${v.id}" data-ch="${v.channelId}" class="flex gap-3 p-2 rounded-xl hover:bg-[#272727] transition cursor-pointer group">
+                  <div class="relative w-40 aspect-video rounded-lg overflow-hidden bg-[#222] shrink-0">
+                    <img src="${v.thumbnail}" alt="${v.title}" class="w-full h-full object-cover group-hover:scale-105 transition" />
+                    <span class="absolute bottom-1 right-1 px-1 rounded bg-black/80 text-white text-[10px] font-mono">${v.duration}</span>
+                  </div>
+                  <div class="flex flex-col gap-1 flex-1 overflow-hidden">
+                    <h4 class="text-xs font-semibold text-white line-clamp-2 leading-snug group-hover:text-[#3ea6ff]">${v.title}</h4>
+                    <p class="text-[11px] text-[#aaa] truncate">${v.channelName}</p>
+                    <p class="text-[10px] text-[#888]">${v.views}</p>
+                  </div>
+                </div>
+              `).join('')}
+              ${upNext.length === 0 ? `<p class="text-xs text-[#888] px-2">No other videos from this channel yet.</p>` : ''}
+            </div>
+          `}
         </div>
 
       </div>
@@ -924,6 +1168,7 @@ class FreeTubeApp {
           this.watchVideo = null;
           this.renderBody();
         }
+        this.syncHash();
       };
     }
 
@@ -940,15 +1185,138 @@ class FreeTubeApp {
         const vidId = el.getAttribute('data-related-vid');
         const all = this.getAllCachedVideos();
         const found = all.find(v => v.id === vidId) || { id: vidId, title: "YouTube Stream", channelId: el.getAttribute('data-ch') };
-        
+
+        // Clicks from the playlist queue panel keep the playlist context (so autoplay keeps working);
+        // clicks from the plain "More from this channel" list are standalone.
+        if (!el.hasAttribute('data-in-playlist')) {
+          this.selectedPlaylist = null;
+        }
+
         if (this.watchVideo) {
           this.watchHistoryStack.push(this.watchVideo);
         }
         this.watchVideo = found;
         window.scrollTo({ top: 0, behavior: 'smooth' });
         this.renderBody();
+        this.syncHash();
       };
     });
+
+    // Playlist queue panel controls (repeat / shuffle / autoplay toggle / exit playlist)
+    const repeatBtn = document.getElementById('playlist-repeat-btn');
+    if (repeatBtn) {
+      repeatBtn.onclick = () => {
+        this.playlistRepeat = !this.playlistRepeat;
+        this.renderBody();
+      };
+    }
+    const shuffleBtn = document.getElementById('playlist-shuffle-btn');
+    if (shuffleBtn) {
+      shuffleBtn.onclick = () => {
+        this.playlistShuffle = !this.playlistShuffle;
+        this.renderBody();
+      };
+    }
+    const autoplayToggle = document.getElementById('playlist-autoplay-toggle');
+    if (autoplayToggle) {
+      autoplayToggle.onclick = () => {
+        this.playlistAutoplay = !this.playlistAutoplay;
+        this.renderBody();
+      };
+    }
+    const panelClose = document.getElementById('playlist-panel-close');
+    if (panelClose) {
+      panelClose.onclick = () => {
+        this.selectedPlaylist = null;
+        this.renderBody();
+        this.syncHash();
+      };
+    }
+
+    // Wire up the YouTube IFrame JS API so that, when watching from a playlist, the next
+    // queued video auto-plays the moment the current one ends — no manual "exit & reopen" needed.
+    const inPlaylist = !!(this.selectedPlaylist && Array.isArray(this.selectedPlaylist.videos) && this.watchVideo && this.selectedPlaylist.videos.includes(this.watchVideo.id));
+    if (inPlaylist) {
+      this.initPlaylistPlayer();
+    } else {
+      this._ytPlayer = null;
+    }
+  }
+
+  // ============================================================================
+  // NATIVE-STYLE PLAYLIST AUTOPLAY (YouTube IFrame JS API)
+  // ============================================================================
+  loadYouTubeIframeAPI() {
+    if (window.YT && window.YT.Player) return Promise.resolve();
+    if (this._ytApiPromise) return this._ytApiPromise;
+    this._ytApiPromise = new Promise((resolve) => {
+      const prevCb = window.onYouTubeIframeAPIReady;
+      window.onYouTubeIframeAPIReady = () => {
+        if (typeof prevCb === 'function') prevCb();
+        resolve();
+      };
+      if (!document.querySelector('script[data-yt-iframe-api]')) {
+        const tag = document.createElement('script');
+        tag.src = 'https://www.youtube.com/iframe_api';
+        tag.setAttribute('data-yt-iframe-api', 'true');
+        document.head.appendChild(tag);
+      }
+    });
+    return this._ytApiPromise;
+  }
+
+  async initPlaylistPlayer() {
+    const watchingId = this.watchVideo ? this.watchVideo.id : null;
+    await this.loadYouTubeIframeAPI();
+    // Bail out if the user navigated away while the API script was loading.
+    if (!this.watchVideo || this.watchVideo.id !== watchingId) return;
+    const el = document.getElementById('yt-watch-iframe');
+    if (!el) return;
+
+    if (this._ytPlayer) {
+      try { this._ytPlayer.destroy(); } catch (e) {}
+      this._ytPlayer = null;
+    }
+
+    try {
+      this._ytPlayer = new YT.Player('yt-watch-iframe', {
+        events: {
+          onStateChange: (ev) => {
+            if (ev.data === YT.PlayerState.ENDED) {
+              this.playNextInPlaylist();
+            }
+          }
+        }
+      });
+    } catch (e) {
+      this._ytPlayer = null;
+    }
+  }
+
+  playNextInPlaylist() {
+    if (!this.playlistAutoplay || !this.selectedPlaylist || !Array.isArray(this.selectedPlaylist.videos) || !this.watchVideo) return;
+    const ids = this.selectedPlaylist.videos;
+    const idx = ids.indexOf(this.watchVideo.id);
+    if (idx === -1) return;
+
+    let nextIdx;
+    if (this.playlistShuffle) {
+      if (ids.length <= 1) return;
+      do { nextIdx = Math.floor(Math.random() * ids.length); } while (nextIdx === idx);
+    } else {
+      nextIdx = idx + 1;
+      if (nextIdx >= ids.length) {
+        if (!this.playlistRepeat) return;
+        nextIdx = 0;
+      }
+    }
+
+    const nextId = ids[nextIdx];
+    const allVids = this.getAllCachedVideos();
+    this.watchVideo = allVids.find(v => v.id === nextId) || { id: nextId, title: 'Video', channelId: this.selectedPlaylist.channelId, channelName: this.selectedPlaylist.channelName };
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    this.renderBody();
+    this.syncHash();
   }
 
   // ============================================================================
@@ -956,14 +1324,21 @@ class FreeTubeApp {
   // ============================================================================
   setupEventListeners() {
     document.addEventListener('click', (e) => {
-      // Toggle Sidebar
+      // Toggle Sidebar (opens/closes the drawer on mobile, mini/full rail on lg+)
       if (e.target.closest('#toggle-sidebar-btn')) {
         this.sidebarExpanded = !this.sidebarExpanded;
-        const sidebar = document.getElementById('yt-sidebar');
-        if (sidebar) {
-          sidebar.className = `${this.sidebarExpanded ? 'w-60' : 'w-18'} shrink-0 bg-[#0f0f0f] border-r border-[#272727]/60 overflow-y-auto flex flex-col pt-3 transition-all duration-200 z-30`;
-          this.render();
-        }
+        this.render();
+      }
+
+      // Tapping the backdrop closes the mobile drawer
+      if (e.target.id === 'sidebar-backdrop') {
+        this.sidebarExpanded = false;
+        this.render();
+      }
+
+      // Tapping a nav/channel/playlist item on mobile should close the drawer after navigating
+      if (this.isMobile && (e.target.closest('[data-nav]') || e.target.closest('[data-sidebar-ch]'))) {
+        this.sidebarExpanded = false;
       }
 
       // Logo Home
@@ -974,6 +1349,7 @@ class FreeTubeApp {
         this.selectedPlaylist = null;
         this.searchQuery = '';
         this.renderBody();
+        this.syncHash();
       }
 
       // Sidebar Navigation items
@@ -984,6 +1360,7 @@ class FreeTubeApp {
         this.selectedChannelId = null;
         this.selectedPlaylist = null;
         this.render();
+        this.syncHash();
       }
 
       // Sidebar Channel selection
@@ -995,6 +1372,7 @@ class FreeTubeApp {
         this.selectedPlaylist = null;
         this.channelTab = 'videos';
         this.render();
+        this.syncHash();
       }
 
       // Click Playlist Card -> Playlist Detail View
@@ -1009,6 +1387,7 @@ class FreeTubeApp {
           this.selectedPlaylist = foundPl;
           window.scrollTo({ top: 0, behavior: 'smooth' });
           this.render();
+          this.syncHash();
         }
         return;
       }
@@ -1018,6 +1397,7 @@ class FreeTubeApp {
         this.activeView = 'library';
         this.selectedPlaylist = null;
         this.render();
+        this.syncHash();
         return;
       }
 
@@ -1043,11 +1423,18 @@ class FreeTubeApp {
         const vidId = vidCard.getAttribute('data-vid');
         const all = this.getAllCachedVideos();
         const found = all.find(v => v.id === vidId) || { id: vidId, title: "YouTube Video", channelId: vidCard.getAttribute('data-ch') };
-        
+
+        // Only keep playlist queue/autoplay context when the click came from a playlist-aware card
+        // (the playlist detail page, or the in-watch-page playlist queue panel).
+        if (!vidCard.hasAttribute('data-in-playlist')) {
+          this.selectedPlaylist = null;
+        }
+
         this.watchHistoryStack = [];
         this.watchVideo = found;
         window.scrollTo({ top: 0, behavior: 'smooth' });
         this.renderBody();
+        this.syncHash();
       }
 
       // Go to Channel from Video Card avatar or title
@@ -1059,6 +1446,7 @@ class FreeTubeApp {
         this.selectedPlaylist = null;
         this.channelTab = 'videos';
         this.render();
+        this.syncHash();
       }
 
       // Open Add Channel Modal
@@ -1095,6 +1483,7 @@ class FreeTubeApp {
           this.activeView = 'home';
           this.selectedChannelId = null;
           this.render();
+          this.syncHash();
         }
       }
 
@@ -1180,6 +1569,7 @@ class FreeTubeApp {
           this.selectedChannelId = newCh.id;
           this.activeView = 'channel';
           this.render();
+          this.syncHash();
         }, 600);
       }
 
