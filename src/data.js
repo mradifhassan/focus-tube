@@ -20,18 +20,32 @@ export const CODEBASE_SUBSCRIBED_CHANNELS = [
     description: "Science, Philosophy & Thought-provoking Bengali video essays and documentaries."
   },
   {
-    id: "UCBA6OI6vEDK13jfoiuX694A",
-    url: "https://www.youtube.com/channel/UCBA6OI6vEDK13jfoiuX694A",
-    name: "OnnoRokom Pathshala",
-    handle: "@OnnoRokomPathshala",
+    id: "UCePPWrO7cZNtkOuiN7G4pMg",
+    url: "https://www.youtube.com/channel/UCePPWrO7cZNtkOuiN7G4pMg",
+    name: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+    handle: "@aloronxyz",
     avatarColor: "bg-amber-600",
-    initials: "OP",
-    subscriberCount: "1M",
-    description: `Why are we doing these videos?
+    initials: "An",
+    subscriberCount: "122K",
+    description: `I am Mottasin Pahlovi. 
 
-We dream of a different Bangladesh. We want to build a different Bangladesh, different people who will have the habit of thinking first. In ancient times, when people could not meet even the basic needs like food and clothing, but the rotation of the moon and the sun made a group of people think. Despite the obstacles of hundreds of thousands of reforms, civilization has progressed in the hands of these 'thinking' people.
-Why are we human? Because we think, and that thought must be free thought. Whatever else is memorized, science cannot be education. And part of that effort is our video lectures. The purpose of these videos is to try to teach each topic in such a way that you can think 'out of the box'. And when you are a thoughtful person, you will understand for yourself what we have to do to make this country different, how far we have to go.`
-  }
+I am the managing director of Mpbian IT and cofounder of Infinty publications.
+
+I tought math , chemistry , physics more than 10lac+ hsc and admission candidates in udvash  Engineering admission programme till 2024. 
+Besides more than 50k private batch students finished academic and admission preparation with me in recent  years.
+Earlier I uploaded all my videos on "Mottasin Pahlovi BUETian" youtube channel(with more than 1.4 million subscribers ). In that channel i upload math related videoes of every classes including jobs. So, hsc and admission students donot find their essential content easily in that channel. So, i opened a this channel.
+
+In this channel you can take preparation of hsc as well as admission freely.`  },
+  {
+    id: "UC8SDY8Wr6s6DIofumkZGfxg",
+    url: "https://www.youtube.com/channel/UC8SDY8Wr6s6DIofumkZGfxg",
+    name: "আলকেমি (Alchemy)",
+    handle: "@alchemy149",
+    avatarColor: "bg-emerald-600",
+    initials: "AL",
+    subscriberCount: "340K",
+    description: "Science, Philosophy & Thought-provoking Bengali video essays and documentaries."
+  },
 ];
 
 // List of reliable public Invidious API instances for privacy-preserving fetching
@@ -50,6 +64,201 @@ export const INVIDIOUS_INSTANCES = [
 export const BUILTIN_CATALOG = {
   "UC8SDY8Wr6s6DIofumkZGfxg": {
     videos: [
+// Qualitative Chemistry
+      {
+        id: "oUp3EBbqXm4",
+        title: "গুণগত রসায়ন -01 | Mottasin Pahlovi",
+        duration: "1:30:30",
+        thumbnail: "https://i.ytimg.com/vi/oUp3EBbqXm4/hqdefault.jpg",
+        channelId: "UCePPWrO7cZNtkOuiN7G4pMg",
+        channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+        description: `class note: 
+Class note: https://drive.google.com/file/d/15MOh...`
+      },
+{
+    id: "WAHdIMGZKdc",
+    title: "2. গুণগত রসায়ন | পরমাণুর গঠন | রাদারফোর্ড, বোর, গাণিতিক সমস্যাবলি | 1st paper Chapter 2",
+    duration: "57:42",
+    thumbnail: "https://i.ytimg.com/vi/WAHdIMGZKdc/hqdefault.jpg",
+    channelId: "AloronXYZ",
+    channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+    description: `Video Title: Qualitative Chemistry
+Lecture: পরমাণুর গঠন | রাদারফোর্ড, বোর, গাণিতিক সমস্যাবলি
+Subject: Chemistry
+Topic: Atomic Structure & Rutherford/Bohr Model
+Class: HSC 1st Paper Chapter 2
+Lectured by: Mottasin Pahlovi (AloronXYZ)`
+  },
+  {
+    id: "eBlLN3yI3Qg",
+    title: "3. গুণগত রসায়ন | কোয়ান্টাম সংখ্যা , ইলেকট্রন বিন্যাসের নীতি | 1st paper Chapter 2",
+    duration: "2:16:20",
+    thumbnail: "https://i.ytimg.com/vi/eBlLN3yI3Qg/hqdefault.jpg",
+    channelId: "AloronXYZ",
+    channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+    description: `Video Title: Qualitative Chemistry
+Lecture: কোয়ান্টাম সংখ্যা , ইলেকট্রন বিন্যাসের নীতি
+Subject: Chemistry
+Topic: Quantum Numbers & Electron Configuration Principles
+Class: HSC 1st Paper Chapter 2
+Lectured by: Mottasin Pahlovi (AloronXYZ)`
+  },
+  {
+    id: "x_Ciei92zOc",
+    title: "4. গুণগত রসায়ন | বর্ণালি সিরিজসমূহ | 1st paper Chapter 2",
+    duration: "1:42:10",
+    thumbnail: "https://i.ytimg.com/vi/x_Ciei92zOc/hqdefault.jpg",
+    channelId: "AloronXYZ",
+    channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+    description: `Video Title: Qualitative Chemistry
+Lecture: বর্ণালি সিরিজসমূহ
+Subject: Chemistry
+Topic: Hydrogen Spectral Series
+Class: HSC 1st Paper Chapter 2
+Lectured by: Mottasin Pahlovi (AloronXYZ)`
+  },
+  {
+    id: "t4cl1HlchZQ",
+    title: "5. গুণগত রসায়ন | দ্রাব্যতা 🔥",
+    duration: "1:12:30",
+    thumbnail: "https://i.ytimg.com/vi/t4cl1HlchZQ/hqdefault.jpg",
+    channelId: "AloronXYZ",
+    channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+    description: `Video Title: Qualitative Chemistry
+Lecture: দ্রাব্যতা
+Subject: Chemistry
+Topic: Solubility
+Class: HSC 1st Paper Chapter 2
+Lectured by: Mottasin Pahlovi (AloronXYZ)`
+  },
+  {
+    id: "F5JzwYbhB8Q",
+    title: "6. গুণগত রসায়ন | দ্রাব্যতার গুণফল, অধঃক্ষেপ, সমআয়ন প্রভাব🔥",
+    duration: "2:19:17",
+    thumbnail: "https://i.ytimg.com/vi/F5JzwYbhB8Q/hqdefault.jpg",
+    channelId: "AloronXYZ",
+    channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+    description: `Video Title: Qualitative Chemistry
+Lecture: দ্রাব্যতার গুণফল, অধঃক্ষেপ, সমআয়ন প্রভাব
+Subject: Chemistry
+Topic: Solubility Product, Precipitation & Common Ion Effect
+Class: HSC 1st Paper Chapter 2
+Lectured by: Mottasin Pahlovi (AloronXYZ)`
+  },
+  {
+    id: "L4KHBaWHbEQ",
+    title: "7. গুণগত রসায়ন | আয়ন শনাক্তকরণ, দ্রাবক নিষ্কাশন, ক্রোমাটোগ্রাফি 🔥",
+    duration: "2:32:32",
+    thumbnail: "https://i.ytimg.com/vi/L4KHBaWHbEQ/hqdefault.jpg",
+    channelId: "AloronXYZ",
+    channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+    description: `Video Title: Qualitative Chemistry
+Lecture: আয়ন শনাক্তকরণ, দ্রাবক নিষ্কাশন, ক্রোমাটোগ্রাফি
+Subject: Chemistry
+Topic: Ion Identification, Solvent Extraction & Chromatography
+Class: HSC 1st Paper Chapter 2
+Lectured by: Mottasin Pahlovi (AloronXYZ)`
+  },
+// Chemical Change (রাসায়নিক পরিবর্তন)
+
+  {
+    id: "1pHfFj6rfIU",
+    title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 1 ll",
+    duration: "2:21:05",
+    thumbnail: "https://i.ytimg.com/vi/1pHfFj6rfIU/hqdefault.jpg",
+    channelId: "MD.Raihan Hasan",
+    channelName: "MD.Raihan Hasan",
+    description: `Video Title: Chemical Change
+Lecture: Lecture 1
+Subject: Chemistry
+Topic: Chemical Change / রাসায়নিক পরিবর্তন
+Class: HSC 1st Paper Chapter 4
+Lectured by: Mottasin Pahlovi (ACS)`
+  },
+  {
+    id: "Y3lio3OM7v0",
+    title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 2 ll",
+    duration: "2:23:07",
+    thumbnail: "https://i.ytimg.com/vi/Y3lio3OM7v0/hqdefault.jpg",
+    channelId: "MD.Raihan Hasan",
+    channelName: "MD.Raihan Hasan",
+    description: `Video Title: Chemical Change
+Lecture: Lecture 2
+Subject: Chemistry
+Topic: Chemical Change / রাসায়নিক পরিবর্তন
+Class: HSC 1st Paper Chapter 4
+Lectured by: Mottasin Pahlovi (ACS)`
+  },
+  {
+    id: "17bdR9GD9Hk",
+    title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 3 ll",
+    duration: "2:22:35",
+    thumbnail: "https://i.ytimg.com/vi/17bdR9GD9Hk/hqdefault.jpg",
+    channelId: "MD.Raihan Hasan",
+    channelName: "MD.Raihan Hasan",
+    description: `Video Title: Chemical Change
+Lecture: Lecture 3
+Subject: Chemistry
+Topic: Chemical Change / রাসায়নিক পরিবর্তন
+Class: HSC 1st Paper Chapter 4
+Lectured by: Mottasin Pahlovi (ACS)`
+  },
+  {
+    id: "cGGkECZfZX0",
+    title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 4 ll",
+    duration: "3:23:28",
+    thumbnail: "https://i.ytimg.com/vi/cGGkECZfZX0/hqdefault.jpg",
+    channelId: "MD.Raihan Hasan",
+    channelName: "MD.Raihan Hasan",
+    description: `Video Title: Chemical Change
+Lecture: Lecture 4
+Subject: Chemistry
+Topic: Chemical Change / রাসায়নিক পরিবর্তন
+Class: HSC 1st Paper Chapter 4
+Lectured by: Mottasin Pahlovi (ACS)`
+  },
+  {
+    id: "cUgR-Axc1PE",
+    title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 5 ll",
+    duration: "3:09:25",
+    thumbnail: "https://i.ytimg.com/vi/cUgR-Axc1PE/hqdefault.jpg",
+    channelId: "MD.Raihan Hasan",
+    channelName: "MD.Raihan Hasan",
+    description: `Video Title: Chemical Change
+Lecture: Lecture 5
+Subject: Chemistry
+Topic: Chemical Change / রাসায়নিক পরিবর্তন
+Class: HSC 1st Paper Chapter 4
+Lectured by: Mottasin Pahlovi (ACS)`
+  },
+  {
+    id: "3aqWyP_YY_E",
+    title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 6 ll",
+    duration: "2:30:56",
+    thumbnail: "https://i.ytimg.com/vi/3aqWyP_YY_E/hqdefault.jpg",
+    channelId: "MD.Raihan Hasan",
+    channelName: "MD.Raihan Hasan",
+    description: `Video Title: Chemical Change
+Lecture: Lecture 6
+Subject: Chemistry
+Topic: Chemical Change / রাসায়নিক পরিবর্তন
+Class: HSC 1st Paper Chapter 4
+Lectured by: Mottasin Pahlovi (ACS)`
+  },
+  {
+    id: "kkulLU7ED1o",
+    title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 7 ll",
+    duration: "3:28:03",
+    thumbnail: "https://i.ytimg.com/vi/kkulLU7ED1o/hqdefault.jpg",
+    channelId: "MD.Raihan Hasan",
+    channelName: "MD.Raihan Hasan",
+    description: `Video Title: Chemical Change
+Lecture: Lecture 7
+Subject: Chemistry
+Topic: Chemical Change / রাসায়নিক পরিবর্তন
+Class: HSC 1st Paper Chapter 4
+Lectured by: Mottasin Pahlovi (ACS)`
+  },
 
       {
         id: "Zz_fOmRFN88",
@@ -413,12 +622,26 @@ Subject: Chemistry
 Topic: Acid
 Class: HSC 2nd Year
 Lectured by: OnnoRokom Pathshala`
-  }
+  },
 
-
-      
     ],
   playlists: [
+      {
+        id: "Qualitative_Chemistry",
+        title: "গুণগত রসায়ন Chemistry 1st paper Chapter 2",
+        videoCount: 7,
+        thumbnail: "https://i.ytimg.com/vi/oUp3EBbqXm4/hqdefault.jpg",
+        updatedText: "Updated 4 days ago",
+        videos: ["oUp3EBbqXm4", "WAHdIMGZKdc", "eBlLN3yI3Qg", "x_Ciei92zOc", "t4cl1HlchZQ", "F5JzwYbhB8Q", "L4KHBaWHbEQ"]
+      },
+      {
+        id: "Chemical_Change",
+        title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi",
+        videoCount: 7,
+        thumbnail: "https://i.ytimg.com/vi/1pHfFj6rfIU/hqdefault.jpg",
+        updatedText: "Updated 4 days ago",
+        videos: ["1pHfFj6rfIU", "Y3lio3OM7v0", "17bdR9GD9Hk", "cGGkECZfZX0", "cUgR-Axc1PE", "3aqWyP_YY_E", "kkulLU7ED1o"]
+      },
       {
         id: "Chemistry_All_In_One_01",
         title: "All in One",
