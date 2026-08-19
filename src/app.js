@@ -5,7 +5,7 @@
  * Features clean Channel Pages, working Video & Playlist tabs, and Up Next feed.
  */
 
-import { CODEBASE_SUBSCRIBED_CHANNELS, BUILTIN_CATALOG, INVIDIOUS_INSTANCES, ICONS } from './data.js';
+import { CODEBASE_SUBSCRIBED_CHANNELS, BUILTIN_CATALOG, INVIDIOUS_INSTANCES, ICONS, CATALOG_VERSION } from './data.js';
 
 // ============================================================================
 // RECOMMENDATIONS ENGINE (RELATED VIDEOS FINDER)
@@ -402,6 +402,17 @@ class FreeTubeApp {
   }
 
   loadChannels() {
+    // If the built-in catalog has been updated (CATALOG_VERSION bumped) since this
+    // browser last cached its subscriptions, drop the stale cache instead of letting
+    // it hide fixes/updates to the curated channel list forever.
+    const cachedVersion = localStorage.getItem('yt_catalog_version');
+    if (cachedVersion !== String(CATALOG_VERSION)) {
+      localStorage.removeItem('yt_subscribed_channels');
+      localStorage.removeItem('yt_catalog_cache');
+      localStorage.setItem('yt_catalog_version', String(CATALOG_VERSION));
+      return CODEBASE_SUBSCRIBED_CHANNELS;
+    }
+
     const saved = localStorage.getItem('yt_subscribed_channels');
     if (saved) {
       try { return JSON.parse(saved); } catch(e){}
@@ -414,6 +425,16 @@ class FreeTubeApp {
   }
 
   loadCatalog() {
+    // Same version guard as loadChannels() — belt-and-suspenders in case call order
+    // ever changes. If the cached catalog predates the current CATALOG_VERSION,
+    // ignore it and rebuild fresh from the (fixed/updated) BUILTIN_CATALOG.
+    const cachedVersion = localStorage.getItem('yt_catalog_version');
+    if (cachedVersion !== String(CATALOG_VERSION)) {
+      localStorage.removeItem('yt_catalog_cache');
+      localStorage.setItem('yt_catalog_version', String(CATALOG_VERSION));
+      return JSON.parse(JSON.stringify(BUILTIN_CATALOG));
+    }
+
     const saved = localStorage.getItem('yt_catalog_cache');
     if (saved) {
       try { return JSON.parse(saved); } catch(e){}
@@ -457,10 +478,22 @@ class FreeTubeApp {
             }));
 
             if (!this.dataCache[channelId]) this.dataCache[channelId] = { videos: [], playlists: [] };
-            this.dataCache[channelId].videos = formatted;
-            this.saveCatalog();
-            if (this.activeView === 'home' || (this.activeView === 'channel' && this.selectedChannelId === channelId)) {
-              this.renderBody();
+            // Merge rather than replace: overwriting the curated video list here used to
+            // silently break every playlist for this channel (playlist detail pages look
+            // up each video id in dataCache[channelId].videos, and a wiped/replaced list
+            // means those lookups fail). Public Invidious instances also come and go, so a
+            // hard overwrite made the catalog's contents change unpredictably between
+            // sessions. Instead, keep the curated catalog intact and just add any
+            // freshly-fetched videos that aren't already in it.
+            const existing = this.dataCache[channelId].videos || [];
+            const existingIds = new Set(existing.map(v => v.id));
+            const freshOnly = formatted.filter(v => !existingIds.has(v.id));
+            if (freshOnly.length > 0) {
+              this.dataCache[channelId].videos = [...freshOnly, ...existing];
+              this.saveCatalog();
+              if (this.activeView === 'home' || (this.activeView === 'channel' && this.selectedChannelId === channelId)) {
+                this.renderBody();
+              }
             }
             return;
           }

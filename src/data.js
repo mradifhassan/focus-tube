@@ -4,11 +4,27 @@
  * Strictly adheres to vanilla ES6 JavaScript (No .ts/.tsx).
  */
 
+// Bump this whenever CODEBASE_SUBSCRIBED_CHANNELS or BUILTIN_CATALOG changes.
+// app.js compares this against what's cached in localStorage and refreshes the
+// cache automatically when it's out of date, so fixes here always reach users
+// instead of being hidden behind an old cached copy of the catalog forever.
+export const CATALOG_VERSION = 2;
+
 // ============================================================================
 // USER CONFIGURATION: PINNED & SUBSCRIBED CHANNELS
 // Users or developers can write/edit channel links directly here in the main codebase.
 // ============================================================================
 export const CODEBASE_SUBSCRIBED_CHANNELS = [
+  {
+    id: "UCBA6OI6vEDK13jfoiuX694A",
+    url: "https://www.youtube.com/channel/UCBA6OI6vEDK13jfoiuX694A",
+    name: "OnnoRokom Pathshala",
+    handle: "@OnnorokomPathshala",
+    avatarColor: "bg-emerald-600",
+    initials: "OP",
+    subscriberCount: "1.01M",
+    description: "Why are we doing these videos?\nWe dream of a different Bangladesh. We want to build a different Bangladesh, different people who will have the habit of thinking first. In ancient times, when people could not meet even the basic needs like food and clothing, but the rotation of the moon and the sun made a group of people think. Despite the obstacles of hundreds of thousands of reforms, civilization has progressed in the hands of these 'thinking' people.\nWhy are we human? Because we think, and that thought must be free thought. Whatever else is memorized, science cannot be education. And part of that effort is our video lectures. The purpose of these videos is to try to teach each topic in such a way that you can think 'out of the box'. And when you are a thoughtful person, you will understand for yourself what we have to do to make this country different, how far we have to go.",
+  },
   {
     id: "UC8SDY8Wr6s6DIofumkZGfxg",
     url: "https://www.youtube.com/channel/UC8SDY8Wr6s6DIofumkZGfxg",
@@ -19,7 +35,7 @@ export const CODEBASE_SUBSCRIBED_CHANNELS = [
     subscriberCount: "340K",
     description: "Science, Philosophy & Thought-provoking Bengali video essays and documentaries."
   },
-  {
+{
     id: "UCePPWrO7cZNtkOuiN7G4pMg",
     url: "https://www.youtube.com/channel/UCePPWrO7cZNtkOuiN7G4pMg",
     name: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
@@ -35,17 +51,9 @@ I tought math , chemistry , physics more than 10lac+ hsc and admission candidate
 Besides more than 50k private batch students finished academic and admission preparation with me in recent  years.
 Earlier I uploaded all my videos on "Mottasin Pahlovi BUETian" youtube channel(with more than 1.4 million subscribers ). In that channel i upload math related videoes of every classes including jobs. So, hsc and admission students donot find their essential content easily in that channel. So, i opened a this channel.
 
-In this channel you can take preparation of hsc as well as admission freely.`  },
-  {
-    id: "UC8SDY8Wr6s6DIofumkZGfxg",
-    url: "https://www.youtube.com/channel/UC8SDY8Wr6s6DIofumkZGfxg",
-    name: "আলকেমি (Alchemy)",
-    handle: "@alchemy149",
-    avatarColor: "bg-emerald-600",
-    initials: "AL",
-    subscriberCount: "340K",
-    description: "Science, Philosophy & Thought-provoking Bengali video essays and documentaries."
+In this channel you can take preparation of hsc as well as admission freely.`  
   },
+
 ];
 
 // List of reliable public Invidious API instances for privacy-preserving fetching
@@ -62,204 +70,292 @@ export const INVIDIOUS_INSTANCES = [
 // Guarantees zero-downtime viewing even if external APIs or proxies rate-limit.
 // ============================================================================
 export const BUILTIN_CATALOG = {
-  "UC8SDY8Wr6s6DIofumkZGfxg": {
+  // 1. AloronXYZ (Mottasin Pahlovi)
+  "UCePPWrO7cZNtkOuiN7G4pMg": {
     videos: [
-// Qualitative Chemistry
+      // Qualitative Chemistry
       {
         id: "oUp3EBbqXm4",
-        title: "গুণগত রসায়ন -01 | Mottasin Pahlovi",
+        title: "গুণগত রসায়ন -01 | Mottasin Pahlovi",
         duration: "1:30:30",
         thumbnail: "https://i.ytimg.com/vi/oUp3EBbqXm4/hqdefault.jpg",
-        channelId: "UCePPWrO7cZNtkOuiN7G4pMg",
+        channelID: "UCePPWrO7cZNtkOuiN7G4pMg",
         channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
-        description: `class note: 
-Class note: https://drive.google.com/file/d/15MOh...`
+        description: `class note: \nClass note: https://drive.google.com/file/d/15MOh...`
       },
-{
-    id: "WAHdIMGZKdc",
-    title: "2. গুণগত রসায়ন | পরমাণুর গঠন | রাদারফোর্ড, বোর, গাণিতিক সমস্যাবলি | 1st paper Chapter 2",
-    duration: "57:42",
-    thumbnail: "https://i.ytimg.com/vi/WAHdIMGZKdc/hqdefault.jpg",
-    channelId: "AloronXYZ",
-    channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
-    description: `Video Title: Qualitative Chemistry
-Lecture: পরমাণুর গঠন | রাদারফোর্ড, বোর, গাণিতিক সমস্যাবলি
-Subject: Chemistry
-Topic: Atomic Structure & Rutherford/Bohr Model
-Class: HSC 1st Paper Chapter 2
-Lectured by: Mottasin Pahlovi (AloronXYZ)`
-  },
-  {
-    id: "eBlLN3yI3Qg",
-    title: "3. গুণগত রসায়ন | কোয়ান্টাম সংখ্যা , ইলেকট্রন বিন্যাসের নীতি | 1st paper Chapter 2",
-    duration: "2:16:20",
-    thumbnail: "https://i.ytimg.com/vi/eBlLN3yI3Qg/hqdefault.jpg",
-    channelId: "AloronXYZ",
-    channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
-    description: `Video Title: Qualitative Chemistry
-Lecture: কোয়ান্টাম সংখ্যা , ইলেকট্রন বিন্যাসের নীতি
-Subject: Chemistry
-Topic: Quantum Numbers & Electron Configuration Principles
-Class: HSC 1st Paper Chapter 2
-Lectured by: Mottasin Pahlovi (AloronXYZ)`
-  },
-  {
-    id: "x_Ciei92zOc",
-    title: "4. গুণগত রসায়ন | বর্ণালি সিরিজসমূহ | 1st paper Chapter 2",
-    duration: "1:42:10",
-    thumbnail: "https://i.ytimg.com/vi/x_Ciei92zOc/hqdefault.jpg",
-    channelId: "AloronXYZ",
-    channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
-    description: `Video Title: Qualitative Chemistry
-Lecture: বর্ণালি সিরিজসমূহ
-Subject: Chemistry
-Topic: Hydrogen Spectral Series
-Class: HSC 1st Paper Chapter 2
-Lectured by: Mottasin Pahlovi (AloronXYZ)`
-  },
-  {
-    id: "t4cl1HlchZQ",
-    title: "5. গুণগত রসায়ন | দ্রাব্যতা 🔥",
-    duration: "1:12:30",
-    thumbnail: "https://i.ytimg.com/vi/t4cl1HlchZQ/hqdefault.jpg",
-    channelId: "AloronXYZ",
-    channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
-    description: `Video Title: Qualitative Chemistry
-Lecture: দ্রাব্যতা
-Subject: Chemistry
-Topic: Solubility
-Class: HSC 1st Paper Chapter 2
-Lectured by: Mottasin Pahlovi (AloronXYZ)`
-  },
-  {
-    id: "F5JzwYbhB8Q",
-    title: "6. গুণগত রসায়ন | দ্রাব্যতার গুণফল, অধঃক্ষেপ, সমআয়ন প্রভাব🔥",
-    duration: "2:19:17",
-    thumbnail: "https://i.ytimg.com/vi/F5JzwYbhB8Q/hqdefault.jpg",
-    channelId: "AloronXYZ",
-    channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
-    description: `Video Title: Qualitative Chemistry
-Lecture: দ্রাব্যতার গুণফল, অধঃক্ষেপ, সমআয়ন প্রভাব
-Subject: Chemistry
-Topic: Solubility Product, Precipitation & Common Ion Effect
-Class: HSC 1st Paper Chapter 2
-Lectured by: Mottasin Pahlovi (AloronXYZ)`
-  },
-  {
-    id: "L4KHBaWHbEQ",
-    title: "7. গুণগত রসায়ন | আয়ন শনাক্তকরণ, দ্রাবক নিষ্কাশন, ক্রোমাটোগ্রাফি 🔥",
-    duration: "2:32:32",
-    thumbnail: "https://i.ytimg.com/vi/L4KHBaWHbEQ/hqdefault.jpg",
-    channelId: "AloronXYZ",
-    channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
-    description: `Video Title: Qualitative Chemistry
-Lecture: আয়ন শনাক্তকরণ, দ্রাবক নিষ্কাশন, ক্রোমাটোগ্রাফি
-Subject: Chemistry
-Topic: Ion Identification, Solvent Extraction & Chromatography
-Class: HSC 1st Paper Chapter 2
-Lectured by: Mottasin Pahlovi (AloronXYZ)`
-  },
-// Chemical Change (রাসায়নিক পরিবর্তন)
-
-  {
-    id: "1pHfFj6rfIU",
-    title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 1 ll",
-    duration: "2:21:05",
-    thumbnail: "https://i.ytimg.com/vi/1pHfFj6rfIU/hqdefault.jpg",
-    channelId: "MD.Raihan Hasan",
-    channelName: "MD.Raihan Hasan",
-    description: `Video Title: Chemical Change
-Lecture: Lecture 1
-Subject: Chemistry
-Topic: Chemical Change / রাসায়নিক পরিবর্তন
-Class: HSC 1st Paper Chapter 4
-Lectured by: Mottasin Pahlovi (ACS)`
-  },
-  {
-    id: "Y3lio3OM7v0",
-    title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 2 ll",
-    duration: "2:23:07",
-    thumbnail: "https://i.ytimg.com/vi/Y3lio3OM7v0/hqdefault.jpg",
-    channelId: "MD.Raihan Hasan",
-    channelName: "MD.Raihan Hasan",
-    description: `Video Title: Chemical Change
-Lecture: Lecture 2
-Subject: Chemistry
-Topic: Chemical Change / রাসায়নিক পরিবর্তন
-Class: HSC 1st Paper Chapter 4
-Lectured by: Mottasin Pahlovi (ACS)`
-  },
-  {
-    id: "17bdR9GD9Hk",
-    title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 3 ll",
-    duration: "2:22:35",
-    thumbnail: "https://i.ytimg.com/vi/17bdR9GD9Hk/hqdefault.jpg",
-    channelId: "MD.Raihan Hasan",
-    channelName: "MD.Raihan Hasan",
-    description: `Video Title: Chemical Change
-Lecture: Lecture 3
-Subject: Chemistry
-Topic: Chemical Change / রাসায়নিক পরিবর্তন
-Class: HSC 1st Paper Chapter 4
-Lectured by: Mottasin Pahlovi (ACS)`
-  },
-  {
-    id: "cGGkECZfZX0",
-    title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 4 ll",
-    duration: "3:23:28",
-    thumbnail: "https://i.ytimg.com/vi/cGGkECZfZX0/hqdefault.jpg",
-    channelId: "MD.Raihan Hasan",
-    channelName: "MD.Raihan Hasan",
-    description: `Video Title: Chemical Change
-Lecture: Lecture 4
-Subject: Chemistry
-Topic: Chemical Change / রাসায়নিক পরিবর্তন
-Class: HSC 1st Paper Chapter 4
-Lectured by: Mottasin Pahlovi (ACS)`
-  },
-  {
-    id: "cUgR-Axc1PE",
-    title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 5 ll",
-    duration: "3:09:25",
-    thumbnail: "https://i.ytimg.com/vi/cUgR-Axc1PE/hqdefault.jpg",
-    channelId: "MD.Raihan Hasan",
-    channelName: "MD.Raihan Hasan",
-    description: `Video Title: Chemical Change
-Lecture: Lecture 5
-Subject: Chemistry
-Topic: Chemical Change / রাসায়নিক পরিবর্তন
-Class: HSC 1st Paper Chapter 4
-Lectured by: Mottasin Pahlovi (ACS)`
-  },
-  {
-    id: "3aqWyP_YY_E",
-    title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 6 ll",
-    duration: "2:30:56",
-    thumbnail: "https://i.ytimg.com/vi/3aqWyP_YY_E/hqdefault.jpg",
-    channelId: "MD.Raihan Hasan",
-    channelName: "MD.Raihan Hasan",
-    description: `Video Title: Chemical Change
-Lecture: Lecture 6
-Subject: Chemistry
-Topic: Chemical Change / রাসায়নিক পরিবর্তন
-Class: HSC 1st Paper Chapter 4
-Lectured by: Mottasin Pahlovi (ACS)`
-  },
-  {
-    id: "kkulLU7ED1o",
-    title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 7 ll",
-    duration: "3:28:03",
-    thumbnail: "https://i.ytimg.com/vi/kkulLU7ED1o/hqdefault.jpg",
-    channelId: "MD.Raihan Hasan",
-    channelName: "MD.Raihan Hasan",
-    description: `Video Title: Chemical Change
-Lecture: Lecture 7
-Subject: Chemistry
-Topic: Chemical Change / রাসায়নিক পরিবর্তন
-Class: HSC 1st Paper Chapter 4
-Lectured by: Mottasin Pahlovi (ACS)`
+      {
+        id: "WAHdIMGZKdc",
+        title: "2. গুণগত রসায়ন | পরমাণুর গঠন | রাদারফোর্ড, বোর, গাণিতিক সমস্যাবলি | 1st paper Chapter 2",
+        duration: "57:42",
+        thumbnail: "https://i.ytimg.com/vi/WAHdIMGZKdc/hqdefault.jpg",
+        channelID: "UCePPWrO7cZNtkOuiN7G4pMg",
+        channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+        description: `Video Title: Qualitative Chemistry\nLecture: পরমাণুর গঠন | রাদারফোর্ড, বোর, গাণিতিক সমস্যাবলি\nSubject: Chemistry\nTopic: Atomic Structure & Rutherford/Bohr Model\nClass: HSC 1st Paper Chapter 2\nLectured by: Mottasin Pahlovi (AloronXYZ)`
+      },
+      {
+        id: "eBlLN3yI3Qg",
+        title: "3. গুণগত রসায়ন | কোয়ান্টাম সংখ্যা , ইলেকট্রন বিন্যাসের নীতি | 1st paper Chapter 2",
+        duration: "2:16:20",
+        thumbnail: "https://i.ytimg.com/vi/eBlLN3yI3Qg/hqdefault.jpg",
+        channelID: "UCePPWrO7cZNtkOuiN7G4pMg",
+        channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+        description: `Video Title: Qualitative Chemistry\nLecture: কোয়ান্টাম সংখ্যা , ইলেকট্রন বিন্যাসের নীতি\nSubject: Chemistry\nTopic: Quantum Numbers & Electron Configuration Principles\nClass: HSC 1st Paper Chapter 2\nLectured by: Mottasin Pahlovi (AloronXYZ)`
+      },
+      {
+        id: "x_Ciei92zOc",
+        title: "4. গুণগত রসায়ন | বর্ণালি সিরিজসমূহ | 1st paper Chapter 2",
+        duration: "1:42:10",
+        thumbnail: "https://i.ytimg.com/vi/x_Ciei92zOc/hqdefault.jpg",
+        channelID: "UCePPWrO7cZNtkOuiN7G4pMg",
+        channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+        description: `Video Title: Qualitative Chemistry\nLecture: বর্ণালি সিরিজসমূহ\nSubject: Chemistry\nTopic: Hydrogen Spectral Series\nClass: HSC 1st Paper Chapter 2\nLectured by: Mottasin Pahlovi (AloronXYZ)`
+      },
+      {
+        id: "t4cl1HlchZQ",
+        title: "5. গুণগত রসায়ন | দ্রাব্যতা 🔥",
+        duration: "1:12:30",
+        thumbnail: "https://i.ytimg.com/vi/t4cl1HlchZQ/hqdefault.jpg",
+        channelID: "UCePPWrO7cZNtkOuiN7G4pMg",
+        channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+        description: `Video Title: Qualitative Chemistry\nLecture: দ্রাব্যতা\nSubject: Chemistry\nTopic: Solubility\nClass: HSC 1st Paper Chapter 2\nLectured by: Mottasin Pahlovi (AloronXYZ)`
+      },
+      {
+        id: "F5JzwYbhB8Q",
+        title: "6. গুণগত রসায়ন | দ্রাব্যতার গুণফল, অধঃক্ষেপ, সমআয়ন প্রভাব🔥",
+        duration: "2:19:17",
+        thumbnail: "https://i.ytimg.com/vi/F5JzwYbhB8Q/hqdefault.jpg",
+        channelID: "UCePPWrO7cZNtkOuiN7G4pMg",
+        channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+        description: `Video Title: Qualitative Chemistry\nLecture: দ্রাব্যতার গুণফল, অধঃক্ষেপ, সমআয়ন প্রভাব\nSubject: Chemistry\nTopic: Solubility Product, Precipitation & Common Ion Effect\nClass: HSC 1st Paper Chapter 2\nLectured by: Mottasin Pahlovi (AloronXYZ)`
+      },
+      {
+        id: "L4KHBaWHbEQ",
+        title: "7. গুণগত রসায়ন | আয়ন শনাক্তকরণ, দ্রাবক নিষ্কাশন, ক্রোমাটোগ্রাফি 🔥",
+        duration: "2:32:32",
+        thumbnail: "https://i.ytimg.com/vi/L4KHBaWHbEQ/hqdefault.jpg",
+        channelID: "UCePPWrO7cZNtkOuiN7G4pMg",
+        channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+        description: `Video Title: Qualitative Chemistry\nLecture: আয়ন শনাক্তকরণ, দ্রাবক নিষ্কাশন, ক্রোমাটোগ্রাফি\nSubject: Chemistry\nTopic: Ion Identification, Solvent Extraction & Chromatography\nClass: HSC 1st Paper Chapter 2\nLectured by: Mottasin Pahlovi (AloronXYZ)`
+      },
+      // Chemical Change
+      {
+        id: "1pHfFj6rfIU",
+        title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 1 ll",
+        duration: "2:21:05",
+        thumbnail: "https://i.ytimg.com/vi/1pHfFj6rfIU/hqdefault.jpg",
+        channelID: "UCePPWrO7cZNtkOuiN7G4pMg",
+        channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+        description: `Video Title: Chemical Change\nLecture: Lecture 1\nSubject: Chemistry\nTopic: Chemical Change / রাসায়নিক পরিবর্তন\nClass: HSC 1st Paper Chapter 4\nLectured by: Mottasin Pahlovi (ACS)`
+      },
+      {
+        id: "Y3lio3OM7v0",
+        title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 2 ll",
+        duration: "2:23:07",
+        thumbnail: "https://i.ytimg.com/vi/Y3lio3OM7v0/hqdefault.jpg",
+        channelID: "UCePPWrO7cZNtkOuiN7G4pMg",
+        channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+        description: `Video Title: Chemical Change\nLecture: Lecture 2\nSubject: Chemistry\nTopic: Chemical Change / রাসায়নিক পরিবর্তন\nClass: HSC 1st Paper Chapter 4\nLectured by: Mottasin Pahlovi (ACS)`
+      },
+      {
+        id: "17bdR9GD9Hk",
+        title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 3 ll",
+        duration: "2:22:35",
+        thumbnail: "https://i.ytimg.com/vi/17bdR9GD9Hk/hqdefault.jpg",
+        channelID: "UCePPWrO7cZNtkOuiN7G4pMg",
+        channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+        description: `Video Title: Chemical Change\nLecture: Lecture 3\nSubject: Chemistry\nTopic: Chemical Change / রাসায়নিক পরিবর্তন\nClass: HSC 1st Paper Chapter 4\nLectured by: Mottasin Pahlovi (ACS)`
+      },
+      {
+        id: "cGGkECZfZX0",
+        title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 4 ll",
+        duration: "3:23:28",
+        thumbnail: "https://i.ytimg.com/vi/cGGkECZfZX0/hqdefault.jpg",
+        channelID: "UCePPWrO7cZNtkOuiN7G4pMg",
+        channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+        description: `Video Title: Chemical Change\nLecture: Lecture 4\nSubject: Chemistry\nTopic: Chemical Change / রাসায়নিক পরিবর্তন\nClass: HSC 1st Paper Chapter 4\nLectured by: Mottasin Pahlovi (ACS)`
+      },
+      {
+        id: "cUgR-Axc1PE",
+        title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 5 ll",
+        duration: "3:09:25",
+        thumbnail: "https://i.ytimg.com/vi/cUgR-Axc1PE/hqdefault.jpg",
+        channelID: "UCePPWrO7cZNtkOuiN7G4pMg",
+        channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+        description: `Video Title: Chemical Change\nLecture: Lecture 5\nSubject: Chemistry\nTopic: Chemical Change / রাসায়নিক পরিবর্তন\nClass: HSC 1st Paper Chapter 4\nLectured by: Mottasin Pahlovi (ACS)`
+      },
+      {
+        id: "3aqWyP_YY_E",
+        title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 6 ll",
+        duration: "2:30:56",
+        thumbnail: "https://i.ytimg.com/vi/3aqWyP_YY_E/hqdefault.jpg",
+        channelID: "UCePPWrO7cZNtkOuiN7G4pMg",
+        channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+        description: `Video Title: Chemical Change\nLecture: Lecture 6\nSubject: Chemistry\nTopic: Chemical Change / রাসায়নিক পরিবর্তন\nClass: HSC 1st Paper Chapter 4\nLectured by: Mottasin Pahlovi (ACS)`
+      },
+      {
+        id: "kkulLU7ED1o",
+        title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi ll chemistry 1st paper chapter 4 ACS ll Lecter 7 ll",
+        duration: "3:28:03",
+        thumbnail: "https://i.ytimg.com/vi/kkulLU7ED1o/hqdefault.jpg",
+        channelID: "UCePPWrO7cZNtkOuiN7G4pMg",
+        channelName: "AloronXYZ (HSC & Admission)- Mottasin Pahlovi",
+        description: `Video Title: Chemical Change\nLecture: Lecture 7\nSubject: Chemistry\nTopic: Chemical Change / রাসায়নিক পরিবর্তন\nClass: HSC 1st Paper Chapter 4\nLectured by: Mottasin Pahlovi (ACS)`
+      }
+    ],
+    playlists: [
+      {
+        id: "Qualitative_Chemistry",
+        title: "গুণগত রসায়ন Chemistry 1st paper Chapter 2",
+        videoCount: 7,
+        thumbnail: "https://i.ytimg.com/vi/oUp3EBbqXm4/hqdefault.jpg",
+        updatedText: "Updated 4 days ago",
+        videos: ["oUp3EBbqXm4", "WAHdIMGZKdc", "eBlLN3yI3Qg", "x_Ciei92zOc", "t4cl1HlchZQ", "F5JzwYbhB8Q", "L4KHBaWHbEQ"]
+      },
+      {
+        id: "Chemical_Change",
+        title: "রাসায়নিক পরিবর্তন hsc ll mottasin pahlovi",
+        videoCount: 7,
+        thumbnail: "https://i.ytimg.com/vi/1pHfFj6rfIU/hqdefault.jpg",
+        updatedText: "Updated 4 days ago",
+        videos: ["1pHfFj6rfIU", "Y3lio3OM7v0", "17bdR9GD9Hk", "cGGkECZfZX0", "cUgR-Axc1PE", "3aqWyP_YY_E", "kkulLU7ED1o"]
+      }
+    ]
   },
 
+  // 2. Alchemy
+  "UC8SDY8Wr6s6DIofumkZGfxg": {
+    videos: [
+      {
+        id: "Zz_fOmRFN88",
+        title: "গুণগত রসায়ন (Qualitative Chemistry)। All in One",
+        duration: "11:26:49",
+        thumbnail: "https://i.ytimg.com/vi/Zz_fOmRFN88/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা\nনটরডেম কলেজ\nজেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।\nclass note: https://drive.google.com/file/d/16wY0SoSXwaKSVtGFUIbJW5G56KaR0O3A/view`
+      },
+      {
+        id: "H83W_HTlzlc",
+        title: "রাসায়নিক পরিবর্তন (Chemical Change)। All in One",
+        duration: "7:25:49",
+        thumbnail: "https://i.ytimg.com/vi/H83W_HTlzlc/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা\nনটরডেম কলেজ\nজেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।\nclass note: https://drive.google.com/drive/folders/16V382ng4SguwD9JqwAxmxGBTIEDcl4Jy`
+      },
+      {
+        id: "zLC6TKypyjU",
+        title: "পরিমাণগত রসায়ন (Quantitative Chemistry)। All in One",
+        duration: "8:03:16",
+        thumbnail: "https://i.ytimg.com/vi/zLC6TKypyjU/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা\nনটরডেম কলেজ\nজেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।\nclass note: https://drive.google.com/drive/folders/1MYuC1EMSIGTWpa74nSDaDh4lXttNSg9I`
+      },
+      {
+        id: "lJoeZDLsU64",
+        title: "তড়িৎ রসায়ন (Electro Chemistry)। All in One",
+        duration: "8:19:38",
+        thumbnail: "https://i.ytimg.com/vi/lJoeZDLsU64/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা\nনটরডেম কলেজ\nজেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।\nclass note: https://drive.google.com/drive/folders/1ujmqkJaBXMsNReYcWWDSBjLzbR8PS9WW`
+      },
+      {
+        id: "kokKBsLZOk8",
+        title: "HSC 27: গুণগত রসায়ন। Mission Year Final. Qualitative Chemistry",
+        duration: "4:34:19",
+        thumbnail: "https://i.ytimg.com/vi/kokKBsLZOk8/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `Class note 01: https://drive.google.com/file/d/1_EMrnoa46wFEpFE6wbWfDbsnXrkisQ4c/view?usp=sharing\nClass note 02:\nhttps://drive.google.com/file/d/1kYVa6g8dsuf-PcvzH_ZyzH6cQpMsA3TB/view\nGenetic Engineering, DU.\nfb group:\n  / 521646403299817  \nfb page\n  / shaownreza12`
+      },
+      {
+        id: "CCkzzRQuTao",
+        title: "HSC 27: মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন । Mission Year Final: Periodic Properties and Bonds",
+        duration: "4:02:47",
+        thumbnail: "https://i.ytimg.com/vi/CCkzzRQuTao/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `Class note 01: https://drive.google.com/file/d/11-d3bGsKYPLwc-H_fstb-e8s2lUDVRwg/view\nClass note 02: https://drive.google.com/file/d/11-d3bGsKYPLwc-H_fstb-e8s2lUDVRwg/view\nGenetic Engineering, DU.\nfb group:\n  / 521646403299817  \nfb page\n  / shaownreza12`
+      },
+      {
+        id: "jRT3nJSi2XA",
+        title: "কর্মমূখী রসায়ন (Vocational Chemistry)। All in One",
+        duration: "1:37:01",
+        thumbnail: "https://i.ytimg.com/vi/jRT3nJSi2XA/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা\nনটরডেম কলেজ\nজেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।\nclass notes: https://drive.google.com/file/d/1ppu2-vVejXpF1QNzFHR4OamuHwe1iiPq/view`
+      },
+      {
+        id: "I9qN6pCzqeU",
+        title: "HSC Foundation: একক রূপান্তর (Unit Conversion)",
+        duration: "33:56",
+        thumbnail: "https://i.ytimg.com/vi/I9qN6pCzqeU/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা\nনটরডেম কলেজ\nজেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      },
+      {
+        id: "RQycfd6ADlQ",
+        title: "HSC Foundation: SI, CGS, FPS, MKS System (একক পদ্ধতি)",
+        duration: "15:53",
+        thumbnail: "https://i.ytimg.com/vi/RQycfd6ADlQ/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা\nনটরডেম কলেজ\nজেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      },
+      {
+        id: "fVYWwJNtxrY",
+        title: "HSC Foundation: Application of Units in Equation (সমীকরণে একক বসানোর নিয়ম)",
+        duration: "10:49",
+        thumbnail: "https://i.ytimg.com/vi/fVYWwJNtxrY/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা\nনটরডেম কলেজ\nজেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      },
+      {
+        id: "iwA47iju5n8",
+        title: "HSC Foundation: Molar Mass vs Atomic Mass vs Molecular Mass(মোলার ভর vs পারমাণবিক ভর vs আণবিক ভর)",
+        duration: "13:45",
+        thumbnail: "https://i.ytimg.com/vi/iwA47iju5n8/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা\nনটরডেম কলেজ\nজেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      },
+      {
+        id: "7AlCvxOKoSE",
+        title: "HSC Foundation: Molar Volume (মোলার আয়তন)",
+        duration: "9:38",
+        thumbnail: "https://i.ytimg.com/vi/7AlCvxOKoSE/hqdefault.jpg",
+        channelId: "UC8SDY8Wr6s6DIofumkZGfxg",
+        channelName: "আলকেমি (Alchemy)",
+        description: `শাওন রেজা\nনটরডেম কলেজ\nজেনেটিক ইঞ্জিনিয়ারিং, ঢাবি।`
+      }
+    ],
+    playlists: [
+      {
+        id: "Chemistry_All_In_One_01",
+        title: "All in One",
+        videoCount: 7,
+        thumbnail: "https://i.ytimg.com/vi/Zz_fOmRFN88/hqdefault.jpg",
+        updatedText: "Updated 4 days ago",
+        videos: ["Zz_fOmRFN88", "H83W_HTlzlc", "zLC6TKypyjU", "lJoeZDLsU64", "jRT3nJSi2XA", "kokKBsLZOk8", "CCkzzRQuTao"]
+      },
+      {
+        id: "HSC_Foundation_02",
+        title: "HSC Foundation",
+        videoCount: 5,
+        thumbnail: "https://i.ytimg.com/vi/I9qN6pCzqeU/hqdefault.jpg",
+        updatedText: "Updated 2 weeks ago",
+        videos: ["I9qN6pCzqeU", "RQycfd6ADlQ", "fVYWwJNtxrY", "iwA47iju5n8", "7AlCvxOKoSE"]
+      }
+    ]
+  },
+  // 2. Alchemy
+  "UC8SDY8Wr6s6DIofumkZGfxg": {
+    videos: [
       {
         id: "Zz_fOmRFN88",
         title: "গুণগত রসায়ন (Qualitative Chemistry)। All in One",
@@ -669,14 +765,14 @@ Lectured by: OnnoRokom Pathshala`
       {
         id: "Organic_Chemistry",
         title: "Organic Chemistry Combo",
-        videoCount: 29,
+        videoCount: 15,
         thumbnail: "https://i.ytimg.com/vi/Gne3WZkeoPo/hqdefault.jpg",
         updatedText: "Updated 4 days ago",
         videos: ["Gne3WZkeoPo", "x-PK5b1-eNc", "OiCEr7JO1VU", "aV9VCHUi4Xg", "uX3W-xs15fk", "MEf78sXAMPI", "hn9telypmRA", "kafwtZwRsjY", "A2KKAcJA0yg", "qORiNZRDdKA", "NnfLXUGmbuI", "h7r5AdQfk4g", "jM9xBJrYNaA", "VElosPpBFbM", "VitdAG_o7g8"]
-      },
+      }
     ]
   },
-"UCBA6OI6vEDK13jfoiuX694A": {
+  "UCBA6OI6vEDK13jfoiuX694A": {
     videos: [
 //Mathematics Portion
 //Differentiation
@@ -1175,8 +1271,6 @@ Lectured by: Ashikuzzaman Rasel`
      },
 // Physics
 // Newtonian Mechanics
-// Physics
-// Newtonian Mechanics
 {
         id: "jgsnZoZ-hVg",
         title: "01. Newton's 1st law Part 01 | নিউটনের প্রথম সূত্র পর্ব ০১ | OnnoRokom Pathshala",
@@ -1457,20 +1551,9 @@ Topic: Newton's 1st law Part 01
 Class: HSC 1st Year
 Lectured by: Maksudul Hossain Jewel`
       }, 
-{
-        id: "dlEh1U1ei5I",
-        title: "02. Conservation of Momentum Basic Part 04 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৪ | OnnoRokom Pathshala",
-        duration: "11:52",
-        thumbnail: "https://i.ytimg.com/vi/dlEh1U1ei5I/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
+// TODO: "Conservation of Momentum Basic Part 04" was stored with the same video id as
+// Part 03 above — a copy/paste error in the original data. Removed the broken duplicate
+// rather than guess a video id; re-add it here with the correct id (duration was 11:52).
 {
         id: "ZbvpldoW8w",
         title: "02. Conservation of Momentum Basic Part 05 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৫ | OnnoRokom Pathshala",
@@ -1583,7 +1666,6 @@ Topic: Newton's 1st law Part 01
 Class: HSC 1st Year
 Lectured by: Maksudul Hossain Jewel`
       },
-//HSC Combo
 //HSC Combo
 {
         id: "KphXn1GYcG0",
@@ -1711,20 +1793,9 @@ Topic: Static Electricty-Current Electricity Part 01
 Class: HSC 2nd Year
 Lectured by: Maksudul Hossain Jewel`
       },
-{
-        id: "8txuXBijYUw",
-        title: "HSC Physics Part-06",
-        duration: "1:07:05",
-        thumbnail: "https://i.ytimg.com/vi/8txuXBijYUw/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: Udvash
-Subject: Physics
-Topic: Static Electricty-Current Electricity Part 02
-Class: HSC 2nd Year
-Lectured by: Tusher Chakroborty`
-      },
+// TODO: "Static Electricty-Current Electricity Part 02" (Tusher Chakroborty) was stored with
+// the same video id as Part 01 above — a copy/paste error in the original data. Removed the
+// broken duplicate rather than guess a video id; re-add it here with the correct id.
 {
         id: "UI7fgWG6doU",
         title: "HSC Physics Part-07",
@@ -1780,414 +1851,6 @@ Subject: Physics
 Topic: Geometrical Optics-Wave Theroy Part 02
 Class: HSC 2nd Year
 Lectured by: Tusher Chakroborty`
-      },
-// Physics
-// Newtonian Mechanics
-{
-        id: "jgsnZoZ-hVg",
-        title: "01. Newton's 1st law Part 01 | নিউটনের প্রথম সূত্র পর্ব ০১ | OnnoRokom Pathshala",
-        duration: "8:18",
-        thumbnail: "https://i.ytimg.com/vi/jgsnZoZ-hVg/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "idxuC5TzCgU",
-        title: "01. Newton's 1st law Part 02 | নিউটনের প্রথম সূত্র পর্ব ০২ | OnnoRokom Pathshala",
-        duration: "15:16",
-        thumbnail: "https://i.ytimg.com/vi/idxuC5TzCgU/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "Fl822BDrcN0",
-        title: "01. Newton's 1st law Part 03 | নিউটনের প্রথম সূত্র পর্ব ০৩ | OnnoRokom Pathshala",
-        duration: "12:10",
-        thumbnail: "https://i.ytimg.com/vi/Fl822BDrcN0/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "tsEpmGRwwFw",
-        title: "01. Newton's 1st law Part 04 | নিউটনের প্রথম সূত্র পর্ব ০৪ | OnnoRokom Pathshala",
-        duration: "14:07",
-        thumbnail: "https://i.ytimg.com/vi/tsEpmGRwwFw/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "wCc3e1LE9-s",
-        title: "01. Newton's 1st law Part 05 | নিউটনের প্রথম সূত্র পর্ব ০৫ | OnnoRokom Pathshala",
-        duration: "8:52",
-        thumbnail: "https://i.ytimg.com/vi/wCc3e1LE9-s/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "GVoQGv5V-8w",
-        title: "02. Newton's 2nd law Part 01 | নিউটনের দ্বিতীয় সূত্র পর্ব ০১ | OnnoRokom Pathshala",
-        duration: "12:56",
-        thumbnail: "https://i.ytimg.com/vi/GVoQGv5V-8w/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "VlSByMqhQGM",
-        title: "02. Newton's 2nd law Part 02 | নিউটনের দ্বিতীয় সূত্র পর্ব ০২ | OnnoRokom Pathshala",
-        duration: "14:53",
-        thumbnail: "https://i.ytimg.com/vi/VlSByMqhQGM/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "oJogS-Kv-4w",
-        title: "02. Newton's 2nd law Part 03 | নিউটনের দ্বিতীয় সূত্র পর্ব ০৩ | OnnoRokom Pathshala",
-        duration: "12:49",
-        thumbnail: "https://i.ytimg.com/vi/oJogS-Kv-4w/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "DkT9szIPS-w", 
-        title: "02. Newton's 2nd law Part 04 | নিউটনের দ্বিতীয় সূত্র পর্ব ০৪ | OnnoRokom Pathshala",
-        duration: "11:03",
-        thumbnail: "https://i.ytimg.com/vi/DkT9szIPS-w/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "vrfc3GebITQ",
-        title: "02. Newton's 2nd law Part 05 | নিউটনের দ্বিতীয় সূত্র পর্ব ০৫ | OnnoRokom Pathshala",
-        duration: "10:44",
-        thumbnail: "https://i.ytimg.com/vi/vrfc3GebITQ/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "PlpNd6zcSeU",
-        title: "03. Newton's 3rd law Part 01 | নিউটনের তৃতীয় সূত্র পর্ব ০১ | OnnoRokom Pathshala",
-        duration: "15:51",
-        thumbnail: "https://i.ytimg.com/vi/PlpNd6zcSeU/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "U9QRfxy22yM",
-        title: "03. Newton's 3rd law Part 02 | নিউটনের তৃতীয় সূত্র পর্ব ০২ | OnnoRokom Pathshala",
-        duration: "5:59",
-        thumbnail: "https://i.ytimg.com/vi/U9QRfxy22yM/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "j1x4niLVbYQ",
-        title: "01. Center of Gravity Part 01 | ভরকেন্দ্র পর্ব ০১ | OnnoRokom Pathshala",
-        duration: "13:07",
-        thumbnail: "https://i.ytimg.com/vi/j1x4niLVbYQ/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "PfSONKumv2A",
-        title: "01. Center of Gravity Part 02 | ভরকেন্দ্র পর্ব ০২ | OnnoRokom Pathshala ",
-        duration: "15:59",
-        thumbnail: "https://i.ytimg.com/vi/PfSONKumv2A/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "Vu1y7BuOIh0",
-        title: "01. Center of Gravity Part 03 | ভরকেন্দ্র পর্ব ০৩ | OnnoRokom Pathshala",
-        duration: "13:56",
-        thumbnail: "https://i.ytimg.com/vi/Vu1y7BuOIh0/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "Op6xiICaoOo",
-        title: "01. Center of Gravity Part 04 | ভরকেন্দ্র পর্ব ০৪ | OnnoRokom Pathshala",
-        duration: "13:56",
-        thumbnail: "https://i.ytimg.com/vi/Op6xiICaoOo/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "RrstMhs1oPg",
-        title: "01. Center of Gravity Part 05 | ভরকেন্দ্র পর্ব ০৫ | OnnoRokom Pathshala",
-        duration: "12 :18", 
-        thumbnail: "https://i.ytimg.com/vi/RrstMhs1oPg/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "JF_BD5zSxPw",
-        title: "02. Conservation of Momentum Basic Part 01 | ভরবেগের সংরক্ষণশীলতা পর্ব ০১ | OnnoRokom Pathshala",
-        duration: "12:45",
-        thumbnail: "https://i.ytimg.com/vi/JF_BD5zSxPw/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "qOtMqwZpTrM",
-        title: "02. Conservation of Momentum Basic Part 02 | ভরবেগের সংরক্ষণশীলতা পর্ব ০২ | OnnoRokom Pathshala",
-        duration: "17:03",
-        thumbnail: "https://i.ytimg.com/vi/qOtMqwZpTrM/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "dlEh1U1ei5I",
-        title: "02. Conservation of Momentum Basic Part 03 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৩ | OnnoRokom Pathshala",
-        duration: "18:02",
-        thumbnail: "https://i.ytimg.com/vi/dlEh1U1ei5I/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "dlEh1U1ei5I",
-        title: "02. Conservation of Momentum Basic Part 04 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৪ | OnnoRokom Pathshala",
-        duration: "11:52",
-        thumbnail: "https://i.ytimg.com/vi/dlEh1U1ei5I/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "-ZbvpldoW8w",
-        title: "02. Conservation of Momentum Basic Part 05 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৫ | OnnoRokom Pathshala",
-        duration: "17:16",
-        thumbnail: "https://i.ytimg.com/vi/-ZbvpldoW8w/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "SE5bmqIBjZY",
-        title: "02. Conservation of Momentum Basic Part 06 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৬ | OnnoRokom Pathshala",
-        duration: "10:57",
-        thumbnail: "https://i.ytimg.com/vi/SE5bmqIBjZY/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "hsO2bC-GQXk",
-        title: "02. Conservation of Momentum Basic Part 07 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৭ | OnnoRokom Pathshala",
-        duration: "9:08",
-        thumbnail: "https://i.ytimg.com/vi/hsO2bC-GQXk/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "j8H4WyxAKxI",
-        title: "01. Conservation of Momentum Part 01 | ভরবেগের সংরক্ষণশীলতা পর্ব ০১ | OnnoRokom Pathshala",
-        duration: "15:51",
-        thumbnail: "https://i.ytimg.com/vi/j8H4WyxAKxI/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "LHZ1WA34bgg",
-        title: "01. Conservation of Momentum Part 02 | ভরবেগের সংরক্ষণশীলতা পর্ব ০২ | OnnoRokom Pathshala",
-        duration: "15:35",
-        thumbnail: "https://i.ytimg.com/vi/LHZ1WA34bgg/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "sPjboJPiV7Y",
-        title: "02. Conservation of Kinetic Energy Part 01 | গতিশক্তির সংরক্ষণশীলতা পর্ব ০১ | OnnoRokom Pathshala",
-        duration: "17:36",
-        thumbnail: "https://i.ytimg.com/vi/sPjboJPiV7Y/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "ES1C2hmceNY",
-        title: "02. Conservation of Kinetic Energy Part 02 | গতিশক্তির সংরক্ষণশীলতা পর্ব ০২ | OnnoRokom Pathshala",
-        duration: "8:18",
-        thumbnail: "https://i.ytimg.com/vi/ES1C2hmceNY/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
-      }, 
-{
-        id: "fEz2ifplYhs",
-        title: "03. External and Internal Force | অন্তর্গত ও বহিরাগত বল | OnnoRokom Pathshala",
-        duration: "16:50",
-        thumbnail: "https://i.ytimg.com/vi/fEz2ifplYhs/hqdefault.jpg",
-        channelId: "UCBA6OI6vEDK13jfoiuX694A",
-        channelName: "OnnoRokom Pathshala",
-        description: `
-Video Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)
-Subject: Physics
-Topic: Newton's 1st law Part 01
-Class: HSC 1st Year
-Lectured by: Maksudul Hossain Jewel`
       },
 // Wave
 
@@ -4218,7 +3881,7 @@ Lectured by: OnnoRokom Pathshala`
 {
         id: "Polynomials",
         title: "HSC Higher Mathematics 2nd paper: Polynomials (বহুপদী)",
-        videoCount: 14,
+        videoCount: 13,
         thumbnail: "https://i.ytimg.com/vi/rbe5LKMfGlk/hqdefault.jpg",
         updatedText: "Updated 2 week ago",
         videos: ["rbe5LKMfGlk", "PeG9rzjDnW4", "S_TgsOWk5EA", "clz5IQ4pd2o", "6ba5OeV5Sig", "RcKoxh98DTo", "12Caei0Blco", "McCYkjAb2nI", "WoVipraloZc", "j8Now079Xt8", "sfVVoNYlVuc", "MLEtns8jA-k", "RCL2ezS-SPk"]
@@ -4226,7 +3889,7 @@ Lectured by: OnnoRokom Pathshala`
 {
         id: "Complex_Numbers",
         title: "HSC Higher Mathematics 2nd paper: Complex Numbers (জটিল সংখ্যা)",
-        videoCount: 19,
+        videoCount: 18,
         thumbnail: "https://i.ytimg.com/vi/rbe5LKMfGlk/hqdefault.jpg",
         updatedText: "Updated 2 week ago",
         videos: ["nWesJDuTAFg", "5fBW888RGlk", "E6XrVsflKYM", "Exzdvu3isWQ", "yNTzCdNLBkM", "9-9nGCsfueE", "ObeK1QO2p6Q", "z6LdCFmVu2M", "zP0z8E5U7AU", "qlp_zjZB9IE", "nJFZ7yDxxs0", "EvgvPfCKLE4", "ObkvmC3D7k8", "_b1GYxBKbAI", "HUpgEi7mzek", "o-B_-MAUcLQ", "6yC_oa-mrpY", "0rYbJdKrilo"]
@@ -4242,7 +3905,7 @@ Lectured by: OnnoRokom Pathshala`
       {
         id: "Physics_Periodic_Motion_01",
         title: "Physics Periodic Motion (পর্যায়বৃত্ত গতি)",
-        videoCount: 12,
+        videoCount: 15,
         thumbnail: "https://i.ytimg.com/vi/LVE9SjOd0Hw/hqdefault.jpg",
         updatedText: "Updated 1 week ago",
         videos: ["LVE9SjOd0Hw", "3u_UKd8iTTE", "Hi6Uo6NQ8Zc", "_uqioK_AnbM", "29RYUx1KUu0", "-o7X58xkiXo", "9iWqKmnK3_0", "UhJCLSLHi5M", "bS7SoiY8Gzc", "7B3GW6siIVI", "kB2OYCRCHRA", "9HVn0cLmf3o", "wIgWv1KexOU", "s5q3Ozq8Yg0", "MZ5eKUlO2fU"]
@@ -4250,7 +3913,7 @@ Lectured by: OnnoRokom Pathshala`
 {
         id: "Physics_Ideal_Gas_02",
         title: "Physics Ideal Gas (আদর্শ গ্যাস)",
-        videoCount: 11,
+        videoCount: 20,
         thumbnail: "https://i.ytimg.com/vi/dXpY7BlBPuQ/hqdefault.jpg",
         updatedText: "Updated 1 week ago",
         videos: ["dXpY7BlBPuQ", "dqmZ-Ex8W4Y", "zKu9i_P4PSI", "bXV8mqvxnaU", "oKVKlLSpYhY", "DCLopZ85Yqo", "xLeinKZ9dDc", "o8XkQrh61WM", "Ba6s8ATJCa8", "wHeBdhMvwQw", "GwL8NI2tq6c", "lbKOaPV52mw", "mO85Tn8dUUY", "2oxnrmIk05E", "nq4K-oej0nE", "UvVt-YowPqc", "WW3N-8BqvYw", "F0mKJDyXdfA", "T69PVHNW8ek", "swobTXi6xo8"]
@@ -4267,18 +3930,18 @@ Lectured by: OnnoRokom Pathshala`
 {
         id: "Physics_Combo_by_Udvash",
         title: "Physics Combo by Udvash",
-        videoCount: 16,
+        videoCount: 13,
         thumbnail: "https://i.ytimg.com/vi/KphXn1GYcG0/hqdefault.jpg",
         updatedText: "Updated 1 week ago",
-        videos: ["KphXn1GYcG0", "yEScNi9si7c", "0A6g4Z30E7Q", "hp_qTlguG_I", "9AeM-QnwF4k", "0v8Prmi6xYg", "quSUCOrsbeU", "lP8277QSPTU", "8txuXBijYUw", "8txuXBijYUw", "UI7fgWG6doU", "yA8OAvJlp90", "Y2_DZTOmu4o", "Jara5dO9dyg"]
+        videos: ["KphXn1GYcG0", "yEScNi9si7c", "0A6g4Z30E7Q", "hp_qTlguG_I", "9AeM-QnwF4k", "0v8Prmi6xYg", "quSUCOrsbeU", "lP8277QSPTU", "8txuXBijYUw", "UI7fgWG6doU", "yA8OAvJlp90", "Y2_DZTOmu4o", "Jara5dO9dyg"]
       },
 {
         id: "Physics_Newtonian_Mechanics_04",
         title: "Physics Newtonian Mechanics (নিউটনিয়ান বলবিদ্যা)",
-        videoCount: 30,
+        videoCount: 28,
         thumbnail: "https://i.ytimg.com/vi/jgsnZoZ-hVg/hqdefault.jpg",
         updatedText: "Updated 1 week ago",
-        videos: ["jgsnZoZ-hVg", "idxuC5TzCgU", "Fl822BDrcN0", "tsEpmGRwwFw", "wCc3e1LE9-s", "GVoQGv5V-8w", "VlSByMqhQGM", "oJogS-Kv-4w", "DkT9szIPS-w", "vrfc3GebITQ", "PlpNd6zcSeU", "U9QRfxy22yM", "j1x4niLVbYQ", "PfSONKumv2A", "Vu1y7BuOIh0", "Op6xiICaoOo", "RrstMhs1oPg", "JF_BD5zSxPw", "qOtMqwZpTrM", "dlEh1U1ei5I", "dlEh1U1ei5I", "-ZbvpldoW8wxc", "SE5bmqIBjZY", "hsO2bC-GQXk", "j8H4WyxAKxI", "LHZ1WA34bgg", "sPjboJPiV7Y", "ES1C2hmceNY", "fEz2ifplYhs"]      
+        videos: ["jgsnZoZ-hVg", "idxuC5TzCgU", "Fl822BDrcN0", "tsEpmGRwwFw", "wCc3e1LE9-s", "GVoQGv5V-8w", "VlSByMqhQGM", "oJogS-Kv-4w", "DkT9szIPS-w", "vrfc3GebITQ", "PlpNd6zcSeU", "U9QRfxy22yM", "j1x4niLVbYQ", "PfSONKumv2A", "Vu1y7BuOIh0", "Op6xiICaoOo", "RrstMhs1oPg", "JF_BD5zSxPw", "qOtMqwZpTrM", "dlEh1U1ei5I", "ZbvpldoW8w", "SE5bmqIBjZY", "hsO2bC-GQXk", "j8H4WyxAKxI", "LHZ1WA34bgg", "sPjboJPiV7Y", "ES1C2hmceNY", "fEz2ifplYhs"]      
       },
 {
         id: "Physics_Static_Electricity_05",
