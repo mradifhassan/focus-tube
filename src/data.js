@@ -4261,7 +4261,7 @@ Lectured by: OnnoRokom Pathshala`
         id: "Physics_Gravitation_06",
         title: "Physics Gravitation (মহাকর্ষ ও অভিকর্ষ)",
         videoCount: 22,
-        thumbnail: "https://i.ytimg.com/vi/xrQEx2MoTMQ/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/0WIW244qlDc/hqdefault.jpg",
         updatedText: "Updated 1 week ago",
         videos: ["0WIW244qlDc", "pfxQw0CSKQY", "ibAblug8p9w", "6KidjiuFcBk", "R7OfwMSVkd4", "AunJROYV5aI", "GgPFQqXpFU4", "T7li11cQtLM", "cGWnOcNDSIY", "c1gEZJF3K40", "pE1_mIzibWU", "YuFw7ZcweHY", "D9v6vOUgvbw", "ZtWcfOw2Gmo", "nC_bAbVwu5I", "vl3NqzP_Ukw", "-9YpHTvT6tc", "VNOLm5_aFs0", "T7XvOSWOuAo", "WEsObGAKdB8", "FwpFBJaf464", "0JvpmzzkdP8"],
         },
