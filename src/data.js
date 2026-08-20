@@ -3855,9 +3855,315 @@ Topic: General Conception of Root Part 03
 Class: HSC 2nd Year
 Lectured by: OnnoRokom Pathshala`
   },
-
-
-
+// Gravitation
+{
+    id: "0WIW244qlDc",
+    title: "01. Background of Discovery Part 01 | আবিস্কারের পটভূমি পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "10:58",
+    thumbnail: "https://i.ytimg.com/vi/0WIW244qlDc/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: Background of Discovery Part 01
+Subject: Physics
+Topic: Background of Discovery
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "pfxQw0CSKQY",
+    title: "01. Background of Discovery Part 02 | আবিস্কারের পটভূমি পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "11:04",
+    thumbnail: "https://i.ytimg.com/vi/pfxQw0CSKQY/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: Background of Discovery Part 02
+Subject: Physics
+Topic: Background of Discovery
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "ibAblug8p9w",
+    title: "01. Background of Discovery Part 03 | আবিস্কারের পটভূমি পর্ব ০৩ | OnnoRokom Pathshala",
+    duration: "11:22",
+    thumbnail: "https://i.ytimg.com/vi/ibAblug8p9w/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: Background of Discovery Part 03
+Subject: Physics
+Topic: Background of Discovery
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "6KidjiuFcBk",
+    title: "01. Background of Discovery Part 04 | আবিস্কারের পটভূমি পর্ব ০৪ | OnnoRokom Pathshala",
+    duration: "9:26",
+    thumbnail: "https://i.ytimg.com/vi/6KidjiuFcBk/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: Background of Discovery Part 04
+Subject: Physics
+Topic: Background of Discovery
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "R7OfwMSVkd4",
+    title: "02. Universal Law of Gravitation Part 01 | মহাকর্ষের সার্বজনীন সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "9:44",
+    thumbnail: "https://i.ytimg.com/vi/R7OfwMSVkd4/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: Universal Law of Gravitation Part 01
+Subject: Physics
+Topic: Universal Law of Gravitation
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "AunJROYV5aI",
+    title: "02. Universal Law of Gravitation Part 02 | মহাকর্ষের সার্বজনীন সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "11:18",
+    thumbnail: "https://i.ytimg.com/vi/AunJROYV5aI/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: Universal Law of Gravitation Part 02
+Subject: Physics
+Topic: Universal Law of Gravitation
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "GgPFQqXpFU4",
+    title: "03. Momentum of Earth | পৃথিবীর ভরবেগ | OnnoRokom Pathshala",
+    duration: "16:20",
+    thumbnail: "https://i.ytimg.com/vi/GgPFQqXpFU4/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: Momentum of Earth
+Subject: Physics
+Topic: Momentum of Earth
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+{
+    id: "T7li11cQtLM",
+    title: "01. Gravitation & Gravity | মহাকর্ষ ও অভিকর্ষ | OnnoRokom Pathshala",
+    duration: "1:30",
+    thumbnail: "https://i.ytimg.com/vi/T7li11cQtLM/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: 01. Gravitation & Gravity | মহাকর্ষ ও অভিকর্ষ
+Subject: Physics
+Topic: Gravitation & Gravity
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "cGWnOcNDSIY",
+    title: "02. মুক্তভাবে পড়ন্ত বস্তু এবং গ্যালিলিওর পড়ন্ত বস্তুর সূত্র | OnnoRokom Pathshala",
+    duration: "5:47",
+    thumbnail: "https://i.ytimg.com/vi/cGWnOcNDSIY/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: 02. মুক্তভাবে পড়ন্ত বস্তু এবং গ্যালিলিওর পড়ন্ত বস্তুর সূত্র
+Subject: Physics
+Topic: Freely Falling Bodies & Galileo's Laws
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "c1gEZJF3K40",
+    title: "03. Kepler’s Law | কেপলারে সূত্র | OnnoRokom Pathshala",
+    duration: "5:45",
+    thumbnail: "https://i.ytimg.com/vi/c1gEZJF3K40/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: 03. Kepler’s Law | কেপলারে সূত্র
+Subject: Physics
+Topic: Kepler's Laws of Planetary Motion
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "pE1_mIzibWU",
+    title: "04. Newton’s Gravitational Law | নিউটনের মহাকর্ষীয় সূত্র | OnnoRokom Pathshala",
+    duration: "6:47",
+    thumbnail: "https://i.ytimg.com/vi/pE1_mIzibWU/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: 04. Newton’s Gravitational Law | নিউটনের মহাকর্ষীয় সূত্র
+Subject: Physics
+Topic: Newton's Law of Universal Gravitation
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "YuFw7ZcweHY",
+    title: "05. Value of g at Different Places | বিভিন্ন স্থানে g এর মান | OnnoRokom Pathshala",
+    duration: "13:45",
+    thumbnail: "https://i.ytimg.com/vi/YuFw7ZcweHY/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: 05. Value of g at Different Places | বিভিন্ন স্থানে g এর মান
+Subject: Physics
+Topic: Variation of Acceleration Due to Gravity (g)
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "D9v6vOUgvbw",
+    title: "06. Weight, Difference of Weight & Weightlessness Part 01 | ওজন, ওজনের তারতম্য ও ওজনহীনতা পর্ব ০১",
+    duration: "10:11",
+    thumbnail: "https://i.ytimg.com/vi/D9v6vOUgvbw/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: 06. Weight, Difference of Weight & Weightlessness Part 01
+Subject: Physics
+Topic: Weight & Weightlessness Part 01
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "ZtWcfOw2Gmo",
+    title: "06. Weight, Difference of Weight & Weightlessness Part 02 | ওজন, ওজনের তারতম্য ও ওজনহীনতা পর্ব ০২",
+    duration: "12:10",
+    thumbnail: "https://i.ytimg.com/vi/ZtWcfOw2Gmo/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: 06. Weight, Difference of Weight & Weightlessness Part 02
+Subject: Physics
+Topic: Weight & Weightlessness Part 02
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "nC_bAbVwu5I",
+    title: "06. Weight, Difference of Weight & Weightlessness Part 03 | ওজন, ওজনের তারতম্য ও ওজনহীনতা পর্ব ০৩",
+    duration: "5:50",
+    thumbnail: "https://i.ytimg.com/vi/nC_bAbVwu5I/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: 06. Weight, Difference of Weight & Weightlessness Part 03
+Subject: Physics
+Topic: Weight & Weightlessness Part 03
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "vl3NqzP_Ukw",
+    title: "07. Change of Values of g Due to Diurnal Motion | আহ্নিক গতির কারণে g এর মানের পরিবর্তন",
+    duration: "5:48",
+    thumbnail: "https://i.ytimg.com/vi/vl3NqzP_Ukw/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: 07. Change of Values of g Due to Diurnal Motion
+Subject: Physics
+Topic: Diurnal Motion and Acceleration Due to Gravity
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "-9YpHTvT6tc",
+    title: "08. Satellite & Artificial Satellite | উপগ্রহ ও কৃত্রিম উপগ্রহ | OnnoRokom Pathshala",
+    duration: "9:27",
+    thumbnail: "https://i.ytimg.com/vi/-9YpHTvT6tc/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: 08. Satellite & Artificial Satellite | উপগ্রহ ও কৃত্রিম উপগ্রহ
+Subject: Physics
+Topic: Satellites & Artificial Satellites
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "VNOLm5_aFs0",
+    title: "09. Gravitational Potential Part 01 | মহাকর্ষীয় বিভব পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "13:38",
+    thumbnail: "https://i.ytimg.com/vi/VNOLm5_aFs0/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: 09. Gravitational Potential Part 01 | মহাকর্ষীয় বিভব পর্ব ০১
+Subject: Physics
+Topic: Gravitational Potential Part 01
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "T7XvOSWOuAo",
+    title: "09. Gravitational Potential Part 02 | মহাকর্ষীয় বিভব পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "12:56",
+    thumbnail: "https://i.ytimg.com/vi/T7XvOSWOuAo/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: 09. Gravitational Potential Part 02 | মহাকর্ষীয় বিভব পর্ব ০২
+Subject: Physics
+Topic: Gravitational Potential Part 02
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "WEsObGAKdB8",
+    title: "10. Escape Velocity | মুক্তিবেগ | OnnoRokom Pathshala",
+    duration: "7:35",
+    thumbnail: "https://i.ytimg.com/vi/WEsObGAKdB8/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: 10. Escape Velocity | মুক্তিবেগ
+Subject: Physics
+Topic: Escape Velocity
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "FwpFBJaf464",
+    title: "11. Problems Related to Potential | বিভব সংক্রান্ত সমস্যা | OnnoRokom Pathshala",
+    duration: "4:21",
+    thumbnail: "https://i.ytimg.com/vi/FwpFBJaf464/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: 11. Problems Related to Potential | বিভব সংক্রান্ত সমস্যা
+Subject: Physics
+Topic: Mathematical Problems on Gravitational Potential
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "0JvpmzzkdP8",
+    title: "12. Special Problems | বিশেষ সমস্যা | OnnoRokom Pathshala",
+    duration: "13:53",
+    thumbnail: "https://i.ytimg.com/vi/0JvpmzzkdP8/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Gravitation & Gravity
+Lecture: 12. Special Problems | বিশেষ সমস্যা
+Subject: Physics
+Topic: Special Mathematical Problems
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
     ],
     playlists: [
       {
@@ -3951,6 +4257,14 @@ Lectured by: OnnoRokom Pathshala`
         updatedText: "Updated 1 week ago",
         videos: ["xrQEx2MoTMQ", "EQEMhTtgPQ0", "EdaW3hHmEUw", "3bVFmivyOFo", "5OZKRhBEu5A", "yPAeKKvCqpI", "Wd6PVZSO7Wg", "QxFNmsjXDcY", "w8gHVx93XCo", "gL33vAOh8Pc", "idn05E0Zh8k", "K_m47hUzloY", "n3HAuDLH5zs", "UvIBl58aSU0", "vgQVB4Q2sns", "cPf1WSuKg1w", "x4fGNy9inho", "O-Ly_MpqoQE", "LETlg93BR3o", "nSQExLSkG2I", "CjSYqig_tgM", "CK20Le4uNLQ", "vblMF4QJdEE", "SAzkZCc9dos", "Q2xtCzRh6ho", "EcJ7vv9bkC8", "4RN-nDGhXK8", "1lVrGHcsGVo", "0gBD0GyuOeQ", "gXqQ2K_or1s", "HJj99FjuPjk", "E8wXS25PNNw", "zlMUs5EqGZg", "AARFPwO_4Yg", "d5h5DTA4yqc", "r4ADSD6NS_g", "Mt-8-hZOpfU", "dgyRX5Hojgo", "xMA1sjlGVs4", "T4MuYVlVmuI", "w4Lho9cvw_8", "AF2hl9Yu0bI", "Q8m8doabVB0", "sRX3M2H5b8s"],
       },
+{
+        id: "Physics_Gravitation_06",
+        title: "Physics Gravitation (মহাকর্ষ ও অভিকর্ষ)",
+        videoCount: 22,
+        thumbnail: "https://i.ytimg.com/vi/xrQEx2MoTMQ/hqdefault.jpg",
+        updatedText: "Updated 1 week ago",
+        videos: ["0WIW244qlDc", "pfxQw0CSKQY", "ibAblug8p9w", "6KidjiuFcBk", "R7OfwMSVkd4", "AunJROYV5aI", "GgPFQqXpFU4", "T7li11cQtLM", "cGWnOcNDSIY", "c1gEZJF3K40", "pE1_mIzibWU", "YuFw7ZcweHY", "D9v6vOUgvbw", "ZtWcfOw2Gmo", "nC_bAbVwu5I", "vl3NqzP_Ukw", "-9YpHTvT6tc", "VNOLm5_aFs0", "T7XvOSWOuAo", "WEsObGAKdB8", "FwpFBJaf464", "0JvpmzzkdP8"],
+        },
     ] 
   } 
 };
