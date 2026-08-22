@@ -1666,10 +1666,10 @@ Topic: Newton's 1st law Part 01
 Class: HSC 1st Year
 Lectured by: Maksudul Hossain Jewel`
       },
-//HSC Combo
+//Physics Combo
 {
         id: "KphXn1GYcG0",
-        title: "HSC Physics Part-01",
+        title: "HSC Physics 1.1 (ভৌত জগত ও পরিমাপ, ভেক্টর এবং গতিবিদ্যা)",
         duration: "1:57:58",
         thumbnail: "https://i.ytimg.com/vi/KphXn1GYcG0/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
@@ -1683,7 +1683,7 @@ Lectured by: Maksudul Hossain Jewel`
       }, 
 {
         id: "yEScNi9si7c",
-        title: "HSC Physics Part-01",
+        title: "HSC Physics 1.2 (ভৌত জগত ও পরিমাপ, ভেক্টর এবং গতিবিদ্যা)",
         duration: "54:19",
         thumbnail: "https://i.ytimg.com/vi/yEScNi9si7c/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
@@ -1697,7 +1697,7 @@ Lectured by: Maksudul Hossain Jewel`
       }, 
 {
         id: "0A6g4Z30E7Q",
-        title: "HSC Physics Part-02",
+        title: "HSC Physics 2.1 (নিউটনিয়ান বলবিদ্যা এবং কাজ, ক্ষমতা ও শক্তি)",
         duration: "2:02:20",
         thumbnail: "https://i.ytimg.com/vi/0A6g4Z30E7Q/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
@@ -1711,7 +1711,7 @@ Lectured by: Maksudul Hossain Jewel`
       }, 
 {
         id: "hp_qTlguG_I",
-        title: "HSC Physics Part-02",
+        title: "HSC Physics 2.2 (নিউটনিয়ান বলবিদ্যা এবং কাজ, ক্ষমতা ও শক্তি)",
         duration: "1:05:42",
         thumbnail: "https://i.ytimg.com/vi/hp_qTlguG_I/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
@@ -1725,7 +1725,7 @@ Lectured by: Maksudul Hossain Jewel`
       }, 
 {
         id: "9AeM-QnwF4k",
-        title: "HSC Physics Part-03",
+        title: "HSC Physics 3.1 (মহাকর্ষ ও অভিকর্ষ এবং পদার্থের গাঠনিক ধর্ম)",
         duration: "1:38:47",
         thumbnail: "https://i.ytimg.com/vi/9AeM-QnwF4k/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
@@ -1739,7 +1739,7 @@ Lectured by: Maksudul Hossain Jewel`
       },  
 {
         id: "0v8Prmi6xYg",
-        title: "HSC Physics Part-03",
+        title: "HSC Physics 3.2 (মহাকর্ষ ও অভিকর্ষ এবং পদার্থের গাঠনিক ধর্ম)",
         duration: "58:45",
         thumbnail: "https://i.ytimg.com/vi/0v8Prmi6xYg/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
@@ -1753,7 +1753,7 @@ Lectured by: Maksudul Hossain Jewel`
       }, 
 {
         id: "quSUCOrsbeU",
-        title: "HSC Physics Part-04",
+        title: "HSC Physics 4 (Periodic Motions and Waves)",
         duration: "1:48:54",
         thumbnail: "https://i.ytimg.com/vi/quSUCOrsbeU/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
@@ -1767,7 +1767,7 @@ Lectured by: Maksudul Hossain Jewel`
       },  
 {
         id: "lP8277QSPTU",
-        title: "HSC Physics Part-05",
+        title: "HSC Physics 5 (Thermodynamics)",
         duration: "1:48:54",
         thumbnail: "https://i.ytimg.com/vi/lP8277QSPTU/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
@@ -1781,7 +1781,7 @@ Lectured by: Maksudul Hossain Jewel`
       },
 {
         id: "8txuXBijYUw",
-        title: "HSC Physics Part-06",
+        title: "HSC Physics 6 (Electricity)",
         duration: "1:58:36",
         thumbnail: "https://i.ytimg.com/vi/8txuXBijYUw/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
@@ -1798,7 +1798,7 @@ Lectured by: Maksudul Hossain Jewel`
 // broken duplicate rather than guess a video id; re-add it here with the correct id.
 {
         id: "UI7fgWG6doU",
-        title: "HSC Physics Part-07",
+        title: "HSC Physics 7.1 (Electro-Magnetism)",
         duration: "1:48:13",
         thumbnail: "https://i.ytimg.com/vi/UI7fgWG6doU/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
@@ -1812,7 +1812,7 @@ Lectured by: Tusher Chakroborty`
       },
 {
         id: "yA8OAvJlp90",
-        title: "HSC Physics Part-07",
+        title: "HSC Physics 7.2 (Electro-Magnetism)",
         duration: "1:04:41",
         thumbnail: "https://i.ytimg.com/vi/yA8OAvJlp90/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
@@ -1826,7 +1826,7 @@ Lectured by: Tusher Chakroborty`
       },
 {
         id: "Y2_DZTOmu4o",
-        title: "HSC Physics Part-08",
+        title: "HSC Physics 8.1 (Optics)",
         duration: "1:48:13",
         thumbnail: "https://i.ytimg.com/vi/Y2_DZTOmu4o/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
@@ -1840,7 +1840,7 @@ Lectured by: Tusher Chakroborty`
       },
 {
         id: "Jara5dO9dyg",
-        title: "HSC Physics Part-08",
+        title: "HSC Physics 8.2 (Optics)",
         duration: "1:04:41",
         thumbnail: "https://i.ytimg.com/vi/Jara5dO9dyg/hqdefault.jpg",
         channelId: "UCBA6OI6vEDK13jfoiuX694A",
@@ -4164,6 +4164,8 @@ Topic: Special Mathematical Problems
 Class: HSC Physics
 Lectured by: OnnoRokom Pathshala`
   },
+
+// Binomial Expansion
 {
     id: "f7p7lO-FbB0",
     title: "01. Binomial Theorem | দ্বিপদী উপপাদ্য | OnnoRokom Pathshala",
@@ -4350,7 +4352,7 @@ Lectured by: OnnoRokom Pathshala`
         id: "Complex_Numbers",
         title: "HSC Higher Mathematics 2nd paper: Complex Numbers (জটিল সংখ্যা)",
         videoCount: 18,
-        thumbnail: "https://i.ytimg.com/vi/rbe5LKMfGlk/hqdefault.jpg",
+        thumbnail: "https://i.ytimg.com/vi/nWesJDuTAFg/hqdefault.jpg",
         updatedText: "Updated 2 week ago",
         videos: ["nWesJDuTAFg", "5fBW888RGlk", "E6XrVsflKYM", "Exzdvu3isWQ", "yNTzCdNLBkM", "9-9nGCsfueE", "ObeK1QO2p6Q", "z6LdCFmVu2M", "zP0z8E5U7AU", "qlp_zjZB9IE", "nJFZ7yDxxs0", "EvgvPfCKLE4", "ObkvmC3D7k8", "_b1GYxBKbAI", "HUpgEi7mzek", "o-B_-MAUcLQ", "6yC_oa-mrpY", "0rYbJdKrilo"]
       },
