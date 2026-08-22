@@ -4164,6 +4164,160 @@ Topic: Special Mathematical Problems
 Class: HSC Physics
 Lectured by: OnnoRokom Pathshala`
   },
+{
+    id: "f7p7lO-FbB0",
+    title: "01. Binomial Theorem | দ্বিপদী উপপাদ্য | OnnoRokom Pathshala",
+    duration: "16:21",
+    thumbnail: "https://i.ytimg.com/vi/f7p7lO-FbB0/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Higher Mathematics
+Lecture: 01. Binomial Theorem | দ্বিপদী উপপাদ্য
+Subject: Mathematics
+Topic: Binomial Theorem Basic Concepts
+Class: HSC Higher Math
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "1j-qRVJACfk",
+    title: "02. Common Term Part 01 | সাধারণ পদ পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "14:40",
+    thumbnail: "https://i.ytimg.com/vi/1j-qRVJACfk/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Higher Mathematics
+Lecture: 02. Common Term Part 01 | সাধারণ পদ পর্ব ০১
+Subject: Mathematics
+Topic: General / Common Term in Expansion
+Class: HSC Higher Math
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "ENam7m81c0I",
+    title: "02. Common Term Part 02 | সাধারণ পদ পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "17:27",
+    thumbnail: "https://i.ytimg.com/vi/ENam7m81c0I/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Higher Mathematics
+Lecture: 02. Common Term Part 02 | সাধারণ পদ পর্ব ০২
+Subject: Mathematics
+Topic: General / Common Term Problems
+Class: HSC Higher Math
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "pzClGDfbfMQ",
+    title: "02. Common Term Part 03 | সাধারণ পদ পর্ব ০৩ | OnnoRokom Pathshala",
+    duration: "11:02",
+    thumbnail: "https://i.ytimg.com/vi/pzClGDfbfMQ/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Higher Mathematics
+Lecture: 02. Common Term Part 03 | সাধারণ পদ পর্ব ০৩
+Subject: Mathematics
+Topic: Advanced Common Term Problems
+Class: HSC Higher Math
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "7hf8XNxL0cs",
+    title: "03. Midterm Part 01 | মধ্যপদ পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "11:04",
+    thumbnail: "https://i.ytimg.com/vi/7hf8XNxL0cs/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Higher Mathematics
+Lecture: 03. Midterm Part 01 | মধ্যপদ পর্ব ০১
+Subject: Mathematics
+Topic: Middle Term Determination Part 01
+Class: HSC Higher Math
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "RuZMuhbhEbc",
+    title: "03. Midterm Part 02 | মধ্যপদ পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "9:06",
+    thumbnail: "https://i.ytimg.com/vi/RuZMuhbhEbc/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Higher Mathematics
+Lecture: 03. Midterm Part 02 | মধ্যপদ পর্ব ০২
+Subject: Mathematics
+Topic: Middle Term Determination Part 02
+Class: HSC Higher Math
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "ACFWO3UbKOY",
+    title: "04. Triangle of Pascale | প্যাসকেলের ত্রিভুজ | OnnoRokom Pathshala",
+    duration: "7:36",
+    thumbnail: "https://i.ytimg.com/vi/ACFWO3UbKOY/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Higher Mathematics
+Lecture: 04. Triangle of Pascale | প্যাসকেলের ত্রিভুজ
+Subject: Mathematics
+Topic: Pascal's Triangle Application
+Class: HSC Higher Math
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "s2a0KG1pW9Y",
+    title: "05. Some Problems of Binomial Theorem Part 01 | দ্বিপদী উপপাদ্যের কিছু অংক পর্ব ০১",
+    duration: "18:12",
+    thumbnail: "https://i.ytimg.com/vi/s2a0KG1pW9Y/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Higher Mathematics
+Lecture: 05. Some Problems of Binomial Theorem Part 01
+Subject: Mathematics
+Topic: Binomial Expansion Problem Solving Part 01
+Class: HSC Higher Math
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "5nRs--nefGE",
+    title: "05. Some Problems of Binomial Theorem Part 02 | দ্বিপদী উপপাদ্যের কিছু অংক পর্ব ০২",
+    duration: "17:15",
+    thumbnail: "https://i.ytimg.com/vi/5nRs--nefGE/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Higher Mathematics
+Lecture: 05. Some Problems of Binomial Theorem Part 02
+Subject: Mathematics
+Topic: Binomial Expansion Problem Solving Part 02
+Class: HSC Higher Math
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "vT2L4VqJdJA",
+    title: "05. Some Problems of Binomial Theorem Part 03 | দ্বিপদী উপপাদ্যের কিছু অংক পর্ব ০৩",
+    duration: "12:12",
+    thumbnail: "https://i.ytimg.com/vi/vT2L4VqJdJA/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Higher Mathematics
+Lecture: 05. Some Problems of Binomial Theorem Part 03
+Subject: Mathematics
+Topic: Binomial Expansion Problem Solving Part 03
+Class: HSC Higher Math
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "8FZZBRC7r9g",
+    title: "06. Determine Sum of the Series | ধারার যোগফল নির্ণয় | OnnoRokom Pathshala",
+    duration: "7:44",
+    thumbnail: "https://i.ytimg.com/vi/8FZZBRC7r9g/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Higher Mathematics
+Lecture: 06. Determine Sum of the Series | ধারার যোগফল নির্ণয়
+Subject: Mathematics
+Topic: Summation of Series Using Binomial Theorem
+Class: HSC Higher Math
+Lectured by: OnnoRokom Pathshala`
+  },
     ],
     playlists: [
       {
@@ -4199,6 +4353,14 @@ Lectured by: OnnoRokom Pathshala`
         thumbnail: "https://i.ytimg.com/vi/rbe5LKMfGlk/hqdefault.jpg",
         updatedText: "Updated 2 week ago",
         videos: ["nWesJDuTAFg", "5fBW888RGlk", "E6XrVsflKYM", "Exzdvu3isWQ", "yNTzCdNLBkM", "9-9nGCsfueE", "ObeK1QO2p6Q", "z6LdCFmVu2M", "zP0z8E5U7AU", "qlp_zjZB9IE", "nJFZ7yDxxs0", "EvgvPfCKLE4", "ObkvmC3D7k8", "_b1GYxBKbAI", "HUpgEi7mzek", "o-B_-MAUcLQ", "6yC_oa-mrpY", "0rYbJdKrilo"]
+      },
+{
+        id: "Binomial_Expansion",
+        title: "HSC Higher Mathematics 2nd paper: Binomial Expansion (দ্বিপদী বিস্তৃতি)",
+        videoCount: 11,
+        thumbnail: "https://i.ytimg.com/vi/f7p7lO-FbB0/hqdefault.jpg",
+        updatedText: "Updated 2 week ago",
+        videos: ["f7p7lO-FbB0", "1j-qRVJACfk", "ENam7m81c0I", "pzClGDfbfMQ", "7hf8XNxL0cs", "RuZMuhbhEbc", "ACFWO3UbKOY", "s2a0KG1pW9Y", "5nRs--nefGE", "vT2L4VqJdJA", "8FZZBRC7r9g"]      
       },
       {
         id: "Physics_Wave_01",
