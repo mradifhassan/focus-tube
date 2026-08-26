@@ -3010,6 +3010,175 @@ Topic: Gauss's Law Part 8 (Infinite Wire Field Strength)
 Class: HSC 2nd Year
 Lectured by: OnnoRokom Pathshala`
   },
+// Current Electricity
+{
+    id: "xK3k9bw-vN4",
+    title: "01. চল তড়িৎ এর সাধারণ আলোচনা (পরিবাহী, অপরিবাহী এবং অর্ধপরিবাহী) | OnnoRokom Pathshala",
+    duration: "6:27",
+    thumbnail: "https://i.ytimg.com/vi/xK3k9bw-vN4/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 01. চল তড়িৎ এর সাধারণ আলোচনা (পরিবাহী, অপরিবাহী এবং অর্ধপরিবাহী)
+Subject: Physics
+Topic: Conductor, Insulator & Semiconductor Overview
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "HijaET6bGAE",
+    title: "02. Characteristic of Conductor, Insulator & Semiconductor | পরিবাহী, অপরিবাহী এবং অর্ধপরিবাহীর ধর্ম",
+    duration: "13:15",
+    thumbnail: "https://i.ytimg.com/vi/HijaET6bGAE/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 02. Characteristic of Conductor, Insulator & Semiconductor | পরিবাহী, অপরিবাহী এবং অর্ধপরিবাহীর ধর্ম
+Subject: Physics
+Topic: Characteristic of Conductor, Insulator & Semiconductor
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "paed6qRxGow",
+    title: "03. Current | তড়িৎ প্রবাহ | OnnoRokom Pathshala",
+    duration: "22:06",
+    thumbnail: "https://i.ytimg.com/vi/paed6qRxGow/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 03. Current | তড়িৎ প্রবাহ
+Subject: Physics
+Topic: Electric Current
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "1pm6K-a7l3g",
+    title: "04. Ohm's Law | ওহম এর সূত্র | OnnoRokom Pathshala",
+    duration: "11:21",
+    thumbnail: "https://i.ytimg.com/vi/1pm6K-a7l3g/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 04. Ohm's Law | ওহম এর সূত্র
+Subject: Physics
+Topic: Ohm's Law
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "Tqnw-6PxLaA",
+    title: "05. Resistance Part 01 | পরিবাহীর রোধ পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "14:10",
+    thumbnail: "https://i.ytimg.com/vi/Tqnw-6PxLaA/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 05. Resistance Part 01 | পরিবাহীর রোধ পর্ব ০১
+Subject: Physics
+Topic: Resistance Part 01
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "RiS0RWlrik0",
+    title: "05. Resistance Part 02 | পরিবাহীর রোধ পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "11:55",
+    thumbnail: "https://i.ytimg.com/vi/RiS0RWlrik0/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 05. Resistance Part 02 | পরিবাহীর রোধ পর্ব ০২
+Subject: Physics
+Topic: Resistance Part 02
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "NXpJdB6r918",
+    title: "06. Series Connection | শ্রেণী সমবায় | OnnoRokom Pathshala",
+    duration: "15:02",
+    thumbnail: "https://i.ytimg.com/vi/NXpJdB6r918/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 06. Series Connection | শ্রেণী সমবায়
+Subject: Physics
+Topic: Series Connection
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "LFS1kroQmVo",
+    title: "07. Parallel Connection | সমান্তরাল সমবায় | OnnoRokom Pathshala",
+    duration: "13:02",
+    thumbnail: "https://i.ytimg.com/vi/LFS1kroQmVo/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 07. Parallel Connection | সমান্তরাল সমবায়
+Subject: Physics
+Topic: Parallel Connection
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "NMb8sIqSOkc",
+    title: "08. তুল্য রোধ, প্রবাহ, বিভব পার্থক্য নির্ণয় পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "22:55",
+    thumbnail: "https://i.ytimg.com/vi/NMb8sIqSOkc/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 08. তুল্য রোধ, প্রবাহ, বিভব পার্থক্য নির্ণয় পর্ব ০১
+Subject: Physics
+Topic: Equivalent Resistance, Current & Potential Difference Part 01
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "zpVMMFK9X5A",
+    title: "08. তুল্য রোধ, প্রবাহ, বিভব পার্থক্য নির্ণয় পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "17:16",
+    thumbnail: "https://i.ytimg.com/vi/zpVMMFK9X5A/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 08. তুল্য রোধ, প্রবাহ, বিভব পার্থক্য নির্ণয় পর্ব ০২
+Subject: Physics
+Topic: Equivalent Resistance, Current & Potential Difference Part 02
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "vH-VQJcWD48",
+    title: "08. তুল্য রোধ, প্রবাহ, বিভব পার্থক্য নির্ণয় পর্ব ০৩ | OnnoRokom Pathshala",
+    duration: "17:42",
+    thumbnail: "https://i.ytimg.com/vi/vH-VQJcWD48/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 08. তুল্য রোধ, প্রবাহ, বিভব পার্থক্য নির্ণয় পর্ব ০৩
+Subject: Physics
+Topic: Equivalent Resistance, Current & Potential Difference Part 03
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "deo0teidlyc",
+    title: "09. Galvanometer, Ammeter, Voltmeter | গ্যালভানোমিটার, অ্যামিটার, ভোল্টমিটার",
+    duration: "39:38",
+    thumbnail: "https://i.ytimg.com/vi/deo0teidlyc/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 09. Galvanometer, Ammeter, Voltmeter | গ্যালভানোমিটার, অ্যামিটার, ভোল্টমিটার
+Subject: Physics
+Topic: Galvanometer, Ammeter, Voltmeter
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
 // Ideal Gas
   {
     id: "dXpY7BlBPuQ",
@@ -4320,6 +4489,1024 @@ Topic: Summation of Series Using Binomial Theorem
 Class: HSC Higher Math
 Lectured by: OnnoRokom Pathshala`
   },
+
+// Biology 2nd paper 
+//// Animal Diversity and Classification (প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস)
+{
+id: "W2UnHn4K758",
+    title: "01. প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস এর সাধারণ আলোচনা | OnnoRokom Pathshala",
+    duration: "9:55",
+    thumbnail: "https://i.ytimg.com/vi/W2UnHn4K758/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 01. General Discussion on Animal Diversity & Classification
+Subject: Biology
+Topic: Animal Diversity and Classification General Overview
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "iyc9lctFziE",
+    title: "02. Basis of Classification - Part-01 | শ্রেণিকরণের ভিত্তি - পর্ব-০১",
+    duration: "16:40",
+    thumbnail: "https://i.ytimg.com/vi/iyc9lctFziE/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 02. Basis of Classification - Part-01 | শ্রেণিকরণের ভিত্তি - পর্ব-০১
+Subject: Biology
+Topic: Basis of Classification Part 01
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "8KbsS8G1F8Y",
+    title: "02. Basis of Classification - Part-02 | শ্রেণিকরণের ভিত্তি - পর্ব-০২",
+    duration: "11:02",
+    thumbnail: "https://i.ytimg.com/vi/8KbsS8G1F8Y/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 02. Basis of Classification - Part-02 | শ্রেণিকরণের ভিত্তি - পর্ব-০২
+Subject: Biology
+Topic: Basis of Classification Part 02
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "hBDyNdZYkMg",
+    title: "03.1. শ্রেণিকরণের নীতি: ছিদ্রাল প্রাণী এবং নিডেরিয়া | OnnoRokom Pathshala",
+    duration: "15:38",
+    thumbnail: "https://i.ytimg.com/vi/hBDyNdZYkMg/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 03.1. Principles of Classification: Porifera and Cnidaria
+Subject: Biology
+Topic: Porifera & Cnidaria Classification
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "R2oBXzSafbs",
+    title: "03.2. শ্রেণিকরণের নীতি: চ্যাপ্টা এবং গোল কৃমি | OnnoRokom Pathshala",
+    duration: "13:11",
+    thumbnail: "https://i.ytimg.com/vi/R2oBXzSafbs/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 03.2. Principles of Classification: Platyhelminthes and Nematoda
+Subject: Biology
+Topic: Flatworms and Roundworms Classification
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "8NoSAyBsW0U",
+    title: "03.3. শ্রেণিকরণের নীতি: কম্বোজ প্রাণী এবং অঙ্গুরীমাল | OnnoRokom Pathshala",
+    duration: "11:45",
+    thumbnail: "https://i.ytimg.com/vi/8NoSAyBsW0U/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 03.3. Principles of Classification: Mollusca and Annelida
+Subject: Biology
+Topic: Mollusca & Annelida Classification
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "vSfUj7uM1Y4",
+    title: "03.4. শ্রেণিকরণের নীতি: সন্ধিপদী এবং কণ্টকত্বক প্রাণী | OnnoRokom Pathshala",
+    duration: "13:23",
+    thumbnail: "https://i.ytimg.com/vi/vSfUj7uM1Y4/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 03.4. Principles of Classification: Arthropoda and Echinodermata
+Subject: Biology
+Topic: Arthropoda & Echinodermata Classification
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "i-aEBNc-EoI",
+    title: "03.5. Principles of Classification: Chordata - Part-01 | শ্রেণিকরণের নীতি: কর্ডাটা - পর্ব-০১",
+    duration: "12:30",
+    thumbnail: "https://i.ytimg.com/vi/i-aEBNc-EoI/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 03.5. Principles of Classification: Chordata - Part-01
+Subject: Biology
+Topic: Chordata Classification Part 01
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "7-3ocO_v6OA",
+    title: "03.5. Principles of Classification: Chordata - Part-02 | শ্রেণিকরণের নীতি: কর্ডাটা - পর্ব-০২",
+    duration: "17:22",
+    thumbnail: "https://i.ytimg.com/vi/7-3ocO_v6OA/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 03.5. Principles of Classification: Chordata - Part-02
+Subject: Biology
+Topic: Chordata Classification Part 02
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "zsYExBavH_s",
+    title: "03.5. Principles of Classification: Chordata - Part-03 | শ্রেণিকরণের নীতি: কর্ডাটা - পর্ব-০৩",
+    duration: "13:04",
+    thumbnail: "https://i.ytimg.com/vi/zsYExBavH_s/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 03.5. Principles of Classification: Chordata - Part-03
+Subject: Biology
+Topic: Chordata Classification Part 03
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+// Animal's Identity (প্রাণীর পরিচিতি)
+{
+    id: "cI9atLqKBgs",
+    title: "01. Introduction to Grasshopper and its Classifications | ঘাসফড়িং এর পরিচিতি ও শ্রেণীবিন্যাস",
+    duration: "14:02",
+    thumbnail: "https://i.ytimg.com/vi/cI9atLqKBgs/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 01. Introduction to Grasshopper and its Classifications
+Subject: Biology
+Topic: Grasshopper Introduction and Classification
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "3EdUh_znY04",
+    title: "02.1. Head: Head Capsule, Ocellus & Antenna | মস্তকঃ হেড ক্যাপস্যুল, ওসেলাস এবং অ্যান্টেনা",
+    duration: "9:10",
+    thumbnail: "https://i.ytimg.com/vi/3EdUh_znY04/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 02.1. Head: Head Capsule, Ocellus & Antenna
+Subject: Biology
+Topic: Grasshopper Head Structure
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "UmoRk-8FTk8",
+    title: "02.2. Head: Mouth Parts | মস্তকঃ মুখোপাঙ্গ | OnnoRokom Pathshala",
+    duration: "10:20",
+    thumbnail: "https://i.ytimg.com/vi/UmoRk-8FTk8/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 02.2. Head: Mouth Parts
+Subject: Biology
+Topic: Grasshopper Mouth Parts
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "c4CGJMXJW4A",
+    title: "02.3. Head: Compound Eye (Ommatidium) | মস্তকঃ পুঞ্জাক্ষি (ওমাটিডিয়াম)",
+    duration: "11:34",
+    thumbnail: "https://i.ytimg.com/vi/c4CGJMXJW4A/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 02.3. Head: Compound Eye (Ommatidium)
+Subject: Biology
+Topic: Grasshopper Ommatidium Structure
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "cZF8qvIN8nU",
+    title: "02.4. Head: Vision Techniques (Superposition & Apposition) | মস্তকঃ দৃষ্টি কৌশল",
+    duration: "18:47",
+    thumbnail: "https://i.ytimg.com/vi/cZF8qvIN8nU/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 02.4. Head: Vision Techniques
+Subject: Biology
+Topic: Grasshopper Superposition and Apposition Vision
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "br_lSe-TkoY",
+    title: "03. Thorax | বক্ষ | OnnoRokom Pathshala",
+    duration: "10:09",
+    thumbnail: "https://i.ytimg.com/vi/br_lSe-TkoY/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 03. Thorax
+Subject: Biology
+Topic: Grasshopper Thorax Structure
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "w66DZslbIYQ",
+    title: "04. Abdomen | উদর | OnnoRokom Pathshala",
+    duration: "12:20",
+    thumbnail: "https://i.ytimg.com/vi/w66DZslbIYQ/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 04. Abdomen
+Subject: Biology
+Topic: Grasshopper Abdomen Structure
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "jydxO-KQXCw",
+    title: "05. Blood Circulatory System | রক্ত সংবহনতন্ত্র | OnnoRokom Pathshala",
+    duration: "19:15",
+    thumbnail: "https://i.ytimg.com/vi/jydxO-KQXCw/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 05. Blood Circulatory System
+Subject: Biology
+Topic: Grasshopper Circulatory System
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "e_epmcHCGtI",
+    title: "06. Respiratory System | শ্বসনতন্ত্র | OnnoRokom Pathshala",
+    duration: "19:31",
+    thumbnail: "https://i.ytimg.com/vi/e_epmcHCGtI/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 06. Respiratory System
+Subject: Biology
+Topic: Grasshopper Respiratory System
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "g2ROmDKVB00",
+    title: "07. Digestive System | পরিপাকতন্ত্র | OnnoRokom Pathshala",
+    duration: "20:37",
+    thumbnail: "https://i.ytimg.com/vi/g2ROmDKVB00/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 07. Digestive System
+Subject: Biology
+Topic: Grasshopper Digestive System
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "FzIIeg9kncc",
+    title: "08. Excretory System | রেচনতন্ত্র | OnnoRokom Pathshala",
+    duration: "15:27",
+    thumbnail: "https://i.ytimg.com/vi/FzIIeg9kncc/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 08. Excretory System
+Subject: Biology
+Topic: Grasshopper Excretory System
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "fGr97nTIByU",
+    title: "09. Reproduction System | প্রজননতন্ত্র | OnnoRokom Pathshala",
+    duration: "3:05",
+    thumbnail: "https://i.ytimg.com/vi/fGr97nTIByU/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 09. Reproduction System
+Subject: Biology
+Topic: Grasshopper Reproductive System Overview
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "34_iHhgmuC8",
+    title: "10. Reproduction | জনন | OnnoRokom Pathshala",
+    duration: "20:45",
+    thumbnail: "https://i.ytimg.com/vi/34_iHhgmuC8/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 10. Reproduction
+Subject: Biology
+Topic: Grasshopper Reproduction & Metamorphosis
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+// Human Physiology Digestion and Absorbtion (পরিপাক ও শোষণ)
+  {
+    id: "M2e3BTTt3xU",
+    title: "01. Digestion and Absorption Part 01 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "8:27",
+    thumbnail: "https://i.ytimg.com/vi/M2e3BTTt3xU/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 01. Digestion and Absorption Part 01 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০১
+Subject: Biology
+Topic: Digestion and Absorption Part 01
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "eTArLPLxTx4",
+    title: "01. Digestion and Absorption Part 02 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "11:52",
+    thumbnail: "https://i.ytimg.com/vi/eTArLPLxTx4/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 01. Digestion and Absorption Part 02 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০২
+Subject: Biology
+Topic: Digestion and Absorption Part 02
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "2L6wKdzNmuc",
+    title: "01. Digestion and Absorption Part 03 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০৩ | OnnoRokom Pathshala",
+    duration: "14:19",
+    thumbnail: "https://i.ytimg.com/vi/2L6wKdzNmuc/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 01. Digestion and Absorption Part 03 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০৩
+Subject: Biology
+Topic: Digestion and Absorption Part 03
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "xNWHAC8cqAE",
+    title: "01. Digestion and Absorption Part 04 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০৪ | OnnoRokom Pathshala",
+    duration: "13:51",
+    thumbnail: "https://i.ytimg.com/vi/xNWHAC8cqAE/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 01. Digestion and Absorption Part 04 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০৪
+Subject: Biology
+Topic: Digestion and Absorption Part 04
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "oNHGLs-hs8g",
+    title: "01. Digestion and Absorption Part 05 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০৫ | OnnoRokom Pathshala",
+    duration: "8:42",
+    thumbnail: "https://i.ytimg.com/vi/oNHGLs-hs8g/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 01. Digestion and Absorption Part 05 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০৫
+Subject: Biology
+Topic: Digestion and Absorption Part 05
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "qP7yK_HY7jc",
+    title: "02. Digestive Glands Part 01 | পরিপাক গ্রন্থি পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "12:20",
+    thumbnail: "https://i.ytimg.com/vi/qP7yK_HY7jc/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 02. Digestive Glands Part 01 | পরিপাক গ্রন্থি পর্ব ০১
+Subject: Biology
+Topic: Digestive Glands Part 01
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "-ALSDWtQ3Y4",
+    title: "02. Digestive Glands Part 02 | পরিপাক গ্রন্থি পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "7:51",
+    thumbnail: "https://i.ytimg.com/vi/-ALSDWtQ3Y4/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 02. Digestive Glands Part 02 | পরিপাক গ্রন্থি পর্ব ০২
+Subject: Biology
+Topic: Digestive Glands Part 02
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "5uH9ZMKA4i8",
+    title: "03. Pancreas | অগ্ন্যাশয় | OnnoRokom Pathshala",
+    duration: "8:41",
+    thumbnail: "https://i.ytimg.com/vi/5uH9ZMKA4i8/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 03. Pancreas | অগ্ন্যাশয়
+Subject: Biology
+Topic: Pancreas Structure and Functions
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "WlNI95NnTa4",
+    title: "04. Obesity | স্থুলতা | OnnoRokom Pathshala",
+    duration: "9:47",
+    thumbnail: "https://i.ytimg.com/vi/WlNI95NnTa4/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 04. Obesity | স্থুলতা
+Subject: Biology
+Topic: Obesity and Health Impacts
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+// Blood circulation (রক্ত সংবহন)
+{
+    id: "Wtkq0PnT0Do",
+    title: "01. Components of Blood | রক্তের উপাদান | OnnoRokom Pathshala",
+    duration: "10:48",
+    thumbnail: "https://i.ytimg.com/vi/Wtkq0PnT0Do/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 01. Components of Blood | রক্তের উপাদান
+Subject: Biology
+Topic: Components of Blood
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "qhcXC2eZ9Nw",
+    title: "02. Function of Blood | রক্তের কাজ | OnnoRokom Pathshala",
+    duration: "9:01",
+    thumbnail: "https://i.ytimg.com/vi/qhcXC2eZ9Nw/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 02. Function of Blood | রক্তের কাজ
+Subject: Biology
+Topic: Function of Blood
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "mZyDmNlQqfM",
+    title: "03. Red Blood Cell | রক্ত কণিকা লহিত রক্ত কনিকা | OnnoRokom Pathshala",
+    duration: "18:47",
+    thumbnail: "https://i.ytimg.com/vi/mZyDmNlQqfM/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 03. Red Blood Cell | রক্ত কণিকা লহিত রক্ত কনিকা
+Subject: Biology
+Topic: Red Blood Cell
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "6yqoAGriEQk",
+    title: "04. White Blood Cell | শ্বেত রক্ত কনিকা | OnnoRokom Pathshala",
+    duration: "14:28",
+    thumbnail: "https://i.ytimg.com/vi/6yqoAGriEQk/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 04. White Blood Cell | শ্বেত রক্ত কনিকা
+Subject: Biology
+Topic: White Blood Cell
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "eXCI2oXqK_k",
+    title: "05. Mechanism of Blood Clotting | রক্ত তঞ্চনের পদ্ধতি | OnnoRokom Pathshala",
+    duration: "11:07",
+    thumbnail: "https://i.ytimg.com/vi/eXCI2oXqK_k/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 05. Mechanism of Blood Clotting | রক্ত তঞ্চনের পদ্ধতি
+Subject: Biology
+Topic: Mechanism of Blood Clotting
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "6hZVTUcRHXc",
+    title: "06. Lymph | লসিকা | OnnoRokom Pathshala",
+    duration: "9:22",
+    thumbnail: "https://i.ytimg.com/vi/6hZVTUcRHXc/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 06. Lymph | লসিকা
+Subject: Biology
+Topic: Lymph System
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "GN9fDEBxBCY",
+    title: "07. The Heart | হৃদপিণ্ড | OnnoRokom Pathshala",
+    duration: "13:24",
+    thumbnail: "https://i.ytimg.com/vi/GN9fDEBxBCY/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 07. The Heart | হৃদপিণ্ড
+Subject: Biology
+Topic: Structure of Heart
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "EMkD1ulgclQ",
+    title: "08. Cardiac Cycle | হৃদচক্র | OnnoRokom Pathshala",
+    duration: "7:08",
+    thumbnail: "https://i.ytimg.com/vi/EMkD1ulgclQ/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 08. Cardiac Cycle | হৃদচক্র
+Subject: Biology
+Topic: Cardiac Cycle
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "ayDpDERE6PM",
+    title: "09. Junctional Tissue | সংযোগী টিস্যূ | OnnoRokom Pathshala",
+    duration: "5:42",
+    thumbnail: "https://i.ytimg.com/vi/ayDpDERE6PM/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 09. Junctional Tissue | সংযোগী টিস্যূ
+Subject: Biology
+Topic: Junctional Tissue
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "tBeqmNcnJ40",
+    title: "10. Blood Pressure | ব্লাড পেশার | OnnoRokom Pathshala",
+    duration: "6:24",
+    thumbnail: "https://i.ytimg.com/vi/tBeqmNcnJ40/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 10. Blood Pressure | ব্লাড পেশার
+Subject: Biology
+Topic: Blood Pressure
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "uiWX3XgovtA",
+    title: "11. Diseases of Heart & Prevention | হৃদরোগ  এবং প্রতিকার | OnnoRokom Pathshala",
+    duration: "14:33",
+    thumbnail: "https://i.ytimg.com/vi/uiWX3XgovtA/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 11. Diseases of Heart & Prevention | হৃদরোগ  এবং প্রতিকার
+Subject: Biology
+Topic: Diseases of Heart and Prevention
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+// Breathing and Respiration 
+{
+    id: "I6TNB3cWo_w",
+    title: "01. Parts of Respiratory System Part 01 | শ্বসনতন্ত্রের অংশগুলো পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "16:41",
+    thumbnail: "https://i.ytimg.com/vi/I6TNB3cWo_w/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 01. Parts of Respiratory System Part 01 | শ্বসনতন্ত্রের অংশগুলো পর্ব ০১
+Subject: Biology
+Topic: Parts of Respiratory System Part 01
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "AigpkA6bawI",
+    title: "01. Parts of Respiratory System Part 02 | শ্বসনতন্ত্রের অংশগুলো পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "14:58",
+    thumbnail: "https://i.ytimg.com/vi/AigpkA6bawI/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 01. Parts of Respiratory System Part 02 | শ্বসনতন্ত্রের অংশগুলো পর্ব ০২
+Subject: Biology
+Topic: Parts of Respiratory System Part 02
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "QBjwus0wINo",
+    title: "02. Mechanism of Ventilation | প্রশ্বাস-নিশ্বাস কার্যক্রম | OnnoRokom Pathshala",
+    duration: "7:20",
+    thumbnail: "https://i.ytimg.com/vi/QBjwus0wINo/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 02. Mechanism of Ventilation | প্রশ্বাস-নিশ্বাস কার্যক্রম
+Subject: Biology
+Topic: Mechanism of Ventilation
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "NauGWSXYLx8",
+    title: "03. Control of Respiration | শ্বাসক্রিয়া নিয়ন্ত্রন | OnnoRokom Pathshala",
+    duration: "9:17",
+    thumbnail: "https://i.ytimg.com/vi/NauGWSXYLx8/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 03. Control of Respiration | শ্বাসক্রিয়া নিয়ন্ত্রন
+Subject: Biology
+Topic: Control of Respiration
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "MAeN_4_Jlmg",
+    title: "04. Transportation of Gas | গ্যাস এর পরিবহন | OnnoRokom Pathshala",
+    duration: "11:33",
+    thumbnail: "https://i.ytimg.com/vi/MAeN_4_Jlmg/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 04. Transportation of Gas | গ্যাস এর পরিবহন
+Subject: Biology
+Topic: Transportation of Gas
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "FRsOoBU8G8w",
+    title: "05. Sinusitis | সাইনুসাইটিস | OnnoRokom Pathshala",
+    duration: "9:36",
+    thumbnail: "https://i.ytimg.com/vi/FRsOoBU8G8w/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 05. Sinusitis | সাইনুসাইটিস
+Subject: Biology
+Topic: Sinusitis
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "QV-cRtjPD10",
+    title: "06. Otitis Media | ওটিটিস মিডিয়া | OnnoRokom Pathshala",
+    duration: "0:00",
+    thumbnail: "https://i.ytimg.com/vi/QV-cRtjPD10/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 06. Otitis Media | ওটিটিস মিডিয়া
+Subject: Biology
+Topic: Otitis Media
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+// Biological Exeretion and Elimination
+{
+    id: "-C6CMiJUWKE",
+    title: "01. Excretion Part 01 | রেচন পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "7:58",
+    thumbnail: "https://i.ytimg.com/vi/-C6CMiJUWKE/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 01. Excretion Part 01 | রেচন পর্ব ০১
+Subject: Biology
+Topic: Excretion Part 01
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "7S6UxSv7hbc",
+    title: "01. Excretion Part 02 | রেচন পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "14:33",
+    thumbnail: "https://i.ytimg.com/vi/7S6UxSv7hbc/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 01. Excretion Part 02 | রেচন পর্ব ০২
+Subject: Biology
+Topic: Excretion Part 02
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "LXpCFdSUAYc",
+    title: "01. Excretion Part 03 | রেচন পর্ব ০৩ | OnnoRokom Pathshala",
+    duration: "9:56",
+    thumbnail: "https://i.ytimg.com/vi/LXpCFdSUAYc/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 01. Excretion Part 03 | রেচন পর্ব ০৩
+Subject: Biology
+Topic: Excretion Part 03
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "dC9VJsOYWc4",
+    title: "02. Dialysis | ডায়ালাইসিস | OnnoRokom Pathshala",
+    duration: "10:10",
+    thumbnail: "https://i.ytimg.com/vi/dC9VJsOYWc4/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 02. Dialysis | ডায়ালাইসিস
+Subject: Biology
+Topic: Dialysis
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "jMJTmYdU-nA",
+    title: "03. Control Of Sodium Level in Blood | রক্তের সোডিয়ামের মাত্রা নিয়ন্ত্রণ | OnnoRokom Pathshala",
+    duration: "4:30",
+    thumbnail: "https://i.ytimg.com/vi/jMJTmYdU-nA/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 03. Control Of Sodium Level in Blood | রক্তের সোডিয়ামের মাত্রা নিয়ন্ত্রণ
+Subject: Biology
+Topic: Control Of Sodium Level in Blood
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+// Locomotion and Movement
+{
+    id: "n5WCum8sH0w",
+    title: "01. Introduction of Skeletal System | কঙ্কালতন্ত্র ভূমিকা | OnnoRokom Pathshala",
+    duration: "6:35",
+    thumbnail: "https://i.ytimg.com/vi/n5WCum8sH0w/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 01. Introduction of Skeletal System | কঙ্কালতন্ত্র ভূমিকা
+Subject: Biology
+Topic: Introduction of Skeletal System
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "3pmySI199NY",
+    title: "02. Classification of Skeletal System Part 01 | কঙ্কালতন্ত্রের প্রধান ভাগ পর্ব ০১",
+    duration: "14:02",
+    thumbnail: "https://i.ytimg.com/vi/3pmySI199NY/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 02. Classification of Skeletal System Part 01 | কঙ্কালতন্ত্রের প্রধান ভাগ পর্ব ০১
+Subject: Biology
+Topic: Classification of Skeletal System Part 01
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "ju6xxJnmXN4",
+    title: "02. Classification of Skeletal System Part 02 | কঙ্কালতন্ত্রের প্রধান ভাগ পর্ব ০২",
+    duration: "14:05",
+    thumbnail: "https://i.ytimg.com/vi/ju6xxJnmXN4/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 02. Classification of Skeletal System Part 02 | কঙ্কালতন্ত্রের প্রধান ভাগ পর্ব ০২
+Subject: Biology
+Topic: Classification of Skeletal System Part 02
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "SGDVleLu1x4",
+    title: "03. Structure of Bone | অস্থির গঠন | OnnoRokom Pathshala",
+    duration: "13:31",
+    thumbnail: "https://i.ytimg.com/vi/SGDVleLu1x4/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 03. Structure of Bone | অস্থির গঠন
+Subject: Biology
+Topic: Structure of Bone
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "NJO32t0lfIU",
+    title: "04. Difference Between Bone & Cartilage | অস্থি ও তরুণাস্থির পার্থক্য | OnnoRokom Pathshala",
+    duration: "4:59",
+    thumbnail: "https://i.ytimg.com/vi/NJO32t0lfIU/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 04. Difference Between Bone & Cartilage | অস্থি ও তরুণাস্থির পার্থক্য
+Subject: Biology
+Topic: Difference Between Bone & Cartilage
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "v94ZAgfbt3U",
+    title: "05. Muscle | পেশি | OnnoRokom Pathshala",
+    duration: "11:51",
+    thumbnail: "https://i.ytimg.com/vi/v94ZAgfbt3U/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 05. Muscle | পেশি
+Subject: Biology
+Topic: Muscle Structure and Function
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "ZEQCTUP_pxI",
+    title: "06. Muscles Pull But Never Push | পেশি টান দেয় কিন্তু ধাক্কা দেয়না | OnnoRokom Pathshala",
+    duration: "5:34",
+    thumbnail: "https://i.ytimg.com/vi/ZEQCTUP_pxI/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 06. Muscles Pull But Never Push | পেশি টান দেয় কিন্তু ধাক্কা দেয়না
+Subject: Biology
+Topic: Mechanism of Muscle Action
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "7iC87ICGbyI",
+    title: "07. Diseases of Bone | অস্থির রোগ সমূহ | OnnoRokom Pathshala",
+    duration: "12:16",
+    thumbnail: "https://i.ytimg.com/vi/7iC87ICGbyI/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 07. Diseases of Bone | অস্থির রোগ সমূহ
+Subject: Biology
+Topic: Diseases of Bone
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "qZGYsVtkvZ4",
+    title: "08. Description of Bones Part 01 | বিভিন্ন অস্থির বর্ণনা পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "10:45",
+    thumbnail: "https://i.ytimg.com/vi/qZGYsVtkvZ4/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 08. Description of Bones Part 01 | বিভিন্ন অস্থির বর্ণনা পর্ব ০১
+Subject: Biology
+Topic: Description of Bones Part 01
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "qdK7TybkYps",
+    title: "08. Description of Bones Part 02 | বিভিন্ন অস্থির বর্ণনা পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "0:00",
+    thumbnail: "https://i.ytimg.com/vi/qdK7TybkYps/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 2nd Paper
+Lecture: 08. Description of Bones Part 02 | বিভিন্ন অস্থির বর্ণনা পর্ব ০২
+Subject: Biology
+Topic: Description of Bones Part 02
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+// Tissue
+{
+    id: "RP4EqQO8II8",
+    title: "01. Tissue and Tissue System | টিস্যু ও টিস্যুতন্ত্র | OnnoRokom Pathshala",
+    duration: "9:09",
+    thumbnail: "https://i.ytimg.com/vi/RP4EqQO8II8/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 1st Paper
+Lecture: 01. Tissue and Tissue System | টিস্যু ও টিস্যুতন্ত্র
+Subject: Biology
+Topic: Tissue and Tissue System
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "uKCwi-Vn9vQ",
+    title: "02. Classification of Meristematic Tissue | ভাজক টিস্যুর প্রকারভেদ | OnnoRokom Pathshala",
+    duration: "11:49",
+    thumbnail: "https://i.ytimg.com/vi/uKCwi-Vn9vQ/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 1st Paper
+Lecture: 02. Classification of Meristematic Tissue | ভাজক টিস্যুর প্রকারভেদ
+Subject: Biology
+Topic: Classification of Meristematic Tissue
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "4lUPotXlHi0",
+    title: "03. Classification of Permanent Tissue | স্থায়ী টিস্যুর প্রকারভেদ | OnnoRokom Pathshala",
+    duration: "14:37",
+    thumbnail: "https://i.ytimg.com/vi/4lUPotXlHi0/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 1st Paper
+Lecture: 03. Classification of Permanent Tissue | স্থায়ী টিস্যুর প্রকারভেদ
+Subject: Biology
+Topic: Classification of Permanent Tissue
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "PWRgOtToo1I",
+    title: "04. Tissue System Part 01 | টিস্যুতন্ত্র পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "10:38",
+    thumbnail: "https://i.ytimg.com/vi/PWRgOtToo1I/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 1st Paper
+Lecture: 04. Tissue System Part 01 | টিস্যুতন্ত্র পর্ব ০১
+Subject: Biology
+Topic: Tissue System Part 01
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "R6vSky2WQEU",
+    title: "04. Tissue System Part 02 | টিস্যুতন্ত্র পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "14:14",
+    thumbnail: "https://i.ytimg.com/vi/R6vSky2WQEU/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 1st Paper
+Lecture: 04. Tissue System Part 02 | টিস্যুতন্ত্র পর্ব ০২
+Subject: Biology
+Topic: Tissue System Part 02
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "2SgOICRILpk",
+    title: "04. Tissue System Part 03 | টিস্যুতন্ত্র পর্ব ০৩ | OnnoRokom Pathshala",
+    duration: "4:33",
+    thumbnail: "https://i.ytimg.com/vi/2SgOICRILpk/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 1st Paper
+Lecture: 04. Tissue System Part 03 | টিস্যুতন্ত্র পর্ব ০৩
+Subject: Biology
+Topic: Tissue System Part 03
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "8OARv8lejlI",
+    title: "05. Internal Structure of Monocot Root & Stem | একবীজপত্রী উদ্ভিদের মূল ও কান্ডের অন্তর্গঠন",
+    duration: "13:12",
+    thumbnail: "https://i.ytimg.com/vi/8OARv8lejlI/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Biology 1st Paper
+Lecture: 05. Internal Structure of Monocot Root & Stem | একবীজপত্রী উদ্ভিদের মূল ও কান্ডের অন্তর্গঠন
+Subject: Biology
+Topic: Internal Structure of Monocot Root & Stem
+Class: HSC Biology
+Lectured by: OnnoRokom Pathshala`
+  },
     ],
     playlists: [
       {
@@ -4364,6 +5551,8 @@ Lectured by: OnnoRokom Pathshala`
         updatedText: "Updated 2 week ago",
         videos: ["f7p7lO-FbB0", "1j-qRVJACfk", "ENam7m81c0I", "pzClGDfbfMQ", "7hf8XNxL0cs", "RuZMuhbhEbc", "ACFWO3UbKOY", "s2a0KG1pW9Y", "5nRs--nefGE", "vT2L4VqJdJA", "8FZZBRC7r9g"]      
       },
+
+// Physics
       {
         id: "Physics_Wave_01",
         title: "Physics Wave (তরঙ্গ)",
@@ -4429,6 +5618,80 @@ Lectured by: OnnoRokom Pathshala`
         updatedText: "Updated 1 week ago",
         videos: ["0WIW244qlDc", "pfxQw0CSKQY", "ibAblug8p9w", "6KidjiuFcBk", "R7OfwMSVkd4", "AunJROYV5aI", "GgPFQqXpFU4", "T7li11cQtLM", "cGWnOcNDSIY", "c1gEZJF3K40", "pE1_mIzibWU", "YuFw7ZcweHY", "D9v6vOUgvbw", "ZtWcfOw2Gmo", "nC_bAbVwu5I", "vl3NqzP_Ukw", "-9YpHTvT6tc", "VNOLm5_aFs0", "T7XvOSWOuAo", "WEsObGAKdB8", "FwpFBJaf464", "0JvpmzzkdP8"],
         },
+{
+  id: "Physics_Current_Electricity_07",
+  title: "Physics Current Electricity (চল তড়িৎ)",
+  videoCount: 12,
+  thumbnail: "https://i.ytimg.com/vi/xK3k9bw-vN4/hqdefault.jpg",
+  updatedText: "Updated 1 week ago",
+  videos: ["xK3k9bw-vN4", "HijaET6bGAE", "paed6qRxGow", "1pm6K-a7l3g", "Tqnw-6PxLaA", "RiS0RWlrik0", "NXpJdB6r918", "LFS1kroQmVo", "NMb8sIqSOkc", "zpVMMFK9X5A", "vH-VQJcWD48", "deo0teidlyc"]
+},
+
+// Biology 2nd paper
+        {
+        id: "Biology_Animal_Diversity_01",
+        title: "Biology Animal Diversity & Classification (প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস)",
+        videoCount: 10,
+        thumbnail: "https://i.ytimg.com/vi/W2UnHn4K758/hqdefault.jpg",
+        updatedText: "Updated 1 week ago",
+        videos: ["W2UnHn4K758", "iyc9lctFziE", "8KbsS8G1F8Y", "hBDyNdZYkMg", "R2oBXzSafbs", "8NoSAyBsW0U", "vSfUj7uM1Y4", "i-aEBNc-EoI", "7-3ocO_v6OA", "zsYExBavH_s"],
+        },
+{
+  id: "Biology_Grasshopper_02",
+  title: "Biology Grasshopper (ঘাসফড়িং)",
+  videoCount: 13,
+  thumbnail: "https://i.ytimg.com/vi/cI9atLqKBgs/hqdefault.jpg",
+  updatedText: "Updated 1 week ago",
+  videos: ["cI9atLqKBgs", "3EdUh_znY04", "UmoRk-8FTk8", "c4CGJMXJW4A", "cZF8qvIN8nU", "br_lSe-TkoY", "w66DZslbIYQ", "jydxO-KQXCw", "e_epmcHCGtI", "g2ROmDKVB00", "FzIIeg9kncc", "fGr97nTIByU", "34_iHhgmuC8"]
+},
+{
+  id: "Biology_Digestion_and_Absorption_03",
+  title: "Biology Digestion and Absorption (পরিপাক ও শোষণ)",
+  videoCount: 9,
+  thumbnail: "https://i.ytimg.com/vi/M2e3BTTt3xU/hqdefault.jpg",
+  updatedText: "Updated 1 week ago",
+  videos: ["M2e3BTTt3xU", "eTArLPLxTx4", "2L6wKdzNmuc", "xNWHAC8cqAE", "oNHGLs-hs8g", "qP7yK_HY7jc", "-ALSDWtQ3Y4", "5uH9ZMKA4i8", "WlNI95NnTa4"]
+},
+{
+  id: "Biology_Circulation_04",
+  title: "Biology Blood and Circulation (রক্ত ও সঞ্চালন)",
+  videoCount: 11,
+  thumbnail: "https://i.ytimg.com/vi/Wtkq0PnT0Do/hqdefault.jpg",
+  updatedText: "Updated 1 week ago",
+  videos: ["Wtkq0PnT0Do", "qhcXC2eZ9Nw", "mZyDmNlQqfM", "6yqoAGriEQk", "eXCI2oXqK_k", "6hZVTUcRHXc", "GN9fDEBxBCY", "EMkD1ulgclQ", "ayDpDERE6PM", "tBeqmNcnJ40", "uiWX3XgovtA"]
+},
+{
+  id: "Biology_Respiration_05",
+  title: "Biology Respiration and Gas Exchange (মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন)",
+  videoCount: 7,
+  thumbnail: "https://i.ytimg.com/vi/I6TNB3cWo_w/hqdefault.jpg",
+  updatedText: "Updated 1 week ago",
+  videos: ["I6TNB3cWo_w", "AigpkA6bawI", "QBjwus0wINo", "NauGWSXYLx8", "MAeN_4_Jlmg", "FRsOoBU8G8w", "QV-cRtjPD10"]
+},
+{
+  id: "Biology_Excretion_06",
+  title: "Biology Excretion and Elimination (মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন)",
+  videoCount: 5,
+  thumbnail: "https://i.ytimg.com/vi/-C6CMiJUWKE/hqdefault.jpg",
+  updatedText: "Updated 1 week ago",
+  videos: ["-C6CMiJUWKE", "7S6UxSv7hbc", "LXpCFdSUAYc", "dC9VJsOYWc4", "jMJTmYdU-nA"]
+},
+{
+  id: "Biology_Skeletal_System_07",
+  title: "Biology Locomotion and Movement (মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা)",
+  videoCount: 10,
+  thumbnail: "https://i.ytimg.com/vi/n5WCum8sH0w/hqdefault.jpg",
+  updatedText: "Updated 1 week ago",
+  videos: ["n5WCum8sH0w", "3pmySI199NY", "ju6xxJnmXN4", "SGDVleLu1x4", "NJO32t0lfIU", "v94ZAgfbt3U", "ZEQCTUP_pxI", "7iC87ICGbyI", "qZGYsVtkvZ4", "qdK7TybkYps"]
+},
+{
+  id: "Biology_Tissue_and_Tissue_System_08",
+  title: "Biology Plant Tissue and Tissue System (টিস্যু ও টিস্যুতন্ত্র)",
+  videoCount: 7,
+  thumbnail: "https://i.ytimg.com/vi/RP4EqQO8II8/hqdefault.jpg",
+  updatedText: "Updated 1 week ago",
+  videos: ["RP4EqQO8II8", "uKCwi-Vn9vQ", "4lUPotXlHi0", "PWRgOtToo1I", "R6vSky2WQEU", "2SgOICRILpk", "8OARv8lejlI"]
+},
     ] 
   } 
 };
