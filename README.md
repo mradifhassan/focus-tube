@@ -110,10 +110,8 @@ Lectured by: Sourov Bijoy`
 ```
 2. Let's say it has ended here. Now you want to add a playlist, if you are in Linux, follow the instruction sets below-
 ```bash
-python3 -m venv base 
-source base/bin/activate
-pip install yt-dlp
-python3
+mkdir script && cd script
+vim script.py
 ```
 Now paste the code
 ```bash
@@ -140,9 +138,20 @@ Or open an editor (i.e. `vim`), paste the code, `esc`, then `:wq` and run the co
 ```bash 
 vim script.py
 python3 script.py
-
 ```
-This will fetch the playlist videos as below-
+After that, create another file
+```bash
+vim script.sh
+```
+Now copy and paste the code below
+```bash
+#!/bin/bash
+python3 -m venv base 
+source base/bin/activate
+pip install yt-dlp
+python3 script.py
+```
+You will be prompted to provide a playlist link, paste a link and this will fetch the playlist videos as below-
 ```bash
 Successfully fetched 44 video links:
 
