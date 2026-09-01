@@ -3179,6 +3179,470 @@ Topic: Galvanometer, Ammeter, Voltmeter
 Class: HSC Physics
 Lectured by: OnnoRokom Pathshala`
   },
+// Magnetism
+{
+    id: "al5q1s4Rx-A",
+    title: "01. Introduction to Magnetism | চুম্বকত্ব পরিচিতি  | OnnoRokom Pathshala",
+    duration: "4:38",
+    thumbnail: "https://i.ytimg.com/vi/al5q1s4Rx-A/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 01. Introduction to Magnetism | চুম্বকত্ব পরিচিতি
+Subject: Physics
+Topic: Introduction to Magnetism
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "FrJwGXQZCWQ",
+    title: "02. Basic Concept of Magnetic Flux Part 01 | চৌম্বক বলরেখার মৌলিক ধারণা পর্ব ০১",
+    duration: "9:08",
+    thumbnail: "https://i.ytimg.com/vi/FrJwGXQZCWQ/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 02. Basic Concept of Magnetic Flux Part 01 | চৌম্বক বলরেখার মৌলিক ধারণা পর্ব ০১
+Subject: Physics
+Topic: Basic Concept of Magnetic Flux Part 01
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "4K0Gx4xZ8Ho",
+    title: "02. Basic Concept of Magnetic Flux Part 02 | চৌম্বক বলরেখার মৌলিক ধারণা পর্ব ০২",
+    duration: "8:31",
+    thumbnail: "https://i.ytimg.com/vi/4K0Gx4xZ8Ho/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 02. Basic Concept of Magnetic Flux Part 02 | চৌম্বক বলরেখার মৌলিক ধারণা পর্ব ০২
+Subject: Physics
+Topic: Basic Concept of Magnetic Flux Part 02
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "qseC07uIUPY",
+    title: "03. Magnetic Field Intensity | চৌম্বক ক্ষেত্র প্রাবল্য | OnnoRokom Pathshala",
+    duration: "17:13",
+    thumbnail: "https://i.ytimg.com/vi/qseC07uIUPY/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 03. Magnetic Field Intensity | চৌম্বক ক্ষেত্র প্রাবল্য
+Subject: Physics
+Topic: Magnetic Field Intensity
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "edWry7IygeQ",
+    title: "04. Magnetic Force | চৌম্বক বল | OnnoRokom Pathshala",
+    duration: "12:11",
+    thumbnail: "https://i.ytimg.com/vi/edWry7IygeQ/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 04. Magnetic Force | চৌম্বক বল
+Subject: Physics
+Topic: Magnetic Force
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "Te7NUQFDCK8",
+    title: "05. Moving Charge in a Magnetic Field Part 01 | চৌম্বক ক্ষেত্রে চার্জের গতি পথের সমীকরণ পর্ব ০১",
+    duration: "9:08",
+    thumbnail: "https://i.ytimg.com/vi/Te7NUQFDCK8/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 05. Moving Charge in a Magnetic Field Part 01 | চৌম্বক ক্ষেত্রে চার্জের গতি পথের সমীকরণ পর্ব ০১
+Subject: Physics
+Topic: Moving Charge in a Magnetic Field Part 01
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "vKz2FCCEqTs",
+    title: "05. Moving Charge in a Magnetic Field Part 02 | চৌম্বক ক্ষেত্রে চার্জের গতি পথের সমীকরণ পর্ব ০২",
+    duration: "13:31",
+    thumbnail: "https://i.ytimg.com/vi/vKz2FCCEqTs/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 05. Moving Charge in a Magnetic Field Part 02 | চৌম্বক ক্ষেত্রে চার্জের গতি পথের সমীকরণ পর্ব ০২
+Subject: Physics
+Topic: Moving Charge in a Magnetic Field Part 02
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "b8rHWofPn0Q",
+    title: "06. Magnetic Force on a Current - Carrying Conductor | তড়িৎবাহী তারের ওপর চৌম্বক বল",
+    duration: "15:42",
+    thumbnail: "https://i.ytimg.com/vi/b8rHWofPn0Q/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 06. Magnetic Force on a Current - Carrying Conductor | তড়িৎবাহী তারের ওপর চৌম্বক বল
+Subject: Physics
+Topic: Magnetic Force on a Current - Carrying Conductor
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "LeTzXbxow4c",
+    title: "07. তড়িৎবাহী তারের ওপর চৌম্বক বল এর উদাহরণ | OnnoRokom Pathshala",
+    duration: "8:27",
+    thumbnail: "https://i.ytimg.com/vi/LeTzXbxow4c/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 07. তড়িৎবাহী তারের ওপর চৌম্বক বল এর উদাহরণ
+Subject: Physics
+Topic: Examples of Magnetic Force on a Current-Carrying Conductor
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "Mdx8NCozMN4",
+    title: "08. সুষম চৌম্বক ক্ষেত্রে তড়িৎবাহী কুন্ডলীর ওপর টর্ক পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "12:13",
+    thumbnail: "https://i.ytimg.com/vi/Mdx8NCozMN4/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 08. সুষম চৌম্বক ক্ষেত্রে তড়িৎবাহী কুন্ডলীর ওপর টর্ক পর্ব ০১
+Subject: Physics
+Topic: Torque on a Current Carrying Loop in a Uniform Magnetic Field Part 01
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "bsq9RefVX9I",
+    title: "08. সুষম চৌম্বক ক্ষেত্রে তড়িৎবাহী কুন্ডলীর ওপর টর্ক পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "17:18",
+    thumbnail: "https://i.ytimg.com/vi/bsq9RefVX9I/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 08. সুষম চৌম্বক ক্ষেত্রে তড়িৎবাহী কুন্ডলীর ওপর টর্ক পর্ব ০২
+Subject: Physics
+Topic: Torque on a Current Carrying Loop in a Uniform Magnetic Field Part 02
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "gKn9TWuO6Q8",
+    title: "08. সুষম চৌম্বক ক্ষেত্রে তড়িৎবাহী কুন্ডলীর ওপর টর্ক পর্ব ০৩ | OnnoRokom Pathshala",
+    duration: "5:08",
+    thumbnail: "https://i.ytimg.com/vi/gKn9TWuO6Q8/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 08. সুষম চৌম্বক ক্ষেত্রে তড়িৎবাহী কুন্ডলীর ওপর টর্ক পর্ব ০৩
+Subject: Physics
+Topic: Torque on a Current Carrying Loop in a Uniform Magnetic Field Part 03
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "DT4YMZT-SOk",
+    title: "09. Hall Effect Part 01 | হল প্রভাব পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "23:43",
+    thumbnail: "https://i.ytimg.com/vi/DT4YMZT-SOk/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 09. Hall Effect Part 01 | হল প্রভাব পর্ব ০১
+Subject: Physics
+Topic: Hall Effect Part 01
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "fxUQjzROt1g",
+    title: "09. Hall Effect Part 02 | হল প্রভাব পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "14:59",
+    thumbnail: "https://i.ytimg.com/vi/fxUQjzROt1g/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 09. Hall Effect Part 02 | হল প্রভাব পর্ব ০২
+Subject: Physics
+Topic: Hall Effect Part 02
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "MvG2CqwlcG8",
+    title: "10. Source of Magnetic Field | চৌম্বক ক্ষেত্রের উৎস | OnnoRokom Pathshala",
+    duration: "3:34",
+    thumbnail: "https://i.ytimg.com/vi/MvG2CqwlcG8/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 10. Source of Magnetic Field | চৌম্বক ক্ষেত্রের উৎস
+Subject: Physics
+Topic: Source of Magnetic Field
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "4qFch-0AoR4",
+    title: "11. The Biot Savart Law Part 01 | বায়োট-স্যাভার্ট এর সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "17:26",
+    thumbnail: "https://i.ytimg.com/vi/4qFch-0AoR4/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 11. The Biot Savart Law Part 01 | বায়োট-স্যাভার্ট এর সূত্র পর্ব ০১
+Subject: Physics
+Topic: The Biot Savart Law Part 01
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "CjWdJJptYzs",
+    title: "11. The Biot Savart Law Part 02 | বায়োট-স্যাভার্ট এর সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "15:23",
+    thumbnail: "https://i.ytimg.com/vi/CjWdJJptYzs/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 11. The Biot Savart Law Part 02 | বায়োট-স্যাভার্ট এর সূত্র পর্ব ০২
+Subject: Physics
+Topic: The Biot Savart Law Part 02
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "6DauwtycT_k",
+    title: "11. The Biot Savart Law Part 03 | বায়োট-স্যাভার্ট এর সূত্র পর্ব ০৩ | OnnoRokom Pathshala",
+    duration: "12:22",
+    thumbnail: "https://i.ytimg.com/vi/6DauwtycT_k/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 11. The Biot Savart Law Part 03 | বায়োট-স্যাভার্ট এর সূত্র পর্ব ০৩
+Subject: Physics
+Topic: The Biot Savart Law Part 03
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "NhOZ1TdSYFw",
+    title: "11. The Biot Savart Law Part 04 | বায়োট-স্যাভার্ট এর সূত্র পর্ব ০৪ | OnnoRokom Pathshala",
+    duration: "14:41",
+    thumbnail: "https://i.ytimg.com/vi/NhOZ1TdSYFw/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 11. The Biot Savart Law Part 04 | বায়োট-স্যাভার্ট এর সূত্র পর্ব ০৪
+Subject: Physics
+Topic: The Biot Savart Law Part 04
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "M28kpOMVy2Y",
+    title: "12. Magnetic force Between to Parallel Current Carrying Conducters",
+    duration: "15:52",
+    thumbnail: "https://i.ytimg.com/vi/M28kpOMVy2Y/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 12. Magnetic force Between to Parallel Current Carrying Conducters
+Subject: Physics
+Topic: Magnetic force Between Two Parallel Current Carrying Conductors
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "xoO68XDvUU0",
+    title: "13. Ampere's Law Part 01 | অ্যাম্পিয়ারের সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+    duration: "22:28",
+    thumbnail: "https://i.ytimg.com/vi/xoO68XDvUU0/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 13. Ampere's Law Part 01 | অ্যাম্পিয়ারের সূত্র পর্ব ০১
+Subject: Physics
+Topic: Ampere's Law Part 01
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "rf309JmUetg",
+    title: "13. Ampere's Law Part 02 | অ্যাম্পিয়ারের সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+    duration: "9:41",
+    thumbnail: "https://i.ytimg.com/vi/rf309JmUetg/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 13. Ampere's Law Part 02 | অ্যাম্পিয়ারের সূত্র পর্ব ০২
+Subject: Physics
+Topic: Ampere's Law Part 02
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "G19GYJaEL20",
+    title: "13. Ampere's Law Part 03 | অ্যাম্পিয়ারের সূত্র পর্ব ০৩ | OnnoRokom Pathshala",
+    duration: "13:04",
+    thumbnail: "https://i.ytimg.com/vi/G19GYJaEL20/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 13. Ampere's Law Part 03 | অ্যাম্পিয়ারের সূত্র পর্ব ০৩
+Subject: Physics
+Topic: Ampere's Law Part 03
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "r5xAhkHGCg4",
+    title: "14. Toroid | টরয়েড | OnnoRokom Pathshala",
+    duration: "16:59",
+    thumbnail: "https://i.ytimg.com/vi/r5xAhkHGCg4/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 14. Toroid | টরয়েড
+Subject: Physics
+Topic: Toroid
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "oHvLI5i_c3o",
+    title: "15. Solenoid | সলিনয়েড | OnnoRokom Pathshala",
+    duration: "20:09",
+    thumbnail: "https://i.ytimg.com/vi/oHvLI5i_c3o/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 15. Solenoid | সলিনয়েড
+Subject: Physics
+Topic: Solenoid
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "LNOAr2KdAEM",
+    title: "16. Gauss’s Law | গাউস এর সূত্র | OnnoRokom Pathshala",
+    duration: "10:11",
+    thumbnail: "https://i.ytimg.com/vi/LNOAr2KdAEM/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 16. Gauss’s Law | গাউস এর সূত্র
+Subject: Physics
+Topic: Gauss's Law
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "ygWd5SKses0",
+    title: "17. Magnetic Dipole | চৌম্বক দ্বিমেরু | OnnoRokom Pathshala",
+    duration: "11:56",
+    thumbnail: "https://i.ytimg.com/vi/ygWd5SKses0/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 17. Magnetic Dipole | চৌম্বক দ্বিমেরু
+Subject: Physics
+Topic: Magnetic Dipole
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "nlKjL-l1lrY",
+    title: "18. Magnetic Moment | চৌম্বক ভ্রামক | OnnoRokom Pathshala",
+    duration: "12:46",
+    thumbnail: "https://i.ytimg.com/vi/nlKjL-l1lrY/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 18. Magnetic Moment | চৌম্বক ভ্রামক
+Subject: Physics
+Topic: Magnetic Moment
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "Er1c16oHP5A",
+    title: "19. Single Pole Model | একক মেরু মডেল | OnnoRokom Pathshala",
+    duration: "12:30",
+    thumbnail: "https://i.ytimg.com/vi/Er1c16oHP5A/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 19. Single Pole Model | একক মেরু মডেল
+Subject: Physics
+Topic: Single Pole Model
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "uvfB7oxjmxs",
+    title: "20. Di-Pole in a Magnetic Field - Part 01 | চৌম্বক ক্ষেত্রে দ্বিমেরু পর্ব ০১",
+    duration: "12:17",
+    thumbnail: "https://i.ytimg.com/vi/uvfB7oxjmxs/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 20. Di-Pole in a Magnetic Field - Part 01 | চৌম্বক ক্ষেত্রে দ্বিমেরু পর্ব ০১
+Subject: Physics
+Topic: Di-Pole in a Magnetic Field Part 01
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "QAuHWlfUi14",
+    title: "20. Di-Pole in a Magnetic Field - Part 02 | চৌম্বক ক্ষেত্রে দ্বিমেরু পর্ব ০২",
+    duration: "8:36",
+    thumbnail: "https://i.ytimg.com/vi/QAuHWlfUi14/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 20. Di-Pole in a Magnetic Field - Part 02 | চৌম্বক ক্ষেত্রে দ্বিমেরু পর্ব ০২
+Subject: Physics
+Topic: Di-Pole in a Magnetic Field Part 02
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "PzUVtrXtOCc",
+    title: "21. Magnetic Field intensity for a Di-Pole - P1 | দ্বিমেরুর জন্য চৌম্বক ক্ষেত্র প্রাবল্য পর্ব ০১",
+    duration: "11:30",
+    thumbnail: "https://i.ytimg.com/vi/PzUVtrXtOCc/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 21. Magnetic Field intensity for a Di-Pole - P1 | দ্বিমেরুর জন্য চৌম্বক ক্ষেত্র প্রাবল্য পর্ব ০১
+Subject: Physics
+Topic: Magnetic Field Intensity for a Di-Pole Part 01
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+  {
+    id: "FvMCXo8tT2I",
+    title: "21. Magnetic Field intensity for a Di-Pole - P2 | দ্বিমেরুর জন্য চৌম্বক ক্ষেত্র প্রাবল্য পর্ব ০২",
+    duration: "10:09",
+    thumbnail: "https://i.ytimg.com/vi/FvMCXo8tT2I/hqdefault.jpg",
+    channelId: "UCBA6OI6vEDK13jfoiuX694A",
+    channelName: "OnnoRokom Pathshala",
+    description: `Video Title: Physics 2nd Paper
+Lecture: 21. Magnetic Field intensity for a Di-Pole - P2 | দ্বিমেরুর জন্য চৌম্বক ক্ষেত্র প্রাবল্য পর্ব ০২
+Subject: Physics
+Topic: Magnetic Field Intensity for a Di-Pole Part 02
+Class: HSC Physics
+Lectured by: OnnoRokom Pathshala`
+  },
+
 // Ideal Gas
   {
     id: "dXpY7BlBPuQ",
@@ -3587,6 +4051,8 @@ Topic: Various Types of Projectile
 Class: HSC 1st Year
 Lectured by: OnnoRokom Pathshala`
   },
+
+
 // Polynomial & Quadratic Equation 
 
   {
@@ -5625,6 +6091,14 @@ Lectured by: OnnoRokom Pathshala`
   thumbnail: "https://i.ytimg.com/vi/xK3k9bw-vN4/hqdefault.jpg",
   updatedText: "Updated 1 week ago",
   videos: ["xK3k9bw-vN4", "HijaET6bGAE", "paed6qRxGow", "1pm6K-a7l3g", "Tqnw-6PxLaA", "RiS0RWlrik0", "NXpJdB6r918", "LFS1kroQmVo", "NMb8sIqSOkc", "zpVMMFK9X5A", "vH-VQJcWD48", "deo0teidlyc"]
+},
+{
+  id: "Physics_Magnetic_Effect_of_Current_01",
+  title: "Physics Magnetic Effect of Current and Magnetism (তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব)",
+  videoCount: 33,
+  thumbnail: "https://i.ytimg.com/vi/al5q1s4Rx-A/hqdefault.jpg",
+  updatedText: "Updated 1 week ago",
+  videos: ["al5q1s4Rx-A", "FrJwGXQZCWQ", "4K0Gx4xZ8Ho", "qseC07uIUPY", "edWry7IygeQ", "Te7NUQFDCK8", "vKz2FCCEqTs", "b8rHWofPn0Q", "LeTzXbxow4c", "Mdx8NCozMN4", "bsq9RefVX9I", "gKn9TWuO6Q8", "DT4YMZT-SOk", "fxUQjzROt1g", "MvG2CqwlcG8", "4qFch-0AoR4", "CjWdJJptYzs", "6DauwtycT_k", "NhOZ1TdSYFw", "M28kpOMVy2Y", "xoO68XDvUU0", "rf309JmUetg", "G19GYJaEL20", "r5xAhkHGCg4", "oHvLI5i_c3o", "LNOAr2KdAEM", "ygWd5SKses0", "nlKjL-l1lrY", "Er1c16oHP5A", "uvfB7oxjmxs", "QAuHWlfUi14", "PzUVtrXtOCc", "FvMCXo8tT2I"]
 },
 
 // Biology 2nd paper
