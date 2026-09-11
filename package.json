@@ -1,8 +1,9 @@
 {
-  "name": "react-example",
+  "name": "focus-tube",
   "private": true,
-  "version": "0.0.0",
+  "version": "2.0.0",
   "type": "module",
+  "description": "A free, distraction-free YouTube client built for HSC students in Bangladesh. Curated educational videos — no ads, no recommendations, just focused learning.",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
     "build": "vite build",

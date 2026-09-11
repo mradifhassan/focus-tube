@@ -1,0 +1,4059 @@
+/**
+ * @file catalog-onnorokom.js
+ * Pre-cached catalog for OnnoRokom Pathshala.
+ * Merged into BUILTIN_CATALOG via catalog.js.
+ */
+
+export const ONNOROKOM = {
+  videos:   [
+    {
+      "id": "DWCUCsXoMQc",
+      "title": "01. Continuous & Discontinuous Function | Continuous and Discontinuous Function",
+      "duration": "6:11",
+      "thumbnail": "https://i.ytimg.com/vi/DWCUCsXoMQc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "VIdLvHC407c",
+      "title": "02. Existence of Limit | লিমিটের অস্তিত্ব | OnnoRokom Pathshala",
+      "duration": "8:11",
+      "thumbnail": "https://i.ytimg.com/vi/VIdLvHC407c/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "xThVr1W1Pnw",
+      "title": "03. Infinite Limit | Infinite Limit | OnnoRokom Pathshala",
+      "duration": "13:12",
+      "thumbnail": "https://i.ytimg.com/vi/xThVr1W1Pnw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "P6ON5damQFE",
+      "title": "04. Series Type | Series Type | OnnoRokom Pathshala",
+      "duration": "5:39",
+      "thumbnail": "https://i.ytimg.com/vi/P6ON5damQFE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "WNzrs9L1qFA",
+      "title": "05. Exponential | Exponential | OnnoRokom Pathshala",
+      "duration": "6:30",
+      "thumbnail": "https://i.ytimg.com/vi/WNzrs9L1qFA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "0TqfjNhZHiI",
+      "title": "06. Trigonometric Function Part 01 | ত্রিকোণমিতিক ফাংশন পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "13:53",
+      "thumbnail": "https://i.ytimg.com/vi/0TqfjNhZHiI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Yearnp\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "WlikLWCJBVE",
+      "title": "06. Trigonometric Function Part 02 | ত্রিকোণমিতিক ফাংশন পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "12:34",
+      "thumbnail": "https://i.ytimg.com/vi/WlikLWCJBVE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "mD_VcAXrUZw",
+      "title": "06. Trigonometric Function Part 03 | ত্রিকোণমিতিক ফাংশন পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "10:02",
+      "thumbnail": "https://i.ytimg.com/vi/mD_VcAXrUZw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "9GCpKsdzumk",
+      "title": "07. L'Hospital Rule Part 01 | লা-হসপিটাল রুল পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "14:25",
+      "thumbnail": "https://i.ytimg.com/vi/9GCpKsdzumk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "NfRBFiaeySY",
+      "title": "07. L'Hospital Rule Part 02 | La-Hospital Rule Part 02 | OnnoRokom Pathshala",
+      "duration": "9:24",
+      "thumbnail": "https://i.ytimg.com/vi/NfRBFiaeySY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "-kotvsCL-Cw",
+      "title": "08. Continuity | Inseparability | OnnoRokom Pathshala",
+      "duration": "18:10",
+      "thumbnail": "https://i.ytimg.com/vi/-kotvsCL-Cw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "V1bJaBd5X6Y",
+      "title": "01. Differentiation Coefficient | অন্তরক সহগ | OnnoRokom Pathshala",
+      "duration": "8:13",
+      "thumbnail": "https://i.ytimg.com/vi/V1bJaBd5X6Y/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "0RJBWAXjf_4",
+      "title": "02. Proving the Formula for Integrating in the Basic Rule Part 01 | OnnoRokom Pathshala",
+      "duration": "13:51",
+      "thumbnail": "https://i.ytimg.com/vi/0RJBWAXjf_4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "jU8HtTQr4OU",
+      "title": "02. মূল নিয়মে অন্তরীকরণের সূত্র প্রতিপাদন পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "17:46",
+      "thumbnail": "https://i.ytimg.com/vi/jU8HtTQr4OU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "YkuAwBpzXDs",
+      "title": "03. Determination of Differentiation Coefficient | Determination of Differentiation Coefficient |...",
+      "duration": "7:20",
+      "thumbnail": "https://i.ytimg.com/vi/YkuAwBpzXDs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "wMMi4dqAw7c",
+      "title": "04. Differentiation of (uv) | Proving U.V. | OnnoRokom Pathshala",
+      "duration": "9:38",
+      "thumbnail": "https://i.ytimg.com/vi/wMMi4dqAw7c/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "nH5zbORU1RI",
+      "title": "05. Differentiation of u by v | ইউ/ভি এর অন্তরীকরণ | OnnoRokom Pathshala",
+      "duration": "9:25",
+      "thumbnail": "https://i.ytimg.com/vi/nH5zbORU1RI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "U0AzIZr8xdU",
+      "title": "06. Chain Rule Part 01 | চেইন রূল পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "12:35",
+      "thumbnail": "https://i.ytimg.com/vi/U0AzIZr8xdU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "c6z46owVRxY",
+      "title": "06. Chain Rule Part 02 | চেইন রূল পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "9:29",
+      "thumbnail": "https://i.ytimg.com/vi/c6z46owVRxY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "rYSLtUh5_FA",
+      "title": "07. Inverse Circular Function | Inverse Circular Function | OnnoRokom Pathshala",
+      "duration": "7:20",
+      "thumbnail": "https://i.ytimg.com/vi/rYSLtUh5_FA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "Wxnv4q2ndMQ",
+      "title": "08. Differentiation after Substitution | OnnoRokom Pathshala",
+      "duration": "7:41",
+      "thumbnail": "https://i.ytimg.com/vi/Wxnv4q2ndMQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "QmK5n2AF61I",
+      "title": "09. Particular Type Differentiation Part 01 | Particular Type Differentiation Part 01",
+      "duration": "11:17",
+      "thumbnail": "https://i.ytimg.com/vi/QmK5n2AF61I/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "3vBzgjhzDU4",
+      "title": "09. Particular Type Differentiation Part 02 | পার্টিকুলার টাইপ অনতরীকরণ পর্ব ০২",
+      "duration": "9:39",
+      "thumbnail": "https://i.ytimg.com/vi/3vBzgjhzDU4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "QAs-4QDgpHE",
+      "title": "10. প্যারামেত্রিক ফাংশন এবং ফাংশনের সাপেক্ষে ফাংশনের অন্তরীকরণ | OnnoRokom Pathshala",
+      "duration": "8:18",
+      "thumbnail": "https://i.ytimg.com/vi/QAs-4QDgpHE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "7LZh5Uhtz3o",
+      "title": "01. n-th derivative Part 01 | এন তম অন্তরক পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "12:10",
+      "thumbnail": "https://i.ytimg.com/vi/7LZh5Uhtz3o/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "FTOsKAQXtjc",
+      "title": "01. n-th derivative Part 02 | এন তম অন্তরক পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "16:26",
+      "thumbnail": "https://i.ytimg.com/vi/FTOsKAQXtjc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "5btc3KvVJN0",
+      "title": "01. n-th derivative Part 03 | এন তম অন্তরক পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "17:01",
+      "thumbnail": "https://i.ytimg.com/vi/5btc3KvVJN0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "eMs3AYc9VNQ",
+      "title": "02. Tangent & Perpendicular Part 01 | স্পর্শক ও অভিলম্ব পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "13:56",
+      "thumbnail": "https://i.ytimg.com/vi/eMs3AYc9VNQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "zsOzfTdSQrQ",
+      "title": "02. Tangent & Perpendicular Part 02 | স্পর্শক ও অভিলম্ব পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "10:32",
+      "thumbnail": "https://i.ytimg.com/vi/zsOzfTdSQrQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "kHxkKshgzGA",
+      "title": "02. Tangent & Perpendicular Part 03 | Tangent & Perpendicular Part 03 | OnnoRokom Pathshala",
+      "duration": "15:25",
+      "thumbnail": "https://i.ytimg.com/vi/kHxkKshgzGA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "9wAclB37rcU",
+      "title": "03. Maxima & Minima Part 01 | Guruman Laguman Part 01 | OnnoRokom Pathshala",
+      "duration": "12:05",
+      "thumbnail": "https://i.ytimg.com/vi/9wAclB37rcU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "CWeubWxS0Yk",
+      "title": "03. Maxima & Minima Part 02 | গুরুমান লগুমান পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "11:38",
+      "thumbnail": "https://i.ytimg.com/vi/CWeubWxS0Yk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "jImlqKEIBaI",
+      "title": "03. Maxima & Minima Part 03 | গুরুমান লগুমান পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "11:49",
+      "thumbnail": "https://i.ytimg.com/vi/jImlqKEIBaI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "LZv7jqAmVC8",
+      "title": "03. Maxima & Minima Part 04 | গুরুমান লগুমান পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "5:21",
+      "thumbnail": "https://i.ytimg.com/vi/LZv7jqAmVC8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: Differentiation (Limit)\nSubject: Math\nTopic: Continuous & Discontinuous Function\nClass: HSC 1st Year\nLectured by: Ashikuzzaman Rasel"
+    },
+    {
+      "id": "jgsnZoZ-hVg",
+      "title": "01. Newton's 1st law Part 01 | নিউটনের প্রথম সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "8:18",
+      "thumbnail": "https://i.ytimg.com/vi/jgsnZoZ-hVg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "idxuC5TzCgU",
+      "title": "01. Newton's 1st law Part 02 | নিউটনের প্রথম সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "15:16",
+      "thumbnail": "https://i.ytimg.com/vi/idxuC5TzCgU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "Fl822BDrcN0",
+      "title": "01. Newton's 1st law Part 03 | নিউটনের প্রথম সূত্র পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "12:10",
+      "thumbnail": "https://i.ytimg.com/vi/Fl822BDrcN0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "tsEpmGRwwFw",
+      "title": "01. Newton's 1st law Part 04 | নিউটনের প্রথম সূত্র পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "14:07",
+      "thumbnail": "https://i.ytimg.com/vi/tsEpmGRwwFw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "wCc3e1LE9-s",
+      "title": "01. Newton's 1st law Part 05 | নিউটনের প্রথম সূত্র পর্ব ০৫ | OnnoRokom Pathshala",
+      "duration": "8:52",
+      "thumbnail": "https://i.ytimg.com/vi/wCc3e1LE9-s/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "GVoQGv5V-8w",
+      "title": "02. Newton's 2nd law Part 01 | নিউটনের দ্বিতীয় সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "12:56",
+      "thumbnail": "https://i.ytimg.com/vi/GVoQGv5V-8w/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "VlSByMqhQGM",
+      "title": "02. Newton's 2nd law Part 02 | নিউটনের দ্বিতীয় সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "14:53",
+      "thumbnail": "https://i.ytimg.com/vi/VlSByMqhQGM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "oJogS-Kv-4w",
+      "title": "02. Newton's 2nd law Part 03 | নিউটনের দ্বিতীয় সূত্র পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "12:49",
+      "thumbnail": "https://i.ytimg.com/vi/oJogS-Kv-4w/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "DkT9szIPS-w",
+      "title": "02. Newton's 2nd law Part 04 | নিউটনের দ্বিতীয় সূত্র পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "11:03",
+      "thumbnail": "https://i.ytimg.com/vi/DkT9szIPS-w/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "vrfc3GebITQ",
+      "title": "02. Newton's 2nd law Part 05 | নিউটনের দ্বিতীয় সূত্র পর্ব ০৫ | OnnoRokom Pathshala",
+      "duration": "10:44",
+      "thumbnail": "https://i.ytimg.com/vi/vrfc3GebITQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "PlpNd6zcSeU",
+      "title": "03. Newton's 3rd law Part 01 | নিউটনের তৃতীয় সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "15:51",
+      "thumbnail": "https://i.ytimg.com/vi/PlpNd6zcSeU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "U9QRfxy22yM",
+      "title": "03. Newton's 3rd law Part 02 | নিউটনের তৃতীয় সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "5:59",
+      "thumbnail": "https://i.ytimg.com/vi/U9QRfxy22yM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "j1x4niLVbYQ",
+      "title": "01. Center of Gravity Part 01 | ভরকেন্দ্র পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "13:07",
+      "thumbnail": "https://i.ytimg.com/vi/j1x4niLVbYQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "PfSONKumv2A",
+      "title": "01. Center of Gravity Part 02 | ভরকেন্দ্র পর্ব ০২ | OnnoRokom Pathshala ",
+      "duration": "15:59",
+      "thumbnail": "https://i.ytimg.com/vi/PfSONKumv2A/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "Vu1y7BuOIh0",
+      "title": "01. Center of Gravity Part 03 | ভরকেন্দ্র পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "13:56",
+      "thumbnail": "https://i.ytimg.com/vi/Vu1y7BuOIh0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "Op6xiICaoOo",
+      "title": "01. Center of Gravity Part 04 | ভরকেন্দ্র পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "13:56",
+      "thumbnail": "https://i.ytimg.com/vi/Op6xiICaoOo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "RrstMhs1oPg",
+      "title": "01. Center of Gravity Part 05 | ভরকেন্দ্র পর্ব ০৫ | OnnoRokom Pathshala",
+      "duration": "12 :18",
+      "thumbnail": "https://i.ytimg.com/vi/RrstMhs1oPg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "JF_BD5zSxPw",
+      "title": "02. Conservation of Momentum Basic Part 01 | ভরবেগের সংরক্ষণশীলতা পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "12:45",
+      "thumbnail": "https://i.ytimg.com/vi/JF_BD5zSxPw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "qOtMqwZpTrM",
+      "title": "02. Conservation of Momentum Basic Part 02 | ভরবেগের সংরক্ষণশীলতা পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "17:03",
+      "thumbnail": "https://i.ytimg.com/vi/qOtMqwZpTrM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "dlEh1U1ei5I",
+      "title": "02. Conservation of Momentum Basic Part 03 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "18:02",
+      "thumbnail": "https://i.ytimg.com/vi/dlEh1U1ei5I/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "ZbvpldoW8w",
+      "title": "02. Conservation of Momentum Basic Part 05 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৫ | OnnoRokom Pathshala",
+      "duration": "17:16",
+      "thumbnail": "https://i.ytimg.com/vi/ZbvpldoW8w/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "SE5bmqIBjZY",
+      "title": "02. Conservation of Momentum Basic Part 06 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৬ | OnnoRokom Pathshala",
+      "duration": "10:57",
+      "thumbnail": "https://i.ytimg.com/vi/SE5bmqIBjZY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "hsO2bC-GQXk",
+      "title": "02. Conservation of Momentum Basic Part 07 | ভরবেগের সংরক্ষণশীলতা পর্ব ০৭ | OnnoRokom Pathshala",
+      "duration": "9:08",
+      "thumbnail": "https://i.ytimg.com/vi/hsO2bC-GQXk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "j8H4WyxAKxI",
+      "title": "01. Conservation of Momentum Part 01 | ভরবেগের সংরক্ষণশীলতা পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "15:51",
+      "thumbnail": "https://i.ytimg.com/vi/j8H4WyxAKxI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "LHZ1WA34bgg",
+      "title": "01. Conservation of Momentum Part 02 | ভরবেগের সংরক্ষণশীলতা পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "15:35",
+      "thumbnail": "https://i.ytimg.com/vi/LHZ1WA34bgg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "sPjboJPiV7Y",
+      "title": "02. Conservation of Kinetic Energy Part 01 | গতিশক্তির সংরক্ষণশীলতা পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "17:36",
+      "thumbnail": "https://i.ytimg.com/vi/sPjboJPiV7Y/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "ES1C2hmceNY",
+      "title": "02. Conservation of Kinetic Energy Part 02 | গতিশক্তির সংরক্ষণশীলতা পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "8:18",
+      "thumbnail": "https://i.ytimg.com/vi/ES1C2hmceNY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "fEz2ifplYhs",
+      "title": "03. External and Internal Force | অন্তর্গত ও বহিরাগত বল | OnnoRokom Pathshala",
+      "duration": "16:50",
+      "thumbnail": "https://i.ytimg.com/vi/fEz2ifplYhs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: OnnoRokom Pathshala_Newtonian Mechanics (Newton's law)\nSubject: Physics\nTopic: Newton's 1st law Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "KphXn1GYcG0",
+      "title": "HSC Physics 1.1 (ভৌত জগত ও পরিমাপ, ভেক্টর এবং গতিবিদ্যা)",
+      "duration": "1:57:58",
+      "thumbnail": "https://i.ytimg.com/vi/KphXn1GYcG0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: Udvash\nSubject: Physics\nTopic: Vector-Dynamics Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "yEScNi9si7c",
+      "title": "HSC Physics 1.2 (ভৌত জগত ও পরিমাপ, ভেক্টর এবং গতিবিদ্যা)",
+      "duration": "54:19",
+      "thumbnail": "https://i.ytimg.com/vi/yEScNi9si7c/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: Udvash\nSubject: Physics\nTopic: Vector-Dynamics Part 02\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "0A6g4Z30E7Q",
+      "title": "HSC Physics 2.1 (নিউটনিয়ান বলবিদ্যা এবং কাজ, ক্ষমতা ও শক্তি)",
+      "duration": "2:02:20",
+      "thumbnail": "https://i.ytimg.com/vi/0A6g4Z30E7Q/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: Udvash\nSubject: Physics\nTopic: Newtonian Mechanics-Work, Power and Energy Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "hp_qTlguG_I",
+      "title": "HSC Physics 2.2 (নিউটনিয়ান বলবিদ্যা এবং কাজ, ক্ষমতা ও শক্তি)",
+      "duration": "1:05:42",
+      "thumbnail": "https://i.ytimg.com/vi/hp_qTlguG_I/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: Udvash\nSubject: Physics\nTopic: Newtonian Mechanics-Work, Power and Energy Part 02\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "9AeM-QnwF4k",
+      "title": "HSC Physics 3.1 (মহাকর্ষ ও অভিকর্ষ এবং পদার্থের গাঠনিক ধর্ম)",
+      "duration": "1:38:47",
+      "thumbnail": "https://i.ytimg.com/vi/9AeM-QnwF4k/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: Udvash\nSubject: Physics\nTopic: Gravitation and Gravity-Structural Properties of Matter Part 01\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "0v8Prmi6xYg",
+      "title": "HSC Physics 3.2 (মহাকর্ষ ও অভিকর্ষ এবং পদার্থের গাঠনিক ধর্ম)",
+      "duration": "58:45",
+      "thumbnail": "https://i.ytimg.com/vi/0v8Prmi6xYg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: Udvash\nSubject: Physics\nTopic: Gravitation and Gravity-Structural Properties of Matter Part 02\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "quSUCOrsbeU",
+      "title": "HSC Physics 4 (Periodic Motions and Waves)",
+      "duration": "1:48:54",
+      "thumbnail": "https://i.ytimg.com/vi/quSUCOrsbeU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: Udvash\nSubject: Physics\nTopic: Periodic Motion-Waves\nClass: HSC 1st Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "lP8277QSPTU",
+      "title": "HSC Physics 5 (Thermodynamics)",
+      "duration": "1:48:54",
+      "thumbnail": "https://i.ytimg.com/vi/lP8277QSPTU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: Udvash\nSubject: Physics\nTopic: Thermodynamics-Ideal Gas and Its motion Part\nClass: HSC 2nd Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "8txuXBijYUw",
+      "title": "HSC Physics 6 (Electricity)",
+      "duration": "1:58:36",
+      "thumbnail": "https://i.ytimg.com/vi/8txuXBijYUw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: Udvash\nSubject: Physics\nTopic: Static Electricty-Current Electricity Part 01\nClass: HSC 2nd Year\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "UI7fgWG6doU",
+      "title": "HSC Physics 7.1 (Electro-Magnetism)",
+      "duration": "1:48:13",
+      "thumbnail": "https://i.ytimg.com/vi/UI7fgWG6doU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: Udvash\nSubject: Physics\nTopic: Electro-Magentism Part 01\nClass: HSC 2nd Year\nLectured by: Tusher Chakroborty"
+    },
+    {
+      "id": "yA8OAvJlp90",
+      "title": "HSC Physics 7.2 (Electro-Magnetism)",
+      "duration": "1:04:41",
+      "thumbnail": "https://i.ytimg.com/vi/yA8OAvJlp90/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: Udvash\nSubject: Physics\nTopic: Electro-Magentism Part 02\nClass: HSC 2nd Year\nLectured by: Tusher Chakroborty"
+    },
+    {
+      "id": "Y2_DZTOmu4o",
+      "title": "HSC Physics 8.1 (Optics)",
+      "duration": "1:48:13",
+      "thumbnail": "https://i.ytimg.com/vi/Y2_DZTOmu4o/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: Udvash\nSubject: Physics\nTopic: Geometrical Optics-Wave Theory Part 01\nClass: HSC 2nd Year\nLectured by: Tusher Chakroborty"
+    },
+    {
+      "id": "Jara5dO9dyg",
+      "title": "HSC Physics 8.2 (Optics)",
+      "duration": "1:04:41",
+      "thumbnail": "https://i.ytimg.com/vi/Jara5dO9dyg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "\nVideo Title: Udvash\nSubject: Physics\nTopic: Geometrical Optics-Wave Theroy Part 02\nClass: HSC 2nd Year\nLectured by: Tusher Chakroborty"
+    },
+    {
+      "id": "Y2-6OInzV44",
+      "title": "01. General Discussion about Wave | তরঙ্গ সম্পর্কীয় সাধারণ আলোচনা",
+      "duration": "21:37",
+      "thumbnail": "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala\nLecture: Wave\nSubject: Physics\nTopic: General Discussion about Wave\nClass: HSC 1st Year\nLectured by: Sourov Bijoy"
+    },
+    {
+      "id": "ZhCQu47G2m4",
+      "title": "02. Intensity of Wave | তরঙ্গের তীব্রতা | OnnoRokom Pathshala",
+      "duration": "14:50",
+      "thumbnail": "https://i.ytimg.com/vi/ZhCQu47G2m4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala\nLecture: Wave\nSubject: Physics\nTopic: General Discussion about Wave\nClass: HSC 1st Year\nLectured by: Sourov Bijoy"
+    },
+    {
+      "id": "hO0vRj4i8RE",
+      "title": "03. Wave Superposition | Wave Superposition | OnnoRokom Pathshala",
+      "duration": "5:50",
+      "thumbnail": "https://i.ytimg.com/vi/hO0vRj4i8RE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala\nLecture: Wave\nSubject: Physics\nTopic: General Discussion about Wave\nClass: HSC 1st Year\nLectured by: Sourov Bijoy"
+    },
+    {
+      "id": "zN5ONZFUFgQ",
+      "title": "04. Static Wave | স্থির তরঙ্গ | OnnoRokom Pathshala",
+      "duration": "29:30",
+      "thumbnail": "https://i.ytimg.com/vi/zN5ONZFUFgQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala\nLecture: Wave\nSubject: Physics\nTopic: General Discussion about Wave\nClass: HSC 1st Year\nLectured by: Sourov Bijoy"
+    },
+    {
+      "id": "Z7cZLp0ZFzU",
+      "title": "05. Wire in Tension | Tensioned Wire | OnnoRokom Pathshala",
+      "duration": "14:32",
+      "thumbnail": "https://i.ytimg.com/vi/Z7cZLp0ZFzU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala\nLecture: Wave\nSubject: Physics\nTopic: General Discussion about Wave\nClass: HSC 1st Year\nLectured by: Sourov Bijoy"
+    },
+    {
+      "id": "9OUNZ6MQmhQ",
+      "title": "06. Beat Related Math | বীট সংক্রান্ত অংক | OnnoRokom Pathshala",
+      "duration": "10:20",
+      "thumbnail": "https://i.ytimg.com/vi/9OUNZ6MQmhQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala\nLecture: Wave\nSubject: Physics\nTopic: General Discussion about Wave\nClass: HSC 1st Year\nLectured by: Sourov Bijoy"
+    },
+    {
+      "id": "aRn13XFKuj0",
+      "title": "Beat - Mathematical Problem Part 01 | বীট – এর গাণিতিক সমস্যা পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "10:20",
+      "thumbnail": "https://i.ytimg.com/vi/aRn13XFKuj0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala\nLecture: Wave\nSubject: Physics\nTopic: Bit - Mathematical Problem Part 01\nClass: HSC 1st Year\nLectured by: Mahmudul Hasan Sohag"
+    },
+    {
+      "id": "GRI173t9t28",
+      "title": "Beat - Mathematical Problem Part 02 | বীট – এর গাণিতিক সমস্যা পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "15:49",
+      "thumbnail": "https://i.ytimg.com/vi/GRI173t9t28/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala\nLecture: Wave\nSubject: Physics\nTopic: Bit - Mathematical Problem Part 01\nClass: HSC 1st Year\nLectured by: Mahmudul Hasan Sohag"
+    },
+    {
+      "id": "izmEeudNgU4",
+      "title": "Beat - Mathematical Problem Part 03 | বীট – এর গাণিতিক সমস্যা পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "13:20",
+      "thumbnail": "https://i.ytimg.com/vi/izmEeudNgU4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala\nLecture: Wave\nSubject: Physics\nTopic: Bit - Mathematical Problem Part 01\nClass: HSC 1st Year\nLectured by: Mahmudul Hasan Sohag"
+    },
+    {
+      "id": "yfIiE2csYIc",
+      "title": "Beat - Mathematical Problem Part 04 | বীট – এর গাণিতিক সমস্যা পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "6:42",
+      "thumbnail": "https://i.ytimg.com/vi/yfIiE2csYIc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala\nLecture: Wave\nSubject: Physics\nTopic: Bit - Mathematical Problem Part 01\nClass: HSC 1st Year\nLectured by: Mahmudul Hasan Sohag"
+    },
+    {
+      "id": "J_hYeNvs4EI",
+      "title": "07. Relative Intensity and Intensity Level | প্রমাণ তীব্রতা ও তীব্রতা লেভেল",
+      "duration": "12:52",
+      "thumbnail": "https://i.ytimg.com/vi/J_hYeNvs4EI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala\nLecture: Wave\nSubject: Physics\nTopic: General Discussion about Wave\nClass: HSC 1st Year\nLectured by: Sourov Bijoy"
+    },
+    {
+      "id": "pmCub0w_4OM",
+      "title": "08. প্রমাণ তীব্রতা ও তীব্রতা লেভেল এর গাণিতিক সমস্যাবলি | OnnoRokom Pathshala",
+      "duration": "15:06",
+      "thumbnail": "https://i.ytimg.com/vi/pmCub0w_4OM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala\nLecture: Wave\nSubject: Physics\nTopic: General Discussion about Wave\nClass: HSC 1st Year\nLectured by: Sourov Bijoy"
+    },
+    {
+      "id": "LVE9SjOd0Hw",
+      "title": "01. Periodic Motion | পর্যায়বৃত্ত গতি | OnnoRokom Pathshala",
+      "duration": "8:44",
+      "thumbnail": "https://i.ytimg.com/vi/LVE9SjOd0Hw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]\nSubject: Physics\nTopic: SHM Part 01\nClass: HSC 1st Yea\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "3u_UKd8iTTE",
+      "title": "02. SHM Part 01 | সরল ছন্দিত স্পন্দন পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "15:19",
+      "thumbnail": "https://i.ytimg.com/vi/3u_UKd8iTTE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]\nSubject: Physics\nTopic: SHM Part 01\nClass: HSC 1st Yea\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "Hi6Uo6NQ8Zc",
+      "title": "02. SHM Part 02 | সরল ছন্দিত স্পন্দন পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "11:13",
+      "thumbnail": "https://i.ytimg.com/vi/Hi6Uo6NQ8Zc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]\nSubject: Physics\nTopic: SHM Part 01\nClass: HSC 1st Yea\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "_uqioK_AnbM",
+      "title": "02. SHM Part 03 | সরল ছন্দিত স্পন্দন পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "11:25",
+      "thumbnail": "https://i.ytimg.com/vi/_uqioK_AnbM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]\nSubject: Physics\nTopic: SHM Part 01\nClass: HSC 1st Yea\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "29RYUx1KUu0",
+      "title": "02. SHM Part 04 | সরল ছন্দিত স্পন্দন পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "10:14",
+      "thumbnail": "https://i.ytimg.com/vi/29RYUx1KUu0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]\nSubject: Physics\nTopic: SHM Part 01\nClass: HSC 1st Yea\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "-o7X58xkiXo",
+      "title": "03. Phase Part 01 | দশা পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "8:37",
+      "thumbnail": "https://i.ytimg.com/vi/-o7X58xkiXo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]\nSubject: Physics\nTopic: SHM Part 01\nClass: HSC 1st Yea\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "9iWqKmnK3_0",
+      "title": "03. Phase Part 02 | দশা পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "9:30",
+      "thumbnail": "https://i.ytimg.com/vi/9iWqKmnK3_0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]\nSubject: Physics\nTopic: SHM Part 01\nClass: HSC 1st Yea\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "UhJCLSLHi5M",
+      "title": "03. Phase Part 03 | দশা পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "13:47",
+      "thumbnail": "https://i.ytimg.com/vi/UhJCLSLHi5M/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]\nSubject: Physics\nTopic: SHM Part 01\nClass: HSC 1st Yea\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "bS7SoiY8Gzc",
+      "title": "03. Phase Part 04 | দশা পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "10:17",
+      "thumbnail": "https://i.ytimg.com/vi/bS7SoiY8Gzc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]\nSubject: Physics\nTopic: SHM Part 01\nClass: HSC 1st Yea\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "7B3GW6siIVI",
+      "title": "04. SHM Differential Equation Part 01 | সরল ছন্দিত স্পন্দনের অন্তরক সমীকরণ পর্ব ০১",
+      "duration": "8:30",
+      "thumbnail": "https://i.ytimg.com/vi/7B3GW6siIVI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]\nSubject: Physics\nTopic: SHM Part 01\nClass: HSC 1st Yea\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "kB2OYCRCHRA",
+      "title": "04. SHM Differential Equation Part 02 | সরল ছন্দিত স্পন্দনের অন্তরক সমীকরণ পর্ব ০২",
+      "duration": "15:07",
+      "thumbnail": "https://i.ytimg.com/vi/kB2OYCRCHRA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]\nSubject: Physics\nTopic: SHM Part 01\nClass: HSC 1st Yea\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "9HVn0cLmf3o",
+      "title": "05. SHM Practical Application | সরল ছন্দিত স্পন্দনের বাস্তব প্রয়োগ | OnnoRokom Pathshala",
+      "duration": "10:17",
+      "thumbnail": "https://i.ytimg.com/vi/9HVn0cLmf3o/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Periodic Motion [Simple Harmonic Motion (SHM)]\nSubject: Physics\nTopic: SHM Part 01\nClass: HSC 1st Yea\nLectured by: Maksudul Hossain Jewel"
+    },
+    {
+      "id": "wIgWv1KexOU",
+      "title": "IBDP Physics. Simple Harmonic Motion- Visually explained . Part 1.",
+      "duration": "9:08",
+      "thumbnail": "https://i.ytimg.com/vi/wIgWv1KexOU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "description": "Welcome to the first video of our IB Physics video series! In this video, we explore Simple Harmonic Motion (SHM)—a fundamental topic in IB DP Physics. Discover the key concepts behind oscillatory motion, including the restoring force  F=−kx, equilibrium, and energy conservation in oscillating systems. Whether you're studying for your IB exams or simply passionate about physics, this video provides clear, step-by-step explanations and real-world examples of SHM in action.\n\nIn This Video, You Will Learn:\n\nWhat Simple Harmonic Motion is and why it's important in IB Physics\nThe physics behind oscillations: pendulums, spring-mass systems, and more\nHow to derive and use the key formula \nF=−kx\nTips and problem-solving strategies for mastering SHM concepts\nFor additional resources and detailed notes: yasirsphysics@gmail.com\n\nDon't forget to like, share, and subscribe for more IB Physics tutorials. Click the bell icon to get notified when Part 2 is released!\n\n#IBPhysics #SimpleHarmonicMotion #IBDP #Oscillations #PhysicsTutorial\n\n00:00 - Simple Harmonic Motion,  Nature Loves it\n00:43 - Two Important conditions, F= -Kx\n04:06 - Checkpoint!\n04:47 - Acceleration and Angular frequency\n06:16- Summary\n06:42- Amplitude, Time Period, Frequency\n08:24 - Homework\n08:58 - Next week, energy and pendulums"
+    },
+    {
+      "id": "s5q3Ozq8Yg0",
+      "title": "8.01x - Module 15.08 - SHO Angular Frequency vs Angular Velocity.",
+      "duration": "4:05",
+      "thumbnail": "https://i.ytimg.com/vi/s5q3Ozq8Yg0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "description": "8.01x - MIT Help Sessions\nSHO - Angular Frequency vs  Angular Velocity."
+    },
+    {
+      "id": "MZ5eKUlO2fU",
+      "title": "My Million$ Video - Angular Velocity vs Angular Frequency - it's a MUST",
+      "duration": "12:01",
+      "thumbnail": "https://i.ytimg.com/vi/MZ5eKUlO2fU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "description": "My Million$ Video - Angular Velocity vs Angular Frequency - it's a MUST"
+    },
+    {
+      "id": "63P4qKc3V8w",
+      "title": "01. General Discussion about Thermodynamics | তাপ গতিবিদ্যার সাধারণ আলোচনা",
+      "duration": "Unknown",
+      "thumbnail": "https://i.ytimg.com/vi/63P4qKc3V8w/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Thermodynamics\nSubject: Physics\nTopic: General Discussion about Thermodynamics\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "pJUHbfe-t74",
+      "title": "02. Temperature Scale | তাপমাত্রার স্কেল | OnnoRokom Pathshala",
+      "duration": "8:03",
+      "thumbnail": "https://i.ytimg.com/vi/pJUHbfe-t74/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Thermodynamics\nSubject: Physics\nTopic: Temperature Scale\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Jfcff-LpDcI",
+      "title": "03. Relation Between Different Temperature Scales | বিভিন্ন তাপমাত্রার স্কেলের মধ্যে সম্পর্ক",
+      "duration": "8:39",
+      "thumbnail": "https://i.ytimg.com/vi/Jfcff-LpDcI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Thermodynamics\nSubject: Physics\nTopic: Relation Between Different Temperature Scales\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "KTn5x5-nfBk",
+      "title": "04. 1st Law of Thermodynamics | তাপগতিবিদ্যার প্রথম সূত্র | OnnoRokom Pathshala",
+      "duration": "5:12",
+      "thumbnail": "https://i.ytimg.com/vi/KTn5x5-nfBk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Thermodynamics\nSubject: Physics\nTopic: 1st Law of Thermodynamics\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "D6-f57zKW2I",
+      "title": "05. Uses of 1st law of thermodynamics | তাপগতিবিদ্যার প্রথম সূত্রের ব্যবহার",
+      "duration": "12:21",
+      "thumbnail": "https://i.ytimg.com/vi/D6-f57zKW2I/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Thermodynamics\nSubject: Physics\nTopic: Uses of 1st Law of Thermodynamics\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "uX7cj9dzZeQ",
+      "title": "06. Equation for work done | কৃতকাজের সমীকরণ | OnnoRokom Pathshala",
+      "duration": "18:55",
+      "thumbnail": "https://i.ytimg.com/vi/uX7cj9dzZeQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Thermodynamics\nSubject: Physics\nTopic: Equation for Work Done\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "QCcCUImjKLA",
+      "title": "07. Adiabatic process | রুদ্ধতাপীয় প্রক্রিয়া | OnnoRokom Pathshala",
+      "duration": "16:23",
+      "thumbnail": "https://i.ytimg.com/vi/QCcCUImjKLA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Thermodynamics\nSubject: Physics\nTopic: Adiabatic Process\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "iIemQlMJLxI",
+      "title": "08. 2nd Law of Thermodynamics | তাপগতিবিদ্যার ২য় সূত্র | OnnoRokom Pathshala",
+      "duration": "3:34",
+      "thumbnail": "https://i.ytimg.com/vi/iIemQlMJLxI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Thermodynamics\nSubject: Physics\nTopic: 2nd Law of Thermodynamics\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "e3RBNBfq_yY",
+      "title": "09. Entropy | এনট্রপি | OnnoRokom Pathshala",
+      "duration": "5:58",
+      "thumbnail": "https://i.ytimg.com/vi/e3RBNBfq_yY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Thermodynamics\nSubject: Physics\nTopic: Entropy\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "LUacLjVUsx4",
+      "title": "10. Reversible and Non-reversible process | প্রত্যাবর্তী এবং অপ্রত্যাবর্তী প্রক্রিয়া",
+      "duration": "8:21",
+      "thumbnail": "https://i.ytimg.com/vi/LUacLjVUsx4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Thermodynamics\nSubject: Physics\nTopic: Reversible and Non-reversible Process\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "R6xA5OUAe_g",
+      "title": "11. Carnot Engine and Refrigerator | কার্নোর ইঞ্জিন এবং কার্নোর রেফ্রিজারেটর",
+      "duration": "20:58",
+      "thumbnail": "https://i.ytimg.com/vi/R6xA5OUAe_g/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Thermodynamics\nSubject: Physics\nTopic: Carnot Engine and Refrigerator\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "xrQEx2MoTMQ",
+      "title": "01. Coulomb's Law (Introduction) | কুলম্বের সূত্র | OnnoRokom Pathshala",
+      "duration": "16:23",
+      "thumbnail": "https://i.ytimg.com/vi/xrQEx2MoTMQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics (Coulomb's Law)\nSubject: Physics\nTopic: Coulomb's Law (Introduction)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "EQEMhTtgPQ0",
+      "title": "02. Coulomb's Law (Vector Form) | কুলম্বের সূত্র ভেক্টর Form | OnnoRokom Pathshala",
+      "duration": "3:36",
+      "thumbnail": "https://i.ytimg.com/vi/EQEMhTtgPQ0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics (Coulomb's Law)\nSubject: Physics\nTopic: Coulomb's Law (Vector Form)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "EdaW3hHmEUw",
+      "title": "03. Electric Field Strength due to Point Charge | বিন্দু আধানের দ্বারা সৃষ্ট তড়িৎ ক্ষেত্র প্রাবল্য",
+      "duration": "12:59",
+      "thumbnail": "https://i.ytimg.com/vi/EdaW3hHmEUw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Electric Field Strength due to Point Charge\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "3bVFmivyOFo",
+      "title": "04.00. Apply of the Formula | সূত্রের ব্যবহার | OnnoRokom Pathshala",
+      "duration": "4:23",
+      "thumbnail": "https://i.ytimg.com/vi/3bVFmivyOFo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Apply of the Formula\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "5OZKRhBEu5A",
+      "title": "04.01. Mathematical Problem (Electric Field Strength) Part 1",
+      "duration": "20:16",
+      "thumbnail": "https://i.ytimg.com/vi/5OZKRhBEu5A/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Mathematical Problem (Electric Field Strength) Part 1\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "yPAeKKvCqpI",
+      "title": "04.01. Mathematical Problem (Electric Field Strength) Part 2 | গাণিতিক সমস্যা (তড়িৎ প্রাবল্য) পর্ব ২",
+      "duration": "20:07",
+      "thumbnail": "https://i.ytimg.com/vi/yPAeKKvCqpI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Mathematical Problem (Electric Field Strength) Part 2\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Wd6PVZSO7Wg",
+      "title": "04.01. Mathematical Problem (Electric Field Strength) Part 3 | গাণিতিক সমস্যা (তড়িৎ প্রাবল্য) পর্ব ৩",
+      "duration": "21:27",
+      "thumbnail": "https://i.ytimg.com/vi/Wd6PVZSO7Wg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Mathematical Problem (Electric Field Strength) Part 3\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "QxFNmsjXDcY",
+      "title": "05. Electric Potential due to Point Charge | বিন্দু আধানের দ্বারা সৃষ্ট তড়িৎ বিভব",
+      "duration": "26:16",
+      "thumbnail": "https://i.ytimg.com/vi/QxFNmsjXDcY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Electric Potential due to Point Charge\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "w8gHVx93XCo",
+      "title": "06. Electric Potential (Review) | তড়িৎ বিভব (Review) | OnnoRokom Pathshala",
+      "duration": "14:23",
+      "thumbnail": "https://i.ytimg.com/vi/w8gHVx93XCo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Electric Potential (Review)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "gL33vAOh8Pc",
+      "title": "07. Potential Difference and Field Strength V=-∫Edr - Part 01 | বিভব পার্থক্য ও ক্ষেত্র প্রাবল্য",
+      "duration": "18:14",
+      "thumbnail": "https://i.ytimg.com/vi/gL33vAOh8Pc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Potential Difference and Field Strength\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "idn05E0Zh8k",
+      "title": "07. Potential Difference and Field Strength V=-∫Edr Part 02 | বিভব পার্থক্য ও ক্ষেত্র প্রাবল্য",
+      "duration": "17:40",
+      "thumbnail": "https://i.ytimg.com/vi/idn05E0Zh8k/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Potential Difference and Field Strength Part 2\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "K_m47hUzloY",
+      "title": "08. Potential Difference and Field Strength E=-dv/dr | বিভব পার্থক্য ও ক্ষেত্র প্রাবল্য E=-dv/dr",
+      "duration": "11:21",
+      "thumbnail": "https://i.ytimg.com/vi/K_m47hUzloY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Potential Difference and Field Strength E=-dv/dr\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "n3HAuDLH5zs",
+      "title": "09. Equipotential Surface | সমবিভব তল | OnnoRokom Pathshala",
+      "duration": "11:36",
+      "thumbnail": "https://i.ytimg.com/vi/n3HAuDLH5zs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Equipotential Surface\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "UvIBl58aSU0",
+      "title": "10. Dipole | ডাইপোল | OnnoRokom Pathshala",
+      "duration": "19:50",
+      "thumbnail": "https://i.ytimg.com/vi/UvIBl58aSU0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Dipole\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "vgQVB4Q2sns",
+      "title": "11. Vector Direction of Dipole | ডাইপোল এর Direction | OnnoRokom Pathshala",
+      "duration": "8:03",
+      "thumbnail": "https://i.ytimg.com/vi/vgQVB4Q2sns/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Vector Direction of Dipole\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "cPf1WSuKg1w",
+      "title": "12. Potential Energy of a Dipole in Electric Field | ডাইপোলে সঞ্চিত বিভব শক্তি",
+      "duration": "20:22",
+      "thumbnail": "https://i.ytimg.com/vi/cPf1WSuKg1w/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Potential Energy of a Dipole in Electric Field\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "x4fGNy9inho",
+      "title": "13. ডাইপোলে সঞ্চিত বিভব শক্তি এর Physical Significance | OnnoRokom Pathshala",
+      "duration": "20:54",
+      "thumbnail": "https://i.ytimg.com/vi/x4fGNy9inho/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Physical Significance of Dipole Potential Energy\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "O-Ly_MpqoQE",
+      "title": "14. Potential Energy of Dipole | ডাইপোল এর বিভব | OnnoRokom Pathshala",
+      "duration": "23:55",
+      "thumbnail": "https://i.ytimg.com/vi/O-Ly_MpqoQE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Potential Energy of Dipole\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "LETlg93BR3o",
+      "title": "15. Potential Energy of a Point due to Electric Field of Dipole",
+      "duration": "15:44",
+      "thumbnail": "https://i.ytimg.com/vi/LETlg93BR3o/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Potential Energy of a Point due to Electric Field of Dipole\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "nSQExLSkG2I",
+      "title": "16. ডাইপোল ক্ষেত্রে উপস্থিত বিন্দুর ক্ষেত্রপাবল্য পর্ব ১ | OnnoRokom Pathshala",
+      "duration": "16:29",
+      "thumbnail": "https://i.ytimg.com/vi/nSQExLSkG2I/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Electric Field Strength at a Point in Dipole Field Part 1\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "CjSYqig_tgM",
+      "title": "16. ডাইপোল ক্ষেত্রে উপস্থিত বিন্দুর ক্ষেত্রপাবল্য পর্ব ২ | OnnoRokom Pathshala",
+      "duration": "19:55",
+      "thumbnail": "https://i.ytimg.com/vi/CjSYqig_tgM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Electric Field Strength at a Point in Dipole Field Part 2\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "CK20Le4uNLQ",
+      "title": "17. Direction of Electric Field Strength due to Electric Field of Dipole",
+      "duration": "11:07",
+      "thumbnail": "https://i.ytimg.com/vi/CK20Le4uNLQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Direction of Electric Field Strength due to Dipole\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "vblMF4QJdEE",
+      "title": "18. Capacitor | ধারক | OnnoRokom Pathshala",
+      "duration": "14:13",
+      "thumbnail": "https://i.ytimg.com/vi/vblMF4QJdEE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Capacitor\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "SAzkZCc9dos",
+      "title": "19. Capacitance of a Spherical Conductor Part 01 | গোলাকার পরিবাহকের ধারকত্ব",
+      "duration": "10:56",
+      "thumbnail": "https://i.ytimg.com/vi/SAzkZCc9dos/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Capacitance of a Spherical Conductor Part 1\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Q2xtCzRh6ho",
+      "title": "19. Capacitance of a Spherical Conductor Part 02 | গোলাকার পরিবাহকের ধারকত্ব",
+      "duration": "11:29",
+      "thumbnail": "https://i.ytimg.com/vi/Q2xtCzRh6ho/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Capacitance of a Spherical Conductor Part 2\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "EcJ7vv9bkC8",
+      "title": "20. Parallel Plate Capacitor | সমান্তরাল পাত ধারক | OnnoRokom Pathshala",
+      "duration": "8:03",
+      "thumbnail": "https://i.ytimg.com/vi/EcJ7vv9bkC8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Parallel Plate Capacitor\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "4RN-nDGhXK8",
+      "title": "21. Parallel Plate Capacitor (Capacitance) | সমান্তরাল পাত ধারক (ধারকত্ব)",
+      "duration": "9:11",
+      "thumbnail": "https://i.ytimg.com/vi/4RN-nDGhXK8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Parallel Plate Capacitor Capacitance\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "1lVrGHcsGVo",
+      "title": "22. Permittivity (Capacitance) | ভেদনযোগ্যতা - ধারকত্ব | OnnoRokom Pathshala",
+      "duration": "9:46",
+      "thumbnail": "https://i.ytimg.com/vi/1lVrGHcsGVo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Electrostatics\nSubject: Physics\nTopic: Permittivity (Capacitance)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "0gBD0GyuOeQ",
+      "title": "01. Gauss's law Part 01_Coulomb's law | গাউসের সূত্র পর্ব ০১_কুলম্বের সূত্র | OnnoRokom Pathshala",
+      "duration": "9:11",
+      "thumbnail": "https://i.ytimg.com/vi/0gBD0GyuOeQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Gauss's Law\nSubject: Physics\nTopic: Gauss's law Part 1 (Coulomb's law)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "gXqQ2K_or1s",
+      "title": "01. Gauss's law Part 02_Perpendicular Component of Vector | গাউসের সূত্র পর্ব ০২_ভেক্টরের লম্ব উপাংশ",
+      "duration": "13:51",
+      "thumbnail": "https://i.ytimg.com/vi/gXqQ2K_or1s/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Gauss's Law\nSubject: Physics\nTopic: Gauss's law Part 2 (Perpendicular Component of Vector)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "HJj99FjuPjk",
+      "title": "02. Gauss's law Part 03_Vector Components | গাউসের সূত্র পর্ব ০৩_ভেক্টর উপাংশ",
+      "duration": "8:33",
+      "thumbnail": "https://i.ytimg.com/vi/HJj99FjuPjk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Gauss's Law\nSubject: Physics\nTopic: Gauss's law Part 3 (Vector Components)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "E8wXS25PNNw",
+      "title": "03. Electric Flux Part 01_Field Line 1 | তড়িৎ ফ্লাক্স পর্ব ০১_ফিল্ড লাইন ১ | OnnoRokom Pathshala",
+      "duration": "8:02",
+      "thumbnail": "https://i.ytimg.com/vi/E8wXS25PNNw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Gauss's Law\nSubject: Physics\nTopic: Electric Flux Part 1 (Field Line 1)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "zlMUs5EqGZg",
+      "title": "03. Electric Flux Part 02_Field Line 2 | তড়িৎ ফ্লাক্স পর্ব ০২_ফিল্ড লাইন ২ | OnnoRokom Pathshala",
+      "duration": "13:41",
+      "thumbnail": "https://i.ytimg.com/vi/zlMUs5EqGZg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Gauss's Law\nSubject: Physics\nTopic: Electric Flux Part 2 (Field Line 2)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "AARFPwO_4Yg",
+      "title": "04. Electric Flux Part 03_Area Vector | তড়িৎ ফ্লাক্স পর্ব ০৩_এরিয়া ভেক্টর | OnnoRokom Pathshala",
+      "duration": "23:00",
+      "thumbnail": "https://i.ytimg.com/vi/AARFPwO_4Yg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Gauss's Law\nSubject: Physics\nTopic: Electric Flux Part 3 (Area Vector)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "d5h5DTA4yqc",
+      "title": "05. Electric Flux Part 04_Flux | তড়িৎ ফ্লাক্স পর্ব ০৪_ফ্লাক্স | OnnoRokom Pathshala",
+      "duration": "10:57",
+      "thumbnail": "https://i.ytimg.com/vi/d5h5DTA4yqc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Gauss's Law\nSubject: Physics\nTopic: Electric Flux Part 4 (Flux)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "r4ADSD6NS_g",
+      "title": "06. Electric Flux Part 05_Dot Product | তড়িৎ ফ্লাক্স পর্ব ০৫_ডট গুণফল | OnnoRokom Pathshala",
+      "duration": "7:56",
+      "thumbnail": "https://i.ytimg.com/vi/r4ADSD6NS_g/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Gauss's Law\nSubject: Physics\nTopic: Electric Flux Part 5 (Dot Product)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Mt-8-hZOpfU",
+      "title": "07. Gauss's Law Part 01 | গাউসের সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "26:56",
+      "thumbnail": "https://i.ytimg.com/vi/Mt-8-hZOpfU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Gauss's Law\nSubject: Physics\nTopic: Gauss's Law Part 1\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "dgyRX5Hojgo",
+      "title": "07. Gauss's Law Part 02 | গাউসের সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "12:20",
+      "thumbnail": "https://i.ytimg.com/vi/dgyRX5Hojgo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Gauss's Law\nSubject: Physics\nTopic: Gauss's Law Part 2\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "xMA1sjlGVs4",
+      "title": "08. Gauss's Law Part 03_Hollow Sphere 1 | গাউসের সূত্র পর্ব ০৩ _ফাঁপা গোলকের ক্ষেত্রপ্রাবল্য ১",
+      "duration": "11:56",
+      "thumbnail": "https://i.ytimg.com/vi/xMA1sjlGVs4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Gauss's Law\nSubject: Physics\nTopic: Gauss's Law Part 3 (Hollow Sphere Field Strength 1)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "T4MuYVlVmuI",
+      "title": "08. Gauss's Law Part 03_Hollow Sphere 2 | গাউসের সূত্র পর্ব ০৩ _ফাঁপা গোলকের ক্ষেত্রপ্রাবল্য ২",
+      "duration": "17:29",
+      "thumbnail": "https://i.ytimg.com/vi/T4MuYVlVmuI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Gauss's Law\nSubject: Physics\nTopic: Gauss's Law Part 3 (Hollow Sphere Field Strength 2)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "w4Lho9cvw_8",
+      "title": "08. Gauss's Law Part 03_Hollow Sphere 3 | গাউসের সূত্র পর্ব ০৩ _ফাঁপা গোলকের ক্ষেত্রপ্রাবল্য ৩",
+      "duration": "15:01",
+      "thumbnail": "https://i.ytimg.com/vi/w4Lho9cvw_8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Gauss's Law\nSubject: Physics\nTopic: Gauss's Law Part 3 (Hollow Sphere Field Strength 3)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "AF2hl9Yu0bI",
+      "title": "09. Gauss's Law Part 06_Solid Sphere 1 | গাউসের সূত্র পর্ব ০৬_নিরেট গোলকের ক্ষেত্রপ্রাবল্য ১",
+      "duration": "14:42",
+      "thumbnail": "https://i.ytimg.com/vi/AF2hl9Yu0bI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Gauss's Law\nSubject: Physics\nTopic: Gauss's Law Part 6 (Solid Sphere Field Strength 1)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Q8m8doabVB0",
+      "title": "09. Gauss's Law Part 06_Solid Sphere 2 | গাউসের সূত্র পর্ব ০৬_নিরেট গোলকের ক্ষেত্রপ্রাবল্য ২",
+      "duration": "17:33",
+      "thumbnail": "https://i.ytimg.com/vi/Q8m8doabVB0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Gauss's Law\nSubject: Physics\nTopic: Gauss's Law Part 6 (Solid Sphere Field Strength 2)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "sRX3M2H5b8s",
+      "title": "10. Gauss's Law Part 08_Infinite Wire | গাউসের সূত্র পর্ব ০৮_অসীম তারের ক্ষেত্রপ্রাবল্য",
+      "duration": "21:44",
+      "thumbnail": "https://i.ytimg.com/vi/sRX3M2H5b8s/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Gauss's Law\nSubject: Physics\nTopic: Gauss's Law Part 8 (Infinite Wire Field Strength)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "xK3k9bw-vN4",
+      "title": "01. চল তড়িৎ এর সাধারণ আলোচনা (পরিবাহী, অপরিবাহী এবং অর্ধপরিবাহী) | OnnoRokom Pathshala",
+      "duration": "6:27",
+      "thumbnail": "https://i.ytimg.com/vi/xK3k9bw-vN4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 01. চল তড়িৎ এর সাধারণ আলোচনা (পরিবাহী, অপরিবাহী এবং অর্ধপরিবাহী)\nSubject: Physics\nTopic: Conductor, Insulator & Semiconductor Overview\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "HijaET6bGAE",
+      "title": "02. Characteristic of Conductor, Insulator & Semiconductor | পরিবাহী, অপরিবাহী এবং অর্ধপরিবাহীর ধর্ম",
+      "duration": "13:15",
+      "thumbnail": "https://i.ytimg.com/vi/HijaET6bGAE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 02. Characteristic of Conductor, Insulator & Semiconductor | পরিবাহী, অপরিবাহী এবং অর্ধপরিবাহীর ধর্ম\nSubject: Physics\nTopic: Characteristic of Conductor, Insulator & Semiconductor\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "paed6qRxGow",
+      "title": "03. Current | তড়িৎ প্রবাহ | OnnoRokom Pathshala",
+      "duration": "22:06",
+      "thumbnail": "https://i.ytimg.com/vi/paed6qRxGow/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 03. Current | তড়িৎ প্রবাহ\nSubject: Physics\nTopic: Electric Current\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "1pm6K-a7l3g",
+      "title": "04. Ohm's Law | ওহম এর সূত্র | OnnoRokom Pathshala",
+      "duration": "11:21",
+      "thumbnail": "https://i.ytimg.com/vi/1pm6K-a7l3g/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 04. Ohm's Law | ওহম এর সূত্র\nSubject: Physics\nTopic: Ohm's Law\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Tqnw-6PxLaA",
+      "title": "05. Resistance Part 01 | পরিবাহীর রোধ পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "14:10",
+      "thumbnail": "https://i.ytimg.com/vi/Tqnw-6PxLaA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 05. Resistance Part 01 | পরিবাহীর রোধ পর্ব ০১\nSubject: Physics\nTopic: Resistance Part 01\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "RiS0RWlrik0",
+      "title": "05. Resistance Part 02 | পরিবাহীর রোধ পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "11:55",
+      "thumbnail": "https://i.ytimg.com/vi/RiS0RWlrik0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 05. Resistance Part 02 | পরিবাহীর রোধ পর্ব ০২\nSubject: Physics\nTopic: Resistance Part 02\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "NXpJdB6r918",
+      "title": "06. Series Connection | শ্রেণী সমবায় | OnnoRokom Pathshala",
+      "duration": "15:02",
+      "thumbnail": "https://i.ytimg.com/vi/NXpJdB6r918/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 06. Series Connection | শ্রেণী সমবায়\nSubject: Physics\nTopic: Series Connection\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "LFS1kroQmVo",
+      "title": "07. Parallel Connection | সমান্তরাল সমবায় | OnnoRokom Pathshala",
+      "duration": "13:02",
+      "thumbnail": "https://i.ytimg.com/vi/LFS1kroQmVo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 07. Parallel Connection | সমান্তরাল সমবায়\nSubject: Physics\nTopic: Parallel Connection\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "NMb8sIqSOkc",
+      "title": "08. তুল্য রোধ, প্রবাহ, বিভব পার্থক্য নির্ণয় পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "22:55",
+      "thumbnail": "https://i.ytimg.com/vi/NMb8sIqSOkc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 08. তুল্য রোধ, প্রবাহ, বিভব পার্থক্য নির্ণয় পর্ব ০১\nSubject: Physics\nTopic: Equivalent Resistance, Current & Potential Difference Part 01\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "zpVMMFK9X5A",
+      "title": "08. তুল্য রোধ, প্রবাহ, বিভব পার্থক্য নির্ণয় পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "17:16",
+      "thumbnail": "https://i.ytimg.com/vi/zpVMMFK9X5A/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 08. তুল্য রোধ, প্রবাহ, বিভব পার্থক্য নির্ণয় পর্ব ০২\nSubject: Physics\nTopic: Equivalent Resistance, Current & Potential Difference Part 02\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "vH-VQJcWD48",
+      "title": "08. তুল্য রোধ, প্রবাহ, বিভব পার্থক্য নির্ণয় পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "17:42",
+      "thumbnail": "https://i.ytimg.com/vi/vH-VQJcWD48/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 08. তুল্য রোধ, প্রবাহ, বিভব পার্থক্য নির্ণয় পর্ব ০৩\nSubject: Physics\nTopic: Equivalent Resistance, Current & Potential Difference Part 03\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "deo0teidlyc",
+      "title": "09. Galvanometer, Ammeter, Voltmeter | গ্যালভানোমিটার, অ্যামিটার, ভোল্টমিটার",
+      "duration": "39:38",
+      "thumbnail": "https://i.ytimg.com/vi/deo0teidlyc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 09. Galvanometer, Ammeter, Voltmeter | গ্যালভানোমিটার, অ্যামিটার, ভোল্টমিটার\nSubject: Physics\nTopic: Galvanometer, Ammeter, Voltmeter\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "al5q1s4Rx-A",
+      "title": "01. Introduction to Magnetism | চুম্বকত্ব পরিচিতি  | OnnoRokom Pathshala",
+      "duration": "4:38",
+      "thumbnail": "https://i.ytimg.com/vi/al5q1s4Rx-A/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 01. Introduction to Magnetism | চুম্বকত্ব পরিচিতি\nSubject: Physics\nTopic: Introduction to Magnetism\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "FrJwGXQZCWQ",
+      "title": "02. Basic Concept of Magnetic Flux Part 01 | চৌম্বক বলরেখার মৌলিক ধারণা পর্ব ০১",
+      "duration": "9:08",
+      "thumbnail": "https://i.ytimg.com/vi/FrJwGXQZCWQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 02. Basic Concept of Magnetic Flux Part 01 | চৌম্বক বলরেখার মৌলিক ধারণা পর্ব ০১\nSubject: Physics\nTopic: Basic Concept of Magnetic Flux Part 01\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "4K0Gx4xZ8Ho",
+      "title": "02. Basic Concept of Magnetic Flux Part 02 | চৌম্বক বলরেখার মৌলিক ধারণা পর্ব ০২",
+      "duration": "8:31",
+      "thumbnail": "https://i.ytimg.com/vi/4K0Gx4xZ8Ho/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 02. Basic Concept of Magnetic Flux Part 02 | চৌম্বক বলরেখার মৌলিক ধারণা পর্ব ০২\nSubject: Physics\nTopic: Basic Concept of Magnetic Flux Part 02\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "qseC07uIUPY",
+      "title": "03. Magnetic Field Intensity | চৌম্বক ক্ষেত্র প্রাবল্য | OnnoRokom Pathshala",
+      "duration": "17:13",
+      "thumbnail": "https://i.ytimg.com/vi/qseC07uIUPY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 03. Magnetic Field Intensity | চৌম্বক ক্ষেত্র প্রাবল্য\nSubject: Physics\nTopic: Magnetic Field Intensity\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "edWry7IygeQ",
+      "title": "04. Magnetic Force | চৌম্বক বল | OnnoRokom Pathshala",
+      "duration": "12:11",
+      "thumbnail": "https://i.ytimg.com/vi/edWry7IygeQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 04. Magnetic Force | চৌম্বক বল\nSubject: Physics\nTopic: Magnetic Force\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Te7NUQFDCK8",
+      "title": "05. Moving Charge in a Magnetic Field Part 01 | চৌম্বক ক্ষেত্রে চার্জের গতি পথের সমীকরণ পর্ব ০১",
+      "duration": "9:08",
+      "thumbnail": "https://i.ytimg.com/vi/Te7NUQFDCK8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 05. Moving Charge in a Magnetic Field Part 01 | চৌম্বক ক্ষেত্রে চার্জের গতি পথের সমীকরণ পর্ব ০১\nSubject: Physics\nTopic: Moving Charge in a Magnetic Field Part 01\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "vKz2FCCEqTs",
+      "title": "05. Moving Charge in a Magnetic Field Part 02 | চৌম্বক ক্ষেত্রে চার্জের গতি পথের সমীকরণ পর্ব ০২",
+      "duration": "13:31",
+      "thumbnail": "https://i.ytimg.com/vi/vKz2FCCEqTs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 05. Moving Charge in a Magnetic Field Part 02 | চৌম্বক ক্ষেত্রে চার্জের গতি পথের সমীকরণ পর্ব ০২\nSubject: Physics\nTopic: Moving Charge in a Magnetic Field Part 02\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "b8rHWofPn0Q",
+      "title": "06. Magnetic Force on a Current - Carrying Conductor | তড়িৎবাহী তারের ওপর চৌম্বক বল",
+      "duration": "15:42",
+      "thumbnail": "https://i.ytimg.com/vi/b8rHWofPn0Q/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 06. Magnetic Force on a Current - Carrying Conductor | তড়িৎবাহী তারের ওপর চৌম্বক বল\nSubject: Physics\nTopic: Magnetic Force on a Current - Carrying Conductor\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "LeTzXbxow4c",
+      "title": "07. তড়িৎবাহী তারের ওপর চৌম্বক বল এর উদাহরণ | OnnoRokom Pathshala",
+      "duration": "8:27",
+      "thumbnail": "https://i.ytimg.com/vi/LeTzXbxow4c/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 07. তড়িৎবাহী তারের ওপর চৌম্বক বল এর উদাহরণ\nSubject: Physics\nTopic: Examples of Magnetic Force on a Current-Carrying Conductor\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Mdx8NCozMN4",
+      "title": "08. সুষম চৌম্বক ক্ষেত্রে তড়িৎবাহী কুন্ডলীর ওপর টর্ক পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "12:13",
+      "thumbnail": "https://i.ytimg.com/vi/Mdx8NCozMN4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 08. সুষম চৌম্বক ক্ষেত্রে তড়িৎবাহী কুন্ডলীর ওপর টর্ক পর্ব ০১\nSubject: Physics\nTopic: Torque on a Current Carrying Loop in a Uniform Magnetic Field Part 01\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "bsq9RefVX9I",
+      "title": "08. সুষম চৌম্বক ক্ষেত্রে তড়িৎবাহী কুন্ডলীর ওপর টর্ক পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "17:18",
+      "thumbnail": "https://i.ytimg.com/vi/bsq9RefVX9I/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 08. সুষম চৌম্বক ক্ষেত্রে তড়িৎবাহী কুন্ডলীর ওপর টর্ক পর্ব ০২\nSubject: Physics\nTopic: Torque on a Current Carrying Loop in a Uniform Magnetic Field Part 02\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "gKn9TWuO6Q8",
+      "title": "08. সুষম চৌম্বক ক্ষেত্রে তড়িৎবাহী কুন্ডলীর ওপর টর্ক পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "5:08",
+      "thumbnail": "https://i.ytimg.com/vi/gKn9TWuO6Q8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 08. সুষম চৌম্বক ক্ষেত্রে তড়িৎবাহী কুন্ডলীর ওপর টর্ক পর্ব ০৩\nSubject: Physics\nTopic: Torque on a Current Carrying Loop in a Uniform Magnetic Field Part 03\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "DT4YMZT-SOk",
+      "title": "09. Hall Effect Part 01 | হল প্রভাব পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "23:43",
+      "thumbnail": "https://i.ytimg.com/vi/DT4YMZT-SOk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 09. Hall Effect Part 01 | হল প্রভাব পর্ব ০১\nSubject: Physics\nTopic: Hall Effect Part 01\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "fxUQjzROt1g",
+      "title": "09. Hall Effect Part 02 | হল প্রভাব পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "14:59",
+      "thumbnail": "https://i.ytimg.com/vi/fxUQjzROt1g/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 09. Hall Effect Part 02 | হল প্রভাব পর্ব ০২\nSubject: Physics\nTopic: Hall Effect Part 02\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "MvG2CqwlcG8",
+      "title": "10. Source of Magnetic Field | চৌম্বক ক্ষেত্রের উৎস | OnnoRokom Pathshala",
+      "duration": "3:34",
+      "thumbnail": "https://i.ytimg.com/vi/MvG2CqwlcG8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 10. Source of Magnetic Field | চৌম্বক ক্ষেত্রের উৎস\nSubject: Physics\nTopic: Source of Magnetic Field\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "4qFch-0AoR4",
+      "title": "11. The Biot Savart Law Part 01 | বায়োট-স্যাভার্ট এর সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "17:26",
+      "thumbnail": "https://i.ytimg.com/vi/4qFch-0AoR4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 11. The Biot Savart Law Part 01 | বায়োট-স্যাভার্ট এর সূত্র পর্ব ০১\nSubject: Physics\nTopic: The Biot Savart Law Part 01\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "CjWdJJptYzs",
+      "title": "11. The Biot Savart Law Part 02 | বায়োট-স্যাভার্ট এর সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "15:23",
+      "thumbnail": "https://i.ytimg.com/vi/CjWdJJptYzs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 11. The Biot Savart Law Part 02 | বায়োট-স্যাভার্ট এর সূত্র পর্ব ০২\nSubject: Physics\nTopic: The Biot Savart Law Part 02\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "6DauwtycT_k",
+      "title": "11. The Biot Savart Law Part 03 | বায়োট-স্যাভার্ট এর সূত্র পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "12:22",
+      "thumbnail": "https://i.ytimg.com/vi/6DauwtycT_k/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 11. The Biot Savart Law Part 03 | বায়োট-স্যাভার্ট এর সূত্র পর্ব ০৩\nSubject: Physics\nTopic: The Biot Savart Law Part 03\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "NhOZ1TdSYFw",
+      "title": "11. The Biot Savart Law Part 04 | বায়োট-স্যাভার্ট এর সূত্র পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "14:41",
+      "thumbnail": "https://i.ytimg.com/vi/NhOZ1TdSYFw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 11. The Biot Savart Law Part 04 | বায়োট-স্যাভার্ট এর সূত্র পর্ব ০৪\nSubject: Physics\nTopic: The Biot Savart Law Part 04\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "M28kpOMVy2Y",
+      "title": "12. Magnetic force Between to Parallel Current Carrying Conducters",
+      "duration": "15:52",
+      "thumbnail": "https://i.ytimg.com/vi/M28kpOMVy2Y/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 12. Magnetic force Between to Parallel Current Carrying Conducters\nSubject: Physics\nTopic: Magnetic force Between Two Parallel Current Carrying Conductors\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "xoO68XDvUU0",
+      "title": "13. Ampere's Law Part 01 | অ্যাম্পিয়ারের সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "22:28",
+      "thumbnail": "https://i.ytimg.com/vi/xoO68XDvUU0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 13. Ampere's Law Part 01 | অ্যাম্পিয়ারের সূত্র পর্ব ০১\nSubject: Physics\nTopic: Ampere's Law Part 01\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "rf309JmUetg",
+      "title": "13. Ampere's Law Part 02 | অ্যাম্পিয়ারের সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "9:41",
+      "thumbnail": "https://i.ytimg.com/vi/rf309JmUetg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 13. Ampere's Law Part 02 | অ্যাম্পিয়ারের সূত্র পর্ব ০২\nSubject: Physics\nTopic: Ampere's Law Part 02\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "G19GYJaEL20",
+      "title": "13. Ampere's Law Part 03 | অ্যাম্পিয়ারের সূত্র পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "13:04",
+      "thumbnail": "https://i.ytimg.com/vi/G19GYJaEL20/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 13. Ampere's Law Part 03 | অ্যাম্পিয়ারের সূত্র পর্ব ০৩\nSubject: Physics\nTopic: Ampere's Law Part 03\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "r5xAhkHGCg4",
+      "title": "14. Toroid | টরয়েড | OnnoRokom Pathshala",
+      "duration": "16:59",
+      "thumbnail": "https://i.ytimg.com/vi/r5xAhkHGCg4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 14. Toroid | টরয়েড\nSubject: Physics\nTopic: Toroid\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "oHvLI5i_c3o",
+      "title": "15. Solenoid | সলিনয়েড | OnnoRokom Pathshala",
+      "duration": "20:09",
+      "thumbnail": "https://i.ytimg.com/vi/oHvLI5i_c3o/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 15. Solenoid | সলিনয়েড\nSubject: Physics\nTopic: Solenoid\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "LNOAr2KdAEM",
+      "title": "16. Gauss’s Law | গাউস এর সূত্র | OnnoRokom Pathshala",
+      "duration": "10:11",
+      "thumbnail": "https://i.ytimg.com/vi/LNOAr2KdAEM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 16. Gauss’s Law | গাউস এর সূত্র\nSubject: Physics\nTopic: Gauss's Law\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "ygWd5SKses0",
+      "title": "17. Magnetic Dipole | চৌম্বক দ্বিমেরু | OnnoRokom Pathshala",
+      "duration": "11:56",
+      "thumbnail": "https://i.ytimg.com/vi/ygWd5SKses0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 17. Magnetic Dipole | চৌম্বক দ্বিমেরু\nSubject: Physics\nTopic: Magnetic Dipole\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "nlKjL-l1lrY",
+      "title": "18. Magnetic Moment | চৌম্বক ভ্রামক | OnnoRokom Pathshala",
+      "duration": "12:46",
+      "thumbnail": "https://i.ytimg.com/vi/nlKjL-l1lrY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 18. Magnetic Moment | চৌম্বক ভ্রামক\nSubject: Physics\nTopic: Magnetic Moment\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Er1c16oHP5A",
+      "title": "19. Single Pole Model | একক মেরু মডেল | OnnoRokom Pathshala",
+      "duration": "12:30",
+      "thumbnail": "https://i.ytimg.com/vi/Er1c16oHP5A/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 19. Single Pole Model | একক মেরু মডেল\nSubject: Physics\nTopic: Single Pole Model\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "uvfB7oxjmxs",
+      "title": "20. Di-Pole in a Magnetic Field - Part 01 | চৌম্বক ক্ষেত্রে দ্বিমেরু পর্ব ০১",
+      "duration": "12:17",
+      "thumbnail": "https://i.ytimg.com/vi/uvfB7oxjmxs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 20. Di-Pole in a Magnetic Field - Part 01 | চৌম্বক ক্ষেত্রে দ্বিমেরু পর্ব ০১\nSubject: Physics\nTopic: Di-Pole in a Magnetic Field Part 01\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "QAuHWlfUi14",
+      "title": "20. Di-Pole in a Magnetic Field - Part 02 | চৌম্বক ক্ষেত্রে দ্বিমেরু পর্ব ০২",
+      "duration": "8:36",
+      "thumbnail": "https://i.ytimg.com/vi/QAuHWlfUi14/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 20. Di-Pole in a Magnetic Field - Part 02 | চৌম্বক ক্ষেত্রে দ্বিমেরু পর্ব ০২\nSubject: Physics\nTopic: Di-Pole in a Magnetic Field Part 02\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "PzUVtrXtOCc",
+      "title": "21. Magnetic Field intensity for a Di-Pole - P1 | দ্বিমেরুর জন্য চৌম্বক ক্ষেত্র প্রাবল্য পর্ব ০১",
+      "duration": "11:30",
+      "thumbnail": "https://i.ytimg.com/vi/PzUVtrXtOCc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 21. Magnetic Field intensity for a Di-Pole - P1 | দ্বিমেরুর জন্য চৌম্বক ক্ষেত্র প্রাবল্য পর্ব ০১\nSubject: Physics\nTopic: Magnetic Field Intensity for a Di-Pole Part 01\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "FvMCXo8tT2I",
+      "title": "21. Magnetic Field intensity for a Di-Pole - P2 | দ্বিমেরুর জন্য চৌম্বক ক্ষেত্র প্রাবল্য পর্ব ০২",
+      "duration": "10:09",
+      "thumbnail": "https://i.ytimg.com/vi/FvMCXo8tT2I/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Physics 2nd Paper\nLecture: 21. Magnetic Field intensity for a Di-Pole - P2 | দ্বিমেরুর জন্য চৌম্বক ক্ষেত্র প্রাবল্য পর্ব ০২\nSubject: Physics\nTopic: Magnetic Field Intensity for a Di-Pole Part 02\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "dXpY7BlBPuQ",
+      "title": "01. সম্পৃক্ত এবং অসম্পৃক্ত (আপেক্ষিক আর্দ্রতা) পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "12:57",
+      "thumbnail": "https://i.ytimg.com/vi/dXpY7BlBPuQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Saturated and Unsaturated (Relative Humidity) Part 01\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "dqmZ-Ex8W4Y",
+      "title": "01. Saturated and Unsaturated (Relative Humidity) Part 02 | OnnoRokom Pathshala",
+      "duration": "14:59",
+      "thumbnail": "https://i.ytimg.com/vi/dqmZ-Ex8W4Y/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Saturated and Unsaturated (Relative Humidity) Part 02\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "zKu9i_P4PSI",
+      "title": "02. Saturated and Unsaturated (Dew Point) | সম্পৃক্ত এবং অসম্পৃক্ত (শিশিরাঙ্ক)",
+      "duration": "10:32",
+      "thumbnail": "https://i.ytimg.com/vi/zKu9i_P4PSI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Saturated and Unsaturated (Dew Point)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "bXV8mqvxnaU",
+      "title": "03. Saturated and Unsaturated (Vapor Pressure) | সম্পৃক্ত এবং অসম্পৃক্ত (জলীয় বাস্পচাপ)",
+      "duration": "16:21",
+      "thumbnail": "https://i.ytimg.com/vi/bXV8mqvxnaU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Saturated and Unsaturated (Vapor Pressure)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "oKVKlLSpYhY",
+      "title": "04. Mathematical Problem (Relative Humidity) | Mathematical Problem (Relative Humidity)",
+      "duration": "9:16",
+      "thumbnail": "https://i.ytimg.com/vi/oKVKlLSpYhY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Mathematical Problem (Relative Humidity)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "DCLopZ85Yqo",
+      "title": "05. Relative Humidity (Extra) Part 01 | আপেক্ষিক আর্দ্রতা (অতিরিক্ত) পর্ব ০১",
+      "duration": "17:39",
+      "thumbnail": "https://i.ytimg.com/vi/DCLopZ85Yqo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Relative Humidity (Extra) Part 01\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "xLeinKZ9dDc",
+      "title": "05. Relative Humidity (Extra) Part 02 | আপেক্ষিক আর্দ্রতা (অতিরিক্ত) পর্ব ০২",
+      "duration": "12:18",
+      "thumbnail": "https://i.ytimg.com/vi/xLeinKZ9dDc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Relative Humidity (Extra) Part 02\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "o8XkQrh61WM",
+      "title": "06. গাণিতিক সমস্যা (গ্লেমিয়ার ধ্রুবক+শিশিরাঙ্ক) | OnnoRokom Pathshala",
+      "duration": "35:25",
+      "thumbnail": "https://i.ytimg.com/vi/o8XkQrh61WM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Mathematical Problem (Glaisher's Constant + Dew Point)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Ba6s8ATJCa8",
+      "title": "07. Proof PV=1/3 mNc^2 || Part 01 | OnnoRokom Pathshala",
+      "duration": "13:21",
+      "thumbnail": "https://i.ytimg.com/vi/Ba6s8ATJCa8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Proof PV=1/3 mNc^2 Part 01\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "wHeBdhMvwQw",
+      "title": "07. Proof PV=1/3 mNc^2 || Part 02 | OnnoRokom Pathshala",
+      "duration": "19:45",
+      "thumbnail": "https://i.ytimg.com/vi/wHeBdhMvwQw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Proof PV=1/3 mNc^2 Part 02\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "GwL8NI2tq6c",
+      "title": "08. Root Mean Sequence Velocity | বর্গমূল গড় বর্গবেগ | OnnoRokom Pathshala",
+      "duration": "14:33",
+      "thumbnail": "https://i.ytimg.com/vi/GwL8NI2tq6c/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Root Mean Square Velocity\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "lbKOaPV52mw",
+      "title": "09. Final Result PV=1/3 mNc^2 | OnnoRokom Pathshala",
+      "duration": "6:18",
+      "thumbnail": "https://i.ytimg.com/vi/lbKOaPV52mw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Final Result PV=1/3 mNc^2\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "mO85Tn8dUUY",
+      "title": "10. Review of PV=1/3 mNc^2 | OnnoRokom Pathshala",
+      "duration": "2:41",
+      "thumbnail": "https://i.ytimg.com/vi/mO85Tn8dUUY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Review of PV=1/3 mNc^2\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "2oxnrmIk05E",
+      "title": "11. By Product of PV=1/3 mNc^2 | OnnoRokom Pathshala",
+      "duration": "21:18",
+      "thumbnail": "https://i.ytimg.com/vi/2oxnrmIk05E/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: By Product of PV=1/3 mNc^2\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "nq4K-oej0nE",
+      "title": "12. Mathematical Problem (RMS velocity) | Mathematical Problem (RMS velocity)",
+      "duration": "6:42",
+      "thumbnail": "https://i.ytimg.com/vi/nq4K-oej0nE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Mathematical Problem (RMS velocity)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "UvVt-YowPqc",
+      "title": "13. Degrees of Freedom Part 01 | স্বাধীনতার মাত্রা পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "15:34",
+      "thumbnail": "https://i.ytimg.com/vi/UvVt-YowPqc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Degrees of Freedom Part 01\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "WW3N-8BqvYw",
+      "title": "13. Degrees of Freedom Part 02 | স্বাধীনতার মাত্রা পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "16:03",
+      "thumbnail": "https://i.ytimg.com/vi/WW3N-8BqvYw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Degrees of Freedom Part 02\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "F0mKJDyXdfA",
+      "title": "13. Degrees of Freedom Part 03 | Degrees of Freedom Part 03 | OnnoRokom Pathshala",
+      "duration": "20:16",
+      "thumbnail": "https://i.ytimg.com/vi/F0mKJDyXdfA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Degrees of Freedom Part 03\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "T69PVHNW8ek",
+      "title": "14. Mathematical Problem (Degrees of Freedom) | গাণিতিক সমস্যা (স্বাধীনতার মাত্রা)",
+      "duration": "15:20",
+      "thumbnail": "https://i.ytimg.com/vi/T69PVHNW8ek/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Mathematical Problem (Degrees of Freedom)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "swobTXi6xo8",
+      "title": "15. Mean Free Path | গড় মুক্ত পথ | OnnoRokom Pathshala",
+      "duration": "18:05",
+      "thumbnail": "https://i.ytimg.com/vi/swobTXi6xo8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Ideal Gas & Kinetic Theory\nSubject: Physics\nTopic: Mean Free Path\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "JTb6Rs4ZIcI",
+      "title": "01. Introduction of Dynamics | গতিবিদ্যা এর সূচনা | OnnoRokom Pathshala",
+      "duration": "2:12",
+      "thumbnail": "https://i.ytimg.com/vi/JTb6Rs4ZIcI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Dynamics\nSubject: Physics\nTopic: Introduction of Dynamics\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "p0Rc3GcSz2o",
+      "title": "02. Introduction of Linear Motion | একমাত্রিক গতির সূচনা | OnnoRokom Pathshala",
+      "duration": "7:25",
+      "thumbnail": "https://i.ytimg.com/vi/p0Rc3GcSz2o/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Dynamics\nSubject: Physics\nTopic: Introduction of Linear Motion\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "NaqK4OMUGRU",
+      "title": "03. Mathematics of Linear Motion | Some problems and solutions of one-dimensional motion",
+      "duration": "19:35",
+      "thumbnail": "https://i.ytimg.com/vi/NaqK4OMUGRU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Dynamics\nSubject: Physics\nTopic: Mathematics of Linear Motion\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "qTaoeE-3Le4",
+      "title": "04. Graphs of Linear Motion | একমাত্রিক গতির লেখচিত্র | OnnoRokom Pathshala",
+      "duration": "13:21",
+      "thumbnail": "https://i.ytimg.com/vi/qTaoeE-3Le4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Dynamics\nSubject: Physics\nTopic: Graphs of Linear Motion\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Wj8CLwi6iAo",
+      "title": "05. Relative Velocity | আপেক্ষিক বেগ | OnnoRokom Pathshala",
+      "duration": "25:58",
+      "thumbnail": "https://i.ytimg.com/vi/Wj8CLwi6iAo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Dynamics\nSubject: Physics\nTopic: Relative Velocity\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "1jS4sowQf9g",
+      "title": "06. Introduction of Projectile Motion | Introduction of Projectile Motion | OnnoRokom Pathshala",
+      "duration": "14:05",
+      "thumbnail": "https://i.ytimg.com/vi/1jS4sowQf9g/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Dynamics\nSubject: Physics\nTopic: Introduction of Projectile Motion\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "pFGBJqojF44",
+      "title": "07. Formula of Projectile | প্রাসের সূত্র সমূহ | OnnoRokom Pathshala",
+      "duration": "20:56",
+      "thumbnail": "https://i.ytimg.com/vi/pFGBJqojF44/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Dynamics\nSubject: Physics\nTopic: Formula of Projectile\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "sXc4HLZvDUs",
+      "title": "08. Mathematics of projectile | প্রাসের গাণিতিক সমস্যা ও সমাধান",
+      "duration": "5:54",
+      "thumbnail": "https://i.ytimg.com/vi/sXc4HLZvDUs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Dynamics\nSubject: Physics\nTopic: Mathematics of Projectile\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "u53miendGNY",
+      "title": "09. Various Types of Projectile | বিভিন্ন প্রকারের প্রাসের গতি | OnnoRokom Pathshala",
+      "duration": "15:13",
+      "thumbnail": "https://i.ytimg.com/vi/u53miendGNY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Physics\nLecture: Dynamics\nSubject: Physics\nTopic: Various Types of Projectile\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "rbe5LKMfGlk",
+      "title": "01. Polynomial & Quadratic Equation | বহুপদী ও দ্বিঘাত সমীকরণ | OnnoRokom Pathshala",
+      "duration": "7:57",
+      "thumbnail": "https://i.ytimg.com/vi/rbe5LKMfGlk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Polynomial & Quadratic Equation\nSubject: Higher Mathematics\nTopic: Polynomial & Quadratic Equation\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "PeG9rzjDnW4",
+      "title": "02. Discriminant | Confirmatory | OnnoRokom Pathshala",
+      "duration": "7:54",
+      "thumbnail": "https://i.ytimg.com/vi/PeG9rzjDnW4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Polynomial & Quadratic Equation\nSubject: Higher Mathematics\nTopic: Discriminant\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "S_TgsOWk5EA",
+      "title": "03. Some Maths of Discriminant | নিশ্চায়কের কিছু অংক | OnnoRokom Pathshala",
+      "duration": "8:05",
+      "thumbnail": "https://i.ytimg.com/vi/S_TgsOWk5EA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Polynomial & Quadratic Equation\nSubject: Higher Mathematics\nTopic: Some Maths of Discriminant\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "clz5IQ4pd2o",
+      "title": "04. Root-Coefficient Relation | মূল-সহগ সম্পর্ক | OnnoRokom Pathshala",
+      "duration": "15:41",
+      "thumbnail": "https://i.ytimg.com/vi/clz5IQ4pd2o/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Polynomial & Quadratic Equation\nSubject: Higher Mathematics\nTopic: Root-Coefficient Relation\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "6ba5OeV5Sig",
+      "title": "05. Root-Coefficient Related Some Math Part 01 | মূল-সহগ সম্পর্ক কিছু অংক পর্ব ০১",
+      "duration": "10:44",
+      "thumbnail": "https://i.ytimg.com/vi/6ba5OeV5Sig/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Polynomial & Quadratic Equation\nSubject: Higher Mathematics\nTopic: Root-Coefficient Related Some Math Part 01\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "RcKoxh98DTo",
+      "title": "05. Root-Coefficient Related Some Math Part 02 | মূল-সহগ সম্পর্ক কিছু অংক পর্ব ০২",
+      "duration": "10:59",
+      "thumbnail": "https://i.ytimg.com/vi/RcKoxh98DTo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Polynomial & Quadratic Equation\nSubject: Higher Mathematics\nTopic: Root-Coefficient Related Some Math Part 02\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "12Caei0Blco",
+      "title": "05. Root-Coefficient Related Some Math Part 03 | মূল-সহগ সম্পর্ক কিছু অংক পর্ব ০৩",
+      "duration": "7:06",
+      "thumbnail": "https://i.ytimg.com/vi/12Caei0Blco/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Polynomial & Quadratic Equation\nSubject: Higher Mathematics\nTopic: Root-Coefficient Related Some Math Part 03\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "McCYkjAb2nI",
+      "title": "06. Math of Common Root | সাধারণ মূলের অংক | OnnoRokom Pathshala",
+      "duration": "9:40",
+      "thumbnail": "https://i.ytimg.com/vi/McCYkjAb2nI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Polynomial & Quadratic Equation\nSubject: Higher Mathematics\nTopic: Math of Common Root\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "WoVipraloZc",
+      "title": "07. Determination of Lowest Value & Highest Value | সর্বোচ্চ এবং সর্বনিম্ন মান নির্ণয়",
+      "duration": "5:09",
+      "thumbnail": "https://i.ytimg.com/vi/WoVipraloZc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Polynomial & Quadratic Equation\nSubject: Higher Mathematics\nTopic: Determination of Lowest Value & Highest Value\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "j8Now079Xt8",
+      "title": "08. Some Math of Quadratic Polynomial | দ্বিঘাত বহুপদীর কিছু অংক | OnnoRokom Pathshala",
+      "duration": "8:39",
+      "thumbnail": "https://i.ytimg.com/vi/j8Now079Xt8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Polynomial & Quadratic Equation\nSubject: Higher Mathematics\nTopic: Some Math of Quadratic Polynomial\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "sfVVoNYlVuc",
+      "title": "09. Cubic Polynomial Part 01 | ত্রিঘাত বহুপদী পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "12:51",
+      "thumbnail": "https://i.ytimg.com/vi/sfVVoNYlVuc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Polynomial & Quadratic Equation\nSubject: Higher Mathematics\nTopic: Cubic Polynomial Part 01\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "MLEtns8jA-k",
+      "title": "09. Cubic Polynomial Part 02 | ত্রিঘাত বহুপদী পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "12:51",
+      "thumbnail": "https://i.ytimg.com/vi/MLEtns8jA-k/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Polynomial & Quadratic Equation\nSubject: Higher Mathematics\nTopic: Cubic Polynomial Part 02\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "RCL2ezS-SPk",
+      "title": "09. Cubic Polynomial Part 03 | ত্রিঘাত বহুপদী পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "10:04",
+      "thumbnail": "https://i.ytimg.com/vi/RCL2ezS-SPk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Polynomial & Quadratic Equation\nSubject: Higher Mathematics\nTopic: Cubic Polynomial Part 03\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "nWesJDuTAFg",
+      "title": "01. Basic Discussion of Complex Number | জটিল সংখ্যার মৌলিক আলোচনা | OnnoRokom Pathshala",
+      "duration": "8:13",
+      "thumbnail": "https://i.ytimg.com/vi/nWesJDuTAFg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: Basic Discussion of Complex Number\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "5fBW888RGlk",
+      "title": "02. Power of I | আই এর পাওয়ার | OnnoRokom Pathshala",
+      "duration": "19:25",
+      "thumbnail": "https://i.ytimg.com/vi/5fBW888RGlk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: Power of I\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "E6XrVsflKYM",
+      "title": "03. Series of I | আই এর সিরিজ | OnnoRokom Pathshala",
+      "duration": "5:53",
+      "thumbnail": "https://i.ytimg.com/vi/E6XrVsflKYM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: Series of I\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Exzdvu3isWQ",
+      "title": "04. Complex Number | জটিল সংখ্যা | OnnoRokom Pathshala",
+      "duration": "11:02",
+      "thumbnail": "https://i.ytimg.com/vi/Exzdvu3isWQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: Complex Number\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "yNTzCdNLBkM",
+      "title": "05. Geometric Presentation of Complex Number Part 01 | জটিল সংখ্যার জ্যামিতিক উপস্থাপন পর্ব ০১",
+      "duration": "13:53",
+      "thumbnail": "https://i.ytimg.com/vi/yNTzCdNLBkM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: Geometric Presentation of Complex Number Part 01\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "9-9nGCsfueE",
+      "title": "05. Geometric Presentation of Complex Number Part 02 | জটিল সংখ্যার জ্যামিতিক উপস্থাপন পর্ব ০২",
+      "duration": "6:54",
+      "thumbnail": "https://i.ytimg.com/vi/9-9nGCsfueE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: Geometric Presentation of Complex Number Part 02\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "ObeK1QO2p6Q",
+      "title": "01. Modulus | মডুলাস | OnnoRokom Pathshala",
+      "duration": "5:39",
+      "thumbnail": "https://i.ytimg.com/vi/ObeK1QO2p6Q/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: Modulus\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "z6LdCFmVu2M",
+      "title": "02. Argument Part 01 | আরগুমেন্ট পর্ব ০১| OnnoRokom Pathshala",
+      "duration": "14:38",
+      "thumbnail": "https://i.ytimg.com/vi/z6LdCFmVu2M/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: Argument Part 01\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "zP0z8E5U7AU",
+      "title": "02. Argument Part 02 | আরগুমেন্ট পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "9:41",
+      "thumbnail": "https://i.ytimg.com/vi/zP0z8E5U7AU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: Argument Part 02\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "qlp_zjZB9IE",
+      "title": "02. Argument Part 03 | আরগুমেন্ট পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "5:33",
+      "thumbnail": "https://i.ytimg.com/vi/qlp_zjZB9IE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: Argument Part 03\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "nJFZ7yDxxs0",
+      "title": "03. Square Root Part 01 | OnnoRokom Pathshala",
+      "duration": "11:11",
+      "thumbnail": "https://i.ytimg.com/vi/nJFZ7yDxxs0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: Square Root Part 01\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "EvgvPfCKLE4",
+      "title": "03. Square Root Part 02 | বোর্গ মূল প্রভার দেখ | OnnoRokom Pathshala",
+      "duration": "7:08",
+      "thumbnail": "https://i.ytimg.com/vi/EvgvPfCKLE4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: Square Root Part 02\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "ObkvmC3D7k8",
+      "title": "04. Fourth Root | চতুর্থ মূল | OnnoRokom Pathshala",
+      "duration": "4:13",
+      "thumbnail": "https://i.ytimg.com/vi/ObkvmC3D7k8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: Fourth Root\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "_b1GYxBKbAI",
+      "title": "01. Cubic & Sixth Root | ঘনমূল ও ষষ্ঠমূল | OnnoRokom Pathshala",
+      "duration": "7:24",
+      "thumbnail": "https://i.ytimg.com/vi/_b1GYxBKbAI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: Cubic & Sixth Root\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "HUpgEi7mzek",
+      "title": "02. Cubic of Unit | এককের ঘনমূল | OnnoRokom Pathshala",
+      "duration": "9:34",
+      "thumbnail": "https://i.ytimg.com/vi/HUpgEi7mzek/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: Cubic of Unit\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "o-B_-MAUcLQ",
+      "title": "03. General Conception of Root Part 01 | মূলের সাধারণ ধারণা পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "10:40",
+      "thumbnail": "https://i.ytimg.com/vi/o-B_-MAUcLQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: General Conception of Root Part 01\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "6yC_oa-mrpY",
+      "title": "03. General Conception of Root Part 02 | মূলের সাধারণ ধারণা পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "14:30",
+      "thumbnail": "https://i.ytimg.com/vi/6yC_oa-mrpY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: General Conception of Root Part 02\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "0rYbJdKrilo",
+      "title": "03. General Conception of Root Part 03 | মূলের সাধারণ ধারণা পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "6:34",
+      "thumbnail": "https://i.ytimg.com/vi/0rYbJdKrilo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: Complex Number\nSubject: Higher Mathematics\nTopic: General Conception of Root Part 03\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "0WIW244qlDc",
+      "title": "01. Background of Discovery Part 01 | আবিস্কারের পটভূমি পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "10:58",
+      "thumbnail": "https://i.ytimg.com/vi/0WIW244qlDc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: Background of Discovery Part 01\nSubject: Physics\nTopic: Background of Discovery\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "pfxQw0CSKQY",
+      "title": "01. Background of Discovery Part 02 | আবিস্কারের পটভূমি পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "11:04",
+      "thumbnail": "https://i.ytimg.com/vi/pfxQw0CSKQY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: Background of Discovery Part 02\nSubject: Physics\nTopic: Background of Discovery\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "ibAblug8p9w",
+      "title": "01. Background of Discovery Part 03 | আবিস্কারের পটভূমি পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "11:22",
+      "thumbnail": "https://i.ytimg.com/vi/ibAblug8p9w/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: Background of Discovery Part 03\nSubject: Physics\nTopic: Background of Discovery\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "6KidjiuFcBk",
+      "title": "01. Background of Discovery Part 04 | আবিস্কারের পটভূমি পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "9:26",
+      "thumbnail": "https://i.ytimg.com/vi/6KidjiuFcBk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: Background of Discovery Part 04\nSubject: Physics\nTopic: Background of Discovery\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "R7OfwMSVkd4",
+      "title": "02. Universal Law of Gravitation Part 01 | মহাকর্ষের সার্বজনীন সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "9:44",
+      "thumbnail": "https://i.ytimg.com/vi/R7OfwMSVkd4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: Universal Law of Gravitation Part 01\nSubject: Physics\nTopic: Universal Law of Gravitation\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "AunJROYV5aI",
+      "title": "02. Universal Law of Gravitation Part 02 | মহাকর্ষের সার্বজনীন সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "11:18",
+      "thumbnail": "https://i.ytimg.com/vi/AunJROYV5aI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: Universal Law of Gravitation Part 02\nSubject: Physics\nTopic: Universal Law of Gravitation\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "GgPFQqXpFU4",
+      "title": "03. Momentum of Earth | পৃথিবীর ভরবেগ | OnnoRokom Pathshala",
+      "duration": "16:20",
+      "thumbnail": "https://i.ytimg.com/vi/GgPFQqXpFU4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: Momentum of Earth\nSubject: Physics\nTopic: Momentum of Earth\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "T7li11cQtLM",
+      "title": "01. Gravitation & Gravity | মহাকর্ষ ও অভিকর্ষ | OnnoRokom Pathshala",
+      "duration": "1:30",
+      "thumbnail": "https://i.ytimg.com/vi/T7li11cQtLM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: 01. Gravitation & Gravity | মহাকর্ষ ও অভিকর্ষ\nSubject: Physics\nTopic: Gravitation & Gravity\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "cGWnOcNDSIY",
+      "title": "02. মুক্তভাবে পড়ন্ত বস্তু এবং গ্যালিলিওর পড়ন্ত বস্তুর সূত্র | OnnoRokom Pathshala",
+      "duration": "5:47",
+      "thumbnail": "https://i.ytimg.com/vi/cGWnOcNDSIY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: 02. মুক্তভাবে পড়ন্ত বস্তু এবং গ্যালিলিওর পড়ন্ত বস্তুর সূত্র\nSubject: Physics\nTopic: Freely Falling Bodies & Galileo's Laws\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "c1gEZJF3K40",
+      "title": "03. Kepler’s Law | কেপলারে সূত্র | OnnoRokom Pathshala",
+      "duration": "5:45",
+      "thumbnail": "https://i.ytimg.com/vi/c1gEZJF3K40/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: 03. Kepler’s Law | কেপলারে সূত্র\nSubject: Physics\nTopic: Kepler's Laws of Planetary Motion\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "pE1_mIzibWU",
+      "title": "04. Newton’s Gravitational Law | নিউটনের মহাকর্ষীয় সূত্র | OnnoRokom Pathshala",
+      "duration": "6:47",
+      "thumbnail": "https://i.ytimg.com/vi/pE1_mIzibWU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: 04. Newton’s Gravitational Law | নিউটনের মহাকর্ষীয় সূত্র\nSubject: Physics\nTopic: Newton's Law of Universal Gravitation\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "YuFw7ZcweHY",
+      "title": "05. Value of g at Different Places | বিভিন্ন স্থানে g এর মান | OnnoRokom Pathshala",
+      "duration": "13:45",
+      "thumbnail": "https://i.ytimg.com/vi/YuFw7ZcweHY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: 05. Value of g at Different Places | বিভিন্ন স্থানে g এর মান\nSubject: Physics\nTopic: Variation of Acceleration Due to Gravity (g)\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "D9v6vOUgvbw",
+      "title": "06. Weight, Difference of Weight & Weightlessness Part 01 | ওজন, ওজনের তারতম্য ও ওজনহীনতা পর্ব ০১",
+      "duration": "10:11",
+      "thumbnail": "https://i.ytimg.com/vi/D9v6vOUgvbw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: 06. Weight, Difference of Weight & Weightlessness Part 01\nSubject: Physics\nTopic: Weight & Weightlessness Part 01\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "ZtWcfOw2Gmo",
+      "title": "06. Weight, Difference of Weight & Weightlessness Part 02 | ওজন, ওজনের তারতম্য ও ওজনহীনতা পর্ব ০২",
+      "duration": "12:10",
+      "thumbnail": "https://i.ytimg.com/vi/ZtWcfOw2Gmo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: 06. Weight, Difference of Weight & Weightlessness Part 02\nSubject: Physics\nTopic: Weight & Weightlessness Part 02\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "nC_bAbVwu5I",
+      "title": "06. Weight, Difference of Weight & Weightlessness Part 03 | ওজন, ওজনের তারতম্য ও ওজনহীনতা পর্ব ০৩",
+      "duration": "5:50",
+      "thumbnail": "https://i.ytimg.com/vi/nC_bAbVwu5I/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: 06. Weight, Difference of Weight & Weightlessness Part 03\nSubject: Physics\nTopic: Weight & Weightlessness Part 03\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "vl3NqzP_Ukw",
+      "title": "07. Change of Values of g Due to Diurnal Motion | আহ্নিক গতির কারণে g এর মানের পরিবর্তন",
+      "duration": "5:48",
+      "thumbnail": "https://i.ytimg.com/vi/vl3NqzP_Ukw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: 07. Change of Values of g Due to Diurnal Motion\nSubject: Physics\nTopic: Diurnal Motion and Acceleration Due to Gravity\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "-9YpHTvT6tc",
+      "title": "08. Satellite & Artificial Satellite | উপগ্রহ ও কৃত্রিম উপগ্রহ | OnnoRokom Pathshala",
+      "duration": "9:27",
+      "thumbnail": "https://i.ytimg.com/vi/-9YpHTvT6tc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: 08. Satellite & Artificial Satellite | উপগ্রহ ও কৃত্রিম উপগ্রহ\nSubject: Physics\nTopic: Satellites & Artificial Satellites\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "VNOLm5_aFs0",
+      "title": "09. Gravitational Potential Part 01 | মহাকর্ষীয় বিভব পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "13:38",
+      "thumbnail": "https://i.ytimg.com/vi/VNOLm5_aFs0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: 09. Gravitational Potential Part 01 | মহাকর্ষীয় বিভব পর্ব ০১\nSubject: Physics\nTopic: Gravitational Potential Part 01\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "T7XvOSWOuAo",
+      "title": "09. Gravitational Potential Part 02 | মহাকর্ষীয় বিভব পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "12:56",
+      "thumbnail": "https://i.ytimg.com/vi/T7XvOSWOuAo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: 09. Gravitational Potential Part 02 | মহাকর্ষীয় বিভব পর্ব ০২\nSubject: Physics\nTopic: Gravitational Potential Part 02\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "WEsObGAKdB8",
+      "title": "10. Escape Velocity | মুক্তিবেগ | OnnoRokom Pathshala",
+      "duration": "7:35",
+      "thumbnail": "https://i.ytimg.com/vi/WEsObGAKdB8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: 10. Escape Velocity | মুক্তিবেগ\nSubject: Physics\nTopic: Escape Velocity\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "FwpFBJaf464",
+      "title": "11. Problems Related to Potential | বিভব সংক্রান্ত সমস্যা | OnnoRokom Pathshala",
+      "duration": "4:21",
+      "thumbnail": "https://i.ytimg.com/vi/FwpFBJaf464/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: 11. Problems Related to Potential | বিভব সংক্রান্ত সমস্যা\nSubject: Physics\nTopic: Mathematical Problems on Gravitational Potential\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "0JvpmzzkdP8",
+      "title": "12. Special Problems | বিশেষ সমস্যা | OnnoRokom Pathshala",
+      "duration": "13:53",
+      "thumbnail": "https://i.ytimg.com/vi/0JvpmzzkdP8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Gravitation & Gravity\nLecture: 12. Special Problems | বিশেষ সমস্যা\nSubject: Physics\nTopic: Special Mathematical Problems\nClass: HSC Physics\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "f7p7lO-FbB0",
+      "title": "01. Binomial Theorem | দ্বিপদী উপপাদ্য | OnnoRokom Pathshala",
+      "duration": "16:21",
+      "thumbnail": "https://i.ytimg.com/vi/f7p7lO-FbB0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Higher Mathematics\nLecture: 01. Binomial Theorem | দ্বিপদী উপপাদ্য\nSubject: Mathematics\nTopic: Binomial Theorem Basic Concepts\nClass: HSC Higher Math\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "1j-qRVJACfk",
+      "title": "02. Common Term Part 01 | সাধারণ পদ পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "14:40",
+      "thumbnail": "https://i.ytimg.com/vi/1j-qRVJACfk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Higher Mathematics\nLecture: 02. Common Term Part 01 | সাধারণ পদ পর্ব ০১\nSubject: Mathematics\nTopic: General / Common Term in Expansion\nClass: HSC Higher Math\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "ENam7m81c0I",
+      "title": "02. Common Term Part 02 | সাধারণ পদ পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "17:27",
+      "thumbnail": "https://i.ytimg.com/vi/ENam7m81c0I/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Higher Mathematics\nLecture: 02. Common Term Part 02 | সাধারণ পদ পর্ব ০২\nSubject: Mathematics\nTopic: General / Common Term Problems\nClass: HSC Higher Math\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "pzClGDfbfMQ",
+      "title": "02. Common Term Part 03 | সাধারণ পদ পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "11:02",
+      "thumbnail": "https://i.ytimg.com/vi/pzClGDfbfMQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Higher Mathematics\nLecture: 02. Common Term Part 03 | সাধারণ পদ পর্ব ০৩\nSubject: Mathematics\nTopic: Advanced Common Term Problems\nClass: HSC Higher Math\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "7hf8XNxL0cs",
+      "title": "03. Midterm Part 01 | মধ্যপদ পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "11:04",
+      "thumbnail": "https://i.ytimg.com/vi/7hf8XNxL0cs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Higher Mathematics\nLecture: 03. Midterm Part 01 | মধ্যপদ পর্ব ০১\nSubject: Mathematics\nTopic: Middle Term Determination Part 01\nClass: HSC Higher Math\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "RuZMuhbhEbc",
+      "title": "03. Midterm Part 02 | মধ্যপদ পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "9:06",
+      "thumbnail": "https://i.ytimg.com/vi/RuZMuhbhEbc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Higher Mathematics\nLecture: 03. Midterm Part 02 | মধ্যপদ পর্ব ০২\nSubject: Mathematics\nTopic: Middle Term Determination Part 02\nClass: HSC Higher Math\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "ACFWO3UbKOY",
+      "title": "04. Triangle of Pascale | প্যাসকেলের ত্রিভুজ | OnnoRokom Pathshala",
+      "duration": "7:36",
+      "thumbnail": "https://i.ytimg.com/vi/ACFWO3UbKOY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Higher Mathematics\nLecture: 04. Triangle of Pascale | প্যাসকেলের ত্রিভুজ\nSubject: Mathematics\nTopic: Pascal's Triangle Application\nClass: HSC Higher Math\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "s2a0KG1pW9Y",
+      "title": "05. Some Problems of Binomial Theorem Part 01 | দ্বিপদী উপপাদ্যের কিছু অংক পর্ব ০১",
+      "duration": "18:12",
+      "thumbnail": "https://i.ytimg.com/vi/s2a0KG1pW9Y/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Higher Mathematics\nLecture: 05. Some Problems of Binomial Theorem Part 01\nSubject: Mathematics\nTopic: Binomial Expansion Problem Solving Part 01\nClass: HSC Higher Math\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "5nRs--nefGE",
+      "title": "05. Some Problems of Binomial Theorem Part 02 | দ্বিপদী উপপাদ্যের কিছু অংক পর্ব ০২",
+      "duration": "17:15",
+      "thumbnail": "https://i.ytimg.com/vi/5nRs--nefGE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Higher Mathematics\nLecture: 05. Some Problems of Binomial Theorem Part 02\nSubject: Mathematics\nTopic: Binomial Expansion Problem Solving Part 02\nClass: HSC Higher Math\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "vT2L4VqJdJA",
+      "title": "05. Some Problems of Binomial Theorem Part 03 | দ্বিপদী উপপাদ্যের কিছু অংক পর্ব ০৩",
+      "duration": "12:12",
+      "thumbnail": "https://i.ytimg.com/vi/vT2L4VqJdJA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Higher Mathematics\nLecture: 05. Some Problems of Binomial Theorem Part 03\nSubject: Mathematics\nTopic: Binomial Expansion Problem Solving Part 03\nClass: HSC Higher Math\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "8FZZBRC7r9g",
+      "title": "06. Determine Sum of the Series | ধারার যোগফল নির্ণয় | OnnoRokom Pathshala",
+      "duration": "7:44",
+      "thumbnail": "https://i.ytimg.com/vi/8FZZBRC7r9g/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Higher Mathematics\nLecture: 06. Determine Sum of the Series | ধারার যোগফল নির্ণয়\nSubject: Mathematics\nTopic: Summation of Series Using Binomial Theorem\nClass: HSC Higher Math\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "W2UnHn4K758",
+      "title": "01. প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস এর সাধারণ আলোচনা | OnnoRokom Pathshala",
+      "duration": "9:55",
+      "thumbnail": "https://i.ytimg.com/vi/W2UnHn4K758/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 01. General Discussion on Animal Diversity & Classification\nSubject: Biology\nTopic: Animal Diversity and Classification General Overview\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "iyc9lctFziE",
+      "title": "02. Basis of Classification - Part-01 | শ্রেণিকরণের ভিত্তি - পর্ব-০১",
+      "duration": "16:40",
+      "thumbnail": "https://i.ytimg.com/vi/iyc9lctFziE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 02. Basis of Classification - Part-01 | শ্রেণিকরণের ভিত্তি - পর্ব-০১\nSubject: Biology\nTopic: Basis of Classification Part 01\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "8KbsS8G1F8Y",
+      "title": "02. Basis of Classification - Part-02 | শ্রেণিকরণের ভিত্তি - পর্ব-০২",
+      "duration": "11:02",
+      "thumbnail": "https://i.ytimg.com/vi/8KbsS8G1F8Y/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 02. Basis of Classification - Part-02 | শ্রেণিকরণের ভিত্তি - পর্ব-০২\nSubject: Biology\nTopic: Basis of Classification Part 02\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "hBDyNdZYkMg",
+      "title": "03.1. শ্রেণিকরণের নীতি: ছিদ্রাল প্রাণী এবং নিডেরিয়া | OnnoRokom Pathshala",
+      "duration": "15:38",
+      "thumbnail": "https://i.ytimg.com/vi/hBDyNdZYkMg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 03.1. Principles of Classification: Porifera and Cnidaria\nSubject: Biology\nTopic: Porifera & Cnidaria Classification\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "R2oBXzSafbs",
+      "title": "03.2. শ্রেণিকরণের নীতি: চ্যাপ্টা এবং গোল কৃমি | OnnoRokom Pathshala",
+      "duration": "13:11",
+      "thumbnail": "https://i.ytimg.com/vi/R2oBXzSafbs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 03.2. Principles of Classification: Platyhelminthes and Nematoda\nSubject: Biology\nTopic: Flatworms and Roundworms Classification\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "8NoSAyBsW0U",
+      "title": "03.3. শ্রেণিকরণের নীতি: কম্বোজ প্রাণী এবং অঙ্গুরীমাল | OnnoRokom Pathshala",
+      "duration": "11:45",
+      "thumbnail": "https://i.ytimg.com/vi/8NoSAyBsW0U/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 03.3. Principles of Classification: Mollusca and Annelida\nSubject: Biology\nTopic: Mollusca & Annelida Classification\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "vSfUj7uM1Y4",
+      "title": "03.4. শ্রেণিকরণের নীতি: সন্ধিপদী এবং কণ্টকত্বক প্রাণী | OnnoRokom Pathshala",
+      "duration": "13:23",
+      "thumbnail": "https://i.ytimg.com/vi/vSfUj7uM1Y4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 03.4. Principles of Classification: Arthropoda and Echinodermata\nSubject: Biology\nTopic: Arthropoda & Echinodermata Classification\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "i-aEBNc-EoI",
+      "title": "03.5. Principles of Classification: Chordata - Part-01 | শ্রেণিকরণের নীতি: কর্ডাটা - পর্ব-০১",
+      "duration": "12:30",
+      "thumbnail": "https://i.ytimg.com/vi/i-aEBNc-EoI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 03.5. Principles of Classification: Chordata - Part-01\nSubject: Biology\nTopic: Chordata Classification Part 01\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "7-3ocO_v6OA",
+      "title": "03.5. Principles of Classification: Chordata - Part-02 | শ্রেণিকরণের নীতি: কর্ডাটা - পর্ব-০২",
+      "duration": "17:22",
+      "thumbnail": "https://i.ytimg.com/vi/7-3ocO_v6OA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 03.5. Principles of Classification: Chordata - Part-02\nSubject: Biology\nTopic: Chordata Classification Part 02\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "zsYExBavH_s",
+      "title": "03.5. Principles of Classification: Chordata - Part-03 | শ্রেণিকরণের নীতি: কর্ডাটা - পর্ব-০৩",
+      "duration": "13:04",
+      "thumbnail": "https://i.ytimg.com/vi/zsYExBavH_s/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 03.5. Principles of Classification: Chordata - Part-03\nSubject: Biology\nTopic: Chordata Classification Part 03\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "cI9atLqKBgs",
+      "title": "01. Introduction to Grasshopper and its Classifications | ঘাসফড়িং এর পরিচিতি ও শ্রেণীবিন্যাস",
+      "duration": "14:02",
+      "thumbnail": "https://i.ytimg.com/vi/cI9atLqKBgs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 01. Introduction to Grasshopper and its Classifications\nSubject: Biology\nTopic: Grasshopper Introduction and Classification\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "3EdUh_znY04",
+      "title": "02.1. Head: Head Capsule, Ocellus & Antenna | মস্তকঃ হেড ক্যাপস্যুল, ওসেলাস এবং অ্যান্টেনা",
+      "duration": "9:10",
+      "thumbnail": "https://i.ytimg.com/vi/3EdUh_znY04/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 02.1. Head: Head Capsule, Ocellus & Antenna\nSubject: Biology\nTopic: Grasshopper Head Structure\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "UmoRk-8FTk8",
+      "title": "02.2. Head: Mouth Parts | মস্তকঃ মুখোপাঙ্গ | OnnoRokom Pathshala",
+      "duration": "10:20",
+      "thumbnail": "https://i.ytimg.com/vi/UmoRk-8FTk8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 02.2. Head: Mouth Parts\nSubject: Biology\nTopic: Grasshopper Mouth Parts\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "c4CGJMXJW4A",
+      "title": "02.3. Head: Compound Eye (Ommatidium) | মস্তকঃ পুঞ্জাক্ষি (ওমাটিডিয়াম)",
+      "duration": "11:34",
+      "thumbnail": "https://i.ytimg.com/vi/c4CGJMXJW4A/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 02.3. Head: Compound Eye (Ommatidium)\nSubject: Biology\nTopic: Grasshopper Ommatidium Structure\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "cZF8qvIN8nU",
+      "title": "02.4. Head: Vision Techniques (Superposition & Apposition) | মস্তকঃ দৃষ্টি কৌশল",
+      "duration": "18:47",
+      "thumbnail": "https://i.ytimg.com/vi/cZF8qvIN8nU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 02.4. Head: Vision Techniques\nSubject: Biology\nTopic: Grasshopper Superposition and Apposition Vision\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "br_lSe-TkoY",
+      "title": "03. Thorax | বক্ষ | OnnoRokom Pathshala",
+      "duration": "10:09",
+      "thumbnail": "https://i.ytimg.com/vi/br_lSe-TkoY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 03. Thorax\nSubject: Biology\nTopic: Grasshopper Thorax Structure\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "w66DZslbIYQ",
+      "title": "04. Abdomen | উদর | OnnoRokom Pathshala",
+      "duration": "12:20",
+      "thumbnail": "https://i.ytimg.com/vi/w66DZslbIYQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 04. Abdomen\nSubject: Biology\nTopic: Grasshopper Abdomen Structure\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "jydxO-KQXCw",
+      "title": "05. Blood Circulatory System | রক্ত সংবহনতন্ত্র | OnnoRokom Pathshala",
+      "duration": "19:15",
+      "thumbnail": "https://i.ytimg.com/vi/jydxO-KQXCw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 05. Blood Circulatory System\nSubject: Biology\nTopic: Grasshopper Circulatory System\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "e_epmcHCGtI",
+      "title": "06. Respiratory System | শ্বসনতন্ত্র | OnnoRokom Pathshala",
+      "duration": "19:31",
+      "thumbnail": "https://i.ytimg.com/vi/e_epmcHCGtI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 06. Respiratory System\nSubject: Biology\nTopic: Grasshopper Respiratory System\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "g2ROmDKVB00",
+      "title": "07. Digestive System | পরিপাকতন্ত্র | OnnoRokom Pathshala",
+      "duration": "20:37",
+      "thumbnail": "https://i.ytimg.com/vi/g2ROmDKVB00/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 07. Digestive System\nSubject: Biology\nTopic: Grasshopper Digestive System\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "FzIIeg9kncc",
+      "title": "08. Excretory System | রেচনতন্ত্র | OnnoRokom Pathshala",
+      "duration": "15:27",
+      "thumbnail": "https://i.ytimg.com/vi/FzIIeg9kncc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 08. Excretory System\nSubject: Biology\nTopic: Grasshopper Excretory System\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "fGr97nTIByU",
+      "title": "09. Reproduction System | প্রজননতন্ত্র | OnnoRokom Pathshala",
+      "duration": "3:05",
+      "thumbnail": "https://i.ytimg.com/vi/fGr97nTIByU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 09. Reproduction System\nSubject: Biology\nTopic: Grasshopper Reproductive System Overview\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "34_iHhgmuC8",
+      "title": "10. Reproduction | জনন | OnnoRokom Pathshala",
+      "duration": "20:45",
+      "thumbnail": "https://i.ytimg.com/vi/34_iHhgmuC8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 10. Reproduction\nSubject: Biology\nTopic: Grasshopper Reproduction & Metamorphosis\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "M2e3BTTt3xU",
+      "title": "01. Digestion and Absorption Part 01 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "8:27",
+      "thumbnail": "https://i.ytimg.com/vi/M2e3BTTt3xU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 01. Digestion and Absorption Part 01 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০১\nSubject: Biology\nTopic: Digestion and Absorption Part 01\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "eTArLPLxTx4",
+      "title": "01. Digestion and Absorption Part 02 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "11:52",
+      "thumbnail": "https://i.ytimg.com/vi/eTArLPLxTx4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 01. Digestion and Absorption Part 02 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০২\nSubject: Biology\nTopic: Digestion and Absorption Part 02\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "2L6wKdzNmuc",
+      "title": "01. Digestion and Absorption Part 03 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "14:19",
+      "thumbnail": "https://i.ytimg.com/vi/2L6wKdzNmuc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 01. Digestion and Absorption Part 03 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০৩\nSubject: Biology\nTopic: Digestion and Absorption Part 03\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "xNWHAC8cqAE",
+      "title": "01. Digestion and Absorption Part 04 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "13:51",
+      "thumbnail": "https://i.ytimg.com/vi/xNWHAC8cqAE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 01. Digestion and Absorption Part 04 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০৪\nSubject: Biology\nTopic: Digestion and Absorption Part 04\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "oNHGLs-hs8g",
+      "title": "01. Digestion and Absorption Part 05 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০৫ | OnnoRokom Pathshala",
+      "duration": "8:42",
+      "thumbnail": "https://i.ytimg.com/vi/oNHGLs-hs8g/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 01. Digestion and Absorption Part 05 | পরিপাক ও শোষণ প্রক্রিয়া পর্ব ০৫\nSubject: Biology\nTopic: Digestion and Absorption Part 05\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "qP7yK_HY7jc",
+      "title": "02. Digestive Glands Part 01 | পরিপাক গ্রন্থি পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "12:20",
+      "thumbnail": "https://i.ytimg.com/vi/qP7yK_HY7jc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 02. Digestive Glands Part 01 | পরিপাক গ্রন্থি পর্ব ০১\nSubject: Biology\nTopic: Digestive Glands Part 01\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "-ALSDWtQ3Y4",
+      "title": "02. Digestive Glands Part 02 | পরিপাক গ্রন্থি পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "7:51",
+      "thumbnail": "https://i.ytimg.com/vi/-ALSDWtQ3Y4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 02. Digestive Glands Part 02 | পরিপাক গ্রন্থি পর্ব ০২\nSubject: Biology\nTopic: Digestive Glands Part 02\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "5uH9ZMKA4i8",
+      "title": "03. Pancreas | অগ্ন্যাশয় | OnnoRokom Pathshala",
+      "duration": "8:41",
+      "thumbnail": "https://i.ytimg.com/vi/5uH9ZMKA4i8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 03. Pancreas | অগ্ন্যাশয়\nSubject: Biology\nTopic: Pancreas Structure and Functions\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "WlNI95NnTa4",
+      "title": "04. Obesity | স্থুলতা | OnnoRokom Pathshala",
+      "duration": "9:47",
+      "thumbnail": "https://i.ytimg.com/vi/WlNI95NnTa4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 04. Obesity | স্থুলতা\nSubject: Biology\nTopic: Obesity and Health Impacts\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Wtkq0PnT0Do",
+      "title": "01. Components of Blood | রক্তের উপাদান | OnnoRokom Pathshala",
+      "duration": "10:48",
+      "thumbnail": "https://i.ytimg.com/vi/Wtkq0PnT0Do/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 01. Components of Blood | রক্তের উপাদান\nSubject: Biology\nTopic: Components of Blood\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "qhcXC2eZ9Nw",
+      "title": "02. Function of Blood | রক্তের কাজ | OnnoRokom Pathshala",
+      "duration": "9:01",
+      "thumbnail": "https://i.ytimg.com/vi/qhcXC2eZ9Nw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 02. Function of Blood | রক্তের কাজ\nSubject: Biology\nTopic: Function of Blood\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "mZyDmNlQqfM",
+      "title": "03. Red Blood Cell | রক্ত কণিকা লহিত রক্ত কনিকা | OnnoRokom Pathshala",
+      "duration": "18:47",
+      "thumbnail": "https://i.ytimg.com/vi/mZyDmNlQqfM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 03. Red Blood Cell | রক্ত কণিকা লহিত রক্ত কনিকা\nSubject: Biology\nTopic: Red Blood Cell\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "6yqoAGriEQk",
+      "title": "04. White Blood Cell | শ্বেত রক্ত কনিকা | OnnoRokom Pathshala",
+      "duration": "14:28",
+      "thumbnail": "https://i.ytimg.com/vi/6yqoAGriEQk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 04. White Blood Cell | শ্বেত রক্ত কনিকা\nSubject: Biology\nTopic: White Blood Cell\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "eXCI2oXqK_k",
+      "title": "05. Mechanism of Blood Clotting | রক্ত তঞ্চনের পদ্ধতি | OnnoRokom Pathshala",
+      "duration": "11:07",
+      "thumbnail": "https://i.ytimg.com/vi/eXCI2oXqK_k/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 05. Mechanism of Blood Clotting | রক্ত তঞ্চনের পদ্ধতি\nSubject: Biology\nTopic: Mechanism of Blood Clotting\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "6hZVTUcRHXc",
+      "title": "06. Lymph | লসিকা | OnnoRokom Pathshala",
+      "duration": "9:22",
+      "thumbnail": "https://i.ytimg.com/vi/6hZVTUcRHXc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 06. Lymph | লসিকা\nSubject: Biology\nTopic: Lymph System\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "GN9fDEBxBCY",
+      "title": "07. The Heart | হৃদপিণ্ড | OnnoRokom Pathshala",
+      "duration": "13:24",
+      "thumbnail": "https://i.ytimg.com/vi/GN9fDEBxBCY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 07. The Heart | হৃদপিণ্ড\nSubject: Biology\nTopic: Structure of Heart\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "EMkD1ulgclQ",
+      "title": "08. Cardiac Cycle | হৃদচক্র | OnnoRokom Pathshala",
+      "duration": "7:08",
+      "thumbnail": "https://i.ytimg.com/vi/EMkD1ulgclQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 08. Cardiac Cycle | হৃদচক্র\nSubject: Biology\nTopic: Cardiac Cycle\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "ayDpDERE6PM",
+      "title": "09. Junctional Tissue | সংযোগী টিস্যূ | OnnoRokom Pathshala",
+      "duration": "5:42",
+      "thumbnail": "https://i.ytimg.com/vi/ayDpDERE6PM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 09. Junctional Tissue | সংযোগী টিস্যূ\nSubject: Biology\nTopic: Junctional Tissue\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "tBeqmNcnJ40",
+      "title": "10. Blood Pressure | ব্লাড পেশার | OnnoRokom Pathshala",
+      "duration": "6:24",
+      "thumbnail": "https://i.ytimg.com/vi/tBeqmNcnJ40/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 10. Blood Pressure | ব্লাড পেশার\nSubject: Biology\nTopic: Blood Pressure\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "uiWX3XgovtA",
+      "title": "11. Diseases of Heart & Prevention | হৃদরোগ  এবং প্রতিকার | OnnoRokom Pathshala",
+      "duration": "14:33",
+      "thumbnail": "https://i.ytimg.com/vi/uiWX3XgovtA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 11. Diseases of Heart & Prevention | হৃদরোগ  এবং প্রতিকার\nSubject: Biology\nTopic: Diseases of Heart and Prevention\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "I6TNB3cWo_w",
+      "title": "01. Parts of Respiratory System Part 01 | শ্বসনতন্ত্রের অংশগুলো পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "16:41",
+      "thumbnail": "https://i.ytimg.com/vi/I6TNB3cWo_w/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 01. Parts of Respiratory System Part 01 | শ্বসনতন্ত্রের অংশগুলো পর্ব ০১\nSubject: Biology\nTopic: Parts of Respiratory System Part 01\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "AigpkA6bawI",
+      "title": "01. Parts of Respiratory System Part 02 | শ্বসনতন্ত্রের অংশগুলো পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "14:58",
+      "thumbnail": "https://i.ytimg.com/vi/AigpkA6bawI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 01. Parts of Respiratory System Part 02 | শ্বসনতন্ত্রের অংশগুলো পর্ব ০২\nSubject: Biology\nTopic: Parts of Respiratory System Part 02\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "QBjwus0wINo",
+      "title": "02. Mechanism of Ventilation | প্রশ্বাস-নিশ্বাস কার্যক্রম | OnnoRokom Pathshala",
+      "duration": "7:20",
+      "thumbnail": "https://i.ytimg.com/vi/QBjwus0wINo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 02. Mechanism of Ventilation | প্রশ্বাস-নিশ্বাস কার্যক্রম\nSubject: Biology\nTopic: Mechanism of Ventilation\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "NauGWSXYLx8",
+      "title": "03. Control of Respiration | শ্বাসক্রিয়া নিয়ন্ত্রন | OnnoRokom Pathshala",
+      "duration": "9:17",
+      "thumbnail": "https://i.ytimg.com/vi/NauGWSXYLx8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 03. Control of Respiration | শ্বাসক্রিয়া নিয়ন্ত্রন\nSubject: Biology\nTopic: Control of Respiration\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "MAeN_4_Jlmg",
+      "title": "04. Transportation of Gas | গ্যাস এর পরিবহন | OnnoRokom Pathshala",
+      "duration": "11:33",
+      "thumbnail": "https://i.ytimg.com/vi/MAeN_4_Jlmg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 04. Transportation of Gas | গ্যাস এর পরিবহন\nSubject: Biology\nTopic: Transportation of Gas\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "FRsOoBU8G8w",
+      "title": "05. Sinusitis | সাইনুসাইটিস | OnnoRokom Pathshala",
+      "duration": "9:36",
+      "thumbnail": "https://i.ytimg.com/vi/FRsOoBU8G8w/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 05. Sinusitis | সাইনুসাইটিস\nSubject: Biology\nTopic: Sinusitis\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "QV-cRtjPD10",
+      "title": "06. Otitis Media | ওটিটিস মিডিয়া | OnnoRokom Pathshala",
+      "duration": "0:00",
+      "thumbnail": "https://i.ytimg.com/vi/QV-cRtjPD10/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 06. Otitis Media | ওটিটিস মিডিয়া\nSubject: Biology\nTopic: Otitis Media\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "-C6CMiJUWKE",
+      "title": "01. Excretion Part 01 | রেচন পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "7:58",
+      "thumbnail": "https://i.ytimg.com/vi/-C6CMiJUWKE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 01. Excretion Part 01 | রেচন পর্ব ০১\nSubject: Biology\nTopic: Excretion Part 01\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "7S6UxSv7hbc",
+      "title": "01. Excretion Part 02 | রেচন পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "14:33",
+      "thumbnail": "https://i.ytimg.com/vi/7S6UxSv7hbc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 01. Excretion Part 02 | রেচন পর্ব ০২\nSubject: Biology\nTopic: Excretion Part 02\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "LXpCFdSUAYc",
+      "title": "01. Excretion Part 03 | রেচন পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "9:56",
+      "thumbnail": "https://i.ytimg.com/vi/LXpCFdSUAYc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 01. Excretion Part 03 | রেচন পর্ব ০৩\nSubject: Biology\nTopic: Excretion Part 03\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "dC9VJsOYWc4",
+      "title": "02. Dialysis | ডায়ালাইসিস | OnnoRokom Pathshala",
+      "duration": "10:10",
+      "thumbnail": "https://i.ytimg.com/vi/dC9VJsOYWc4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 02. Dialysis | ডায়ালাইসিস\nSubject: Biology\nTopic: Dialysis\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "jMJTmYdU-nA",
+      "title": "03. Control Of Sodium Level in Blood | রক্তের সোডিয়ামের মাত্রা নিয়ন্ত্রণ | OnnoRokom Pathshala",
+      "duration": "4:30",
+      "thumbnail": "https://i.ytimg.com/vi/jMJTmYdU-nA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 03. Control Of Sodium Level in Blood | রক্তের সোডিয়ামের মাত্রা নিয়ন্ত্রণ\nSubject: Biology\nTopic: Control Of Sodium Level in Blood\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "n5WCum8sH0w",
+      "title": "01. Introduction of Skeletal System | কঙ্কালতন্ত্র ভূমিকা | OnnoRokom Pathshala",
+      "duration": "6:35",
+      "thumbnail": "https://i.ytimg.com/vi/n5WCum8sH0w/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 01. Introduction of Skeletal System | কঙ্কালতন্ত্র ভূমিকা\nSubject: Biology\nTopic: Introduction of Skeletal System\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "3pmySI199NY",
+      "title": "02. Classification of Skeletal System Part 01 | কঙ্কালতন্ত্রের প্রধান ভাগ পর্ব ০১",
+      "duration": "14:02",
+      "thumbnail": "https://i.ytimg.com/vi/3pmySI199NY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 02. Classification of Skeletal System Part 01 | কঙ্কালতন্ত্রের প্রধান ভাগ পর্ব ০১\nSubject: Biology\nTopic: Classification of Skeletal System Part 01\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "ju6xxJnmXN4",
+      "title": "02. Classification of Skeletal System Part 02 | কঙ্কালতন্ত্রের প্রধান ভাগ পর্ব ০২",
+      "duration": "14:05",
+      "thumbnail": "https://i.ytimg.com/vi/ju6xxJnmXN4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 02. Classification of Skeletal System Part 02 | কঙ্কালতন্ত্রের প্রধান ভাগ পর্ব ০২\nSubject: Biology\nTopic: Classification of Skeletal System Part 02\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "SGDVleLu1x4",
+      "title": "03. Structure of Bone | অস্থির গঠন | OnnoRokom Pathshala",
+      "duration": "13:31",
+      "thumbnail": "https://i.ytimg.com/vi/SGDVleLu1x4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 03. Structure of Bone | অস্থির গঠন\nSubject: Biology\nTopic: Structure of Bone\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "NJO32t0lfIU",
+      "title": "04. Difference Between Bone & Cartilage | অস্থি ও তরুণাস্থির পার্থক্য | OnnoRokom Pathshala",
+      "duration": "4:59",
+      "thumbnail": "https://i.ytimg.com/vi/NJO32t0lfIU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 04. Difference Between Bone & Cartilage | অস্থি ও তরুণাস্থির পার্থক্য\nSubject: Biology\nTopic: Difference Between Bone & Cartilage\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "v94ZAgfbt3U",
+      "title": "05. Muscle | পেশি | OnnoRokom Pathshala",
+      "duration": "11:51",
+      "thumbnail": "https://i.ytimg.com/vi/v94ZAgfbt3U/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 05. Muscle | পেশি\nSubject: Biology\nTopic: Muscle Structure and Function\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "ZEQCTUP_pxI",
+      "title": "06. Muscles Pull But Never Push | পেশি টান দেয় কিন্তু ধাক্কা দেয়না | OnnoRokom Pathshala",
+      "duration": "5:34",
+      "thumbnail": "https://i.ytimg.com/vi/ZEQCTUP_pxI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 06. Muscles Pull But Never Push | পেশি টান দেয় কিন্তু ধাক্কা দেয়না\nSubject: Biology\nTopic: Mechanism of Muscle Action\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "7iC87ICGbyI",
+      "title": "07. Diseases of Bone | অস্থির রোগ সমূহ | OnnoRokom Pathshala",
+      "duration": "12:16",
+      "thumbnail": "https://i.ytimg.com/vi/7iC87ICGbyI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 07. Diseases of Bone | অস্থির রোগ সমূহ\nSubject: Biology\nTopic: Diseases of Bone\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "qZGYsVtkvZ4",
+      "title": "08. Description of Bones Part 01 | বিভিন্ন অস্থির বর্ণনা পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "10:45",
+      "thumbnail": "https://i.ytimg.com/vi/qZGYsVtkvZ4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 08. Description of Bones Part 01 | বিভিন্ন অস্থির বর্ণনা পর্ব ০১\nSubject: Biology\nTopic: Description of Bones Part 01\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "qdK7TybkYps",
+      "title": "08. Description of Bones Part 02 | বিভিন্ন অস্থির বর্ণনা পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "0:00",
+      "thumbnail": "https://i.ytimg.com/vi/qdK7TybkYps/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 2nd Paper\nLecture: 08. Description of Bones Part 02 | বিভিন্ন অস্থির বর্ণনা পর্ব ০২\nSubject: Biology\nTopic: Description of Bones Part 02\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "RP4EqQO8II8",
+      "title": "01. Tissue and Tissue System | টিস্যু ও টিস্যুতন্ত্র | OnnoRokom Pathshala",
+      "duration": "9:09",
+      "thumbnail": "https://i.ytimg.com/vi/RP4EqQO8II8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 1st Paper\nLecture: 01. Tissue and Tissue System | টিস্যু ও টিস্যুতন্ত্র\nSubject: Biology\nTopic: Tissue and Tissue System\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "uKCwi-Vn9vQ",
+      "title": "02. Classification of Meristematic Tissue | ভাজক টিস্যুর প্রকারভেদ | OnnoRokom Pathshala",
+      "duration": "11:49",
+      "thumbnail": "https://i.ytimg.com/vi/uKCwi-Vn9vQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 1st Paper\nLecture: 02. Classification of Meristematic Tissue | ভাজক টিস্যুর প্রকারভেদ\nSubject: Biology\nTopic: Classification of Meristematic Tissue\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "4lUPotXlHi0",
+      "title": "03. Classification of Permanent Tissue | স্থায়ী টিস্যুর প্রকারভেদ | OnnoRokom Pathshala",
+      "duration": "14:37",
+      "thumbnail": "https://i.ytimg.com/vi/4lUPotXlHi0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 1st Paper\nLecture: 03. Classification of Permanent Tissue | স্থায়ী টিস্যুর প্রকারভেদ\nSubject: Biology\nTopic: Classification of Permanent Tissue\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "PWRgOtToo1I",
+      "title": "04. Tissue System Part 01 | টিস্যুতন্ত্র পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "10:38",
+      "thumbnail": "https://i.ytimg.com/vi/PWRgOtToo1I/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 1st Paper\nLecture: 04. Tissue System Part 01 | টিস্যুতন্ত্র পর্ব ০১\nSubject: Biology\nTopic: Tissue System Part 01\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "R6vSky2WQEU",
+      "title": "04. Tissue System Part 02 | টিস্যুতন্ত্র পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "14:14",
+      "thumbnail": "https://i.ytimg.com/vi/R6vSky2WQEU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 1st Paper\nLecture: 04. Tissue System Part 02 | টিস্যুতন্ত্র পর্ব ০২\nSubject: Biology\nTopic: Tissue System Part 02\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "2SgOICRILpk",
+      "title": "04. Tissue System Part 03 | টিস্যুতন্ত্র পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "4:33",
+      "thumbnail": "https://i.ytimg.com/vi/2SgOICRILpk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 1st Paper\nLecture: 04. Tissue System Part 03 | টিস্যুতন্ত্র পর্ব ০৩\nSubject: Biology\nTopic: Tissue System Part 03\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "8OARv8lejlI",
+      "title": "05. Internal Structure of Monocot Root & Stem | একবীজপত্রী উদ্ভিদের মূল ও কান্ডের অন্তর্গঠন",
+      "duration": "13:12",
+      "thumbnail": "https://i.ytimg.com/vi/8OARv8lejlI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Biology 1st Paper\nLecture: 05. Internal Structure of Monocot Root & Stem | একবীজপত্রী উদ্ভিদের মূল ও কান্ডের অন্তর্গঠন\nSubject: Biology\nTopic: Internal Structure of Monocot Root & Stem\nClass: HSC Biology\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Gne3WZkeoPo",
+      "title": "12. Organic Chemistry ABC (কিছু প্রাথমিক ধারণা) । জৈব রসায়ন | Basic to Admission",
+      "duration": "1:23:18",
+      "thumbnail": "https://i.ytimg.com/vi/Gne3WZkeoPo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Organic Chemistry\nLecture: Organic Chemistry ABC (কিছু প্রাথমিক ধারণা)\nSubject: Chemistry\nTopic: Organic Chemistry ABC\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "x-PK5b1-eNc",
+      "title": "13. Organic Chemistry ABC (কিছু প্রাথমিক ধারণা) - Part - 02। জৈব রসায়ন | Basic to Admission",
+      "duration": "1:49:51",
+      "thumbnail": "https://i.ytimg.com/vi/x-PK5b1-eNc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Organic Chemistry\nLecture: Organic Chemistry ABC (কিছু প্রাথমিক ধারণা) - Part - 02\nSubject: Chemistry\nTopic: Organic Chemistry ABC Part 02\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "OiCEr7JO1VU",
+      "title": "14. Aromatic Hydrocarbon (হাকেল তত্ত্ব) । জৈব রসায়ন | Basic to Admission",
+      "duration": "1:00:18",
+      "thumbnail": "https://i.ytimg.com/vi/OiCEr7JO1VU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Organic Chemistry\nLecture: Aromatic Hydrocarbon (হাকেল তত্ত্ব)\nSubject: Chemistry\nTopic: Aromatic Hydrocarbon\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "aV9VCHUi4Xg",
+      "title": "15. Benzene-01 (বেনজিন-01) । জৈব রসায়ন | Basic to Admission",
+      "duration": "1:16:45",
+      "thumbnail": "https://i.ytimg.com/vi/aV9VCHUi4Xg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Organic Chemistry\nLecture: Benzene-01 (বেনজিন-01)\nSubject: Chemistry\nTopic: Benzene-01\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "uX3W-xs15fk",
+      "title": "16. Benzene-02 (বেনজিন-02) । জৈব রসায়ন | Basic to Admission",
+      "duration": "1:56:41",
+      "thumbnail": "https://i.ytimg.com/vi/uX3W-xs15fk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Organic Chemistry\nLecture: Benzene-02 (বেনজিন-02)\nSubject: Chemistry\nTopic: Benzene-02\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "MEf78sXAMPI",
+      "title": "17. Toluene (টলুইন) । জৈব রসায়ন | Basic to Admission",
+      "duration": "1:46:55",
+      "thumbnail": "https://i.ytimg.com/vi/MEf78sXAMPI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Organic Chemistry\nLecture: Toluene (টলুইন)\nSubject: Chemistry\nTopic: Toluene\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "hn9telypmRA",
+      "title": "18. Alkene (অ্যালকিন) । জৈব রসায়ন | Basic to Admission",
+      "duration": "1:56:07",
+      "thumbnail": "https://i.ytimg.com/vi/hn9telypmRA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Organic Chemistry\nLecture: Alkene (অ্যালকিন)\nSubject: Chemistry\nTopic: Alkene\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "kafwtZwRsjY",
+      "title": "19. Alkyne (অ্যালকাইন) । জৈব রসায়ন | Basic to Admission",
+      "duration": "1:19:22",
+      "thumbnail": "https://i.ytimg.com/vi/kafwtZwRsjY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Organic Chemistry\nLecture: Alkyne (অ্যালকাইন)\nSubject: Chemistry\nTopic: Alkyne\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "A2KKAcJA0yg",
+      "title": "20. Alkyl Halide (অ্যালকাইল হ্যালাইড) । জৈব রসায়ন | Basic to Admission",
+      "duration": "1:23:16",
+      "thumbnail": "https://i.ytimg.com/vi/A2KKAcJA0yg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Organic Chemistry\nLecture: Alkyl Halide (অ্যালকাইল হ্যালাইড)\nSubject: Chemistry\nTopic: Alkyl Halide\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "qORiNZRDdKA",
+      "title": "21. Alkyl Halide-02 (অ্যালকাইল হ্যালাইড-02) । জৈব রসায়ন | Basic to Admission",
+      "duration": "1:27:36",
+      "thumbnail": "https://i.ytimg.com/vi/qORiNZRDdKA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Organic Chemistry\nLecture: Alkyl Halide-02 (অ্যালকাইল হ্যালাইড-02)\nSubject: Chemistry\nTopic: Alkyl Halide-02\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "NnfLXUGmbuI",
+      "title": "22. Alcohol (অ্যালকোহল) । জৈব রসায়ন | Basic to Admission",
+      "duration": "1:32:42",
+      "thumbnail": "https://i.ytimg.com/vi/NnfLXUGmbuI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Organic Chemistry\nLecture: Alcohol (অ্যালকোহল)\nSubject: Chemistry\nTopic: Alcohol\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "h7r5AdQfk4g",
+      "title": "23. Phenol (ফেনল) । জৈব রসায়ন | Basic to Admission",
+      "duration": "1:15:38",
+      "thumbnail": "https://i.ytimg.com/vi/h7r5AdQfk4g/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Organic Chemistry\nLecture: Phenol (ফেনল)\nSubject: Chemistry\nTopic: Phenol\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "jM9xBJrYNaA",
+      "title": "24. Carbonyl Carbon-01 (কার্বনিল কার্বন-০১) । জৈব রসায়ন | Basic to Admission",
+      "duration": "2:08:20",
+      "thumbnail": "https://i.ytimg.com/vi/jM9xBJrYNaA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Organic Chemistry\nLecture: Carbonyl Carbon-01 (কার্বনিল কার্বন-০১)\nSubject: Chemistry\nTopic: Carbonyl Carbon-01\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "VElosPpBFbM",
+      "title": "25. Carbonyl Carbon-00 (Carbonyl Carbon-02) . Organic Chemistry | Basic to Admission",
+      "duration": "33:16",
+      "thumbnail": "https://i.ytimg.com/vi/VElosPpBFbM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Organic Chemistry\nLecture: Carbonyl Carbon-00 (Carbonyl Carbon-02)\nSubject: Chemistry\nTopic: Carbonyl Carbon-02\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "VitdAG_o7g8",
+      "title": "26. Acid (জৈব এসিড) । জৈব রসায়ন | Basic to Admission",
+      "duration": "1:39:29",
+      "thumbnail": "https://i.ytimg.com/vi/VitdAG_o7g8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Organic Chemistry\nLecture: Acid (জৈব এসিড)\nSubject: Chemistry\nTopic: Acid\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    }
+  ],
+  playlists:   [
+    {
+      "id": "Dynamics",
+      "title": "Dynamics (গতিবিদ্যা)",
+      "videoCount": 9,
+      "thumbnail": "https://i.ytimg.com/vi/JTb6Rs4ZIcI/hqdefault.jpg",
+      "updatedText": "Updated yesterday",
+      "videos": [
+        "JTb6Rs4ZIcI",
+        "p0Rc3GcSz2o",
+        "NaqK4OMUGRU",
+        "qTaoeE-3Le4",
+        "Wj8CLwi6iAo",
+        "1jS4sowQf9g",
+        "pFGBJqojF44",
+        "sXc4HLZvDUs",
+        "u53miendGNY"
+      ]
+    },
+    {
+      "id": "Differentiation_01",
+      "title": "HSC Higher Mathematics 1st Paper: Differentiation (অন্তরীকরণ)",
+      "videoCount": 34,
+      "thumbnail": "https://i.ytimg.com/vi/DWCUCsXoMQc/hqdefault.jpg",
+      "updatedText": "Updated yesterday",
+      "videos": [
+        "DWCUCsXoMQc",
+        "VIdLvHC407c",
+        "xThVr1W1Pnw",
+        "P6ON5damQFE",
+        "WNzrs9L1qFA",
+        "0TqfjNhZHiI",
+        "WlikLWCJBVE",
+        "mD_VcAXrUZw",
+        "9GCpKsdzumk",
+        "NfRBFiaeySY",
+        "-kotvsCL-Cw",
+        "V1bJaBd5X6Y",
+        "0RJBWAXjf_4",
+        "jU8HtTQr4OU",
+        "YkuAwBpzXDs",
+        "wMMi4dqAw7c",
+        "nH5zbORU1RI",
+        "U0AzIZr8xdU",
+        "c6z46owVRxY",
+        "rYSLtUh5_FA",
+        "Wxnv4q2ndMQ",
+        "QmK5n2AF61I",
+        "3vBzgjhzDU4",
+        "QAs-4QDgpHE",
+        "7LZh5Uhtz3o",
+        "FTOsKAQXtjc",
+        "5btc3KvVJN0",
+        "eMs3AYc9VNQ",
+        "zsOzfTdSQrQ",
+        "kHxkKshgzGA",
+        "9wAclB37rcU",
+        "CWeubWxS0Yk",
+        "jImlqKEIBaI",
+        "LZv7jqAmVC8"
+      ]
+    },
+    {
+      "id": "Polynomials",
+      "title": "HSC Higher Mathematics 2nd paper: Polynomials (বহুপদী)",
+      "videoCount": 13,
+      "thumbnail": "https://i.ytimg.com/vi/rbe5LKMfGlk/hqdefault.jpg",
+      "updatedText": "Updated 2 week ago",
+      "videos": [
+        "rbe5LKMfGlk",
+        "PeG9rzjDnW4",
+        "S_TgsOWk5EA",
+        "clz5IQ4pd2o",
+        "6ba5OeV5Sig",
+        "RcKoxh98DTo",
+        "12Caei0Blco",
+        "McCYkjAb2nI",
+        "WoVipraloZc",
+        "j8Now079Xt8",
+        "sfVVoNYlVuc",
+        "MLEtns8jA-k",
+        "RCL2ezS-SPk"
+      ]
+    },
+    {
+      "id": "Complex_Numbers",
+      "title": "HSC Higher Mathematics 2nd paper: Complex Numbers (জটিল সংখ্যা)",
+      "videoCount": 18,
+      "thumbnail": "https://i.ytimg.com/vi/nWesJDuTAFg/hqdefault.jpg",
+      "updatedText": "Updated 2 week ago",
+      "videos": [
+        "nWesJDuTAFg",
+        "5fBW888RGlk",
+        "E6XrVsflKYM",
+        "Exzdvu3isWQ",
+        "yNTzCdNLBkM",
+        "9-9nGCsfueE",
+        "ObeK1QO2p6Q",
+        "z6LdCFmVu2M",
+        "zP0z8E5U7AU",
+        "qlp_zjZB9IE",
+        "nJFZ7yDxxs0",
+        "EvgvPfCKLE4",
+        "ObkvmC3D7k8",
+        "_b1GYxBKbAI",
+        "HUpgEi7mzek",
+        "o-B_-MAUcLQ",
+        "6yC_oa-mrpY",
+        "0rYbJdKrilo"
+      ]
+    },
+    {
+      "id": "Binomial_Expansion",
+      "title": "HSC Higher Mathematics 2nd paper: Binomial Expansion (দ্বিপদী বিস্তৃতি)",
+      "videoCount": 11,
+      "thumbnail": "https://i.ytimg.com/vi/f7p7lO-FbB0/hqdefault.jpg",
+      "updatedText": "Updated 2 week ago",
+      "videos": [
+        "f7p7lO-FbB0",
+        "1j-qRVJACfk",
+        "ENam7m81c0I",
+        "pzClGDfbfMQ",
+        "7hf8XNxL0cs",
+        "RuZMuhbhEbc",
+        "ACFWO3UbKOY",
+        "s2a0KG1pW9Y",
+        "5nRs--nefGE",
+        "vT2L4VqJdJA",
+        "8FZZBRC7r9g"
+      ]
+    },
+    {
+      "id": "Physics_Wave_01",
+      "title": "Physics Wave (তরঙ্গ)",
+      "videoCount": 12,
+      "thumbnail": "https://i.ytimg.com/vi/Y2-6OInzV44/hqdefault.jpg",
+      "updatedText": "Updated 3 days ago",
+      "videos": [
+        "Y2-6OInzV44",
+        "ZhCQu47G2m4",
+        "hO0vRj4i8RE",
+        "zN5ONZFUFgQ",
+        "Z7cZLp0ZFzU",
+        "9OUNZ6MQmhQ",
+        "aRn13XFKuj0",
+        "GRI173t9t28",
+        "izmEeudNgU4",
+        "yfIiE2csYIc",
+        "J_hYeNvs4EI",
+        "pmCub0w_4OM"
+      ]
+    },
+    {
+      "id": "Physics_Periodic_Motion_01",
+      "title": "Physics Periodic Motion (পর্যায়বৃত্ত গতি)",
+      "videoCount": 15,
+      "thumbnail": "https://i.ytimg.com/vi/LVE9SjOd0Hw/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "LVE9SjOd0Hw",
+        "3u_UKd8iTTE",
+        "Hi6Uo6NQ8Zc",
+        "_uqioK_AnbM",
+        "29RYUx1KUu0",
+        "-o7X58xkiXo",
+        "9iWqKmnK3_0",
+        "UhJCLSLHi5M",
+        "bS7SoiY8Gzc",
+        "7B3GW6siIVI",
+        "kB2OYCRCHRA",
+        "9HVn0cLmf3o",
+        "wIgWv1KexOU",
+        "s5q3Ozq8Yg0",
+        "MZ5eKUlO2fU"
+      ]
+    },
+    {
+      "id": "Physics_Ideal_Gas_02",
+      "title": "Physics Ideal Gas (আদর্শ গ্যাস)",
+      "videoCount": 20,
+      "thumbnail": "https://i.ytimg.com/vi/dXpY7BlBPuQ/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "dXpY7BlBPuQ",
+        "dqmZ-Ex8W4Y",
+        "zKu9i_P4PSI",
+        "bXV8mqvxnaU",
+        "oKVKlLSpYhY",
+        "DCLopZ85Yqo",
+        "xLeinKZ9dDc",
+        "o8XkQrh61WM",
+        "Ba6s8ATJCa8",
+        "wHeBdhMvwQw",
+        "GwL8NI2tq6c",
+        "lbKOaPV52mw",
+        "mO85Tn8dUUY",
+        "2oxnrmIk05E",
+        "nq4K-oej0nE",
+        "UvVt-YowPqc",
+        "WW3N-8BqvYw",
+        "F0mKJDyXdfA",
+        "T69PVHNW8ek",
+        "swobTXi6xo8"
+      ]
+    },
+    {
+      "id": "Physics_Thermodynamics_02",
+      "title": "Physics Thermodynamics (তাপগতিবিদ্যা)",
+      "videoCount": 11,
+      "thumbnail": "https://i.ytimg.com/vi/63P4qKc3V8w/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "63P4qKc3V8w",
+        "pJUHbfe-t74",
+        "Jfcff-LpDcI",
+        "KTn5x5-nfBk",
+        "D6-f57zKW2I",
+        "uX7cj9dzZeQ",
+        "QCcCUImjKLA",
+        "iIemQlMJLxI",
+        "e3RBNBfq_yY",
+        "LUacLjVUsx4",
+        "R6xA5OUAe_g"
+      ]
+    },
+    {
+      "id": "Physics_Combo_by_Udvash",
+      "title": "Physics Combo by Udvash",
+      "videoCount": 13,
+      "thumbnail": "https://i.ytimg.com/vi/KphXn1GYcG0/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "KphXn1GYcG0",
+        "yEScNi9si7c",
+        "0A6g4Z30E7Q",
+        "hp_qTlguG_I",
+        "9AeM-QnwF4k",
+        "0v8Prmi6xYg",
+        "quSUCOrsbeU",
+        "lP8277QSPTU",
+        "8txuXBijYUw",
+        "UI7fgWG6doU",
+        "yA8OAvJlp90",
+        "Y2_DZTOmu4o",
+        "Jara5dO9dyg"
+      ]
+    },
+    {
+      "id": "Physics_Newtonian_Mechanics_04",
+      "title": "Physics Newtonian Mechanics (নিউটনিয়ান বলবিদ্যা)",
+      "videoCount": 28,
+      "thumbnail": "https://i.ytimg.com/vi/jgsnZoZ-hVg/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "jgsnZoZ-hVg",
+        "idxuC5TzCgU",
+        "Fl822BDrcN0",
+        "tsEpmGRwwFw",
+        "wCc3e1LE9-s",
+        "GVoQGv5V-8w",
+        "VlSByMqhQGM",
+        "oJogS-Kv-4w",
+        "DkT9szIPS-w",
+        "vrfc3GebITQ",
+        "PlpNd6zcSeU",
+        "U9QRfxy22yM",
+        "j1x4niLVbYQ",
+        "PfSONKumv2A",
+        "Vu1y7BuOIh0",
+        "Op6xiICaoOo",
+        "RrstMhs1oPg",
+        "JF_BD5zSxPw",
+        "qOtMqwZpTrM",
+        "dlEh1U1ei5I",
+        "ZbvpldoW8w",
+        "SE5bmqIBjZY",
+        "hsO2bC-GQXk",
+        "j8H4WyxAKxI",
+        "LHZ1WA34bgg",
+        "sPjboJPiV7Y",
+        "ES1C2hmceNY",
+        "fEz2ifplYhs"
+      ]
+    },
+    {
+      "id": "Physics_Static_Electricity_05",
+      "title": "Physics Static Electricity (স্থির তড়িৎ)",
+      "videoCount": 44,
+      "thumbnail": "https://i.ytimg.com/vi/xrQEx2MoTMQ/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "xrQEx2MoTMQ",
+        "EQEMhTtgPQ0",
+        "EdaW3hHmEUw",
+        "3bVFmivyOFo",
+        "5OZKRhBEu5A",
+        "yPAeKKvCqpI",
+        "Wd6PVZSO7Wg",
+        "QxFNmsjXDcY",
+        "w8gHVx93XCo",
+        "gL33vAOh8Pc",
+        "idn05E0Zh8k",
+        "K_m47hUzloY",
+        "n3HAuDLH5zs",
+        "UvIBl58aSU0",
+        "vgQVB4Q2sns",
+        "cPf1WSuKg1w",
+        "x4fGNy9inho",
+        "O-Ly_MpqoQE",
+        "LETlg93BR3o",
+        "nSQExLSkG2I",
+        "CjSYqig_tgM",
+        "CK20Le4uNLQ",
+        "vblMF4QJdEE",
+        "SAzkZCc9dos",
+        "Q2xtCzRh6ho",
+        "EcJ7vv9bkC8",
+        "4RN-nDGhXK8",
+        "1lVrGHcsGVo",
+        "0gBD0GyuOeQ",
+        "gXqQ2K_or1s",
+        "HJj99FjuPjk",
+        "E8wXS25PNNw",
+        "zlMUs5EqGZg",
+        "AARFPwO_4Yg",
+        "d5h5DTA4yqc",
+        "r4ADSD6NS_g",
+        "Mt-8-hZOpfU",
+        "dgyRX5Hojgo",
+        "xMA1sjlGVs4",
+        "T4MuYVlVmuI",
+        "w4Lho9cvw_8",
+        "AF2hl9Yu0bI",
+        "Q8m8doabVB0",
+        "sRX3M2H5b8s"
+      ]
+    },
+    {
+      "id": "Physics_Gravitation_06",
+      "title": "Physics Gravitation (মহাকর্ষ ও অভিকর্ষ)",
+      "videoCount": 22,
+      "thumbnail": "https://i.ytimg.com/vi/0WIW244qlDc/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "0WIW244qlDc",
+        "pfxQw0CSKQY",
+        "ibAblug8p9w",
+        "6KidjiuFcBk",
+        "R7OfwMSVkd4",
+        "AunJROYV5aI",
+        "GgPFQqXpFU4",
+        "T7li11cQtLM",
+        "cGWnOcNDSIY",
+        "c1gEZJF3K40",
+        "pE1_mIzibWU",
+        "YuFw7ZcweHY",
+        "D9v6vOUgvbw",
+        "ZtWcfOw2Gmo",
+        "nC_bAbVwu5I",
+        "vl3NqzP_Ukw",
+        "-9YpHTvT6tc",
+        "VNOLm5_aFs0",
+        "T7XvOSWOuAo",
+        "WEsObGAKdB8",
+        "FwpFBJaf464",
+        "0JvpmzzkdP8"
+      ]
+    },
+    {
+      "id": "Physics_Current_Electricity_07",
+      "title": "Physics Current Electricity (চল তড়িৎ)",
+      "videoCount": 12,
+      "thumbnail": "https://i.ytimg.com/vi/xK3k9bw-vN4/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "xK3k9bw-vN4",
+        "HijaET6bGAE",
+        "paed6qRxGow",
+        "1pm6K-a7l3g",
+        "Tqnw-6PxLaA",
+        "RiS0RWlrik0",
+        "NXpJdB6r918",
+        "LFS1kroQmVo",
+        "NMb8sIqSOkc",
+        "zpVMMFK9X5A",
+        "vH-VQJcWD48",
+        "deo0teidlyc"
+      ]
+    },
+    {
+      "id": "Physics_Magnetic_Effect_of_Current_01",
+      "title": "Physics Magnetic Effect of Current and Magnetism (তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব)",
+      "videoCount": 33,
+      "thumbnail": "https://i.ytimg.com/vi/al5q1s4Rx-A/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "al5q1s4Rx-A",
+        "FrJwGXQZCWQ",
+        "4K0Gx4xZ8Ho",
+        "qseC07uIUPY",
+        "edWry7IygeQ",
+        "Te7NUQFDCK8",
+        "vKz2FCCEqTs",
+        "b8rHWofPn0Q",
+        "LeTzXbxow4c",
+        "Mdx8NCozMN4",
+        "bsq9RefVX9I",
+        "gKn9TWuO6Q8",
+        "DT4YMZT-SOk",
+        "fxUQjzROt1g",
+        "MvG2CqwlcG8",
+        "4qFch-0AoR4",
+        "CjWdJJptYzs",
+        "6DauwtycT_k",
+        "NhOZ1TdSYFw",
+        "M28kpOMVy2Y",
+        "xoO68XDvUU0",
+        "rf309JmUetg",
+        "G19GYJaEL20",
+        "r5xAhkHGCg4",
+        "oHvLI5i_c3o",
+        "LNOAr2KdAEM",
+        "ygWd5SKses0",
+        "nlKjL-l1lrY",
+        "Er1c16oHP5A",
+        "uvfB7oxjmxs",
+        "QAuHWlfUi14",
+        "PzUVtrXtOCc",
+        "FvMCXo8tT2I"
+      ]
+    },
+    {
+      "id": "Biology_Animal_Diversity_01",
+      "title": "Biology Animal Diversity & Classification (প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস)",
+      "videoCount": 10,
+      "thumbnail": "https://i.ytimg.com/vi/W2UnHn4K758/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "W2UnHn4K758",
+        "iyc9lctFziE",
+        "8KbsS8G1F8Y",
+        "hBDyNdZYkMg",
+        "R2oBXzSafbs",
+        "8NoSAyBsW0U",
+        "vSfUj7uM1Y4",
+        "i-aEBNc-EoI",
+        "7-3ocO_v6OA",
+        "zsYExBavH_s"
+      ]
+    },
+    {
+      "id": "Biology_Grasshopper_02",
+      "title": "Biology Grasshopper (ঘাসফড়িং)",
+      "videoCount": 13,
+      "thumbnail": "https://i.ytimg.com/vi/cI9atLqKBgs/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "cI9atLqKBgs",
+        "3EdUh_znY04",
+        "UmoRk-8FTk8",
+        "c4CGJMXJW4A",
+        "cZF8qvIN8nU",
+        "br_lSe-TkoY",
+        "w66DZslbIYQ",
+        "jydxO-KQXCw",
+        "e_epmcHCGtI",
+        "g2ROmDKVB00",
+        "FzIIeg9kncc",
+        "fGr97nTIByU",
+        "34_iHhgmuC8"
+      ]
+    },
+    {
+      "id": "Biology_Digestion_and_Absorption_03",
+      "title": "Biology Digestion and Absorption (পরিপাক ও শোষণ)",
+      "videoCount": 9,
+      "thumbnail": "https://i.ytimg.com/vi/M2e3BTTt3xU/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "M2e3BTTt3xU",
+        "eTArLPLxTx4",
+        "2L6wKdzNmuc",
+        "xNWHAC8cqAE",
+        "oNHGLs-hs8g",
+        "qP7yK_HY7jc",
+        "-ALSDWtQ3Y4",
+        "5uH9ZMKA4i8",
+        "WlNI95NnTa4"
+      ]
+    },
+    {
+      "id": "Biology_Circulation_04",
+      "title": "Biology Blood and Circulation (রক্ত ও সঞ্চালন)",
+      "videoCount": 11,
+      "thumbnail": "https://i.ytimg.com/vi/Wtkq0PnT0Do/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "Wtkq0PnT0Do",
+        "qhcXC2eZ9Nw",
+        "mZyDmNlQqfM",
+        "6yqoAGriEQk",
+        "eXCI2oXqK_k",
+        "6hZVTUcRHXc",
+        "GN9fDEBxBCY",
+        "EMkD1ulgclQ",
+        "ayDpDERE6PM",
+        "tBeqmNcnJ40",
+        "uiWX3XgovtA"
+      ]
+    },
+    {
+      "id": "Biology_Respiration_05",
+      "title": "Biology Respiration and Gas Exchange (মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন)",
+      "videoCount": 7,
+      "thumbnail": "https://i.ytimg.com/vi/I6TNB3cWo_w/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "I6TNB3cWo_w",
+        "AigpkA6bawI",
+        "QBjwus0wINo",
+        "NauGWSXYLx8",
+        "MAeN_4_Jlmg",
+        "FRsOoBU8G8w",
+        "QV-cRtjPD10"
+      ]
+    },
+    {
+      "id": "Biology_Excretion_06",
+      "title": "Biology Excretion and Elimination (মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন)",
+      "videoCount": 5,
+      "thumbnail": "https://i.ytimg.com/vi/-C6CMiJUWKE/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "-C6CMiJUWKE",
+        "7S6UxSv7hbc",
+        "LXpCFdSUAYc",
+        "dC9VJsOYWc4",
+        "jMJTmYdU-nA"
+      ]
+    },
+    {
+      "id": "Biology_Skeletal_System_07",
+      "title": "Biology Locomotion and Movement (মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা)",
+      "videoCount": 10,
+      "thumbnail": "https://i.ytimg.com/vi/n5WCum8sH0w/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "n5WCum8sH0w",
+        "3pmySI199NY",
+        "ju6xxJnmXN4",
+        "SGDVleLu1x4",
+        "NJO32t0lfIU",
+        "v94ZAgfbt3U",
+        "ZEQCTUP_pxI",
+        "7iC87ICGbyI",
+        "qZGYsVtkvZ4",
+        "qdK7TybkYps"
+      ]
+    },
+    {
+      "id": "Biology_Tissue_and_Tissue_System_08",
+      "title": "Biology Plant Tissue and Tissue System (টিস্যু ও টিস্যুতন্ত্র)",
+      "videoCount": 7,
+      "thumbnail": "https://i.ytimg.com/vi/RP4EqQO8II8/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "RP4EqQO8II8",
+        "uKCwi-Vn9vQ",
+        "4lUPotXlHi0",
+        "PWRgOtToo1I",
+        "R6vSky2WQEU",
+        "2SgOICRILpk",
+        "8OARv8lejlI"
+      ]
+    },
+    {
+      "id": "Organic_Chemistry_03",
+      "title": "Organic Chemistry (জৈব রসায়ন) । Basic to Admission",
+      "videoCount": 5,
+      "thumbnail": "https://i.ytimg.com/vi/kRnXF7BP-_8/hqdefault.jpg",
+      "updatedText": "Updated 1 month ago",
+      "videos": [
+        "kRnXF7BP-_8",
+        "RAKLOaEjfrY",
+        "5UZ60arP1qo",
+        "ULkubqXJo02",
+        "cS2kG4S7r2M"
+      ]
+    },
+    {
+      "id": "Organic_Chemistry",
+      "title": "Organic Chemistry Combo",
+      "videoCount": 15,
+      "thumbnail": "https://i.ytimg.com/vi/Gne3WZkeoPo/hqdefault.jpg",
+      "updatedText": "Updated 4 days ago",
+      "videos": [
+        "Gne3WZkeoPo",
+        "x-PK5b1-eNc",
+        "OiCEr7JO1VU",
+        "aV9VCHUi4Xg",
+        "uX3W-xs15fk",
+        "MEf78sXAMPI",
+        "hn9telypmRA",
+        "kafwtZwRsjY",
+        "A2KKAcJA0yg",
+        "qORiNZRDdKA",
+        "NnfLXUGmbuI",
+        "h7r5AdQfk4g",
+        "jM9xBJrYNaA",
+        "VElosPpBFbM",
+        "VitdAG_o7g8"
+      ]
+    }
+  ]
+};
