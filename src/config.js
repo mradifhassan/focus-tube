@@ -10,4 +10,4 @@
 //
 // v2 -> v3: catalog restructured & fixed (moved misplaced OnnoRokom videos
 // and playlists out of Alchemy; normalized channelID -> channelId field name).
-export const CATALOG_VERSION = 6;
+export const CATALOG_VERSION = 9;
