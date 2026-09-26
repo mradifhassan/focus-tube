@@ -6178,6 +6178,1332 @@ export const ONNOROKOM = {
       "channelName": "Bangladesh Olympiad on Astronomy and Astrophysics",
       "description": "Video Title: Physics 2nd Paper\\nLecture: Lunar Phase and Earthshine  | BDOAA Lecture || 2022\\nSubject: Physics\\nTopic: Astronomy\\nClass: HSC Physics\\nLectured by: Bangladesh Olympiad on Astronomy and Astrophysics"
     },
+    // Higher Mathematics 2nd Paper: Static Mechanics (স্থিতিবিদ্যা)
+    // Mechanics Section 01: Introduction & Parallelogram Law of Forces (বলবিদ্যা: ভূমিকা ও বলের সামান্তরিক সূত্র)
+    {
+      "id": "xcz4a1Y0Em0",
+      "title": "01. Introduction to Mechanics Part 01 | বলবিদ্যার সাধারণ আলোচনা পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "11:18",
+      "thumbnail": "https://i.ytimg.com/vi/xcz4a1Y0Em0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. Introduction to Mechanics Part 01 | বলবিদ্যার সাধারণ আলোচনা পর্ব ০১\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "xvDDYNdAc7U",
+      "title": "01. Introduction to Mechanics Part 02 | বলবিদ্যার সাধারণ আলোচনা পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "12:27",
+      "thumbnail": "https://i.ytimg.com/vi/xvDDYNdAc7U/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. Introduction to Mechanics Part 02 | বলবিদ্যার সাধারণ আলোচনা পর্ব ০২\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "imt4AC5gcHs",
+      "title": "01. Introduction to Mechanics Part 03 | বলবিদ্যার সাধারণ আলোচনা পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "6:21",
+      "thumbnail": "https://i.ytimg.com/vi/imt4AC5gcHs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. Introduction to Mechanics Part 03 | বলবিদ্যার সাধারণ আলোচনা পর্ব ০৩\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "qveuojPmztE",
+      "title": "01. Introduction to Mechanics Part 04 | বলবিদ্যার সাধারণ আলোচনা পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "19:25",
+      "thumbnail": "https://i.ytimg.com/vi/qveuojPmztE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. Introduction to Mechanics Part 04 | বলবিদ্যার সাধারণ আলোচনা পর্ব ০৪\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "_cBfs1opHlE",
+      "title": "02. Parallelogram Law of Forces Part 01 | বলের সামান্তরিক সূত্র পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "17:31",
+      "thumbnail": "https://i.ytimg.com/vi/_cBfs1opHlE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. Parallelogram Law of Forces Part 01 | বলের সামান্তরিক সূত্র পর্ব ০১\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "GakFnvbaRUE",
+      "title": "02. Parallelogram Law of Forces Part 02 | বলের সামান্তরিক সূত্র পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "10:09",
+      "thumbnail": "https://i.ytimg.com/vi/GakFnvbaRUE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. Parallelogram Law of Forces Part 02 | বলের সামান্তরিক সূত্র পর্ব ০২\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "SD_YaO-hTbg",
+      "title": "02. Parallelogram Law of Forces Part 03 | বলের সামান্তরিক সূত্র পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "15:05",
+      "thumbnail": "https://i.ytimg.com/vi/SD_YaO-hTbg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. Parallelogram Law of Forces Part 03 | বলের সামান্তরিক সূত্র পর্ব ০৩\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "lxY48nBQM-Q",
+      "title": "03. সামান্তরিক সূত্রের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ১ | OnnoRokom Pathshala",
+      "duration": "16:32",
+      "thumbnail": "https://i.ytimg.com/vi/lxY48nBQM-Q/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. সামান্তরিক সূত্রের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ১\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "r7vl1TWC0Rg",
+      "title": "03. সামান্তরিক সূত্রের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ২ | OnnoRokom Pathshala",
+      "duration": "11:18",
+      "thumbnail": "https://i.ytimg.com/vi/r7vl1TWC0Rg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. সামান্তরিক সূত্রের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ২\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "b-AyXAS4Me0",
+      "title": "03. সামান্তরিক সূত্রের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ৩ | OnnoRokom Pathshala",
+      "duration": "16:07",
+      "thumbnail": "https://i.ytimg.com/vi/b-AyXAS4Me0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. সামান্তরিক সূত্রের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ৩\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "cwn2AvKi0Bc",
+      "title": "04. সরাসরি সামান্তরিক সূত্রের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ১ | OnnoRokom Pathshala",
+      "duration": "17:19",
+      "thumbnail": "https://i.ytimg.com/vi/cwn2AvKi0Bc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 04. সরাসরি সামান্তরিক সূত্রের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ১\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Yf1QiS8sr8M",
+      "title": "04. সরাসরি সামান্তরিক সূত্রের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ২ | OnnoRokom Pathshala",
+      "duration": "14:30",
+      "thumbnail": "https://i.ytimg.com/vi/Yf1QiS8sr8M/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 04. সরাসরি সামান্তরিক সূত্রের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ২\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "0g4sDg5iTu4",
+      "title": "04. সরাসরি সামান্তরিক সূত্রের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ৩ | OnnoRokom Pathshala",
+      "duration": "11:50",
+      "thumbnail": "https://i.ytimg.com/vi/0g4sDg5iTu4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 04. সরাসরি সামান্তরিক সূত্রের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ৩\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "FoXUm4jcTmM",
+      "title": "05. Condition of Resultant with Fixed Direction | সামান্তরিক সূত্রে লব্ধির দিক অপরিবর্তিত থাকার শর্ত",
+      "duration": "10:21",
+      "thumbnail": "https://i.ytimg.com/vi/FoXUm4jcTmM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 05. Condition of Resultant with Fixed Direction | সামান্তরিক সূত্রে লব্ধির দিক অপরিবর্তিত থাকার শর্ত\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "JK4X6QXyC28",
+      "title": "06. সামান্তরিক সূত্র এবং Sine Rule এর সমন্বয় বিষয়ক সমস্যা পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "12:39",
+      "thumbnail": "https://i.ytimg.com/vi/JK4X6QXyC28/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. সামান্তরিক সূত্র এবং Sine Rule এর সমন্বয় বিষয়ক সমস্যা পর্ব ০১\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "yHKXQKrfQEk",
+      "title": "06. সামান্তরিক সূত্র এবং Sine Rule এর সমন্বয় বিষয়ক সমস্যা পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "14:37",
+      "thumbnail": "https://i.ytimg.com/vi/yHKXQKrfQEk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. সামান্তরিক সূত্র এবং Sine Rule এর সমন্বয় বিষয়ক সমস্যা পর্ব ০২\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "rLR22xj3YSs",
+      "title": "06. সামান্তরিক সূত্র এবং Sine Rule এর সমন্বয় বিষয়ক সমস্যা পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "15:16",
+      "thumbnail": "https://i.ytimg.com/vi/rLR22xj3YSs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. সামান্তরিক সূত্র এবং Sine Rule এর সমন্বয় বিষয়ক সমস্যা পর্ব ০৩\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "N-E63x5HEe0",
+      "title": "06. সামান্তরিক সূত্র এবং Sine Rule এর সমন্বয় বিষয়ক সমস্যা পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "5:33",
+      "thumbnail": "https://i.ytimg.com/vi/N-E63x5HEe0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. সামান্তরিক সূত্র এবং Sine Rule এর সমন্বয় বিষয়ক সমস্যা পর্ব ০৪\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Md1nVmLTA44",
+      "title": "07. Theorem of Resolved Parts of Forces Part 01 | লম্বাংশ উপপাদ্য পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "21:01",
+      "thumbnail": "https://i.ytimg.com/vi/Md1nVmLTA44/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 07. Theorem of Resolved Parts of Forces Part 01 | লম্বাংশ উপপাদ্য পর্ব ০১\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "VKbJCLGejRc",
+      "title": "07. Theorem of Resolved Parts of Forces Part 02 | লম্বাংশ উপপাদ্য পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "7:05",
+      "thumbnail": "https://i.ytimg.com/vi/VKbJCLGejRc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 07. Theorem of Resolved Parts of Forces Part 02 | লম্বাংশ উপপাদ্য পর্ব ০২\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "lWSNi9L9ZJA",
+      "title": "08. লম্বাংশ উপপাদ্য প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "19:43",
+      "thumbnail": "https://i.ytimg.com/vi/lWSNi9L9ZJA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 08. লম্বাংশ উপপাদ্য প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০১\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "H1qiIsFaAbQ",
+      "title": "08. লম্বাংশ উপপাদ্য প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "13:38",
+      "thumbnail": "https://i.ytimg.com/vi/H1qiIsFaAbQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 08. লম্বাংশ উপপাদ্য প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০২\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "H1Pn5x2bXUg",
+      "title": "08. লম্বাংশ উপপাদ্য প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "13:14",
+      "thumbnail": "https://i.ytimg.com/vi/H1Pn5x2bXUg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 08. লম্বাংশ উপপাদ্য প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০৩\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    // Mechanics Section 02: Equilibrium, Lami's Theorem & Inclined Plane (বলবিদ্যা: কণার সাম্যাবস্থা, লামির উপপাদ্য ও হেলানো তল)
+    {
+      "id": "jZ0Tqqv-K8Y",
+      "title": "01. কোন কণার উপর ক্রিয়ারত বলজোটের সাম্যাবস্থা পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "9:32",
+      "thumbnail": "https://i.ytimg.com/vi/jZ0Tqqv-K8Y/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. কোন কণার উপর ক্রিয়ারত বলজোটের সাম্যাবস্থা পর্ব ০১\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "aoXseIkmQm0",
+      "title": "01. কোন কণার উপর ক্রিয়ারত বলজোটের সাম্যাবস্থা পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "14:12",
+      "thumbnail": "https://i.ytimg.com/vi/aoXseIkmQm0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. কোন কণার উপর ক্রিয়ারত বলজোটের সাম্যাবস্থা পর্ব ০২\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "iMQiTPaztBQ",
+      "title": "01. কোন কণার উপর ক্রিয়ারত বলজোটের সাম্যাবস্থা পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "16:15",
+      "thumbnail": "https://i.ytimg.com/vi/iMQiTPaztBQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. কোন কণার উপর ক্রিয়ারত বলজোটের সাম্যাবস্থা পর্ব ০৩\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "2TfyVvUS0SA",
+      "title": "01. কোন কণার উপর ক্রিয়ারত বলজোটের সাম্যাবস্থা পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "12:50",
+      "thumbnail": "https://i.ytimg.com/vi/2TfyVvUS0SA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. কোন কণার উপর ক্রিয়ারত বলজোটের সাম্যাবস্থা পর্ব ০৪\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "sPOHgIOd7hU",
+      "title": "02. ত্রিভুজের চারবিন্দু এবং লামির উপপাদ্যের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ১ | OnnoRokom Pathshala",
+      "duration": "13:09",
+      "thumbnail": "https://i.ytimg.com/vi/sPOHgIOd7hU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. ত্রিভুজের চারবিন্দু এবং লামির উপপাদ্যের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ১\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "2NRoh94sCls",
+      "title": "02. ত্রিভুজের চারবিন্দু এবং লামির উপপাদ্যের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ২ | OnnoRokom Pathshala",
+      "duration": "9:38",
+      "thumbnail": "https://i.ytimg.com/vi/2NRoh94sCls/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. ত্রিভুজের চারবিন্দু এবং লামির উপপাদ্যের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ২\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "72ois09LJ9E",
+      "title": "02. ত্রিভুজের চারবিন্দু এবং লামির উপপাদ্যের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ৩ | OnnoRokom Pathshala",
+      "duration": "9:30",
+      "thumbnail": "https://i.ytimg.com/vi/72ois09LJ9E/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. ত্রিভুজের চারবিন্দু এবং লামির উপপাদ্যের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ৩\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "jN3uaJ7bw0E",
+      "title": "03. Sum of String Tension Part 01 | সূতার টানের অংক পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "11:40",
+      "thumbnail": "https://i.ytimg.com/vi/jN3uaJ7bw0E/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. Sum of String Tension Part 01 | সূতার টানের অংক পর্ব ০১\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "asHA8KTIEKg",
+      "title": "03. Sum of String Tension Part 02 | সূতার টানের অংক পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "16:52",
+      "thumbnail": "https://i.ytimg.com/vi/asHA8KTIEKg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. Sum of String Tension Part 02 | সূতার টানের অংক পর্ব ০২\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "yr5AUMk3nD4",
+      "title": "03. Sum of String Tension Part 03 | সূতার টানের অংক পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "8:27",
+      "thumbnail": "https://i.ytimg.com/vi/yr5AUMk3nD4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. Sum of String Tension Part 03 | সূতার টানের অংক পর্ব ০৩\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "bhQKSKHhDyE",
+      "title": "03. Sum of String Tension Part 04 | সূতার টানের অংক পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "13:05",
+      "thumbnail": "https://i.ytimg.com/vi/bhQKSKHhDyE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. Sum of String Tension Part 04 | সূতার টানের অংক পর্ব ০৪\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "GrHua5pT51k",
+      "title": "03. Sum of String Tension Part 05 | সূতার টানের অংক পর্ব ০৫ | OnnoRokom Pathshala",
+      "duration": "11:04",
+      "thumbnail": "https://i.ytimg.com/vi/GrHua5pT51k/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. Sum of String Tension Part 05 | সূতার টানের অংক পর্ব ০৫\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Z3LDYq0HS5E",
+      "title": "03. Sum of String Tension Part 06 | সূতার টানের অংক পর্ব ০৬ | OnnoRokom Pathshala",
+      "duration": "15:19",
+      "thumbnail": "https://i.ytimg.com/vi/Z3LDYq0HS5E/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. Sum of String Tension Part 06 | সূতার টানের অংক পর্ব ০৬\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "gfyouPVInkM",
+      "title": "03. Sum of String Tension Part 07 | সূতার টানের অংক পর্ব ০৭ | OnnoRokom Pathshala",
+      "duration": "11:25",
+      "thumbnail": "https://i.ytimg.com/vi/gfyouPVInkM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. Sum of String Tension Part 07 | সূতার টানের অংক পর্ব ০৭\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "CIvfeOGzdT8",
+      "title": "03. Sum of String Tension Part 08 | সূতার টানের অংক পর্ব ০৮ | OnnoRokom Pathshala",
+      "duration": "12:46",
+      "thumbnail": "https://i.ytimg.com/vi/CIvfeOGzdT8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. Sum of String Tension Part 08 | সূতার টানের অংক পর্ব ০৮\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "A-TTXpqlCV8",
+      "title": "03. Sum of String Tension Part 09 | সূতার টানের অংক পর্ব ০৯ | OnnoRokom Pathshala",
+      "duration": "12:25",
+      "thumbnail": "https://i.ytimg.com/vi/A-TTXpqlCV8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. Sum of String Tension Part 09 | সূতার টানের অংক পর্ব ০৯\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "T04sOTg6FYs",
+      "title": "04. General Discussion on Inclined Plane | হেলানো তলের সাধারণ আলোচনা | OnnoRokom Pathshala",
+      "duration": "10:28",
+      "thumbnail": "https://i.ytimg.com/vi/T04sOTg6FYs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 04. General Discussion on Inclined Plane | হেলানো তলের সাধারণ আলোচনা\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "U08noTsP2fs",
+      "title": "05. Math on Inclined Plane Part 01 | হেলানো তলের অংক পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "18:37",
+      "thumbnail": "https://i.ytimg.com/vi/U08noTsP2fs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 05. Math on Inclined Plane Part 01 | হেলানো তলের অংক পর্ব ০১\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "i_0OmV5uQvQ",
+      "title": "05. Math on Inclined Plane Part 02 | হেলানো তলের অংক পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "11:02",
+      "thumbnail": "https://i.ytimg.com/vi/i_0OmV5uQvQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 05. Math on Inclined Plane Part 02 | হেলানো তলের অংক পর্ব ০২\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "3r2BPbIypx0",
+      "title": "05. Math on Inclined Plane Part 03 | হেলানো তলের অংক পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "6:20",
+      "thumbnail": "https://i.ytimg.com/vi/3r2BPbIypx0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 05. Math on Inclined Plane Part 03 | হেলানো তলের অংক পর্ব ০৩\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    // Mechanics Section 03: Coplanar Non-concurrent Forces (বলবিদ্যা: সমতলীয় বলজোট সমবিন্দু নয়)
+    {
+      "id": "Ze0_T5TIxWo",
+      "title": "01. সমতলীয় বলজোট (সমবিন্দু নয়) - সাধারণ আলোচনা পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "5:48",
+      "thumbnail": "https://i.ytimg.com/vi/Ze0_T5TIxWo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. সমতলীয় বলজোট (সমবিন্দু নয়) - সাধারণ আলোচনা পর্ব ০১\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "ehx_XSgqJ1w",
+      "title": "01. সমতলীয় বলজোট (সমবিন্দু নয়) - সাধারণ আলোচনা পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "17:04",
+      "thumbnail": "https://i.ytimg.com/vi/ehx_XSgqJ1w/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. সমতলীয় বলজোট (সমবিন্দু নয়) - সাধারণ আলোচনা পর্ব ০২\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "pu5zusuJlMQ",
+      "title": "01. সমতলীয় বলজোট (সমবিন্দু নয়) - সাধারণ আলোচনা পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "13:44",
+      "thumbnail": "https://i.ytimg.com/vi/pu5zusuJlMQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. সমতলীয় বলজোট (সমবিন্দু নয়) - সাধারণ আলোচনা পর্ব ০৩\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "6EhP5BB2Qw0",
+      "title": "02. সদৃশ সমান্তরাল বল এবং বিসদৃশ সমান্তরাল বলের মধ্যে পার্থক্য | OnnoRokom Pathshala",
+      "duration": "7:12",
+      "thumbnail": "https://i.ytimg.com/vi/6EhP5BB2Qw0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. সদৃশ সমান্তরাল বল এবং বিসদৃশ সমান্তরাল বলের মধ্যে পার্থক্য\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "B23eWnlI0YM",
+      "title": "03. সমতলীয় বলজোট (সমবিন্দু নয়) - এর সমস্যাবলি পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "13:02",
+      "thumbnail": "https://i.ytimg.com/vi/B23eWnlI0YM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. সমতলীয় বলজোট (সমবিন্দু নয়) - এর সমস্যাবলি পর্ব ০১\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "PKCg7BAiQCM",
+      "title": "03. সমতলীয় বলজোট (সমবিন্দু নয়) - এর সমস্যাবলি পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "11:41",
+      "thumbnail": "https://i.ytimg.com/vi/PKCg7BAiQCM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. সমতলীয় বলজোট (সমবিন্দু নয়) - এর সমস্যাবলি পর্ব ০২\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "6Kt1mBNSP0U",
+      "title": "03. সমতলীয় বলজোট (সমবিন্দু নয়) - এর সমস্যাবলি পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "11:02",
+      "thumbnail": "https://i.ytimg.com/vi/6Kt1mBNSP0U/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. সমতলীয় বলজোট (সমবিন্দু নয়) - এর সমস্যাবলি পর্ব ০৩\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "eY8wCcmAf3A",
+      "title": "03. সমতলীয় বলজোট (সমবিন্দু নয়) - এর সমস্যাবলি পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "15:21",
+      "thumbnail": "https://i.ytimg.com/vi/eY8wCcmAf3A/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. সমতলীয় বলজোট (সমবিন্দু নয়) - এর সমস্যাবলি পর্ব ০৪\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "pAZKnJviQjg",
+      "title": "04. ত্রিভুজের চার বিন্দু ও সমান্তরাল বল সংক্রান্ত সমস্যা পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "15:39",
+      "thumbnail": "https://i.ytimg.com/vi/pAZKnJviQjg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 04. ত্রিভুজের চার বিন্দু ও সমান্তরাল বল সংক্রান্ত সমস্যা পর্ব ০১\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "UKQC2fl_WA8",
+      "title": "04. ত্রিভুজের চার বিন্দু ও সমান্তরাল বল সংক্রান্ত সমস্যা পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "19:01",
+      "thumbnail": "https://i.ytimg.com/vi/UKQC2fl_WA8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 04. ত্রিভুজের চার বিন্দু ও সমান্তরাল বল সংক্রান্ত সমস্যা পর্ব ০২\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "yeDdXK4iev0",
+      "title": "05. সমতলীয় বলজোট (সমবিন্দু নয়) - বলের মোমেন্ট - সাধারণ আলোচনা পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "17:49",
+      "thumbnail": "https://i.ytimg.com/vi/yeDdXK4iev0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 05. সমতলীয় বলজোট (সমবিন্দু নয়) - বলের মোমেন্ট - সাধারণ আলোচনা পর্ব ০১\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "cfjj7M-W0vA",
+      "title": "05. সমতলীয় বলজোট (সমবিন্দু নয়) - বলের মোমেন্ট - সাধারণ আলোচনা পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "19:45",
+      "thumbnail": "https://i.ytimg.com/vi/cfjj7M-W0vA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 05. সমতলীয় বলজোট (সমবিন্দু নয়) - বলের মোমেন্ট - সাধারণ আলোচনা পর্ব ০২\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "BW803HYyg7k",
+      "title": "06. সমতলীয় বলজোট-সমবিন্দু নয়-দ্বন্দ্ব, যুগল,জোড় এবং দ্বন্দের মোমেন্ট, সমতুল্য জোড়-সাধারণ আলোচনা",
+      "duration": "14:45",
+      "thumbnail": "https://i.ytimg.com/vi/BW803HYyg7k/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. সমতলীয় বলজোট-সমবিন্দু নয়-দ্বন্দ্ব, যুগল,জোড় এবং দ্বন্দের মোমেন্ট, সমতুল্য জোড়-সাধারণ আলোচনা\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "wsnIiD_6l_Q",
+      "title": "07. সমতলীয় বলজোট (সমবিন্দু নয়) - দ্বন্দ্ব এবং বলের মিলিত ক্রিয়া - সাধারণ আলোচনা",
+      "duration": "22:52",
+      "thumbnail": "https://i.ytimg.com/vi/wsnIiD_6l_Q/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 07. সমতলীয় বলজোট (সমবিন্দু নয়) - দ্বন্দ্ব এবং বলের মিলিত ক্রিয়া - সাধারণ আলোচনা\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "sTYkO1P5J2o",
+      "title": "08. সদৃশ বা বিসদৃশ সমান্তরাল বলের ক্ষেত্রে, বলের ক্রিয়াবিন্দুর সরণ সংক্রান্ত অংক পর্ব ০১",
+      "duration": "14:50",
+      "thumbnail": "https://i.ytimg.com/vi/sTYkO1P5J2o/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 08. সদৃশ বা বিসদৃশ সমান্তরাল বলের ক্ষেত্রে, বলের ক্রিয়াবিন্দুর সরণ সংক্রান্ত অংক পর্ব ০১\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "vxd3N6a5QfQ",
+      "title": "08. সদৃশ বা বিসদৃশ সমান্তরাল বলের ক্ষেত্রে, বলের ক্রিয়াবিন্দুর সরণ সংক্রান্ত অংক পর্ব ০২",
+      "duration": "9:18",
+      "thumbnail": "https://i.ytimg.com/vi/vxd3N6a5QfQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 08. সদৃশ বা বিসদৃশ সমান্তরাল বলের ক্ষেত্রে, বলের ক্রিয়াবিন্দুর সরণ সংক্রান্ত অংক পর্ব ০২\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Rmhm5zHA5Is",
+      "title": "09. লব্ধির ক্রিয়াবিন্দুর সরণ সংক্রান্ত সমস্যা পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "11:37",
+      "thumbnail": "https://i.ytimg.com/vi/Rmhm5zHA5Is/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 09. লব্ধির ক্রিয়াবিন্দুর সরণ সংক্রান্ত সমস্যা পর্ব ০১\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Z_jI7G3U5h4",
+      "title": "09. লব্ধির ক্রিয়াবিন্দুর সরণ সংক্রান্ত সমস্যা পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "11:02",
+      "thumbnail": "https://i.ytimg.com/vi/Z_jI7G3U5h4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 09. লব্ধির ক্রিয়াবিন্দুর সরণ সংক্রান্ত সমস্যা পর্ব ০২\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "dcxv2K1qcZg",
+      "title": "10. Problems Related to Couple, Moment | দ্বন্দ্ব,যুগল,জোড় বিষয়ক সমস্যা | OnnoRokom Pathshala",
+      "duration": "16:13",
+      "thumbnail": "https://i.ytimg.com/vi/dcxv2K1qcZg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 10. Problems Related to Couple, Moment | দ্বন্দ্ব,যুগল,জোড় বিষয়ক সমস্যা\nSubject: Higher Mathematics\nTopic: Static Mechanics (স্থিতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    // Higher Mathematics 2nd Paper: Dynamics (গতিবিদ্যা)
+    // Dynamics Section 01: Parallelogram Law of Velocity, River Crossing & Relative Velocity (গতিবিদ্যা: বেগের সামান্তরিক সূত্র, নদীপাড় ও আপেক্ষিক বেগ)
+    {
+      "id": "e6ZJ8ttoHiM",
+      "title": "01. Parallelogram Law of Velocity | বেগের সামান্তরিক সূত্র | OnnoRokom Pathshala",
+      "duration": "8:36",
+      "thumbnail": "https://i.ytimg.com/vi/e6ZJ8ttoHiM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. Parallelogram Law of Velocity | বেগের সামান্তরিক সূত্র\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "tkv07hQjd4c",
+      "title": "02. বেগের সামান্তরিক সূত্রের প্রয়োগ সংক্রান্ত সমস্যাবলি নদী নৌকার অংক | OnnoRokom Pathshala",
+      "duration": "22:16",
+      "thumbnail": "https://i.ytimg.com/vi/tkv07hQjd4c/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. বেগের সামান্তরিক সূত্রের প্রয়োগ সংক্রান্ত সমস্যাবলি নদী নৌকার অংক\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "jmBer0HRKes",
+      "title": "03. Crossing River in Minimum Time | ন্যূনতম সময়ে নদীপাড় | OnnoRokom Pathshala",
+      "duration": "12:47",
+      "thumbnail": "https://i.ytimg.com/vi/jmBer0HRKes/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. Crossing River in Minimum Time | ন্যূনতম সময়ে নদীপাড়\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "YeR_FtWfrtQ",
+      "title": "04. Problems Related to Crossing River in Minimum Time | ন্যূনতম সময়ে নদীপাড় সংক্রান্ত সমস্যাবলি",
+      "duration": "15:05",
+      "thumbnail": "https://i.ytimg.com/vi/YeR_FtWfrtQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 04. Problems Related to Crossing River in Minimum Time | ন্যূনতম সময়ে নদীপাড় সংক্রান্ত সমস্যাবলি\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "azdIw0mUzDA",
+      "title": "05. General Discussion of Relative Velocity Part 01 | আপেক্ষিক বেগের সাধারণ আলোচনা পর্ব ০১",
+      "duration": "8:33",
+      "thumbnail": "https://i.ytimg.com/vi/azdIw0mUzDA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 05. General Discussion of Relative Velocity Part 01 | আপেক্ষিক বেগের সাধারণ আলোচনা পর্ব ০১\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "QC9fu__E_cw",
+      "title": "05. General Discussion of Relative Velocity Part 02 | আপেক্ষিক বেগের সাধারণ আলোচনা পর্ব ০২",
+      "duration": "11:14",
+      "thumbnail": "https://i.ytimg.com/vi/QC9fu__E_cw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 05. General Discussion of Relative Velocity Part 02 | আপেক্ষিক বেগের সাধারণ আলোচনা পর্ব ০২\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "5kJ2RndbnvE",
+      "title": "06. Problems Related to Relative Velocity Part 01 | আপেক্ষিক বেগ সংক্রান্ত সমস্যাবলি পর্ব ০১",
+      "duration": "10:38",
+      "thumbnail": "https://i.ytimg.com/vi/5kJ2RndbnvE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. Problems Related to Relative Velocity Part 01 | আপেক্ষিক বেগ সংক্রান্ত সমস্যাবলি পর্ব ০১\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "tN7YkEJwbmk",
+      "title": "06. Problems Related to Relative Velocity Part 02 | আপেক্ষিক বেগ সংক্রান্ত সমস্যাবলি পর্ব ০২",
+      "duration": "10:42",
+      "thumbnail": "https://i.ytimg.com/vi/tN7YkEJwbmk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. Problems Related to Relative Velocity Part 02 | আপেক্ষিক বেগ সংক্রান্ত সমস্যাবলি পর্ব ০২\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "I1DwI8xWGN4",
+      "title": "06. Problems Related to Relative Velocity Part 03 | আপেক্ষিক বেগ সংক্রান্ত সমস্যাবলি পর্ব ০৩",
+      "duration": "12:13",
+      "thumbnail": "https://i.ytimg.com/vi/I1DwI8xWGN4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. Problems Related to Relative Velocity Part 03 | আপেক্ষিক বেগ সংক্রান্ত সমস্যাবলি পর্ব ০৩\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "AhVXrBu9eVc",
+      "title": "06. Problems Related to Relative Velocity Part 04 | আপেক্ষিক বেগ সংক্রান্ত সমস্যাবলি পর্ব ০৪",
+      "duration": "9:12",
+      "thumbnail": "https://i.ytimg.com/vi/AhVXrBu9eVc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. Problems Related to Relative Velocity Part 04 | আপেক্ষিক বেগ সংক্রান্ত সমস্যাবলি পর্ব ০৪\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Dub_bZup0Ac",
+      "title": "07. সর্বনিম্ন দূরত্ব নির্ণয় বিষয়ক সমস্যাবলি পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "8:24",
+      "thumbnail": "https://i.ytimg.com/vi/Dub_bZup0Ac/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 07. সর্বনিম্ন দূরত্ব নির্ণয় বিষয়ক সমস্যাবলি পর্ব ০১\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "zO68gKU2bi0",
+      "title": "07. সর্বনিম্ন দূরত্ব নির্ণয় বিষয়ক সমস্যাবলি পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "10:50",
+      "thumbnail": "https://i.ytimg.com/vi/zO68gKU2bi0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 07. সর্বনিম্ন দূরত্ব নির্ণয় বিষয়ক সমস্যাবলি পর্ব ০২\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    // Dynamics Section 02: Linear Motion & Velocity-Time Graph (গতিবিদ্যা: সরলরেখার গতি ও বেগ-সময় লেখ)
+    {
+      "id": "49LJ_9ZrPDk",
+      "title": "01. সুষম ত্বরণে চলমান বস্তু ও নিউটনের গতির সূত্রাবলি পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "9:45",
+      "thumbnail": "https://i.ytimg.com/vi/49LJ_9ZrPDk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. সুষম ত্বরণে চলমান বস্তু ও নিউটনের গতির সূত্রাবলি পর্ব ০১\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "zjK0ckdNid0",
+      "title": "01. সুষম ত্বরণে চলমান বস্তু ও নিউটনের গতির সূত্রাবলি পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "16:02",
+      "thumbnail": "https://i.ytimg.com/vi/zjK0ckdNid0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. সুষম ত্বরণে চলমান বস্তু ও নিউটনের গতির সূত্রাবলি পর্ব ০২\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "wd1nH3YMsSI",
+      "title": "02. সরলরেখায় চলমান দু’টি বস্তুর মিলিত হওয়া বিষয়ক সমস্যাবলি পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "8:52",
+      "thumbnail": "https://i.ytimg.com/vi/wd1nH3YMsSI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. সরলরেখায় চলমান দু’টি বস্তুর মিলিত হওয়া বিষয়ক সমস্যাবলি পর্ব ০১\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "DwMIjy7Hzbo",
+      "title": "02. সরলরেখায় চলমান দু’টি বস্তুর মিলিত হওয়া বিষয়ক সমস্যাবলি পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "19:14",
+      "thumbnail": "https://i.ytimg.com/vi/DwMIjy7Hzbo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. সরলরেখায় চলমান দু’টি বস্তুর মিলিত হওয়া বিষয়ক সমস্যাবলি পর্ব ০২\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "eOQMXCEMKzk",
+      "title": "02. সরলরেখায় চলমান দু’টি বস্তুর মিলিত হওয়া বিষয়ক সমস্যাবলি পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "15:35",
+      "thumbnail": "https://i.ytimg.com/vi/eOQMXCEMKzk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. সরলরেখায় চলমান দু’টি বস্তুর মিলিত হওয়া বিষয়ক সমস্যাবলি পর্ব ০৩\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "CxPHkYfY6oc",
+      "title": "02. সরলরেখায় চলমান দু’টি বস্তুর মিলিত হওয়া বিষয়ক সমস্যাবলি পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "15:45",
+      "thumbnail": "https://i.ytimg.com/vi/CxPHkYfY6oc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. সরলরেখায় চলমান দু’টি বস্তুর মিলিত হওয়া বিষয়ক সমস্যাবলি পর্ব ০৪\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "xzABCIysrNI",
+      "title": "03. General Discussion of Velocity-Time Graph | বেগ সময় লেখের সাধারণ আলোচনা | OnnoRokom Pathshala",
+      "duration": "21:16",
+      "thumbnail": "https://i.ytimg.com/vi/xzABCIysrNI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. General Discussion of Velocity-Time Graph | বেগ সময় লেখের সাধারণ আলোচনা\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "i_5s0WPfkLQ",
+      "title": "04. বেগ সময় লেখের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "10:58",
+      "thumbnail": "https://i.ytimg.com/vi/i_5s0WPfkLQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 04. বেগ সময় লেখের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০১\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "dQQA4JRP9P4",
+      "title": "04. বেগ সময় লেখের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "12:11",
+      "thumbnail": "https://i.ytimg.com/vi/dQQA4JRP9P4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 04. বেগ সময় লেখের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০২\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "1cMwpKY6Erw",
+      "title": "04. বেগ সময় লেখের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "8:23",
+      "thumbnail": "https://i.ytimg.com/vi/1cMwpKY6Erw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 04. বেগ সময় লেখের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০৩\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "QfmYvlMk9aU",
+      "title": "04. বেগ সময় লেখের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "10:43",
+      "thumbnail": "https://i.ytimg.com/vi/QfmYvlMk9aU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 04. বেগ সময় লেখের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০৪\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "OajRqr_MQgQ",
+      "title": "04. বেগ সময় লেখের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০৫ | OnnoRokom Pathshala",
+      "duration": "6:33",
+      "thumbnail": "https://i.ytimg.com/vi/OajRqr_MQgQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 04. বেগ সময় লেখের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০৫\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "L55Z0xuKous",
+      "title": "04. বেগ সময় লেখের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০৬ | OnnoRokom Pathshala",
+      "duration": "11:28",
+      "thumbnail": "https://i.ytimg.com/vi/L55Z0xuKous/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 04. বেগ সময় লেখের প্রয়োগ সংক্রান্ত সমস্যাবলি পর্ব ০৬\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    // Dynamics Section 03: Vertical Motion under Gravity (গতিবিদ্যা: মধ্যাকর্ষণের প্রভাবে উলম্ব গতি)
+    {
+      "id": "8HoUcSXS9hc",
+      "title": "01. মধ্যাকর্ষণের প্রভাবে বস্তুর উলম্ব গতি পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "21:58",
+      "thumbnail": "https://i.ytimg.com/vi/8HoUcSXS9hc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. মধ্যাকর্ষণের প্রভাবে বস্তুর উলম্ব গতি পর্ব ০১\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "swOHaJOgoGw",
+      "title": "01. মধ্যাকর্ষণের প্রভাবে বস্তুর উলম্ব গতি পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "7:53",
+      "thumbnail": "https://i.ytimg.com/vi/swOHaJOgoGw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. মধ্যাকর্ষণের প্রভাবে বস্তুর উলম্ব গতি পর্ব ০২\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "jqCZUECyO-Q",
+      "title": "02. উলম্ব পথে গতিশীল দু’টি বস্তুর মিলিত হওয়া বিষয়ক সমস্যাবলি পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "7:58",
+      "thumbnail": "https://i.ytimg.com/vi/jqCZUECyO-Q/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. উলম্ব পথে গতিশীল দু’টি বস্তুর মিলিত হওয়া বিষয়ক সমস্যাবলি পর্ব ০১\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "bGPtnomqpms",
+      "title": "02. উলম্ব পথে গতিশীল দু’টি বস্তুর মিলিত হওয়া বিষয়ক সমস্যাবলি পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "14:03",
+      "thumbnail": "https://i.ytimg.com/vi/bGPtnomqpms/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. উলম্ব পথে গতিশীল দু’টি বস্তুর মিলিত হওয়া বিষয়ক সমস্যাবলি পর্ব ০২\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Kh91vVudGLk",
+      "title": "02. উলম্ব পথে গতিশীল দু’টি বস্তুর মিলিত হওয়া বিষয়ক সমস্যাবলি পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "12:48",
+      "thumbnail": "https://i.ytimg.com/vi/Kh91vVudGLk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. উলম্ব পথে গতিশীল দু’টি বস্তুর মিলিত হওয়া বিষয়ক সমস্যাবলি পর্ব ০৩\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "E31N71RkuwA",
+      "title": "02. উলম্ব পথে গতিশীল দু’টি বস্তুর মিলিত হওয়া বিষয়ক সমস্যাবলি পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "8:32",
+      "thumbnail": "https://i.ytimg.com/vi/E31N71RkuwA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. উলম্ব পথে গতিশীল দু’টি বস্তুর মিলিত হওয়া বিষয়ক সমস্যাবলি পর্ব ০৪\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "lXyyiiFHoUQ",
+      "title": "03. বস্তুপতন ও শব্দেরবেগ সংক্রান্ত সমস্যাবলি পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "14:12",
+      "thumbnail": "https://i.ytimg.com/vi/lXyyiiFHoUQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. বস্তুপতন ও শব্দেরবেগ সংক্রান্ত সমস্যাবলি পর্ব ০১\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "oKXBGu5aBuo",
+      "title": "03. বস্তুপতন ও শব্দেরবেগ সংক্রান্ত সমস্যাবলি পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "17:16",
+      "thumbnail": "https://i.ytimg.com/vi/oKXBGu5aBuo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. বস্তুপতন ও শব্দেরবেগ সংক্রান্ত সমস্যাবলি পর্ব ০২\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    // Dynamics Section 04: Projectile (গতিবিদ্যা: প্রাস)
+    {
+      "id": "mAqToQRxjRA",
+      "title": "01. General Discussion of Projectile | প্রাসের সাধারণ আলোচনা | OnnoRokom Pathshala",
+      "duration": "20:02",
+      "thumbnail": "https://i.ytimg.com/vi/mAqToQRxjRA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. General Discussion of Projectile | প্রাসের সাধারণ আলোচনা\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "hOJiNfWwkr4",
+      "title": "02. Analysis of Velocity in Case of Projectile | প্রাসের ক্ষেত্রে বেগ বিশ্লেষণ | OnnoRokom Pathshala",
+      "duration": "13:04",
+      "thumbnail": "https://i.ytimg.com/vi/hOJiNfWwkr4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. Analysis of Velocity in Case of Projectile | প্রাসের ক্ষেত্রে বেগ বিশ্লেষণ\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "aCLKnu6LVYQ",
+      "title": "03. Some Expressions in Case of Projectile | প্রাসের ক্ষেত্রে কিছু রাশিমালা | OnnoRokom Pathshala",
+      "duration": "8:12",
+      "thumbnail": "https://i.ytimg.com/vi/aCLKnu6LVYQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. Some Expressions in Case of Projectile | প্রাসের ক্ষেত্রে কিছু রাশিমালা\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "wQw6Kjr3lM0",
+      "title": "04. Analysis of Displacement in Case of Projectile Part 01 | প্রাসের ক্ষেত্রে সরণ বিশ্লেষণ পর্ব ০১",
+      "duration": "15:34",
+      "thumbnail": "https://i.ytimg.com/vi/wQw6Kjr3lM0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 04. Analysis of Displacement in Case of Projectile Part 01 | প্রাসের ক্ষেত্রে সরণ বিশ্লেষণ পর্ব ০১\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Uz-o5_25YpM",
+      "title": "04. Analysis of Displacement in Case of Projectile Part 02 | প্রাসের ক্ষেত্রে সরণ বিশ্লেষণ পর্ব ০২",
+      "duration": "12:31",
+      "thumbnail": "https://i.ytimg.com/vi/Uz-o5_25YpM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 04. Analysis of Displacement in Case of Projectile Part 02 | প্রাসের ক্ষেত্রে সরণ বিশ্লেষণ পর্ব ০২\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "ms0qHJNYbwQ",
+      "title": "05. Summary of Projectile | প্রাসের সারমর্ম | OnnoRokom Pathshala",
+      "duration": "4:57",
+      "thumbnail": "https://i.ytimg.com/vi/ms0qHJNYbwQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 05. Summary of Projectile | প্রাসের সারমর্ম\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "80AypA68xBo",
+      "title": "06. Mathematical Problems of Projectile Part 01 | প্রাসের গাণিতিক সমস্যাবলি পর্ব ০১",
+      "duration": "14:41",
+      "thumbnail": "https://i.ytimg.com/vi/80AypA68xBo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. Mathematical Problems of Projectile Part 01 | প্রাসের গাণিতিক সমস্যাবলি পর্ব ০১\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "ogJ3i8PYT6Y",
+      "title": "06. Mathematical Problems of Projectile Part 02 | প্রাসের গাণিতিক সমস্যাবলি পর্ব ০২",
+      "duration": "11:37",
+      "thumbnail": "https://i.ytimg.com/vi/ogJ3i8PYT6Y/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. Mathematical Problems of Projectile Part 02 | প্রাসের গাণিতিক সমস্যাবলি পর্ব ০২\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "LJVgK5qA1B0",
+      "title": "06. Mathematical Problems of Projectile Part 03 | প্রাসের গাণিতিক সমস্যাবলি পর্ব ০৩",
+      "duration": "7:08",
+      "thumbnail": "https://i.ytimg.com/vi/LJVgK5qA1B0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. Mathematical Problems of Projectile Part 03 | প্রাসের গাণিতিক সমস্যাবলি পর্ব ০৩\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "jI7icd7Ie3c",
+      "title": "06. Mathematical Problems of Projectile Part 04 | প্রাসের গাণিতিক সমস্যাবলি পর্ব ০৪",
+      "duration": "16:59",
+      "thumbnail": "https://i.ytimg.com/vi/jI7icd7Ie3c/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. Mathematical Problems of Projectile Part 04 | প্রাসের গাণিতিক সমস্যাবলি পর্ব ০৪\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "3rHRC9pYrnc",
+      "title": "06. Mathematical Problems of Projectile Part 05 | প্রাসের গাণিতিক সমস্যাবলি পর্ব ০৫",
+      "duration": "14:01",
+      "thumbnail": "https://i.ytimg.com/vi/3rHRC9pYrnc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. Mathematical Problems of Projectile Part 05 | প্রাসের গাণিতিক সমস্যাবলি পর্ব ০৫\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "-C26l0GEDUI",
+      "title": "06. Mathematical Problems of Projectile Part 06 | প্রাসের গাণিতিক সমস্যাবলি পর্ব ০৬",
+      "duration": "14:20",
+      "thumbnail": "https://i.ytimg.com/vi/-C26l0GEDUI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. Mathematical Problems of Projectile Part 06 | প্রাসের গাণিতিক সমস্যাবলি পর্ব ০৬\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "WTR8Al8lRZU",
+      "title": "05. Mathematical Problems of Projectile Part 08 | প্রাসের গাণিতিক সমস্যাবলি পর্ব ০৮",
+      "duration": "12:03",
+      "thumbnail": "https://i.ytimg.com/vi/WTR8Al8lRZU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 05. Mathematical Problems of Projectile Part 08 | প্রাসের গাণিতিক সমস্যাবলি পর্ব ০৮\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "lHDIQHiIEGY",
+      "title": "06. Mathematical Problems of Projectile Part 07 | প্রাসের গাণিতিক সমস্যাবলি পর্ব ০৭",
+      "duration": "9:54",
+      "thumbnail": "https://i.ytimg.com/vi/lHDIQHiIEGY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. Mathematical Problems of Projectile Part 07 | প্রাসের গাণিতিক সমস্যাবলি পর্ব ০৭\nSubject: Higher Mathematics\nTopic: Dynamics (গতিবিদ্যা)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    // Higher Mathematics 2nd Paper: Conics (কনিক)
+    // Conics Section 01: Introduction, Parabola & Ellipse (কনিক: পরিচিতি, পরাবৃত্ত ও উপবৃত্ত)
+    {
+      "id": "gvEeS0BAuKo",
+      "title": "01. Introduction to Conics | কনিকস্ পরিচিতি | OnnoRokom Pathshala",
+      "duration": "9:33",
+      "thumbnail": "https://i.ytimg.com/vi/gvEeS0BAuKo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. Introduction to Conics | কনিকস্ পরিচিতি\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Puav-VAOWSs",
+      "title": "02. Determination of General Equation of Conics Part 01 | কনিকস্ এর সাধারণ সমীকরণ নির্ণয় পর্ব ০১",
+      "duration": "12:42",
+      "thumbnail": "https://i.ytimg.com/vi/Puav-VAOWSs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. Determination of General Equation of Conics Part 01 | কনিকস্ এর সাধারণ সমীকরণ নির্ণয় পর্ব ০১\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "qu3Of3-pGII",
+      "title": "02  Determination of General Equation of Conics Part 02 | কনিকস্ এর সাধারণ সমীকরণ নির্ণয় পর্ব ০২",
+      "duration": "11:57",
+      "thumbnail": "https://i.ytimg.com/vi/qu3Of3-pGII/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02  Determination of General Equation of Conics Part 02 | কনিকস্ এর সাধারণ সমীকরণ নির্ণয় পর্ব ০২\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "63h5wBG9gJE",
+      "title": "02. Determination of General Equation of Conics Part 03 | কনিকস্ এর সাধারণ সমীকরণ নির্ণয় পর্ব ০৩",
+      "duration": "15:29",
+      "thumbnail": "https://i.ytimg.com/vi/63h5wBG9gJE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. Determination of General Equation of Conics Part 03 | কনিকস্ এর সাধারণ সমীকরণ নির্ণয় পর্ব ০৩\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "uznMlhWQ0Ts",
+      "title": "03. Determination of General Equation of Parabola | পরাবৃত্তের সাধারণ সমীকরণ নির্ণয়",
+      "duration": "11:55",
+      "thumbnail": "https://i.ytimg.com/vi/uznMlhWQ0Ts/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. Determination of General Equation of Parabola | পরাবৃত্তের সাধারণ সমীকরণ নির্ণয়\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "1bnyYpxLZh4",
+      "title": "04. Graph of Parabola | পরাবৃত্তের লেখচিত্র | OnnoRokom Pathshala",
+      "duration": "28:12",
+      "thumbnail": "https://i.ytimg.com/vi/1bnyYpxLZh4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 04. Graph of Parabola | পরাবৃত্তের লেখচিত্র\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "A2X7qJsHH9k",
+      "title": "05. পরাবৃত্তের সমীকরণ হতে মৌলিক তথ্য নির্ণয় | OnnoRokom Pathshala",
+      "duration": "28:08",
+      "thumbnail": "https://i.ytimg.com/vi/A2X7qJsHH9k/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 05. পরাবৃত্তের সমীকরণ হতে মৌলিক তথ্য নির্ণয়\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "usHsZeNvOA8",
+      "title": "06. উপকেন্দ্র, শীর্ষ বিন্দু এবং দিকাক্ষ রেখা হতে পরাবৃত্তের সমীকরণ নির্ণয় | OnnoRokom Pathshala",
+      "duration": "23:57",
+      "thumbnail": "https://i.ytimg.com/vi/usHsZeNvOA8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. উপকেন্দ্র, শীর্ষ বিন্দু এবং দিকাক্ষ রেখা হতে পরাবৃত্তের সমীকরণ নির্ণয়\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "c09rx1F0fAE",
+      "title": "07. Focal Length of Parabola | পরাবৃত্তের ফোকাস দূরত্ব | OnnoRokom Pathshala",
+      "duration": "11:29",
+      "thumbnail": "https://i.ytimg.com/vi/c09rx1F0fAE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 07. Focal Length of Parabola | পরাবৃত্তের ফোকাস দূরত্ব\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "I-j-TaO282Y",
+      "title": "08. Concluding the Equation of Parabola | অনুমানযোগ্য পরাবৃত্ত | OnnoRokom Pathshala",
+      "duration": "15:19",
+      "thumbnail": "https://i.ytimg.com/vi/I-j-TaO282Y/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 08. Concluding the Equation of Parabola | অনুমানযোগ্য পরাবৃত্ত\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "FagOWFjQM4M",
+      "title": "09. Tangent of Parabola - Part 01 | পরাবৃত্তের স্পর্শক - পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "9:07",
+      "thumbnail": "https://i.ytimg.com/vi/FagOWFjQM4M/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 09. Tangent of Parabola - Part 01 | পরাবৃত্তের স্পর্শক - পর্ব ০১\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "app-pQKfYxY",
+      "title": "09. Tangent of Parabola - Part 02 | পরাবৃত্তের স্পর্শক - পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "14:11",
+      "thumbnail": "https://i.ytimg.com/vi/app-pQKfYxY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 09. Tangent of Parabola - Part 02 | পরাবৃত্তের স্পর্শক - পর্ব ০২\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "TV6eCcxX_h8",
+      "title": "10. Miscellaneous Part of Parabola | পরাবৃত্ত বিবিধ | OnnoRokom Pathshala",
+      "duration": "11:46",
+      "thumbnail": "https://i.ytimg.com/vi/TV6eCcxX_h8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 10. Miscellaneous Part of Parabola | পরাবৃত্ত বিবিধ\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "yuXmUbb3FQw",
+      "title": "11. Introduction to Ellipse Part 01 | উপবৃত্ত পরিচিতি পর্ব ০১",
+      "duration": "14:36",
+      "thumbnail": "https://i.ytimg.com/vi/yuXmUbb3FQw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 11. Introduction to Ellipse Part 01 | উপবৃত্ত পরিচিতি পর্ব ০১\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "XrdMILKWdYo",
+      "title": "11. Introduction to Ellipse Part 02 | উপবৃত্ত পরিচিতি পর্ব ০২",
+      "duration": "22:35",
+      "thumbnail": "https://i.ytimg.com/vi/XrdMILKWdYo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 11. Introduction to Ellipse Part 02 | উপবৃত্ত পরিচিতি পর্ব ০২\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "W6tR9yQamAg",
+      "title": "12. Information from the Equation of an Ellipse | উপবৃত্তের সমীকরণ থেকে তথ্যাবলী",
+      "duration": "18:51",
+      "thumbnail": "https://i.ytimg.com/vi/W6tR9yQamAg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 12. Information from the Equation of an Ellipse | উপবৃত্তের সমীকরণ থেকে তথ্যাবলী\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "heFT6qlzMA0",
+      "title": "13. Parametric Co-ordination of an Ellipse | উপবৃত্তের পরামিতিক স্থানাংক",
+      "duration": "17:55",
+      "thumbnail": "https://i.ytimg.com/vi/heFT6qlzMA0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 13. Parametric Co-ordination of an Ellipse | উপবৃত্তের পরামিতিক স্থানাংক\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    // Conics Section 02: Ellipse, Hyperbola & Rectangular Hyperbola (কনিক: উপবৃত্ত, অধিবৃত্ত ও আয়তাকার অধিবৃত্ত)
+    {
+      "id": "M5Oibss1SxA",
+      "title": "01. Information of Ellipse from Figure (Review) | চিত্র থেকে উপবৃত্তের তথ্যাবলী (রিভিউ)",
+      "duration": "5:55",
+      "thumbnail": "https://i.ytimg.com/vi/M5Oibss1SxA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 01. Information of Ellipse from Figure (Review) | চিত্র থেকে উপবৃত্তের তথ্যাবলী (রিভিউ)\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "9N-sX4OM7sY",
+      "title": "02. Determination the Equation of Ellipse Part 01 | উপবৃত্তের সমীকরণ নির্ণয় পর্ব ০১",
+      "duration": "7:19",
+      "thumbnail": "https://i.ytimg.com/vi/9N-sX4OM7sY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. Determination the Equation of Ellipse Part 01 | উপবৃত্তের সমীকরণ নির্ণয় পর্ব ০১\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "fKiTg2ck-s8",
+      "title": "02. Determination the Equation of Ellipse Part 02 | উপবৃত্তের সমীকরণ নির্ণয় পর্ব ০২",
+      "duration": "10:13",
+      "thumbnail": "https://i.ytimg.com/vi/fKiTg2ck-s8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. Determination the Equation of Ellipse Part 02 | উপবৃত্তের সমীকরণ নির্ণয় পর্ব ০২\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "0XY0kVFHnac",
+      "title": "02. Determination the Equation of Ellipse Part 03 | উপবৃত্তের সমীকরণ নির্ণয় পর্ব ০৩",
+      "duration": "16:12",
+      "thumbnail": "https://i.ytimg.com/vi/0XY0kVFHnac/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 02. Determination the Equation of Ellipse Part 03 | উপবৃত্তের সমীকরণ নির্ণয় পর্ব ০৩\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "7rUp5e4gS0Y",
+      "title": "03. Parallel Shifting and Rotation | সমান্তরাল স্থানান্তর এবং ঘূর্নণ | OnnoRokom Pathshala",
+      "duration": "11:03",
+      "thumbnail": "https://i.ytimg.com/vi/7rUp5e4gS0Y/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 03. Parallel Shifting and Rotation | সমান্তরাল স্থানান্তর এবং ঘূর্নণ\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "J_zLvILFghw",
+      "title": "04. উপবৃত্তের সমীকরণ নির্ণয় (by Parallel Shifting) | OnnoRokom Pathshala",
+      "duration": "9:00",
+      "thumbnail": "https://i.ytimg.com/vi/J_zLvILFghw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 04. উপবৃত্তের সমীকরণ নির্ণয় (by Parallel Shifting)\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "2GWBvdadLg8",
+      "title": "05. Determination the Equation of Ellipse (by Rotation) | উপবৃত্তের সমীকরণ নির্ণয় (by Rotation)",
+      "duration": "14:09",
+      "thumbnail": "https://i.ytimg.com/vi/2GWBvdadLg8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 05. Determination the Equation of Ellipse (by Rotation) | উপবৃত্তের সমীকরণ নির্ণয় (by Rotation)\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "V42OfSz3F60",
+      "title": "06. Determination the Equation of Ellipse (Special Case) | উপবৃত্তের সমীকরণ নির্ণয় (Special Case)",
+      "duration": "5:48",
+      "thumbnail": "https://i.ytimg.com/vi/V42OfSz3F60/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 06. Determination the Equation of Ellipse (Special Case) | উপবৃত্তের সমীকরণ নির্ণয় (Special Case)\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "eJIv4u1bD7k",
+      "title": "07. Maximum and Minimum Distance | সর্বোচ্চ ও সর্বনিম্ন দূরত্ব",
+      "duration": "4:32",
+      "thumbnail": "https://i.ytimg.com/vi/eJIv4u1bD7k/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 07. Maximum and Minimum Distance | সর্বোচ্চ ও সর্বনিম্ন দূরত্ব\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "pdDAUjDExKk",
+      "title": "08. Tangent of Ellipse | উপবৃত্তের স্পর্শক | OnnoRokom Pathshala",
+      "duration": "7:46",
+      "thumbnail": "https://i.ytimg.com/vi/pdDAUjDExKk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 08. Tangent of Ellipse | উপবৃত্তের স্পর্শক\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "1sh8LF2LAG0",
+      "title": "09. Introduction to Hyperbola Part 01 | অধিবৃত্ত পরিচিতি পর্ব ০১",
+      "duration": "11:20",
+      "thumbnail": "https://i.ytimg.com/vi/1sh8LF2LAG0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 09. Introduction to Hyperbola Part 01 | অধিবৃত্ত পরিচিতি পর্ব ০১\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "nTLx8yqCw-Q",
+      "title": "09. Introduction to Hyperbola Part 02 | অধিবৃত্ত পরিচিতি পর্ব ০২",
+      "duration": "6:53",
+      "thumbnail": "https://i.ytimg.com/vi/nTLx8yqCw-Q/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 09. Introduction to Hyperbola Part 02 | অধিবৃত্ত পরিচিতি পর্ব ০২\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "TqmzOiUX21w",
+      "title": "10. Information from the Equation of Hyperbola | অধিবৃত্তের সমীকরণ থেকে তথ্যাবলি",
+      "duration": "15:37",
+      "thumbnail": "https://i.ytimg.com/vi/TqmzOiUX21w/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 10. Information from the Equation of Hyperbola | অধিবৃত্তের সমীকরণ থেকে তথ্যাবলি\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "1MwmecixlMk",
+      "title": "11.  Determination the Equation of Hyperbola Part 01 | অধিবৃত্তের সমীকরণ নির্ণয় পর্ব ০১",
+      "duration": "8:47",
+      "thumbnail": "https://i.ytimg.com/vi/1MwmecixlMk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 11.  Determination the Equation of Hyperbola Part 01 | অধিবৃত্তের সমীকরণ নির্ণয় পর্ব ০১\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "725ohwaaQtg",
+      "title": "11.  Determination the Equation of Hyperbola Part 02 | অধিবৃত্তের সমীকরণ নির্ণয় পর্ব ০২",
+      "duration": "6:25",
+      "thumbnail": "https://i.ytimg.com/vi/725ohwaaQtg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 11.  Determination the Equation of Hyperbola Part 02 | অধিবৃত্তের সমীকরণ নির্ণয় পর্ব ০২\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "EdxREPS0PLk",
+      "title": "12. Parametric Co-ordination of a Hyperbola | অধিবৃত্তের পরামিতিক স্থানাঙ্ক",
+      "duration": "8:23",
+      "thumbnail": "https://i.ytimg.com/vi/EdxREPS0PLk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 12. Parametric Co-ordination of a Hyperbola | অধিবৃত্তের পরামিতিক স্থানাঙ্ক\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "nBJKs_J-H1Y",
+      "title": "13. Tangent of Hyperbola | অধিবৃত্তের স্পর্শক | OnnoRokom Pathshala",
+      "duration": "4:58",
+      "thumbnail": "https://i.ytimg.com/vi/nBJKs_J-H1Y/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 13. Tangent of Hyperbola | অধিবৃত্তের স্পর্শক\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "QzsXTQgcyrk",
+      "title": "14. Introduction to Asymptote and a, b of Hyperbola | অসীমতট এবং অধিবৃত্তের a এবং b পরিচিতি",
+      "duration": "12:06",
+      "thumbnail": "https://i.ytimg.com/vi/QzsXTQgcyrk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 14. Introduction to Asymptote and a, b of Hyperbola | অসীমতট এবং অধিবৃত্তের a এবং b পরিচিতি\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "QPIvNgDUGYA",
+      "title": "15. Angle between Asymptotes | অসীমতটদ্বয়ের মধ্যবর্তী কোণ",
+      "duration": "3:22",
+      "thumbnail": "https://i.ytimg.com/vi/QPIvNgDUGYA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 15. Angle between Asymptotes | অসীমতটদ্বয়ের মধ্যবর্তী কোণ\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "fYxKGROc3KY",
+      "title": "16. Rectangular Hyperbola | আয়তাকার অধিবৃত্ত | OnnoRokom Pathshala",
+      "duration": "4:30",
+      "thumbnail": "https://i.ytimg.com/vi/fYxKGROc3KY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 16. Rectangular Hyperbola | আয়তাকার অধিবৃত্ত\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
   ],
   playlists:   [{
       "id": "Physics_Vectors_02",
@@ -6857,8 +8183,186 @@ export const ONNOROKOM = {
         "8FZZBRC7r9g"
       ]
     },
-    
-{
+
+    // Higher Mathematics 2nd Paper: Static Mechanics (স্থিতিবিদ্যা)
+    {
+      "id": "Static",
+      "title": "HSC Higher Mathematics 2nd paper: Static (স্থিতিবিদ্যা)",
+      "videoCount": 62,
+      "thumbnail": "https://i.ytimg.com/vi/xcz4a1Y0Em0/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "xcz4a1Y0Em0",
+        "xvDDYNdAc7U",
+        "imt4AC5gcHs",
+        "qveuojPmztE",
+        "_cBfs1opHlE",
+        "GakFnvbaRUE",
+        "SD_YaO-hTbg",
+        "lxY48nBQM-Q",
+        "r7vl1TWC0Rg",
+        "b-AyXAS4Me0",
+        "cwn2AvKi0Bc",
+        "Yf1QiS8sr8M",
+        "0g4sDg5iTu4",
+        "FoXUm4jcTmM",
+        "JK4X6QXyC28",
+        "yHKXQKrfQEk",
+        "rLR22xj3YSs",
+        "N-E63x5HEe0",
+        "Md1nVmLTA44",
+        "VKbJCLGejRc",
+        "lWSNi9L9ZJA",
+        "H1qiIsFaAbQ",
+        "H1Pn5x2bXUg",
+        "jZ0Tqqv-K8Y",
+        "aoXseIkmQm0",
+        "iMQiTPaztBQ",
+        "2TfyVvUS0SA",
+        "sPOHgIOd7hU",
+        "2NRoh94sCls",
+        "72ois09LJ9E",
+        "jN3uaJ7bw0E",
+        "asHA8KTIEKg",
+        "yr5AUMk3nD4",
+        "bhQKSKHhDyE",
+        "GrHua5pT51k",
+        "Z3LDYq0HS5E",
+        "gfyouPVInkM",
+        "CIvfeOGzdT8",
+        "A-TTXpqlCV8",
+        "T04sOTg6FYs",
+        "U08noTsP2fs",
+        "i_0OmV5uQvQ",
+        "3r2BPbIypx0",
+        "Ze0_T5TIxWo",
+        "ehx_XSgqJ1w",
+        "pu5zusuJlMQ",
+        "6EhP5BB2Qw0",
+        "B23eWnlI0YM",
+        "PKCg7BAiQCM",
+        "6Kt1mBNSP0U",
+        "eY8wCcmAf3A",
+        "pAZKnJviQjg",
+        "UKQC2fl_WA8",
+        "yeDdXK4iev0",
+        "cfjj7M-W0vA",
+        "BW803HYyg7k",
+        "wsnIiD_6l_Q",
+        "sTYkO1P5J2o",
+        "vxd3N6a5QfQ",
+        "Rmhm5zHA5Is",
+        "Z_jI7G3U5h4",
+        "dcxv2K1qcZg",
+      ]
+    },
+
+    // Higher Mathematics 2nd Paper: Dynamics (গতিবিদ্যা)
+    {
+      "id": "Dynamics",
+      "title": "HSC Higher Mathematics 2nd paper: Dynamics (গতিবিদ্যা)",
+      "videoCount": 47,
+      "thumbnail": "https://i.ytimg.com/vi/e6ZJ8ttoHiM/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "e6ZJ8ttoHiM",
+        "tkv07hQjd4c",
+        "jmBer0HRKes",
+        "YeR_FtWfrtQ",
+        "azdIw0mUzDA",
+        "QC9fu__E_cw",
+        "5kJ2RndbnvE",
+        "tN7YkEJwbmk",
+        "I1DwI8xWGN4",
+        "AhVXrBu9eVc",
+        "Dub_bZup0Ac",
+        "zO68gKU2bi0",
+        "49LJ_9ZrPDk",
+        "zjK0ckdNid0",
+        "wd1nH3YMsSI",
+        "DwMIjy7Hzbo",
+        "eOQMXCEMKzk",
+        "CxPHkYfY6oc",
+        "xzABCIysrNI",
+        "i_5s0WPfkLQ",
+        "dQQA4JRP9P4",
+        "1cMwpKY6Erw",
+        "QfmYvlMk9aU",
+        "OajRqr_MQgQ",
+        "L55Z0xuKous",
+        "8HoUcSXS9hc",
+        "swOHaJOgoGw",
+        "jqCZUECyO-Q",
+        "bGPtnomqpms",
+        "Kh91vVudGLk",
+        "E31N71RkuwA",
+        "lXyyiiFHoUQ",
+        "oKXBGu5aBuo",
+        "mAqToQRxjRA",
+        "hOJiNfWwkr4",
+        "aCLKnu6LVYQ",
+        "wQw6Kjr3lM0",
+        "Uz-o5_25YpM",
+        "ms0qHJNYbwQ",
+        "80AypA68xBo",
+        "ogJ3i8PYT6Y",
+        "LJVgK5qA1B0",
+        "jI7icd7Ie3c",
+        "3rHRC9pYrnc",
+        "-C26l0GEDUI",
+        "WTR8Al8lRZU",
+        "lHDIQHiIEGY",
+      ]
+    },
+
+    // Higher Mathematics 2nd Paper: Conics (কনিক)
+    {
+      "id": "Conics",
+      "title": "HSC Higher Mathematics 2nd paper: Conics (কনিক)",
+      "videoCount": 37,
+      "thumbnail": "https://i.ytimg.com/vi/gvEeS0BAuKo/hqdefault.jpg",
+      "updatedText": "Updated 1 week ago",
+      "videos": [
+        "gvEeS0BAuKo",
+        "Puav-VAOWSs",
+        "qu3Of3-pGII",
+        "63h5wBG9gJE",
+        "uznMlhWQ0Ts",
+        "1bnyYpxLZh4",
+        "A2X7qJsHH9k",
+        "usHsZeNvOA8",
+        "c09rx1F0fAE",
+        "I-j-TaO282Y",
+        "FagOWFjQM4M",
+        "app-pQKfYxY",
+        "TV6eCcxX_h8",
+        "yuXmUbb3FQw",
+        "XrdMILKWdYo",
+        "W6tR9yQamAg",
+        "heFT6qlzMA0",
+        "M5Oibss1SxA",
+        "9N-sX4OM7sY",
+        "fKiTg2ck-s8",
+        "0XY0kVFHnac",
+        "7rUp5e4gS0Y",
+        "J_zLvILFghw",
+        "2GWBvdadLg8",
+        "V42OfSz3F60",
+        "eJIv4u1bD7k",
+        "pdDAUjDExKk",
+        "1sh8LF2LAG0",
+        "nTLx8yqCw-Q",
+        "TqmzOiUX21w",
+        "1MwmecixlMk",
+        "725ohwaaQtg",
+        "EdxREPS0PLk",
+        "nBJKs_J-H1Y",
+        "QzsXTQgcyrk",
+        "QPIvNgDUGYA",
+        "fYxKGROc3KY",
+      ]
+    },
+    {
       "id": "Biology_Animal_Diversity_01",
       "title": "Biology Animal Diversity & Classification (প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস)",
       "videoCount": 10,
