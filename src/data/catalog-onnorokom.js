@@ -7960,6 +7960,1116 @@ export const ONNOROKOM = {
       "channelName": "OnnoRokom Pathshala",
       "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 04. Determination of Area Part 02 | ক্ষেত্রফল নির্ণয় পর্ব ০২\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
     },
+
+/* Chemistry
+ * Electrochemistry */
+    {
+      "id": "F9gfQO8BGro",
+      "title": "01. Electrochemistry Introduction | তড়িৎ রসায়ন - ভূমিকা | OnnoRokom Pathshala",
+      "duration": "9:41",
+      "thumbnail": "https://i.ytimg.com/vi/F9gfQO8BGro/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Electrochemistry\nLecture: 01. Electrochemistry Introduction | তড়িৎ রসায়ন - ভূমিকা\nSubject: Chemistry\nTopic: Electrochemistry (তড়িৎ রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "_m3YgpJ8Rl8",
+      "title": "02. Electrochemical Cell Introduction Part 01 | তড়িৎরাসায়নিক কোষ - ভূমিকা পর্ব ০১",
+      "duration": "9:26",
+      "thumbnail": "https://i.ytimg.com/vi/_m3YgpJ8Rl8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Electrochemistry\nLecture: 02. Electrochemical Cell Introduction Part 01 | তড়িৎরাসায়নিক কোষ - ভূমিকা পর্ব ০১\nSubject: Chemistry\nTopic: Electrochemistry (তড়িৎ রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "vZFIljgq7tQ",
+      "title": "02. Electrochemical Cell Introduction Part 02 | তড়িৎরাসায়নিক কোষ - ভূমিকা পর্ব ০২",
+      "duration": "11:19",
+      "thumbnail": "https://i.ytimg.com/vi/vZFIljgq7tQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Electrochemistry\nLecture: 02. Electrochemical Cell Introduction Part 02 | তড়িৎরাসায়নিক কোষ - ভূমিকা পর্ব ০২\nSubject: Chemistry\nTopic: Electrochemistry (তড়িৎ রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Eq7vK2sD6yI",
+      "title": "02. Electrochemical Cell Introduction Part 03 | তড়িৎরাসায়নিক কোষ - ভূমিকা পর্ব ০৩",
+      "duration": "9:58",
+      "thumbnail": "https://i.ytimg.com/vi/Eq7vK2sD6yI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Electrochemistry\nLecture: 02. Electrochemical Cell Introduction Part 03 | তড়িৎরাসায়নিক কোষ - ভূমিকা পর্ব ০৩\nSubject: Chemistry\nTopic: Electrochemistry (তড়িৎ রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "5vYRFK1wgYc",
+      "title": "03. Cell Representation | তড়িৎকোষ উপস্থাপন | OnnoRokom Pathshala",
+      "duration": "8:29",
+      "thumbnail": "https://i.ytimg.com/vi/5vYRFK1wgYc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Electrochemistry\nLecture: 03. Cell Representation | তড়িৎকোষ উপস্থাপন\nSubject: Chemistry\nTopic: Electrochemistry (তড়িৎ রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "-IUqWb_QL1Y",
+      "title": "04. Liquid Junction Potential | তরল সংযোগ বিভব | OnnoRokom Pathshala",
+      "duration": "8:43",
+      "thumbnail": "https://i.ytimg.com/vi/-IUqWb_QL1Y/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Electrochemistry\nLecture: 04. Liquid Junction Potential | তরল সংযোগ বিভব\nSubject: Chemistry\nTopic: Electrochemistry (তড়িৎ রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "9ukNxMp2FCw",
+      "title": "05. Salt Bridge | লবণ সেতু | OnnoRokom Pathshala",
+      "duration": "8:42",
+      "thumbnail": "https://i.ytimg.com/vi/9ukNxMp2FCw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Electrochemistry\nLecture: 05. Salt Bridge | লবণ সেতু\nSubject: Chemistry\nTopic: Electrochemistry (তড়িৎ রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "mljixpbneAo",
+      "title": "01. Electrode Potential | তড়িৎদ্বার বিভব | OnnoRokom Pathshala",
+      "duration": "9:45",
+      "thumbnail": "https://i.ytimg.com/vi/mljixpbneAo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Electrochemistry\nLecture: 01. Electrode Potential | তড়িৎদ্বার বিভব\nSubject: Chemistry\nTopic: Electrochemistry (তড়িৎ রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "c8bBL4R3vLc",
+      "title": "02. নির্দেশক তড়িৎদ্বার-প্রমাণ হাইড্রোজেন তড়িৎদ্বার | OnnoRokom Pathshala",
+      "duration": "10:48",
+      "thumbnail": "https://i.ytimg.com/vi/c8bBL4R3vLc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Electrochemistry\nLecture: 02. নির্দেশক তড়িৎদ্বার-প্রমাণ হাইড্রোজেন তড়িৎদ্বার\nSubject: Chemistry\nTopic: Electrochemistry (তড়িৎ রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "2g5YvnMg9-o",
+      "title": "03. নির্দেশক তড়িৎদ্বার - প্রমাণ ক্যালোমেল তড়িৎদ্বার | OnnoRokom Pathshala",
+      "duration": "8:27",
+      "thumbnail": "https://i.ytimg.com/vi/2g5YvnMg9-o/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Electrochemistry\nLecture: 03. নির্দেশক তড়িৎদ্বার - প্রমাণ ক্যালোমেল তড়িৎদ্বার\nSubject: Chemistry\nTopic: Electrochemistry (তড়িৎ রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "66GdHwsx7Kg",
+      "title": "01. Standard Cell Potential Type 01 | প্রমাণ কোষ বিভব - টাইপ ০১ | OnnoRokom Pathshala",
+      "duration": "9:17",
+      "thumbnail": "https://i.ytimg.com/vi/66GdHwsx7Kg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Electrochemistry\nLecture: 01. Standard Cell Potential Type 01 | প্রমাণ কোষ বিভব - টাইপ ০১\nSubject: Chemistry\nTopic: Electrochemistry (তড়িৎ রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "InBzdH93uD8",
+      "title": "01. Standard Cell Potential Type 02 | প্রমাণ কোষ বিভব - টাইপ ০২ | OnnoRokom Pathshala",
+      "duration": "10:03",
+      "thumbnail": "https://i.ytimg.com/vi/InBzdH93uD8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Electrochemistry\nLecture: 01. Standard Cell Potential Type 02 | প্রমাণ কোষ বিভব - টাইপ ০২\nSubject: Chemistry\nTopic: Electrochemistry (তড়িৎ রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "iMf1FOL48Ec",
+      "title": "02. Non standard Cell Potential Type 03 | অপ্রমাণ কোষ বিভব - টাইপ ০৩ | OnnoRokom Pathshala",
+      "duration": "18:17",
+      "thumbnail": "https://i.ytimg.com/vi/iMf1FOL48Ec/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Electrochemistry\nLecture: 02. Non standard Cell Potential Type 03 | অপ্রমাণ কোষ বিভব - টাইপ ০৩\nSubject: Chemistry\nTopic: Electrochemistry (তড়িৎ রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "bVUkj3tdHvk",
+      "title": "02. Non standard Cell Potential Type 04 | অপ্রমাণ কোষ বিভব - টাইপ ০৪ | OnnoRokom Pathshala",
+      "duration": "4:14",
+      "thumbnail": "https://i.ytimg.com/vi/bVUkj3tdHvk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Electrochemistry\nLecture: 02. Non standard Cell Potential Type 04 | অপ্রমাণ কোষ বিভব - টাইপ ০৪\nSubject: Chemistry\nTopic: Electrochemistry (তড়িৎ রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+
+/* Chemistry
+ * Gas Laws */
+    {
+      "id": "XUnCpBxOY2M",
+      "title": "01. Boyle's Law | বয়েলের সূত্র | OnnoRokom Pathshala",
+      "duration": "16:10",
+      "thumbnail": "https://i.ytimg.com/vi/XUnCpBxOY2M/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemistry Gas Laws\nLecture: 01. Boyle's Law | বয়েলের সূত্র\nSubject: Chemistry\nTopic: Gas Laws (গ্যাসের সূত্রাবলি)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "-GqVxj8qLsU",
+      "title": "02. Charles' or Gay Lussac's Law | চার্লস বা গে-লুসাকের সূত্র | OnnoRokom Pathshala",
+      "duration": "12:39",
+      "thumbnail": "https://i.ytimg.com/vi/-GqVxj8qLsU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemistry Gas Laws\nLecture: 02. Charles' or Gay Lussac's Law | চার্লস বা গে-লুসাকের সূত্র\nSubject: Chemistry\nTopic: Gas Laws (গ্যাসের সূত্রাবলি)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "zDb_Tm79EJQ",
+      "title": "03. Avogadro Law | অ্যাভোগাহড্রো সূত্র | OnnoRokom Pathshala",
+      "duration": "3:22",
+      "thumbnail": "https://i.ytimg.com/vi/zDb_Tm79EJQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemistry Gas Laws\nLecture: 03. Avogadro Law | অ্যাভোগাহড্রো সূত্র\nSubject: Chemistry\nTopic: Gas Laws (গ্যাসের সূত্রাবলি)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "fSfi5nSZ1_I",
+      "title": "04. Ideal Gas Equation | আদর্শ সমীকরণ | OnnoRokom Pathshala",
+      "duration": "3:24",
+      "thumbnail": "https://i.ytimg.com/vi/fSfi5nSZ1_I/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemistry Gas Laws\nLecture: 04. Ideal Gas Equation | আদর্শ সমীকরণ\nSubject: Chemistry\nTopic: Gas Laws (গ্যাসের সূত্রাবলি)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "532KR5ofLaU",
+      "title": "05. Molar Gas Constant (R) | মোলার গ্যাস ধ্রুবক (R) | OnnoRokom Pathshala",
+      "duration": "9:34",
+      "thumbnail": "https://i.ytimg.com/vi/532KR5ofLaU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemistry Gas Laws\nLecture: 05. Molar Gas Constant (R) | মোলার গ্যাস ধ্রুবক (R)\nSubject: Chemistry\nTopic: Gas Laws (গ্যাসের সূত্রাবলি)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "ndqZneU-0_Q",
+      "title": "06. Density & Molecular Mass Determination | ঘনত্ব ও আণবিক ভর নির্ণয় | OnnoRokom Pathshala",
+      "duration": "9:57",
+      "thumbnail": "https://i.ytimg.com/vi/ndqZneU-0_Q/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemistry Gas Laws\nLecture: 06. Density & Molecular Mass Determination | ঘনত্ব ও আণবিক ভর নির্ণয়\nSubject: Chemistry\nTopic: Gas Laws (গ্যাসের সূত্রাবলি)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "YyP11da_pAg",
+      "title": "07. Dalton's Law Partial Pressure | ডাল্টনের আংশিক চাপ সূত্র | OnnoRokom Pathshala",
+      "duration": "16:05",
+      "thumbnail": "https://i.ytimg.com/vi/YyP11da_pAg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemistry Gas Laws\nLecture: 07. Dalton's Law Partial Pressure | ডাল্টনের আংশিক চাপ সূত্র\nSubject: Chemistry\nTopic: Gas Laws (গ্যাসের সূত্রাবলি)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+
+/* Chemistry
+ * Economic Chemistry */
+    {
+      "id": "jrSfXfBv_us",
+      "title": "01. অর্থনৈতিক রসায়ন: পরিচিতি ও প্রাথমিক আলোচনা এবং প্রাকৃতিক গ্যাসের পরিসংখ্যান",
+      "duration": "5:19",
+      "thumbnail": "https://i.ytimg.com/vi/jrSfXfBv_us/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Economic Chemistry\nLecture: 01. অর্থনৈতিক রসায়ন: পরিচিতি ও প্রাথমিক আলোচনা এবং প্রাকৃতিক গ্যাসের পরিসংখ্যান\nSubject: Chemistry\nTopic: Economic Chemistry (অর্থনৈতিক রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "HGHVePUUl-U",
+      "title": "02. Mineral: Natural Gas- Introduction and Types | খনিজ সম্পদ: প্রাকৃতিক গ্যাসের প্রকারভেদ ও পরিচিতি",
+      "duration": "5:01",
+      "thumbnail": "https://i.ytimg.com/vi/HGHVePUUl-U/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Economic Chemistry\nLecture: 02. Mineral: Natural Gas- Introduction and Types | খনিজ সম্পদ: প্রাকৃতিক গ্যাসের প্রকারভেদ ও পরিচিতি\nSubject: Chemistry\nTopic: Economic Chemistry (অর্থনৈতিক রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "hQxfsDZfOjM",
+      "title": "03. Mineral: Uses of Natural Gas | খনিজ সম্পদ: প্রাকৃতিক গ্যাসের ব্যবহার",
+      "duration": "6:22",
+      "thumbnail": "https://i.ytimg.com/vi/hQxfsDZfOjM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Economic Chemistry\nLecture: 03. Mineral: Uses of Natural Gas | খনিজ সম্পদ: প্রাকৃতিক গ্যাসের ব্যবহার\nSubject: Chemistry\nTopic: Economic Chemistry (অর্থনৈতিক রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "thmG0qd0zqI",
+      "title": "04. Procedure of Urea Production | ইউরিয়া প্রস্তুতি: পদ্ধতি | OnnoRokom Pathshala",
+      "duration": "5:49",
+      "thumbnail": "https://i.ytimg.com/vi/thmG0qd0zqI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Economic Chemistry\nLecture: 04. Procedure of Urea Production | ইউরিয়া প্রস্তুতি: পদ্ধতি\nSubject: Chemistry\nTopic: Economic Chemistry (অর্থনৈতিক রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "42aScYyDUfU",
+      "title": "05. Chemical Reaction of Urea Production | ইউরিয়া প্রস্তুতি: রাসায়নিক বিক্রিয়া",
+      "duration": "3:02",
+      "thumbnail": "https://i.ytimg.com/vi/42aScYyDUfU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Economic Chemistry\nLecture: 05. Chemical Reaction of Urea Production | ইউরিয়া প্রস্তুতি: রাসায়নিক বিক্রিয়া\nSubject: Chemistry\nTopic: Economic Chemistry (অর্থনৈতিক রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "1n1SVC6KvR4",
+      "title": "06. খনিজ সম্পদঃ কয়লা পরিচিতি ও ক্যালরিফিক মান এবং পরিসংখ্যান | অন্যরকম পাঠশালা",
+      "duration": "4:05",
+      "thumbnail": "https://i.ytimg.com/vi/1n1SVC6KvR4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Economic Chemistry\nLecture: 06. খনিজ সম্পদঃ কয়লা পরিচিতি ও ক্যালরিফিক মান এবং পরিসংখ্যান\nSubject: Chemistry\nTopic: Economic Chemistry (অর্থনৈতিক রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "aeFWB0nFR2I",
+      "title": "07. Types of Coal | কয়লার প্রকারভেদ | OnnoRokom Pathshala",
+      "duration": "4:34",
+      "thumbnail": "https://i.ytimg.com/vi/aeFWB0nFR2I/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Economic Chemistry\nLecture: 07. Types of Coal | কয়লার প্রকারভেদ\nSubject: Chemistry\nTopic: Economic Chemistry (অর্থনৈতিক রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "e1B_jd-KuOI",
+      "title": "08. Introduction of Other Gases | অন্যান্য গ্যাস সমূহের পরিচিতি",
+      "duration": "2:46",
+      "thumbnail": "https://i.ytimg.com/vi/e1B_jd-KuOI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Economic Chemistry\nLecture: 08. Introduction of Other Gases | অন্যান্য গ্যাস সমূহের পরিচিতি\nSubject: Chemistry\nTopic: Economic Chemistry (অর্থনৈতিক রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "WnqOa0ba6JE",
+      "title": "09. Determinants of Coal Grade | কয়লার মান নির্ধারক | OnnoRokom Pathshala",
+      "duration": "4:31",
+      "thumbnail": "https://i.ytimg.com/vi/WnqOa0ba6JE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Economic Chemistry\nLecture: 09. Determinants of Coal Grade | কয়লার মান নির্ধারক\nSubject: Chemistry\nTopic: Economic Chemistry (অর্থনৈতিক রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "6UEX0s0QE48",
+      "title": "10. Uses of Coal | কয়লার ব্যবহার | OnnoRokom Pathshala",
+      "duration": "1:56",
+      "thumbnail": "https://i.ytimg.com/vi/6UEX0s0QE48/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Economic Chemistry\nLecture: 10. Uses of Coal | কয়লার ব্যবহার\nSubject: Chemistry\nTopic: Economic Chemistry (অর্থনৈতিক রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Q1wJhDolg0o",
+      "title": "11. Transformation - Solid Coal to Coal Gas | পদ্ধতিঃ কঠিন কয়লাকে গ্যাসীয়করণ",
+      "duration": "1:28",
+      "thumbnail": "https://i.ytimg.com/vi/Q1wJhDolg0o/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Economic Chemistry\nLecture: 11. Transformation - Solid Coal to Coal Gas | পদ্ধতিঃ কঠিন কয়লাকে গ্যাসীয়করণ\nSubject: Chemistry\nTopic: Economic Chemistry (অর্থনৈতিক রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "5z_K73A5KD8",
+      "title": "12. রুপান্তরঃ কঠিন কয়লার তরলীকরণ (ফিশার-ট্রপস) পদ্ধতি | অন্যরকম পাঠশালা",
+      "duration": "2:01",
+      "thumbnail": "https://i.ytimg.com/vi/5z_K73A5KD8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Economic Chemistry\nLecture: 12. রুপান্তরঃ কঠিন কয়লার তরলীকরণ (ফিশার-ট্রপস) পদ্ধতি\nSubject: Chemistry\nTopic: Economic Chemistry (অর্থনৈতিক রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "7KkIAUVPdOQ",
+      "title": "13. রুপান্তরঃ কঠিন কয়লার তরলীকরণ (বার্জিয়াস) পদ্ধতি | অন্যরকম পাঠশালা",
+      "duration": "4:02",
+      "thumbnail": "https://i.ytimg.com/vi/7KkIAUVPdOQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Economic Chemistry\nLecture: 13. রুপান্তরঃ কঠিন কয়লার তরলীকরণ (বার্জিয়াস) পদ্ধতি\nSubject: Chemistry\nTopic: Economic Chemistry (অর্থনৈতিক রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "WBSg-a7bd9E",
+      "title": "14. Merits & Demerits of Coal Based Power Plant | কয়লা বিদ্যুৎ কেন্দ্রের সুফল ও কুফল",
+      "duration": "4:25",
+      "thumbnail": "https://i.ytimg.com/vi/WBSg-a7bd9E/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Economic Chemistry\nLecture: 14. Merits & Demerits of Coal Based Power Plant | কয়লা বিদ্যুৎ কেন্দ্রের সুফল ও কুফল\nSubject: Chemistry\nTopic: Economic Chemistry (অর্থনৈতিক রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+
+/* Chemistry
+ * Application Oriented Chemistry */
+    {
+      "id": "4juClaubg9k",
+      "title": "01. Mixture (মিশ্রণ) | OnnoRokom Pathshala",
+      "duration": "16:33",
+      "thumbnail": "https://i.ytimg.com/vi/4juClaubg9k/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 01. Mixture (মিশ্রণ)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "U8QBZqhuZ_A",
+      "title": "02. Introduction to Colloid (কলয়েডের সূচনা) | OnnoRokom Pathshala",
+      "duration": "4:53",
+      "thumbnail": "https://i.ytimg.com/vi/U8QBZqhuZ_A/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 02. Introduction to Colloid (কলয়েডের সূচনা)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "FveAkH6XhH8",
+      "title": "03. Classification of Colloid (কলয়েডের প্রকারভেদ) | OnnoRokom Pathshala",
+      "duration": "6:56",
+      "thumbnail": "https://i.ytimg.com/vi/FveAkH6XhH8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 03. Classification of Colloid (কলয়েডের প্রকারভেদ)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "q9c1oS03Ngo",
+      "title": "04. Preparation of Colloid (কলয়েডের প্রস্তুতি) | OnnoRokom Pathshala",
+      "duration": "7:41",
+      "thumbnail": "https://i.ytimg.com/vi/q9c1oS03Ngo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 04. Preparation of Colloid (কলয়েডের প্রস্তুতি)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "w1pgQzae9-U",
+      "title": "05. Emulsion (অবদ্রবণ) | OnnoRokom Pathshala",
+      "duration": "4:37",
+      "thumbnail": "https://i.ytimg.com/vi/w1pgQzae9-U/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 05. Emulsion (অবদ্রবণ)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "t6W6L-_DQrw",
+      "title": "06. Introduction to the Chemistry of Milk (দুধের রসায়নের সূচনা) | OnnoRokom Pathshala",
+      "duration": "4:14",
+      "thumbnail": "https://i.ytimg.com/vi/t6W6L-_DQrw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 06. Introduction to the Chemistry of Milk (দুধের রসায়নের সূচনা)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "_Xy4S6VfS0o",
+      "title": "07. Composition of Milk (দুধের সংযুক্তি) | OnnoRokom Pathshala",
+      "duration": "6:55",
+      "thumbnail": "https://i.ytimg.com/vi/_Xy4S6VfS0o/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 07. Composition of Milk (দুধের সংযুক্তি)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "u654Tsy1__I",
+      "title": "08. Stability of Colloid (কলয়েডের স্থায়ীত্ব) | OnnoRokom Pathshala",
+      "duration": "11:16",
+      "thumbnail": "https://i.ytimg.com/vi/u654Tsy1__I/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 08. Stability of Colloid (কলয়েডের স্থায়ীত্ব)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "v0L6m9MEqR0",
+      "title": "09. Destabilization of Colloid: Flocculation and Coagulation (ফ্লকুলেশন ও কোয়েগুলেশন)",
+      "duration": "8:29",
+      "thumbnail": "https://i.ytimg.com/vi/v0L6m9MEqR0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 09. Destabilization of Colloid: Flocculation and Coagulation (ফ্লকুলেশন ও কোয়েগুলেশন)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "k6cUtmVM_20",
+      "title": "10. Destabilization of Colloid: Creaming and Coalescence (ক্রিমিং ও কোয়েলেসেন্স)",
+      "duration": "5:35",
+      "thumbnail": "https://i.ytimg.com/vi/k6cUtmVM_20/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 10. Destabilization of Colloid: Creaming and Coalescence (ক্রিমিং ও কোয়েলেসেন্স)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "rVqkfIWQ0bs",
+      "title": "11. Ostwald Ripening (অসওয়াল্ড পরিপক্বতা) | OnnoRokom Pathshala",
+      "duration": "8:46",
+      "thumbnail": "https://i.ytimg.com/vi/rVqkfIWQ0bs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 11. Ostwald Ripening (অসওয়াল্ড পরিপক্বতা)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "V1nKHdZQ_VU",
+      "title": "12. Milk and Emulsion (দুধ ও ইমালশন) | OnnoRokom Pathshala",
+      "duration": "11:38",
+      "thumbnail": "https://i.ytimg.com/vi/V1nKHdZQ_VU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 12. Milk and Emulsion (দুধ ও ইমালশন)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "biWYrhZWgXc",
+      "title": "13. Dairy Products: Curd (দুগ্ধজাত পদার্থ: দই) | OnnoRokom Pathshala",
+      "duration": "3:53",
+      "thumbnail": "https://i.ytimg.com/vi/biWYrhZWgXc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 13. Dairy Products: Curd (দুগ্ধজাত পদার্থ: দই)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "FMjQThKphp4",
+      "title": "14. Production of Butter: Creaming (মাখন প্রস্তুতি: ক্রিমিং) | OnnoRokom Pathshala",
+      "duration": "5:45",
+      "thumbnail": "https://i.ytimg.com/vi/FMjQThKphp4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 14. Production of Butter: Creaming (মাখন প্রস্তুতি: ক্রিমিং)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "InEUJziALXw",
+      "title": "15. Production of Clarified Butter (ঘি প্রস্তুতি) | OnnoRokom Pathshala",
+      "duration": "3:05",
+      "thumbnail": "https://i.ytimg.com/vi/InEUJziALXw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 15. Production of Clarified Butter (ঘি প্রস্তুতি)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Ub1oxeymD7c",
+      "title": "16. Cosmetics: Cold Cream (প্রসাধনী: কোল্ড ক্রিম) | OnnoRokom Pathshala",
+      "duration": "9:30",
+      "thumbnail": "https://i.ytimg.com/vi/Ub1oxeymD7c/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 16. Cosmetics: Cold Cream (প্রসাধনী: কোল্ড ক্রিম)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "eaDzbJzpC3M",
+      "title": "17. Cosmetics: Vanishing Cream (প্রসাধনী: ভ্যানিশিং ক্রিম) | OnnoRokom Pathshala",
+      "duration": "4:51",
+      "thumbnail": "https://i.ytimg.com/vi/eaDzbJzpC3M/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 17. Cosmetics: Vanishing Cream (প্রসাধনী: ভ্যানিশিং ক্রিম)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "5FcbcguoIE8",
+      "title": "18. Mechanism of Cleaning (পরিষ্কারকরণের কৌশল) | OnnoRokom Pathshala",
+      "duration": "16:26",
+      "thumbnail": "https://i.ytimg.com/vi/5FcbcguoIE8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 18. Mechanism of Cleaning (পরিষ্কারকরণের কৌশল)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "FvyNXC21Jug",
+      "title": "19. Toiletries (টয়লেট্রিজ) | OnnoRokom Pathshala",
+      "duration": "5:26",
+      "thumbnail": "https://i.ytimg.com/vi/FvyNXC21Jug/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Application Oriented Chemistry\nLecture: 19. Toiletries (টয়লেট্রিজ)\nSubject: Chemistry\nTopic: Application Oriented Chemistry (প্রায়োগিক রসায়ন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+
+/* Chemistry
+ * Qualitative Chemistry */
+    {
+      "id": "cpFCOu_gcxw",
+      "title": "01. Electron Configuration & Aufbau Principle | ইলেক্ট্রন বিন্যাস এবং আউফবাউ নীতি",
+      "duration": "16:41",
+      "thumbnail": "https://i.ytimg.com/vi/cpFCOu_gcxw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 01. Electron Configuration & Aufbau Principle | ইলেক্ট্রন বিন্যাস এবং আউফবাউ নীতি\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Mo2mATGQSWM",
+      "title": "02. Electron Configuration Exception | ইলেক্ট্রন বিন্যাস এর ব্যতিক্রম | OnnoRokom Pathshala",
+      "duration": "5:35",
+      "thumbnail": "https://i.ytimg.com/vi/Mo2mATGQSWM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 02. Electron Configuration Exception | ইলেক্ট্রন বিন্যাস এর ব্যতিক্রম\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "w0oxPp8thAo",
+      "title": "03. Quantum Number | কোয়ান্টাম সংখ্যা | OnnoRokom Pathshala",
+      "duration": "6:47",
+      "thumbnail": "https://i.ytimg.com/vi/w0oxPp8thAo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 03. Quantum Number | কোয়ান্টাম সংখ্যা\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "jVmqnzEX0G8",
+      "title": "04. Quantum Number & Orbital Number | কোয়ানটাম সংখ্যা এবং অরবিটাল সংখ্যা | OnnoRokom Pathshala",
+      "duration": "11:38",
+      "thumbnail": "https://i.ytimg.com/vi/jVmqnzEX0G8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 04. Quantum Number & Orbital Number | কোয়ানটাম সংখ্যা এবং অরবিটাল সংখ্যা\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "JGXPJU15Kuc",
+      "title": "05. Determination of Quantum Number | কোয়ানটাম সংখ্যা নির্ণয় | OnnoRokom Pathshala",
+      "duration": "5:36",
+      "thumbnail": "https://i.ytimg.com/vi/JGXPJU15Kuc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 05. Determination of Quantum Number | কোয়ানটাম সংখ্যা নির্ণয়\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "6P_UVaIZliE",
+      "title": "01. Qualitative Chemistry - Introduction | গুণগত রসায়ন - ভূমিকা | OnnoRokom Pathshala",
+      "duration": "8:47",
+      "thumbnail": "https://i.ytimg.com/vi/6P_UVaIZliE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 01. Qualitative Chemistry - Introduction | গুণগত রসায়ন - ভূমিকা\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Zd0JblVxYJg",
+      "title": "02. Solute, solvent and solution Part 01 | দ্রব, দ্রাবক ও দ্রবণ পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "9:51",
+      "thumbnail": "https://i.ytimg.com/vi/Zd0JblVxYJg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 02. Solute, solvent and solution Part 01 | দ্রব, দ্রাবক ও দ্রবণ পর্ব ০১\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "t34bjPFStgo",
+      "title": "02. Solute, solvent and solution Part 02 | দ্রব, দ্রাবক ও দ্রবণ পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "7:40",
+      "thumbnail": "https://i.ytimg.com/vi/t34bjPFStgo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 02. Solute, solvent and solution Part 02 | দ্রব, দ্রাবক ও দ্রবণ পর্ব ০২\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "JAvwZPME3PQ",
+      "title": "03. Solubility Product Part 01 | দ্রাব্যতা গুণফল পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "9:32",
+      "thumbnail": "https://i.ytimg.com/vi/JAvwZPME3PQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 03. Solubility Product Part 01 | দ্রাব্যতা গুণফল পর্ব ০১\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "MfMGpB0N4Ls",
+      "title": "03. Solubility Product Part 02 | দ্রাব্যতা গুণফল পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "10:25",
+      "thumbnail": "https://i.ytimg.com/vi/MfMGpB0N4Ls/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 03. Solubility Product Part 02 | দ্রাব্যতা গুণফল পর্ব ০২\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "BGHneNRJwnc",
+      "title": "01. Solubility | দ্রাব্যতা | OnnoRokom Pathshala",
+      "duration": "3:47",
+      "thumbnail": "https://i.ytimg.com/vi/BGHneNRJwnc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 01. Solubility | দ্রাব্যতা\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "N55l9-Qse4E",
+      "title": "02. Solubility & Concentration | দ্রাব্যতা এবং ঘনমাত্রা | OnnoRokom Pathshala",
+      "duration": "2:33",
+      "thumbnail": "https://i.ytimg.com/vi/N55l9-Qse4E/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 02. Solubility & Concentration | দ্রাব্যতা এবং ঘনমাত্রা\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "MyMAL3ChUkI",
+      "title": "03. Effect of Temperature on Solubility | দ্রাব্যতার উপর তাপমাত্রার প্রভাব | OnnoRokom Pathshala",
+      "duration": "4:43",
+      "thumbnail": "https://i.ytimg.com/vi/MyMAL3ChUkI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 03. Effect of Temperature on Solubility | দ্রাব্যতার উপর তাপমাত্রার প্রভাব\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "JSgmTK5FvTY",
+      "title": "04. Solubility Product | দ্রাব্যতার গুণফল | OnnoRokom Pathshala",
+      "duration": "10:10",
+      "thumbnail": "https://i.ytimg.com/vi/JSgmTK5FvTY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 04. Solubility Product | দ্রাব্যতার গুণফল\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "x8q9z9t655c",
+      "title": "05. Solubility Product & PPT | দ্রাব্যতার গুণফল ও অধক্ষেপ | OnnoRokom Pathshala",
+      "duration": "10:56",
+      "thumbnail": "https://i.ytimg.com/vi/x8q9z9t655c/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 05. Solubility Product & PPT | দ্রাব্যতার গুণফল ও অধক্ষেপ\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "E_g3bYTgzLI",
+      "title": "Group Analysis Part 01 | গ্রুপ বিশ্লেষণ পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "8:06",
+      "thumbnail": "https://i.ytimg.com/vi/E_g3bYTgzLI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: Group Analysis Part 01 | গ্রুপ বিশ্লেষণ পর্ব ০১\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "NvODI00Ugls",
+      "title": "Group Analysis Part 02 | গ্রুপ বিশ্লেষণ পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "17:03",
+      "thumbnail": "https://i.ytimg.com/vi/NvODI00Ugls/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: Group Analysis Part 02 | গ্রুপ বিশ্লেষণ পর্ব ০২\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "OPEqYcJNjLk",
+      "title": "Group Analysis Part 03 | গ্রুপ বিশ্লেষণ পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "6:51",
+      "thumbnail": "https://i.ytimg.com/vi/OPEqYcJNjLk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: Group Analysis Part 03 | গ্রুপ বিশ্লেষণ পর্ব ০৩\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "YWbyVagYteo",
+      "title": "Group Analysis Part 04 | গ্রুপ বিশ্লেষণ পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "15:06",
+      "thumbnail": "https://i.ytimg.com/vi/YWbyVagYteo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: Group Analysis Part 04 | গ্রুপ বিশ্লেষণ পর্ব ০৪\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "oDWvcb4ZQ5I",
+      "title": "Group Analysis Part 05 | গ্রুপ বিশ্লেষণ পর্ব ০৫ | OnnoRokom Pathshala",
+      "duration": "9:21",
+      "thumbnail": "https://i.ytimg.com/vi/oDWvcb4ZQ5I/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: Group Analysis Part 05 | গ্রুপ বিশ্লেষণ পর্ব ০৫\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "2dVbW44YL0s",
+      "title": "Group Analysis Part 06 | গ্রুপ বিশ্লেষণ পর্ব ০৬ | OnnoRokom Pathshala",
+      "duration": "9:17",
+      "thumbnail": "https://i.ytimg.com/vi/2dVbW44YL0s/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: Group Analysis Part 06 | গ্রুপ বিশ্লেষণ পর্ব ০৬\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "xU5pv9IALEo",
+      "title": "Chromatography Part 01 | ক্রোম্যাটোগ্রাফি পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "13:08",
+      "thumbnail": "https://i.ytimg.com/vi/xU5pv9IALEo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: Chromatography Part 01 | ক্রোম্যাটোগ্রাফি পর্ব ০১\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "zeWbGIME8gY",
+      "title": "Chromatography Part 02 | ক্রোম্যাটোগ্রাফি পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "4:41",
+      "thumbnail": "https://i.ytimg.com/vi/zeWbGIME8gY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: Chromatography Part 02 | ক্রোম্যাটোগ্রাফি পর্ব ০২\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "XOi8vu8v3-g",
+      "title": "Chromatography Part 03 | ক্রোম্যাটোগ্রাফি পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "16:52",
+      "thumbnail": "https://i.ytimg.com/vi/XOi8vu8v3-g/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: Chromatography Part 03 | ক্রোম্যাটোগ্রাফি পর্ব ০৩\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "8yyq8pNrwrk",
+      "title": "Chromatography Part 04 | ক্রোম্যাটোগ্রাফি পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "9:53",
+      "thumbnail": "https://i.ytimg.com/vi/8yyq8pNrwrk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: Chromatography Part 04 | ক্রোম্যাটোগ্রাফি পর্ব ০৪\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "v38FsPmNh0g",
+      "title": "Chromatography Part 05 | ক্রোম্যাটোগ্রাফি পর্ব ০৫ | OnnoRokom Pathshala",
+      "duration": "7:29",
+      "thumbnail": "https://i.ytimg.com/vi/v38FsPmNh0g/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: Chromatography Part 05 | ক্রোম্যাটোগ্রাফি পর্ব ০৫\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "QICs5MIfk5A",
+      "title": "Spectroscopy Part 01 | বর্ণালিমিতি পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "11:56",
+      "thumbnail": "https://i.ytimg.com/vi/QICs5MIfk5A/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: Spectroscopy Part 01 | বর্ণালিমিতি পর্ব ০১\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "LFOtDwDpclE",
+      "title": "Spectroscopy Part 02 | বর্ণালিমিতি পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "11:30",
+      "thumbnail": "https://i.ytimg.com/vi/LFOtDwDpclE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: Spectroscopy Part 02 | বর্ণালিমিতি পর্ব ০২\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "9HXPv79aXKI",
+      "title": "Spectroscopy Part 03 | বর্ণালিমিতি পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "18:47",
+      "thumbnail": "https://i.ytimg.com/vi/9HXPv79aXKI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: Spectroscopy Part 03 | বর্ণালিমিতি পর্ব ০৩\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "XOxTIuq3EYw",
+      "title": "Spectroscopy Part 04 | বর্ণালিমিতি পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "9:34",
+      "thumbnail": "https://i.ytimg.com/vi/XOxTIuq3EYw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: Spectroscopy Part 04 | বর্ণালিমিতি পর্ব ০৪\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "6tGRDusAn0U",
+      "title": "01. Introduction to Solvent Extraction | দ্রাবক নিষ্কাশনের সাধারণ আলোচনা | OnnoRokom Pathshala",
+      "duration": "9:40",
+      "thumbnail": "https://i.ytimg.com/vi/6tGRDusAn0U/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 01. Introduction to Solvent Extraction | দ্রাবক নিষ্কাশনের সাধারণ আলোচনা\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "yfc-6wOQlSw",
+      "title": "02. Distribution Co-efficient & Batch Extraction | বন্টন গুনাংক ও ব্যাচ নিষ্কাশন",
+      "duration": "14:04",
+      "thumbnail": "https://i.ytimg.com/vi/yfc-6wOQlSw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 02. Distribution Co-efficient & Batch Extraction | বন্টন গুনাংক ও ব্যাচ নিষ্কাশন\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "y-kUGmSdqZg",
+      "title": "03. Mathematical Problems of Solvent Extraction Part 01 | দ্রাবক নিষ্কাশনের গাণিতিক সমস্যা পর্ব ০১",
+      "duration": "7:06",
+      "thumbnail": "https://i.ytimg.com/vi/y-kUGmSdqZg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 03. Mathematical Problems of Solvent Extraction Part 01 | দ্রাবক নিষ্কাশনের গাণিতিক সমস্যা পর্ব ০১\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "8VdsTlhh4oU",
+      "title": "03. Mathematical Problems of Solvent Extraction Part 02 | দ্রাবক নিষ্কাশনের গাণিতিক সমস্যা পর্ব ০২",
+      "duration": "12:19",
+      "thumbnail": "https://i.ytimg.com/vi/8VdsTlhh4oU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Qualitative Chemistry\nLecture: 03. Mathematical Problems of Solvent Extraction Part 02 | দ্রাবক নিষ্কাশনের গাণিতিক সমস্যা পর্ব ০২\nSubject: Chemistry\nTopic: Qualitative Chemistry (গুণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+
+/* Chemistry
+ * Chemical Changes */
+    {
+      "id": "BkYvImpmDaw",
+      "title": "01. Introduction | প্রাথমিক আলোচনা | OnnoRokom Pathshala",
+      "duration": "15:29",
+      "thumbnail": "https://i.ytimg.com/vi/BkYvImpmDaw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 01. Introduction | প্রাথমিক আলোচনা\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "8kxmZHH5B8E",
+      "title": "02. Thermodynamics_01 Enthalpy | তাপগতিবিদ্যা-০১ এনথালপি | OnnoRokom Pathshala",
+      "duration": "10:08",
+      "thumbnail": "https://i.ytimg.com/vi/8kxmZHH5B8E/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 02. Thermodynamics_01 Enthalpy | তাপগতিবিদ্যা-০১ এনথালপি\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "2NHNYnLtx7o",
+      "title": "02. Thermodynamics_01 Enthalpy Math | তাপগতিবিদ্যা-০১ এনথালপি গাণিতিক সমস্যা | OnnoRokom Pathshala",
+      "duration": "12:57",
+      "thumbnail": "https://i.ytimg.com/vi/2NHNYnLtx7o/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 02. Thermodynamics_01 Enthalpy Math | তাপগতিবিদ্যা-০১ এনথালপি গাণিতিক সমস্যা\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "gRKXhlSik2U",
+      "title": "03. Thermodynamics_02 Enthalpic Reaction | তাপগতিবিদ্যা-০২ এনথালপি সংক্রান্ত বিক্রিয়া",
+      "duration": "15:09",
+      "thumbnail": "https://i.ytimg.com/vi/gRKXhlSik2U/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 03. Thermodynamics_02 Enthalpic Reaction | তাপগতিবিদ্যা-০২ এনথালপি সংক্রান্ত বিক্রিয়া\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Lf4Dw5sjTLE",
+      "title": "04. Thermodynamics_03 Math Hess Law | তাপগতিবিদ্যা-০২ হেসের সূত্র (গাণিতিক সমস্যা)",
+      "duration": "9:05",
+      "thumbnail": "https://i.ytimg.com/vi/Lf4Dw5sjTLE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 04. Thermodynamics_03 Math Hess Law | তাপগতিবিদ্যা-০২ হেসের সূত্র (গাণিতিক সমস্যা)\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "JLA9NO4ql50",
+      "title": "05. Chemical Kinetics Part 01 | রাসায়নিক গতিবিদ্যা পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "13:15",
+      "thumbnail": "https://i.ytimg.com/vi/JLA9NO4ql50/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 05. Chemical Kinetics Part 01 | রাসায়নিক গতিবিদ্যা পর্ব ০১\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "WxQPP5hCriU",
+      "title": "05. Chemical Kinetics Part 02 | রাসায়নিক গতিবিদ্যা পর্ব ০২ | OnnoRokom Pathshal",
+      "duration": "16:35",
+      "thumbnail": "https://i.ytimg.com/vi/WxQPP5hCriU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 05. Chemical Kinetics Part 02 | রাসায়নিক গতিবিদ্যা পর্ব ০২\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "BTUfG3cy8Uw",
+      "title": "05. Chemical Kinetics Part 03 | রাসায়নিক গতিবিদ্যা পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "13:00",
+      "thumbnail": "https://i.ytimg.com/vi/BTUfG3cy8Uw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 05. Chemical Kinetics Part 03 | রাসায়নিক গতিবিদ্যা পর্ব ০৩\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "BO1lzIegZWo",
+      "title": "01. Chemical Equilibrium_01 Introduction | রাসায়নিক সাম্যাবস্থা-০১ ভূমিকা | OnnoRokom Pathshala",
+      "duration": "11:31",
+      "thumbnail": "https://i.ytimg.com/vi/BO1lzIegZWo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 01. Chemical Equilibrium_01 Introduction | রাসায়নিক সাম্যাবস্থা-০১ ভূমিকা\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "bvt8hXvc45o",
+      "title": "02. Chemical Equilibrium_02 - Le-Chatelier Principle | রাসায়নিক সাম্যাবস্থা-০২ - লা-শাতেলীয়ে নীতি",
+      "duration": "19:49",
+      "thumbnail": "https://i.ytimg.com/vi/bvt8hXvc45o/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 02. Chemical Equilibrium_02 - Le-Chatelier Principle | রাসায়নিক সাম্যাবস্থা-০২ - লা-শাতেলীয়ে নীতি\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "wyawNX3mjW8",
+      "title": "03. Chemical Equilibrium_03 Application | রাসায়নিক সাম্যাবস্থা-০৩ প্রয়োগ | OnnoRokom Pathshala",
+      "duration": "13:18",
+      "thumbnail": "https://i.ytimg.com/vi/wyawNX3mjW8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 03. Chemical Equilibrium_03 Application | রাসায়নিক সাম্যাবস্থা-০৩ প্রয়োগ\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "5ByQwArT3O8",
+      "title": "04. Chemical Equilibrium_04 Math | রাসায়নিক সাম্যাবস্থা-০৪ গাণিতিক সমস্যা | OnnoRokom Pathshala",
+      "duration": "6:12",
+      "thumbnail": "https://i.ytimg.com/vi/5ByQwArT3O8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 04. Chemical Equilibrium_04 Math | রাসায়নিক সাম্যাবস্থা-০৪ গাণিতিক সমস্যা\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "NHFzABjcNv4",
+      "title": "05. অম্ল-ক্ষারক সাম্যাবস্থা-১ আয়নিক গুণফল এবং অম্ল-ক্ষারক ধারণা | OnnoRokom Pathshala",
+      "duration": "12:59",
+      "thumbnail": "https://i.ytimg.com/vi/NHFzABjcNv4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 05. অম্ল-ক্ষারক সাম্যাবস্থা-১ আয়নিক গুণফল এবং অম্ল-ক্ষারক ধারণা\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "T8x8EIQgfr0",
+      "title": "06. অম্ল-ক্ষারক সাম্যাবস্থা-০২ এসিডের মৌলিক বিষয় সমূহ | OnnoRokom Pathshala",
+      "duration": "12:12",
+      "thumbnail": "https://i.ytimg.com/vi/T8x8EIQgfr0/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 06. অম্ল-ক্ষারক সাম্যাবস্থা-০২ এসিডের মৌলিক বিষয় সমূহ\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "31goZ0g-yts",
+      "title": "07. অম্ল-ক্ষারক সাম্যাবস্থা-০৩ বাফার দ্রবণ পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "8:33",
+      "thumbnail": "https://i.ytimg.com/vi/31goZ0g-yts/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 07. অম্ল-ক্ষারক সাম্যাবস্থা-০৩ বাফার দ্রবণ পর্ব ০১\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "kgmBbzIhKLw",
+      "title": "07. অম্ল-ক্ষারক সাম্যাবস্থা-০৩ বাফার দ্রবণ পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "9:49",
+      "thumbnail": "https://i.ytimg.com/vi/kgmBbzIhKLw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 07. অম্ল-ক্ষারক সাম্যাবস্থা-০৩ বাফার দ্রবণ পর্ব ০২\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "8gKu7Kz1j2A",
+      "title": "08. Acid-Base Equilibrium_04 Math | অম্ল-ক্ষারক সাম্যাবস্থা-০৪ গাণিতিক সমস্যা | OnnoRokom Pathshala",
+      "duration": "14:24",
+      "thumbnail": "https://i.ytimg.com/vi/8gKu7Kz1j2A/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 08. Acid-Base Equilibrium_04 Math | অম্ল-ক্ষারক সাম্যাবস্থা-০৪ গাণিতিক সমস্যা\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "LcYiEghDC1I",
+      "title": "09. Acid-Base Equilibrium_05 Importance | অম্ল-ক্ষারক সাম্যাবস্থা-০৫ গুরুত্ব | OnnoRokom Pathshala",
+      "duration": "7:21",
+      "thumbnail": "https://i.ytimg.com/vi/LcYiEghDC1I/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Chemical Changes\nLecture: 09. Acid-Base Equilibrium_05 Importance | অম্ল-ক্ষারক সাম্যাবস্থা-০৫ গুরুত্ব\nSubject: Chemistry\nTopic: Chemical Changes (রাসায়নিক পরিবর্তন)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+
+/* Chemistry
+ * Quantitative Chemistry */
+    {
+      "id": "acVR7DAEacQ",
+      "title": "01. Mol | মোল | OnnoRokom Pathshala",
+      "duration": "14:30",
+      "thumbnail": "https://i.ytimg.com/vi/acVR7DAEacQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Quantitative Chemistry\nLecture: 01. Mol | মোল\nSubject: Chemistry\nTopic: Quantitative Chemistry (পরিমাণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "PoFG1KY00Os",
+      "title": "02. Chemical Equation Related Problems | রাসায়নিক সমীকরণ ভিত্তিক সমস্যা",
+      "duration": "21:59",
+      "thumbnail": "https://i.ytimg.com/vi/PoFG1KY00Os/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Quantitative Chemistry\nLecture: 02. Chemical Equation Related Problems | রাসায়নিক সমীকরণ ভিত্তিক সমস্যা\nSubject: Chemistry\nTopic: Quantitative Chemistry (পরিমাণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "G_B-srpxmmQ",
+      "title": "03. Concentration (Molarity and Molality) | ঘনমাত্রা (মোলারিটি ও মোলালিটি)",
+      "duration": "18:05",
+      "thumbnail": "https://i.ytimg.com/vi/G_B-srpxmmQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Quantitative Chemistry\nLecture: 03. Concentration (Molarity and Molality) | ঘনমাত্রা (মোলারিটি ও মোলালিটি)\nSubject: Chemistry\nTopic: Quantitative Chemistry (পরিমাণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "PuusX2hZTN8",
+      "title": "04. Concentration (PPM, PPB and Percentage) | ঘনমাত্রা (পিপিএম, পিপিবি ও শতকরা)",
+      "duration": "16:57",
+      "thumbnail": "https://i.ytimg.com/vi/PuusX2hZTN8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Quantitative Chemistry\nLecture: 04. Concentration (PPM, PPB and Percentage) | ঘনমাত্রা (পিপিএম, পিপিবি ও শতকরা)\nSubject: Chemistry\nTopic: Quantitative Chemistry (পরিমাণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "KKN311sv-Ow",
+      "title": "05. Concentration (Normality) | ঘনমাত্রা (নরমালিটি)",
+      "duration": "10:55",
+      "thumbnail": "https://i.ytimg.com/vi/KKN311sv-Ow/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Quantitative Chemistry\nLecture: 05. Concentration (Normality) | ঘনমাত্রা (নরমালিটি)\nSubject: Chemistry\nTopic: Quantitative Chemistry (পরিমাণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "M8mHqmTgkmY",
+      "title": "06. Equivalent Weight and Number | তুল্য ভর ও তুল্য সংখ্যা",
+      "duration": "7:22",
+      "thumbnail": "https://i.ytimg.com/vi/M8mHqmTgkmY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Quantitative Chemistry\nLecture: 06. Equivalent Weight and Number | তুল্য ভর ও তুল্য সংখ্যা\nSubject: Chemistry\nTopic: Quantitative Chemistry (পরিমাণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "3Hxm1tZgNjs",
+      "title": "07. Titration | টাইট্রেশন | OnnoRokom Pathshala",
+      "duration": "10:03",
+      "thumbnail": "https://i.ytimg.com/vi/3Hxm1tZgNjs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Quantitative Chemistry\nLecture: 07. Titration | টাইট্রেশন\nSubject: Chemistry\nTopic: Quantitative Chemistry (পরিমাণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "EwUi4mLrOWQ",
+      "title": "08. Mathematical Problems (Titration) | গাণিতিক সমস্যা (টাইট্রেশন)",
+      "duration": "13:03",
+      "thumbnail": "https://i.ytimg.com/vi/EwUi4mLrOWQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Quantitative Chemistry\nLecture: 08. Mathematical Problems (Titration) | গাণিতিক সমস্যা (টাইট্রেশন)\nSubject: Chemistry\nTopic: Quantitative Chemistry (পরিমাণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "wXjEoeN7vPs",
+      "title": "09. Indicator | নির্দেশক | OnnoRokom Pathshala",
+      "duration": "8:56",
+      "thumbnail": "https://i.ytimg.com/vi/wXjEoeN7vPs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Quantitative Chemistry\nLecture: 09. Indicator | নির্দেশক\nSubject: Chemistry\nTopic: Quantitative Chemistry (পরিমাণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "unZMflvHF9E",
+      "title": "10. Redox (Concept) | জারণ-বিজারণ (ধারণা) | OnnoRokom Pathshala",
+      "duration": "16:13",
+      "thumbnail": "https://i.ytimg.com/vi/unZMflvHF9E/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Quantitative Chemistry\nLecture: 10. Redox (Concept) | জারণ-বিজারণ (ধারণা)\nSubject: Chemistry\nTopic: Quantitative Chemistry (পরিমাণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "rYp0kPlCztE",
+      "title": "11. Redox (Reaction) | জারণ-বিজারণ (বিক্রিয়া) | OnnoRokom Pathshala",
+      "duration": "23:37",
+      "thumbnail": "https://i.ytimg.com/vi/rYp0kPlCztE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Quantitative Chemistry\nLecture: 11. Redox (Reaction) | জারণ-বিজারণ (বিক্রিয়া)\nSubject: Chemistry\nTopic: Quantitative Chemistry (পরিমাণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "V54XOnxSe6I",
+      "title": "12. Mathematical Problem (Redox) | গাণিতিক সমস্যা (জারণ-বিজারণ)",
+      "duration": "6:51",
+      "thumbnail": "https://i.ytimg.com/vi/V54XOnxSe6I/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Quantitative Chemistry\nLecture: 12. Mathematical Problem (Redox) | গাণিতিক সমস্যা (জারণ-বিজারণ)\nSubject: Chemistry\nTopic: Quantitative Chemistry (পরিমাণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "djg0hzq7-xU",
+      "title": "13. Iodimetry and Iodometry | আয়োডিমিতি ও আয়োডোমিতি | OnnoRokom Pathshala",
+      "duration": "7:51",
+      "thumbnail": "https://i.ytimg.com/vi/djg0hzq7-xU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Quantitative Chemistry\nLecture: 13. Iodimetry and Iodometry | আয়োডিমিতি ও আয়োডোমিতি\nSubject: Chemistry\nTopic: Quantitative Chemistry (পরিমাণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "hWLxSg3vIn8",
+      "title": "14. Beer-Lambert Law | বিয়ার-ল্যাম্বার্ট সূত্র",
+      "duration": "16:08",
+      "thumbnail": "https://i.ytimg.com/vi/hWLxSg3vIn8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Quantitative Chemistry\nLecture: 14. Beer-Lambert Law | বিয়ার-ল্যাম্বার্ট সূত্র\nSubject: Chemistry\nTopic: Quantitative Chemistry (পরিমাণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "BQK8Q4rqWv4",
+      "title": "15. Chromatography | ক্রোমাটোগ্রাফি | OnnoRokom Pathshala",
+      "duration": "16:15",
+      "thumbnail": "https://i.ytimg.com/vi/BQK8Q4rqWv4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: Quantitative Chemistry\nLecture: 15. Chromatography | ক্রোমাটোগ্রাফি\nSubject: Chemistry\nTopic: Quantitative Chemistry (পরিমাণগত রসায়ন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
   ],
   playlists:   [{
       "id": "Physics_Vectors_02",
@@ -8884,6 +9994,190 @@ export const ONNOROKOM = {
         "2-z8NanXtDQ",
         "u4J-VhK22MA",
         "9YI9FHouAYc"
+      ]
+    },
+    {
+      "id": "Chemistry_Electrochemistry_01",
+      "title": "Chemistry Electrochemistry (তড়িৎ রসায়ন)",
+      "videoCount": 14,
+      "thumbnail": "https://i.ytimg.com/vi/F9gfQO8BGro/hqdefault.jpg",
+      "updatedText": "Updated today",
+      "videos": [
+        "F9gfQO8BGro",
+        "_m3YgpJ8Rl8",
+        "vZFIljgq7tQ",
+        "Eq7vK2sD6yI",
+        "5vYRFK1wgYc",
+        "-IUqWb_QL1Y",
+        "9ukNxMp2FCw",
+        "mljixpbneAo",
+        "c8bBL4R3vLc",
+        "2g5YvnMg9-o",
+        "66GdHwsx7Kg",
+        "InBzdH93uD8",
+        "iMf1FOL48Ec",
+        "bVUkj3tdHvk"
+      ]
+    },
+    {
+      "id": "Chemistry_Gas_Laws_01",
+      "title": "Chemistry Gas Laws (গ্যাসের সূত্রাবলি)",
+      "videoCount": 7,
+      "thumbnail": "https://i.ytimg.com/vi/XUnCpBxOY2M/hqdefault.jpg",
+      "updatedText": "Updated today",
+      "videos": [
+        "XUnCpBxOY2M",
+        "-GqVxj8qLsU",
+        "zDb_Tm79EJQ",
+        "fSfi5nSZ1_I",
+        "532KR5ofLaU",
+        "ndqZneU-0_Q",
+        "YyP11da_pAg"
+      ]
+    },
+    {
+      "id": "Chemistry_Economic_Chemistry_01",
+      "title": "Chemistry Economic Chemistry (অর্থনৈতিক রসায়ন)",
+      "videoCount": 14,
+      "thumbnail": "https://i.ytimg.com/vi/jrSfXfBv_us/hqdefault.jpg",
+      "updatedText": "Updated today",
+      "videos": [
+        "jrSfXfBv_us",
+        "HGHVePUUl-U",
+        "hQxfsDZfOjM",
+        "thmG0qd0zqI",
+        "42aScYyDUfU",
+        "1n1SVC6KvR4",
+        "aeFWB0nFR2I",
+        "e1B_jd-KuOI",
+        "WnqOa0ba6JE",
+        "6UEX0s0QE48",
+        "Q1wJhDolg0o",
+        "5z_K73A5KD8",
+        "7KkIAUVPdOQ",
+        "WBSg-a7bd9E"
+      ]
+    },
+    {
+      "id": "Chemistry_Application_Oriented_01",
+      "title": "Chemistry Application Oriented Chemistry (প্রায়োগিক রসায়ন)",
+      "videoCount": 19,
+      "thumbnail": "https://i.ytimg.com/vi/4juClaubg9k/hqdefault.jpg",
+      "updatedText": "Updated today",
+      "videos": [
+        "4juClaubg9k",
+        "U8QBZqhuZ_A",
+        "FveAkH6XhH8",
+        "q9c1oS03Ngo",
+        "w1pgQzae9-U",
+        "t6W6L-_DQrw",
+        "_Xy4S6VfS0o",
+        "u654Tsy1__I",
+        "v0L6m9MEqR0",
+        "k6cUtmVM_20",
+        "rVqkfIWQ0bs",
+        "V1nKHdZQ_VU",
+        "biWYrhZWgXc",
+        "FMjQThKphp4",
+        "InEUJziALXw",
+        "Ub1oxeymD7c",
+        "eaDzbJzpC3M",
+        "5FcbcguoIE8",
+        "FvyNXC21Jug"
+      ]
+    },
+    {
+      "id": "Chemistry_Qualitative_01",
+      "title": "Chemistry Qualitative Chemistry (গুণগত রসায়ন)",
+      "videoCount": 34,
+      "thumbnail": "https://i.ytimg.com/vi/cpFCOu_gcxw/hqdefault.jpg",
+      "updatedText": "Updated today",
+      "videos": [
+        "cpFCOu_gcxw",
+        "Mo2mATGQSWM",
+        "w0oxPp8thAo",
+        "jVmqnzEX0G8",
+        "JGXPJU15Kuc",
+        "6P_UVaIZliE",
+        "Zd0JblVxYJg",
+        "t34bjPFStgo",
+        "JAvwZPME3PQ",
+        "MfMGpB0N4Ls",
+        "BGHneNRJwnc",
+        "N55l9-Qse4E",
+        "MyMAL3ChUkI",
+        "JSgmTK5FvTY",
+        "x8q9z9t655c",
+        "E_g3bYTgzLI",
+        "NvODI00Ugls",
+        "OPEqYcJNjLk",
+        "YWbyVagYteo",
+        "oDWvcb4ZQ5I",
+        "2dVbW44YL0s",
+        "xU5pv9IALEo",
+        "zeWbGIME8gY",
+        "XOi8vu8v3-g",
+        "8yyq8pNrwrk",
+        "v38FsPmNh0g",
+        "QICs5MIfk5A",
+        "LFOtDwDpclE",
+        "9HXPv79aXKI",
+        "XOxTIuq3EYw",
+        "6tGRDusAn0U",
+        "yfc-6wOQlSw",
+        "y-kUGmSdqZg",
+        "8VdsTlhh4oU"
+      ]
+    },
+    {
+      "id": "Chemistry_Chemical_Changes_01",
+      "title": "Chemistry Chemical Changes (রাসায়নিক পরিবর্তন)",
+      "videoCount": 18,
+      "thumbnail": "https://i.ytimg.com/vi/BkYvImpmDaw/hqdefault.jpg",
+      "updatedText": "Updated today",
+      "videos": [
+        "BkYvImpmDaw",
+        "8kxmZHH5B8E",
+        "2NHNYnLtx7o",
+        "gRKXhlSik2U",
+        "Lf4Dw5sjTLE",
+        "JLA9NO4ql50",
+        "WxQPP5hCriU",
+        "BTUfG3cy8Uw",
+        "BO1lzIegZWo",
+        "bvt8hXvc45o",
+        "wyawNX3mjW8",
+        "5ByQwArT3O8",
+        "NHFzABjcNv4",
+        "T8x8EIQgfr0",
+        "31goZ0g-yts",
+        "kgmBbzIhKLw",
+        "8gKu7Kz1j2A",
+        "LcYiEghDC1I"
+      ]
+    },
+    {
+      "id": "Chemistry_Quantitative_01",
+      "title": "Chemistry Quantitative Chemistry (পরিমাণগত রসায়ন)",
+      "videoCount": 15,
+      "thumbnail": "https://i.ytimg.com/vi/acVR7DAEacQ/hqdefault.jpg",
+      "updatedText": "Updated today",
+      "videos": [
+        "acVR7DAEacQ",
+        "PoFG1KY00Os",
+        "G_B-srpxmmQ",
+        "PuusX2hZTN8",
+        "KKN311sv-Ow",
+        "M8mHqmTgkmY",
+        "3Hxm1tZgNjs",
+        "EwUi4mLrOWQ",
+        "wXjEoeN7vPs",
+        "unZMflvHF9E",
+        "rYp0kPlCztE",
+        "V54XOnxSe6I",
+        "djg0hzq7-xU",
+        "hWLxSg3vIn8",
+        "BQK8Q4rqWv4"
       ]
     },
     {
