@@ -7504,6 +7504,462 @@ export const ONNOROKOM = {
       "channelName": "OnnoRokom Pathshala",
       "description": "Video Title: OnnoRokom Pathshala_Higher Mathematics\nLecture: 16. Rectangular Hyperbola | আয়তাকার অধিবৃত্ত\nSubject: Higher Mathematics\nTopic: Conics (কনিক)\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
     },
+
+/* Higher Mathematics
+ * Permutation & Combination */
+    {
+      "id": "VTZHMZ3MmfA",
+      "title": "01. Multiplication Rule | গণনার গুণন বিধি | OnnoRokom Pathshala",
+      "duration": "8:03",
+      "thumbnail": "https://i.ytimg.com/vi/VTZHMZ3MmfA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 01. Multiplication Rule | গণনার গুণন বিধি\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "LcNnoUp22Nk",
+      "title": "02. Basic Formula-1 Part 01 | মূল সূত্র-০১ পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "9:57",
+      "thumbnail": "https://i.ytimg.com/vi/LcNnoUp22Nk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 02. Basic Formula-1 Part 01 | মূল সূত্র-০১ পর্ব ০১\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "9Y5d0yqciHQ",
+      "title": "02. Basic Formula-1 Part 02 | মূল সূত্র-০১ পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "10:34",
+      "thumbnail": "https://i.ytimg.com/vi/9Y5d0yqciHQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 02. Basic Formula-1 Part 02 | মূল সূত্র-০১ পর্ব ০২\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "MVYRWb0KdFM",
+      "title": "02. Basic Formula-2 | মূল সূত্র-০২ | OnnoRokom Pathshala",
+      "duration": "10:41",
+      "thumbnail": "https://i.ytimg.com/vi/MVYRWb0KdFM/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 02. Basic Formula-2 | মূল সূত্র-০২\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Dwu3DzbEUfY",
+      "title": "02. Basic Formula-3 | মূল সূত্র-০৩ | OnnoRokom Pathshala",
+      "duration": "16:05",
+      "thumbnail": "https://i.ytimg.com/vi/Dwu3DzbEUfY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 02. Basic Formula-3 | মূল সূত্র-০৩\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "AxXwVhTb3BE",
+      "title": "03. Some Problems | একগাদা অংক | OnnoRokom Pathshala",
+      "duration": "11:15",
+      "thumbnail": "https://i.ytimg.com/vi/AxXwVhTb3BE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 03. Some Problems | একগাদা অংক\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "vdiJYyK-gw",
+      "title": "04. Problems Related to Numbers | সংখ্যা সংক্রান্ত কিছু অংক | OnnoRokom Pathshala",
+      "duration": "10:30",
+      "thumbnail": "https://i.ytimg.com/vi/vdiJYyK-gw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 04. Problems Related to Numbers | সংখ্যা সংক্রান্ত কিছু অংক\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "XojFLY2Qx6o",
+      "title": "05. Repetitive Permutation Part 01 | পুনরাবৃত্তি সংক্রান্ত বিন্যাস পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "7:39",
+      "thumbnail": "https://i.ytimg.com/vi/XojFLY2Qx6o/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 05. Repetitive Permutation Part 01 | পুনরাবৃত্তি সংক্রান্ত বিন্যাস পর্ব ০১\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "jsq7xWX_p9o",
+      "title": "05. Repetitive Permutation Part 02 | পুনরাবৃত্তি সংক্রান্ত বিন্যাস পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "6:37",
+      "thumbnail": "https://i.ytimg.com/vi/jsq7xWX_p9o/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 05. Repetitive Permutation Part 02 | পুনরাবৃত্তি সংক্রান্ত বিন্যাস পর্ব ০২\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "InaWT2BvHhI",
+      "title": "06. Circular Permutation | চাক্রিক বিন্যাস | OnnoRokom Pathshala",
+      "duration": "10:57",
+      "thumbnail": "https://i.ytimg.com/vi/InaWT2BvHhI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 06. Circular Permutation | চাক্রিক বিন্যাস\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "wREjfM9GmPk",
+      "title": "07. Some Nice Problems Part 01 | কিছু সুন্দর অংক পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "10:47",
+      "thumbnail": "https://i.ytimg.com/vi/wREjfM9GmPk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 07. Some Nice Problems Part 01 | কিছু সুন্দর অংক পর্ব ০১\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "TLVNq45VdSY",
+      "title": "07. Some Nice Problems Part 02 | কিছু সুন্দর অংক পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "10:09",
+      "thumbnail": "https://i.ytimg.com/vi/TLVNq45VdSY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 07. Some Nice Problems Part 02 | কিছু সুন্দর অংক পর্ব ০২\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "G7jxBXOQJgs",
+      "title": "08. Number of Factors | উৎপাদক সংখ্যা | OnnoRokom Pathshala",
+      "duration": "13:32",
+      "thumbnail": "https://i.ytimg.com/vi/G7jxBXOQJgs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 08. Number of Factors | উৎপাদক সংখ্যা\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "xFhogXqV_1M",
+      "title": "09. Principle of Inclusion Exclusion | অন্তর্ভুক্তি নীতির ব্যতিক্রম | OnnoRokom Pathshala",
+      "duration": "10:14",
+      "thumbnail": "https://i.ytimg.com/vi/xFhogXqV_1M/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 09. Principle of Inclusion Exclusion | অন্তর্ভুক্তি নীতির ব্যতিক্রম\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "cdFaVOSKmfY",
+      "title": "10. Pigeonhole Principle | পায়রা গর্ত নীতি | OnnoRokom Pathshala",
+      "duration": "5:03",
+      "thumbnail": "https://i.ytimg.com/vi/cdFaVOSKmfY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 10. Pigeonhole Principle | পায়রা গর্ত নীতি\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "e3hX0pjKbAg",
+      "title": "01. Difference Between Combination and Permutation | সমাবেশ ও বিন্যাসের পার্থক্য",
+      "duration": "4:36",
+      "thumbnail": "https://i.ytimg.com/vi/e3hX0pjKbAg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 01. Difference Between Combination and Permutation | সমাবেশ ও বিন্যাসের পার্থক্য\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "FboQy_p6G1c",
+      "title": "02. Complementary Combination | সম্পূরক সমাবেশ | OnnoRokom Pathshala",
+      "duration": "9:24",
+      "thumbnail": "https://i.ytimg.com/vi/FboQy_p6G1c/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 02. Complementary Combination | সম্পূরক সমাবেশ\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "nEALBWOCTeE",
+      "title": "03. Pascal's Identity | প্যাসকেলের অভেদ | OnnoRokom Pathshala",
+      "duration": "11:11",
+      "thumbnail": "https://i.ytimg.com/vi/nEALBWOCTeE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 03. Pascal's Identity | প্যাসকেলের অভেদ\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "urJeMVbiMHk",
+      "title": "04. Random Math | রেন্ডম অংক | OnnoRokom Pathshala",
+      "duration": "3:50",
+      "thumbnail": "https://i.ytimg.com/vi/urJeMVbiMHk/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 04. Random Math | রেন্ডম অংক\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "RwmZgqjztqo",
+      "title": "05. Straight Line and Formation of Polygon | সরলরেখা এবং বহুভুজ গঠন | OnnoRokom Pathshala",
+      "duration": "9:03",
+      "thumbnail": "https://i.ytimg.com/vi/RwmZgqjztqo/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 05. Straight Line and Formation of Polygon | সরলরেখা এবং বহুভুজ গঠন\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "_pyDHqBsNiU",
+      "title": "06. Number of Diagonals | কর্ণ সংখ্যা | OnnoRokom Pathshala",
+      "duration": "12:12",
+      "thumbnail": "https://i.ytimg.com/vi/_pyDHqBsNiU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 06. Number of Diagonals | কর্ণ সংখ্যা\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "YqKm55_cnX8",
+      "title": "07. Letters from Words Part 01 | শব্দ থেকে অক্ষর পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "9:33",
+      "thumbnail": "https://i.ytimg.com/vi/YqKm55_cnX8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 07. Letters from Words Part 01 | শব্দ থেকে অক্ষর পর্ব ০১\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "mA1TzPvRnSw",
+      "title": "07. Letters from Words Part 02 | শব্দ থেকে অক্ষর পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "8:56",
+      "thumbnail": "https://i.ytimg.com/vi/mA1TzPvRnSw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 07. Letters from Words Part 02 | শব্দ থেকে অক্ষর পর্ব ০২\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Wi43Ct61XvU",
+      "title": "08. Dividing into Groups or Teams | গ্রুপ বা দলে বিভক্তিকরণ | OnnoRokom Pathshala",
+      "duration": "11:17",
+      "thumbnail": "https://i.ytimg.com/vi/Wi43Ct61XvU/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 08. Dividing into Groups or Teams | গ্রুপ বা দলে বিভক্তিকরণ\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "b-A9e7AEEDI",
+      "title": "09. Some Beautiful Ideas Part 01 | কিছু সুন্দর আইডিয়া পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "10:55",
+      "thumbnail": "https://i.ytimg.com/vi/b-A9e7AEEDI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 09. Some Beautiful Ideas Part 01 | কিছু সুন্দর আইডিয়া পর্ব ০১\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "fLa2eZsnbAs",
+      "title": "09. Some Beautiful Ideas Part 02 | কিছু সুন্দর আইডিয়া পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "10:55",
+      "thumbnail": "https://i.ytimg.com/vi/fLa2eZsnbAs/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 09. Some Beautiful Ideas Part 02 | কিছু সুন্দর আইডিয়া পর্ব ০২\nSubject: Math\nTopic: Permutation & Combination\nClass: HSC 2nd Year\nLectured by: OnnoRokom Pathshala"
+    },
+
+/* Higher Mathematics
+ * Integration */
+    {
+      "id": "jXkTc1TnVwA",
+      "title": "01. General Discussion of Integration | সমাকলনের সাধারণ আলোচনা | OnnoRokom Pathshala",
+      "duration": "11:34",
+      "thumbnail": "https://i.ytimg.com/vi/jXkTc1TnVwA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 01. General Discussion of Integration | সমাকলনের সাধারণ আলোচনা\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "uIjmUj8Q-oQ",
+      "title": "02. Characteristics of Integration | সমাকলনের বৈশিষ্ট্য | OnnoRokom Pathshala",
+      "duration": "10:44",
+      "thumbnail": "https://i.ytimg.com/vi/uIjmUj8Q-oQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 02. Characteristics of Integration | সমাকলনের বৈশিষ্ট্য\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "8XyXu0w6bqI",
+      "title": "03. Laws of Integration | সমাকলনের সূত্রাবলী | OnnoRokom Pathshala",
+      "duration": "14:47",
+      "thumbnail": "https://i.ytimg.com/vi/8XyXu0w6bqI/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 03. Laws of Integration | সমাকলনের সূত্রাবলী\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "PIoX9mNPCkc",
+      "title": "04. Substitution of Integration Part 01 | সমাকলনের প্রতিস্থাপন পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "11:32",
+      "thumbnail": "https://i.ytimg.com/vi/PIoX9mNPCkc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 04. Substitution of Integration Part 01 | সমাকলনের প্রতিস্থাপন পর্ব ০১\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "vlje5mWxe0Q",
+      "title": "04. Substitution of Integration Part 02 | সমাকলনের প্রতিস্থাপন পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "16:37",
+      "thumbnail": "https://i.ytimg.com/vi/vlje5mWxe0Q/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 04. Substitution of Integration Part 02 | সমাকলনের প্রতিস্থাপন পর্ব ০২\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "6nVxDtczKck",
+      "title": "05. Problems of Integration | সমাকলনের সমস্যাবলি | OnnoRokom Pathshala",
+      "duration": "15:12",
+      "thumbnail": "https://i.ytimg.com/vi/6nVxDtczKck/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 05. Problems of Integration | সমাকলনের সমস্যাবলি\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "hbXgyhZ3ZC4",
+      "title": "01. Some Important Formulas | কিছু গুরুত্বপূর্ণ সূত্র | OnnoRokom Pathshala",
+      "duration": "12:27",
+      "thumbnail": "https://i.ytimg.com/vi/hbXgyhZ3ZC4/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 01. Some Important Formulas | কিছু গুরুত্বপূর্ণ সূত্র\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "Oj-fwHGxiKY",
+      "title": "02. Some Example on Absolute Change Part 01 | নিশ্চিত পরিবর্তনের উপর কতিপয় উদাহরণ পর্ব ০১",
+      "duration": "12:49",
+      "thumbnail": "https://i.ytimg.com/vi/Oj-fwHGxiKY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 02. Some Example on Absolute Change Part 01 | নিশ্চিত পরিবর্তনের উপর কতিপয় উদাহরণ পর্ব ০১\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "gD_DlnygTJ8",
+      "title": "02. Some Example on Absolute Change Part 02 | নিশ্চিত পরিবর্তনের উপর কতিপয় উদাহরণ পর্ব ০২",
+      "duration": "6:55",
+      "thumbnail": "https://i.ytimg.com/vi/gD_DlnygTJ8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 02. Some Example on Absolute Change Part 02 | নিশ্চিত পরিবর্তনের উপর কতিপয় উদাহরণ পর্ব ০২\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "XIVlCq0rk4U",
+      "title": "03. Some Important Formulas  | কিছু গুরুত্বপূর্ণ সূত্র | OnnoRokom Pathshala",
+      "duration": "15:03",
+      "thumbnail": "https://i.ytimg.com/vi/XIVlCq0rk4U/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 03. Some Important Formulas | কিছু গুরুত্বপূর্ণ সূত্র\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "5nynKpt1LTc",
+      "title": "04. Type Based Problem Part 01 | টাইপ ভিত্তিক সমস্যা পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "16:39",
+      "thumbnail": "https://i.ytimg.com/vi/5nynKpt1LTc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 04. Type Based Problem Part 01 | টাইপ ভিত্তিক সমস্যা পর্ব ০১\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "9E_AOyf6PO8",
+      "title": "04. Type Based Problem Part 02 | টাইপ ভিত্তিক সমস্যা পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "17:10",
+      "thumbnail": "https://i.ytimg.com/vi/9E_AOyf6PO8/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 04. Type Based Problem Part 02 | টাইপ ভিত্তিক সমস্যা পর্ব ০২\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "rmKVXVpznwc",
+      "title": "04. Type Based Problem Part 03 | টাইপ ভিত্তিক সমস্যা পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "12:38",
+      "thumbnail": "https://i.ytimg.com/vi/rmKVXVpznwc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 04. Type Based Problem Part 03 | টাইপ ভিত্তিক সমস্যা পর্ব ০৩\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "FjYbfOjfMLE",
+      "title": "04. Type Based Problem Part 04 | টাইপ ভিত্তিক সমস্যা পর্ব ০৪ | OnnoRokom Pathshala",
+      "duration": "14:20",
+      "thumbnail": "https://i.ytimg.com/vi/FjYbfOjfMLE/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 04. Type Based Problem Part 04 | টাইপ ভিত্তিক সমস্যা পর্ব ০৪\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "n31_mEVCxQY",
+      "title": "04. Type Based Problem Part 05 | টাইপ ভিত্তিক সমস্যা পর্ব ০৫ | OnnoRokom Pathshala",
+      "duration": "13:14",
+      "thumbnail": "https://i.ytimg.com/vi/n31_mEVCxQY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 04. Type Based Problem Part 05 | টাইপ ভিত্তিক সমস্যা পর্ব ০৫\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "xFH9KIN52vg",
+      "title": "01. Integration of Partial Fraction Part 01 | আংশিক ভগ্নাংশের পর ইন্টিগ্রেশন পর্ব ০১",
+      "duration": "9:32",
+      "thumbnail": "https://i.ytimg.com/vi/xFH9KIN52vg/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 01. Integration of Partial Fraction Part 01 | আংশিক ভগ্নাংশের পর ইন্টিগ্রেশন পর্ব ০১\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "xrXZW-hagmw",
+      "title": "02. Integration of Partial Fraction Part 02 | আংশিক ভগ্নাংশের পর ইন্টিগ্রেশন পর্ব ০২",
+      "duration": "15:00",
+      "thumbnail": "https://i.ytimg.com/vi/xrXZW-hagmw/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 02. Integration of Partial Fraction Part 02 | আংশিক ভগ্নাংশের পর ইন্টিগ্রেশন পর্ব ০২\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "r9oER_AfUto",
+      "title": "02. Integration in Segmentation Method Part 01 | খণ্ডায়ন পদ্ধতিতে যোগজিকরণ পর্ব ০১",
+      "duration": "9:48",
+      "thumbnail": "https://i.ytimg.com/vi/r9oER_AfUto/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 02. Integration in Segmentation Method Part 01 | খণ্ডায়ন পদ্ধতিতে যোগজিকরণ পর্ব ০১\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "zdUUTxPRbuY",
+      "title": "02. Integration in Segmentation Method Part 02 | খণ্ডায়ন পদ্ধতিতে যোগজিকরণ পর্ব ০২",
+      "duration": "19:41",
+      "thumbnail": "https://i.ytimg.com/vi/zdUUTxPRbuY/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 02. Integration in Segmentation Method Part 02 | খণ্ডায়ন পদ্ধতিতে যোগজিকরণ পর্ব ০২\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "EeDlc08jkng",
+      "title": "03. Definite Integral Part 01 | নির্দিষ্ট যোগজিকরণ পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "14:12",
+      "thumbnail": "https://i.ytimg.com/vi/EeDlc08jkng/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 03. Definite Integral Part 01 | নির্দিষ্ট যোগজিকরণ পর্ব ০১\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "U0VOTcT8p_Y",
+      "title": "03. Definite Integral Part 02 | নির্দিষ্ট যোগজিকরণ পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "8:32",
+      "thumbnail": "https://i.ytimg.com/vi/U0VOTcT8p_Y/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 03. Definite Integral Part 02 | নির্দিষ্ট যোগজিকরণ পর্ব ০২\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "2-z8NanXtDQ",
+      "title": "03. Definite Integral Part 03 | নির্দিষ্ট যোগজিকরণ পর্ব ০৩ | OnnoRokom Pathshala",
+      "duration": "13:53",
+      "thumbnail": "https://i.ytimg.com/vi/2-z8NanXtDQ/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 03. Definite Integral Part 03 | নির্দিষ্ট যোগজিকরণ পর্ব ০৩\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "u4J-VhK22MA",
+      "title": "04. Determination of Area Part 01 | ক্ষেত্রফল নির্ণয় পর্ব ০১ | OnnoRokom Pathshala",
+      "duration": "9:19",
+      "thumbnail": "https://i.ytimg.com/vi/u4J-VhK22MA/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 04. Determination of Area Part 01 | ক্ষেত্রফল নির্ণয় পর্ব ০১\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
+    {
+      "id": "9YI9FHouAYc",
+      "title": "04. Determination of Area Part 02 | ক্ষেত্রফল নির্ণয় পর্ব ০২ | OnnoRokom Pathshala",
+      "duration": "9:19",
+      "thumbnail": "https://i.ytimg.com/vi/9YI9FHouAYc/hqdefault.jpg",
+      "channelId": "UCBA6OI6vEDK13jfoiuX694A",
+      "channelName": "OnnoRokom Pathshala",
+      "description": "Video Title: OnnoRokom Pathshala_Math\nLecture: 04. Determination of Area Part 02 | ক্ষেত্রফল নির্ণয় পর্ব ০২\nSubject: Math\nTopic: Integration (সমাকলন)\nClass: HSC 1st Year\nLectured by: OnnoRokom Pathshala"
+    },
   ],
   playlists:   [{
       "id": "Physics_Vectors_02",
@@ -8360,6 +8816,74 @@ export const ONNOROKOM = {
         "QzsXTQgcyrk",
         "QPIvNgDUGYA",
         "fYxKGROc3KY",
+      ]
+    },
+    {
+      "id": "Permutation_and_Combination",
+      "title": "HSC Higher Mathematics 2nd paper: Permutation & Combination (বিন্যাস ও সমাবেশ)",
+      "videoCount": 26,
+      "thumbnail": "https://i.ytimg.com/vi/VTZHMZ3MmfA/hqdefault.jpg",
+      "updatedText": "Updated today",
+      "videos": [
+        "VTZHMZ3MmfA",
+        "LcNnoUp22Nk",
+        "9Y5d0yqciHQ",
+        "MVYRWb0KdFM",
+        "Dwu3DzbEUfY",
+        "AxXwVhTb3BE",
+        "vdiJYyK-gw",
+        "XojFLY2Qx6o",
+        "jsq7xWX_p9o",
+        "InaWT2BvHhI",
+        "wREjfM9GmPk",
+        "TLVNq45VdSY",
+        "G7jxBXOQJgs",
+        "xFhogXqV_1M",
+        "cdFaVOSKmfY",
+        "e3hX0pjKbAg",
+        "FboQy_p6G1c",
+        "nEALBWOCTeE",
+        "urJeMVbiMHk",
+        "RwmZgqjztqo",
+        "_pyDHqBsNiU",
+        "YqKm55_cnX8",
+        "mA1TzPvRnSw",
+        "Wi43Ct61XvU",
+        "b-A9e7AEEDI",
+        "fLa2eZsnbAs"
+      ]
+    },
+    {
+      "id": "Integration",
+      "title": "HSC Higher Mathematics 1st paper: Integration (সমাকলন)",
+      "videoCount": 24,
+      "thumbnail": "https://i.ytimg.com/vi/jXkTc1TnVwA/hqdefault.jpg",
+      "updatedText": "Updated today",
+      "videos": [
+        "jXkTc1TnVwA",
+        "uIjmUj8Q-oQ",
+        "8XyXu0w6bqI",
+        "PIoX9mNPCkc",
+        "vlje5mWxe0Q",
+        "6nVxDtczKck",
+        "hbXgyhZ3ZC4",
+        "Oj-fwHGxiKY",
+        "gD_DlnygTJ8",
+        "XIVlCq0rk4U",
+        "5nynKpt1LTc",
+        "9E_AOyf6PO8",
+        "rmKVXVpznwc",
+        "FjYbfOjfMLE",
+        "n31_mEVCxQY",
+        "xFH9KIN52vg",
+        "xrXZW-hagmw",
+        "r9oER_AfUto",
+        "zdUUTxPRbuY",
+        "EeDlc08jkng",
+        "U0VOTcT8p_Y",
+        "2-z8NanXtDQ",
+        "u4J-VhK22MA",
+        "9YI9FHouAYc"
       ]
     },
     {

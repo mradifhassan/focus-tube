@@ -10,4 +10,6 @@
 //
 // v2 -> v3: catalog restructured & fixed (moved misplaced OnnoRokom videos
 // and playlists out of Alchemy; normalized channelID -> channelId field name).
-export const CATALOG_VERSION = 12;
+// v12 -> v13: added OnnoRokom "Permutation & Combination" playlist (26 videos).
+// v13 -> v14: added OnnoRokom "Integration" playlist (24 videos).
+export const CATALOG_VERSION = 14;
