@@ -292,8 +292,12 @@ class FreeTubeApp {
     const main = document.getElementById('yt-body-content');
     if (!main) return;
 
+    // Keep the playing iframe alive across watch-page re-renders (see watch.js).
+    this.capturePlayerShell();
+
     if (this.watchVideo) {
       main.innerHTML = this.renderWatchVideoPageHtml();
+      this.restorePlayerShell();
       this.attachWatchPageListeners();
       return;
     }

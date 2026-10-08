@@ -73,7 +73,7 @@ export const playerMixin = {
     const nextId = ids[nextIdx];
     const allVids = this.getAllCachedVideos();
     this.watchVideo = allVids.find(v => v.id === nextId) || { id: nextId, title: 'Video', channelId: this.selectedPlaylist.channelId, channelName: this.selectedPlaylist.channelName };
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    this.scrollMainToTop();
     this.renderBody();
     this.syncHash();
   },

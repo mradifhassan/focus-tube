@@ -68,7 +68,7 @@ export const eventsMixin = {
           this.watchVideo = null;
           this.activeView = 'playlist_detail';
           this.selectedPlaylist = foundPl;
-          window.scrollTo({ top: 0, behavior: 'smooth' });
+          this.scrollMainToTop();
           this.render();
           this.syncHash();
         }
@@ -115,7 +115,7 @@ export const eventsMixin = {
 
         this.watchHistoryStack = [];
         this.watchVideo = found;
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        this.scrollMainToTop();
         this.renderBody();
         this.syncHash();
       }

@@ -51,7 +51,7 @@ export const watchViewMixin = {
         <div class="flex-1 flex flex-col gap-4 max-w-5xl min-w-0">
           
           <!-- IFRAME PLAYER -->
-          <div class="relative aspect-video w-full bg-black rounded-2xl overflow-hidden shadow-2xl border border-[#272727]">
+          <div id="watch-player-shell" class="relative aspect-video w-full bg-black rounded-2xl overflow-hidden shadow-2xl border border-[#272727]">
             <iframe
               id="yt-watch-iframe"
               src="${host}/embed/${vid.id}?autoplay=1&rel=0&modestbranding=1&enablejsapi=1&origin=${origin}"
@@ -194,9 +194,69 @@ export const watchViewMixin = {
     `;
   },
 
+  // Before the watch page is re-rendered, keep a reference to the live <iframe>
+  // so the innerHTML swap never tears down the playing YouTube player. If the new
+  // page is a watch page, restorePlayerShell() re-parents the same element (and
+  // only swaps its src when the video actually changed) — this is what makes
+  // description/repeat/shuffle/autoplay toggles and related-video switches smooth
+  // instead of reloading the player from scratch.
+  capturePlayerShell() {
+    this._pendingPlayerFrame = null;
+    this._pendingPlayerVideoId = null;
+    if (!this.watchVideo) return;
+    const main = document.getElementById('yt-body-content');
+    if (!main) return;
+    const frame = main.querySelector('#yt-watch-iframe');
+    if (frame) {
+      this._pendingPlayerFrame = frame;
+      this._pendingPlayerVideoId = this.watchVideo.id;
+    }
+  },
+
+  restorePlayerShell() {
+    if (!this._pendingPlayerFrame) return;
+    const main = document.getElementById('yt-body-content');
+    if (!main) return;
+    const shell = main.querySelector('#watch-player-shell');
+    if (!shell) return;
+
+    const id = this.watchVideo ? this.watchVideo.id : null;
+    const changed = !!id && id !== this._pendingPlayerVideoId;
+
+    // Re-parent the live iframe in place of the freshly-inserted one.
+    shell.replaceChildren(this._pendingPlayerFrame);
+
+    if (changed) {
+      const host = this.privacyShield ? 'https://www.youtube-nocookie.com' : 'https://www.youtube.com';
+      const origin = encodeURIComponent(window.location.origin);
+      this._pendingPlayerFrame.src = `${host}/embed/${id}?autoplay=1&rel=0&modestbranding=1&enablejsapi=1&origin=${origin}`;
+      this._pendingPlayerFrame.title = (this.watchVideo && this.watchVideo.title) || '';
+    }
+
+    this._pendingPlayerFrame = null;
+    this._pendingPlayerVideoId = null;
+  },
+
+  // The app scrolls inside <main id="yt-body-content"> (overflow-y-auto), so
+  // window.scrollTo() never moves it. Target the real container instead.
+  scrollMainToTop(instant = true) {
+    const main = document.getElementById('yt-body-content');
+    if (main) {
+      if (instant) main.scrollTop = 0;
+      else main.scrollTo({ top: 0, behavior: 'smooth' });
+    } else {
+      window.scrollTo({ top: 0, behavior: instant ? 'auto' : 'smooth' });
+    }
+  },
+
   attachWatchPageListeners() {
     if (this.watchVideo) {
-      this.checkEmbeddable(this.watchVideo.id, 'watch-embed-fallback');
+      if (!this._checkedEmbeddable) this._checkedEmbeddable = new Set();
+      const embedId = this.watchVideo.id;
+      if (!this._checkedEmbeddable.has(embedId)) {
+        this._checkedEmbeddable.add(embedId);
+        this.checkEmbeddable(embedId, 'watch-embed-fallback');
+      }
     }
 
     const backBtn = document.getElementById('watch-back-btn');
@@ -214,11 +274,16 @@ export const watchViewMixin = {
       };
     }
 
+    // Expand/collapse the description in place. Never re-render: a re-render would
+    // rebuild the iframe and restart the video that is currently playing.
     const descBox = document.getElementById('toggle-desc-box');
     if (descBox) {
       descBox.onclick = () => {
         this.descriptionExpanded = !this.descriptionExpanded;
-        this.renderBody();
+        const p = descBox.querySelector('p');
+        const label = descBox.querySelector('span:last-child');
+        if (p) p.classList.toggle('line-clamp-2', !this.descriptionExpanded);
+        if (label) label.textContent = this.descriptionExpanded ? 'Show less' : '...more';
       };
     }
 
@@ -238,7 +303,7 @@ export const watchViewMixin = {
           this.watchHistoryStack.push(this.watchVideo);
         }
         this.watchVideo = found;
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        this.scrollMainToTop();
         this.renderBody();
         this.syncHash();
       };
