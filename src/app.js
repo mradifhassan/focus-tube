@@ -11,7 +11,6 @@
  */
 
 import { ICONS } from './icons.js';
-import { RelatedVideosEngine } from './engine.js';
 import { routerMixin } from './router.js';
 import { seoMixin } from './seo.js';
 import { apiMixin } from './api.js';
@@ -19,6 +18,7 @@ import { storageMixin } from './storage.js';
 import { playerMixin } from './player.js';
 import { eventsMixin } from './events.js';
 import { viewsMixin } from './views/index.js';
+import { RelatedVideosEngine } from './engine.js';
 import { formatSeconds, formatNumber, escapeHtml } from './utils.js';
 
 class FreeTubeApp {
@@ -87,6 +87,7 @@ class FreeTubeApp {
     window.addEventListener('hashchange', () => {
       this.applyRoute(this.parseRoute());
       this.render();
+      this.scrollMainToTop();
     });
 
     this.init();
@@ -182,6 +183,176 @@ class FreeTubeApp {
   }
 
   // ============================================================================
+  // VIDEO GRID PAGINATION (incremental render + infinite scroll)
+  // ----------------------------------------------------------------------------
+  // Large channels used to inject every video card into innerHTML at once, which
+  // made switching to them janky. We render one page and stream the rest in as
+  // the user scrolls, keeping the main thread responsive at any catalog size.
+  // ============================================================================
+  gridPageSize() { return 48; }
+
+  // Shared video-card markup so home, search and channel grids stay identical.
+  videoCardHtml(v) {
+    return `
+      <div data-vid="${v.id}" data-ch="${v.channelId}" class="yt-video-card flex flex-col gap-3 group">
+        <div class="relative aspect-video w-full rounded-xl overflow-hidden bg-[#222222]">
+          <img src="${v.thumbnail}" alt="${v.title}" loading="lazy" decoding="async" class="yt-thumb-img w-full h-full object-cover group-hover:scale-105 transition duration-300" />
+          <span class="absolute bottom-1.5 right-1.5 px-1.5 py-0.5 rounded bg-black/80 text-white text-xs font-medium font-mono tracking-tight">
+            ${v.duration}
+          </span>
+        </div>
+        <div class="flex items-start gap-3 px-0.5">
+          <div data-goto-ch="${v.channelId}" class="w-9 h-9 rounded-full ${v.avatarColor || 'bg-red-600'} text-white font-bold text-xs flex items-center justify-center shrink-0 mt-0.5 hover:scale-105 transition" title="${v.channelName}">
+            ${v.initials || 'YT'}
+          </div>
+          <div class="flex flex-col gap-1 pr-2">
+            <h3 class="text-sm font-semibold text-white line-clamp-2 leading-snug group-hover:text-[#3ea6ff] transition">${v.title}</h3>
+            <div class="text-xs text-[#aaa] flex flex-col">
+              <span data-goto-ch="${v.channelId}" class="hover:text-white transition w-fit">${v.channelName}</span>
+            </div>
+          </div>
+        </div>
+      </div>`;
+  }
+
+  // Builds a paged grid: the first page is inlined, the rest stream in via the
+  // sentinel as it scrolls into view. `getList()` is called on demand so the grid
+  // always reflects the current data without a full re-render.
+  pagedVideoGridHtml(getList) {
+    this._gridGetList = getList;
+    const all = getList();
+    const size = this.gridPageSize();
+    const first = all.slice(0, size);
+    const hasMore = all.length > first.length;
+    return `
+      <div id="yt-video-grid" class="p-3 sm:p-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-x-4 gap-y-8">
+        ${first.map(v => this.videoCardHtml(v)).join('')}
+      </div>
+      ${hasMore ? `
+        <div id="yt-grid-sentinel" class="flex items-center justify-center py-8">
+          <span class="text-xs text-[#888] animate-pulse">Loading more…</span>
+        </div>
+      ` : ''}
+    `;
+  }
+
+  // Re-attaches the IntersectionObserver for the current grid. Safe to call on
+  // every render; the previous observer is always torn down first.
+  setupGridInfiniteScroll() {
+    if (this._gridObserver) {
+      this._gridObserver.disconnect();
+      this._gridObserver = null;
+    }
+    const sentinel = document.getElementById('yt-grid-sentinel');
+    const grid = document.getElementById('yt-video-grid');
+    if (!sentinel || !grid || !this._gridGetList) return;
+
+    this._gridRendered = this.gridPageSize();
+
+    const loadMore = () => {
+      const all = this._gridGetList ? this._gridGetList() : [];
+      if (this._gridRendered >= all.length) return;
+      const next = all.slice(this._gridRendered, this._gridRendered + this.gridPageSize());
+      const frag = document.createElement('div');
+      frag.innerHTML = next.map(v => this.videoCardHtml(v)).join('');
+      Array.from(frag.children).forEach(n => grid.appendChild(n));
+      this._gridRendered += next.length;
+
+      if (this._gridRendered >= all.length) {
+        const s = document.getElementById('yt-grid-sentinel');
+        if (s) s.remove();
+        if (this._gridObserver) { this._gridObserver.disconnect(); this._gridObserver = null; }
+      }
+    };
+
+    if (typeof IntersectionObserver === 'function') {
+      this._gridObserver = new IntersectionObserver((entries) => {
+        if (entries.some(e => e.isIntersecting)) loadMore();
+      }, { rootMargin: '600px 0px' });
+      this._gridObserver.observe(sentinel);
+    } else {
+      sentinel.innerHTML = `<button class="px-4 py-2 rounded-full bg-[#272727] hover:bg-[#3f3f3f] active:bg-[#3f3f3f] text-white text-xs font-medium">Load more</button>`;
+      sentinel.firstElementChild.onclick = loadMore;
+    }
+  }
+
+  // Clears paging state so the next view starts from page 1.
+  resetGridPaging() {
+    if (this._gridObserver) {
+      this._gridObserver.disconnect();
+      this._gridObserver = null;
+    }
+    this._gridGetList = null;
+    this._gridRendered = 0;
+  }
+
+  // Looks up which playlist (if any) a video belongs to, so the watch page can
+  // show that playlist's full queue in the sidebar even when the video was opened
+  // from the home feed or search results (not via a playlist link). Prefers a
+  // playlist from the video's own channel, then any playlist containing it.
+  findPlaylistForVideo(video) {
+    if (!video || !video.id) return null;
+    const pls = this.getAllCachedPlaylists();
+    const mine = pls.find(p =>
+      p.channelId === video.channelId &&
+      Array.isArray(p.videos) && p.videos.includes(video.id)
+    );
+    if (mine) return mine;
+    return pls.find(p => Array.isArray(p.videos) && p.videos.includes(video.id)) || null;
+  }
+
+  // Scrolls the main content pane (or window) back to the top after a route
+  // change, so navigating never leaves the user mid-page.
+  scrollMainToTop() {
+    const main = document.getElementById('yt-body-content');
+    if (main) main.scrollTo({ top: 0, behavior: 'auto' });
+    window.scrollTo({ top: 0, behavior: 'auto' });
+  }
+
+  // Classifies a video into a feed category using the reliable `Subject:`
+  // field carried in the catalog descriptions (e.g. "Subject: Physics"),
+  // rather than fragile title keywords. Returns 'science' | 'math' | 'other'.
+  classifyVideoSubject(video) {
+    const desc = (video && video.description) || '';
+    const m = desc.match(/Subject:\s*([A-Za-z][A-Za-z ]*)/);
+    const subject = m ? m[1].trim().toLowerCase() : '';
+    if (subject === 'physics' || subject === 'chemistry' || subject === 'biology') {
+      return 'science';
+    }
+    if (subject.includes('math')) {
+      return 'math';
+    }
+    return 'other';
+  }
+
+  // Bottom tab bar for phones (hidden at lg+ where the persistent sidebar takes
+  // over). Gives one-tap thumb-reach navigation like the YouTube mobile app,
+  // replacing the need to open the hamburger drawer for channels/playlists.
+  renderMobileBottomNav() {
+    const item = (action, label, svg, active) => `
+      <button data-nav-action="${action}" class="flex flex-col items-center justify-center gap-0.5 flex-1 h-full text-[10px] font-medium ${active ? 'text-white' : 'text-[#aaa]'} active:opacity-70">
+        ${svg}
+        <span>${label}</span>
+      </button>`;
+
+    const home = this.activeView === 'home' && !this.watchVideo;
+    const subs = this.activeView === 'subscriptions' && !this.watchVideo;
+    const lib = (this.activeView === 'library' || this.activeView === 'playlist_detail') && !this.watchVideo;
+    const chans = this.activeView === 'channel' && !this.watchVideo;
+
+    return `
+      <nav id="mobile-bottom-nav" class="lg:hidden fixed bottom-0 inset-x-0 z-40 bg-[#0f0f0f]/95 backdrop-blur border-t border-[#272727] pb-safe-bottom">
+        <div class="flex items-stretch h-14">
+          ${item('home', 'Home', `<svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>`, home)}
+          ${item('subscriptions', 'Subs', `<svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M20 8H4V6h16v2zm-2-4H6v2h12V4zM20 10H4v10h16V10zm-8 8l5-4-5-4v8z"/></svg>`, subs)}
+          ${item('library', 'Playlists', `<svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-8 12.5v-9l6 4.5-6 4.5z"/></svg>`, lib)}
+          ${item('channels', 'Channels', `<svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08s5.97 1.09 6 3.08c-1.29 1.94-3.5 3.22-6 3.22z"/></svg>`, chans)}
+          ${item('search', 'Search', `<svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>`, false)}
+        </div>
+      </nav>`;
+  }
+
+  // ============================================================================
   // MAIN RENDER FRAMEWORK (shell: navbar + sidebar + modals)
   // ============================================================================
   render() {
@@ -192,14 +363,14 @@ class FreeTubeApp {
     }
 
     this.root.innerHTML = `
-      <div class="flex flex-col min-h-screen bg-[#0f0f0f] text-[#f1f1f1] select-none font-sans">
+      <div class="flex flex-col min-h-[100dvh] bg-[#0f0f0f] text-[#f1f1f1] select-none font-sans">
         
         <!-- TOP NAVBAR -->
-        <header class="sticky top-0 z-40 bg-[#0f0f0f]/95 backdrop-blur h-14 px-2 sm:px-4 flex items-center justify-between gap-1 sm:gap-2 border-b border-[#272727]">
+        <header class="sticky top-0 z-40 bg-[#0f0f0f]/95 backdrop-blur h-14 px-2 sm:px-4 flex items-center justify-between gap-1 sm:gap-2 border-b border-[#272727] pt-safe-top">
           
           <!-- LEFT BRANDING -->
           <div class="flex items-center gap-1 sm:gap-4 shrink-0">
-            <button id="toggle-sidebar-btn" class="p-2 rounded-full hover:bg-[#272727] text-[#f1f1f1] transition shrink-0">
+            <button id="toggle-sidebar-btn" class="hidden lg:block p-2 rounded-full hover:bg-[#272727] text-[#f1f1f1] transition shrink-0">
               <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg>
             </button>
             <div id="nav-logo-btn" class="flex items-center gap-2 cursor-pointer shrink-0">
@@ -290,14 +461,18 @@ class FreeTubeApp {
                 FreeTube WebApp v2.0<br>Open Source YouTube Client.<br>&copy; 2026 Radif Hassan.
               </p>
             </div>
+            <!-- Spacer so the drawer's last items clear the phone tab bar -->
+            <div class="lg:hidden" style="height: calc(var(--bottom-nav-h) + var(--safe-bottom));"></div>
           </aside>
 
           <!-- MAIN BODY CONTENT -->
-          <main id="yt-body-content" class="flex-1 overflow-y-auto bg-[#0f0f0f] relative">
+          <main id="yt-body-content" class="flex-1 overflow-y-auto bg-[#0f0f0f] relative pb-nav">
             <!-- Dynamically populated -->
           </main>
 
         </div>
+
+        ${this.renderMobileBottomNav()}
 
         <!-- ADD CHANNEL MODAL DIALOG -->
         <div id="add-channel-modal" class="${this.showAddModal ? 'flex' : 'hidden'} fixed inset-0 z-50 bg-black/80 backdrop-blur-sm items-center justify-center p-4 animate-in fade-in duration-150">
@@ -356,20 +531,32 @@ class FreeTubeApp {
       main.innerHTML = this.renderWatchVideoPageHtml();
       this.restorePlayerShell();
       this.attachWatchPageListeners();
+      this.resetGridPaging();
       return;
     }
 
     if (this.activeView === 'home' || this.activeView === 'subscriptions') {
       main.innerHTML = this.renderHomePageHtml();
+      this.setupGridInfiniteScroll();
     } else if (this.activeView === 'search') {
       main.innerHTML = this.renderSearchResultsPageHtml();
+      this.setupGridInfiniteScroll();
     } else if (this.activeView === 'channel' && this.selectedChannelId) {
       const ch = this.subscribedChannels.find(c => c.id === this.selectedChannelId) || this.subscribedChannels[0];
       main.innerHTML = this.renderChannelPageHtml(ch);
+      this.setupGridInfiniteScroll();
     } else if (this.activeView === 'library') {
       main.innerHTML = this.renderLibraryPageHtml();
+      this.resetGridPaging();
     } else if (this.activeView === 'playlist_detail' && this.selectedPlaylist) {
       main.innerHTML = this.renderPlaylistDetailPageHtml(this.selectedPlaylist);
+      this.resetGridPaging();
+    } else {
+      // Safety net: any state that doesn't map to a view falls back to Home, so
+      // the previous page is never left stale on screen.
+      this.activeView = 'home';
+      main.innerHTML = this.renderHomePageHtml();
+      this.setupGridInfiniteScroll();
     }
   }
 

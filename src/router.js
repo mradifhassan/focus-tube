@@ -51,6 +51,9 @@ export const routerMixin = {
     if (h === '#/library') return { type: 'library' };
     if (h === '#/subscriptions') return { type: 'subscriptions' };
 
+    m = h.match(/^#\/search(?:\/(.*))?$/);
+    if (m) return { type: 'search', query: m[1] ? decodeURIComponent(m[1]) : '' };
+
     return { type: 'home' };
   },
 
@@ -85,6 +88,14 @@ export const routerMixin = {
       this.activeView = 'subscriptions';
       this.selectedChannelId = null;
       this.selectedPlaylist = null;
+      return;
+    }
+    if (route.type === 'search') {
+      this.watchVideo = null;
+      this.activeView = 'search';
+      this.selectedChannelId = null;
+      this.selectedPlaylist = null;
+      this.searchQuery = route.query || '';
       return;
     }
 
@@ -168,6 +179,7 @@ export const routerMixin = {
 
     if (this.activeView === 'library') return '#/library';
     if (this.activeView === 'subscriptions') return '#/subscriptions';
+    if (this.activeView === 'search') return this.searchQuery ? `#/search/${encodeURIComponent(this.searchQuery)}` : '#/search';
 
     return '#/';
   },
@@ -176,6 +188,22 @@ export const routerMixin = {
     const hash = this.buildRouteHash();
     if (window.location.hash !== hash) {
       history.pushState(null, '', hash);
+    }
+  },
+
+  // Real browser-style back for in-page buttons: uses history when there's an
+  // entry to go back to, otherwise falls back to the home route.
+  goBack() {
+    if (window.history.length > 1) {
+      window.history.back();
+    } else {
+      this.watchVideo = null;
+      this.activeView = 'home';
+      this.selectedChannelId = null;
+      this.selectedPlaylist = null;
+      this.searchQuery = '';
+      this.render();
+      this.syncHash();
     }
   },
 };

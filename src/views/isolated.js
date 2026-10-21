@@ -21,12 +21,15 @@ export const isolatedViewMixin = {
     const existing = document.querySelector('#isolated-player-shell iframe');
 
     this.root.innerHTML = `
-      <div class="min-h-screen bg-[#0f0f0f] text-[#f1f1f1] flex items-start justify-center p-4 sm:p-10 font-sans select-none">
+      <div class="min-h-[100dvh] bg-[#0f0f0f] text-[#f1f1f1] flex items-start justify-center p-3 sm:p-10 font-sans select-none">
         <div class="max-w-3xl w-full flex flex-col gap-4">
 
-          <div class="flex items-center justify-between">
-            <span class="text-xs font-bold px-3 py-1 rounded-full bg-[#272727] text-[#aaa]">Isolated Video &bull; No Suggestions</span>
-            <a href="${window.location.pathname}" class="text-xs text-[#3ea6ff] hover:underline">Exit to FocusTube</a>
+          <div class="flex items-center justify-between gap-2">
+            <button id="isolated-back-btn" class="flex items-center gap-2 px-3 py-1.5 bg-[#272727] hover:bg-[#3f3f3f] active:bg-[#3f3f3f] text-white font-semibold text-xs rounded-full transition">
+              <span>&larr;</span> Back
+            </button>
+            <span class="text-xs font-bold px-3 py-1 rounded-full bg-[#272727] text-[#aaa]">Isolated Video</span>
+            <a href="${window.location.pathname}" class="text-xs text-[#3ea6ff] hover:underline shrink-0">Exit</a>
           </div>
 
           <!-- FACADE: the YouTube embed is only created on click (façade pattern) --
@@ -70,5 +73,10 @@ export const isolatedViewMixin = {
       this.fetchIsolatedVideoMeta(id);
     }
     this.checkEmbeddable(id, 'isolated-embed-fallback');
+
+    const backBtn = document.getElementById('isolated-back-btn');
+    if (backBtn) {
+      backBtn.onclick = () => this.goBack();
+    }
   },
 };

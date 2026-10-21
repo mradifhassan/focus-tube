@@ -28,12 +28,15 @@ export const watchViewMixin = {
     const plIds = inPlaylist ? this.selectedPlaylist.videos : [];
     const plIdx = inPlaylist ? plIds.indexOf(vid.id) : -1;
 
+    const host = this.privacyShield ? 'https://www.youtube-nocookie.com' : 'https://www.youtube.com';
+    const origin = encodeURIComponent(window.location.origin);
+
     return `
       <!-- TOP BACK BUTTON RAIL -->
       <div class="sticky top-0 z-30 bg-[#0f0f0f] px-3 sm:px-6 py-3 border-b border-[#272727] flex flex-wrap items-center justify-between gap-2">
-        <button id="watch-back-btn" class="flex items-center gap-2 px-3 sm:px-4 py-2 bg-[#272727] hover:bg-[#3f3f3f] text-white font-bold text-xs sm:text-sm rounded-full transition shadow">
+        <button id="watch-back-btn" class="flex items-center gap-2 px-3 sm:px-4 py-2 bg-[#272727] hover:bg-[#3f3f3f] active:bg-[#3f3f3f] text-white font-bold text-xs sm:text-sm rounded-full transition shadow">
           <span>&larr;</span>
-          <span>Back (${this.watchHistoryStack.length > 0 ? 'Previous Video' : 'Home'})</span>
+          <span>Back</span>
         </button>
 
         <span class="text-[10px] sm:text-xs font-semibold px-3 py-1 rounded-full bg-[#272727] text-[#aaa]">
@@ -46,19 +49,16 @@ export const watchViewMixin = {
         <!-- LEFT MAIN WATCH CONTAINER -->
         <div class="flex-1 flex flex-col gap-4 max-w-5xl min-w-0">
           
-          <!-- LIGHTWEIGHT FACADE: static thumbnail + play overlay. The real
-               YouTube embed is only hydrated on click (facade pattern), so
-               opening a watch page pulls zero YouTube scripts/streams until the
-               user actually wants to play. Hover/touch pre-warms the connection. -->
-          <div id="watch-player-shell" class="relative aspect-video w-full bg-black rounded-2xl overflow-hidden shadow-2xl border border-[#272727]">
-            <div id="watch-player-facade" data-facade-vid="${vid.id}" class="absolute inset-0 cursor-pointer group" role="button" aria-label="Play ${vid.title}">
-              <img src="https://i.ytimg.com/vi/${vid.id}/maxresdefault.jpg" alt="${vid.title}" decoding="async" class="w-full h-full object-cover" onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/${vid.id}/hqdefault.jpg'" />
-              <div class="absolute inset-0 bg-black/35 group-hover:bg-black/20 transition flex items-center justify-center">
-                <span class="w-20 h-20 rounded-full bg-red-600 text-white flex items-center justify-center shadow-2xl group-hover:scale-105 transition">
-                  <svg class="w-9 h-9 ml-1 fill-white" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-                </span>
-              </div>
-            </div>
+          <!-- IFRAME PLAYER -->
+          <div class="relative aspect-video w-full bg-black rounded-2xl overflow-hidden shadow-2xl border border-[#272727]">
+            <iframe
+              id="yt-watch-iframe"
+              src="${host}/embed/${vid.id}?autoplay=1&rel=0&modestbranding=1&enablejsapi=1&origin=${origin}"
+              title="${vid.title}"
+              class="w-full h-full border-0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+              allowfullscreen>
+            </iframe>
           </div>
 
           <!-- EMBEDDING-DISABLED FALLBACK (shown only if this video can't be embedded) -->
@@ -108,11 +108,7 @@ export const watchViewMixin = {
 
           <!-- DESCRIPTION BOX -->
           <div class="bg-[#1f1f1f] hover:bg-[#272727]/80 rounded-2xl p-4 transition cursor-pointer flex flex-col gap-2" id="toggle-desc-box">
-            <div class="flex items-center gap-3 text-xs font-bold text-white">
-              <span>${vid.views || '1,240 views'}</span>
-              <span>${vid.publishedText || 'Recently'}</span>
-            </div>
-            <p class="text-xs text-[#ddd] ${this.descriptionExpanded ? '' : 'line-clamp-2'} whitespace-pre-line leading-relaxed">${vid.description || 'Watch full video stream on FreeTube interface.'}</p>
+            <p class="text-xs text-[#ddd] ${this.descriptionExpanded ? '' : 'line-clamp-2'} whitespace-pre-line leading-relaxed select-text">${vid.description || 'Watch full video stream on FreeTube interface.'}</p>
             <span class="text-xs font-bold text-[#aaa] mt-1">${this.descriptionExpanded ? 'Show less' : '...more'}</span>
           </div>
 
@@ -143,7 +139,7 @@ export const watchViewMixin = {
                   </button>
                 </div>
               </div>
-              <div class="max-h-[70vh] lg:max-h-[600px] overflow-y-auto flex flex-col">
+              <div class="lg:max-h-[600px] lg:overflow-y-auto flex flex-col">
                 ${plIds.map((id, i) => {
                   const v = allVids.find(x => x.id === id) || { id, title: 'YouTube Broadcast (' + id + ')', thumbnail: 'https://i.ytimg.com/vi/' + id + '/hqdefault.jpg', channelName: this.selectedPlaylist.channelName, channelId: vid.channelId };
                   const active = id === vid.id;
@@ -151,7 +147,7 @@ export const watchViewMixin = {
                     <div data-related-vid="${id}" data-ch="${v.channelId || vid.channelId}" data-in-playlist="true" class="flex gap-3 p-2.5 items-center cursor-pointer group ${active ? 'bg-[#3f3f3f]' : 'hover:bg-[#272727]'}">
                       <span class="w-5 text-center text-xs font-mono shrink-0 ${active ? 'text-[#3ea6ff]' : 'text-[#888]'}">${active ? '&#9654;' : i + 1}</span>
                       <div class="relative w-28 aspect-video rounded-lg overflow-hidden bg-[#222] shrink-0">
-                        <img src="${v.thumbnail || ''}" alt="${v.title}" loading="lazy" decoding="async" class="w-full h-full object-cover group-hover:scale-105 transition" />
+                        <img src="${v.thumbnail || ''}" alt="${v.title}" class="w-full h-full object-cover group-hover:scale-105 transition" />
                         <span class="absolute bottom-0.5 right-0.5 px-1 rounded bg-black/80 text-white text-[9px] font-mono">${v.duration || ''}</span>
                       </div>
                       <div class="flex flex-col gap-0.5 flex-1 min-w-0">
@@ -172,15 +168,14 @@ export const watchViewMixin = {
 
             <div class="flex flex-col gap-3">
               ${upNext.map(v => `
-                <div data-related-vid="${v.id}" data-ch="${v.channelId}" class="flex gap-3 p-2 rounded-xl hover:bg-[#272727] transition cursor-pointer group">
-                  <div class="relative w-40 aspect-video rounded-lg overflow-hidden bg-[#222] shrink-0">
-                    <img src="${v.thumbnail}" alt="${v.title}" loading="lazy" decoding="async" class="w-full h-full object-cover group-hover:scale-105 transition" />
+                <div data-related-vid="${v.id}" data-ch="${v.channelId}" class="flex gap-3 p-2 rounded-xl hover:bg-[#272727] active:bg-[#333] transition cursor-pointer group">
+                  <div class="relative w-32 sm:w-40 aspect-video rounded-lg overflow-hidden bg-[#222] shrink-0">
+                    <img src="${v.thumbnail}" alt="${v.title}" class="w-full h-full object-cover group-hover:scale-105 transition" />
                     <span class="absolute bottom-1 right-1 px-1 rounded bg-black/80 text-white text-[10px] font-mono">${v.duration}</span>
                   </div>
                   <div class="flex flex-col gap-1 flex-1 overflow-hidden">
                     <h4 class="text-xs font-semibold text-white line-clamp-2 leading-snug group-hover:text-[#3ea6ff]">${v.title}</h4>
                     <p class="text-[11px] text-[#aaa] truncate">${v.channelName}</p>
-                    <p class="text-[10px] text-[#888]">${v.views}</p>
                   </div>
                 </div>
               `).join('')}
@@ -193,73 +188,10 @@ export const watchViewMixin = {
     `;
   },
 
-  // Before the watch page is re-rendered, keep a reference to the live <iframe>
-  // so the innerHTML swap never tears down the playing YouTube player. If the new
-  // page is a watch page, restorePlayerShell() re-parents the same element (and
-  // only swaps its src when the video actually changed) — this is what makes
-  // description/repeat/shuffle/autoplay toggles and related-video switches smooth
-  // instead of reloading the player from scratch.
-  capturePlayerShell() {
-    this._pendingPlayerFrame = null;
-    this._pendingPlayerVideoId = null;
-    if (!this.watchVideo) return;
-    const main = document.getElementById('yt-body-content');
-    if (!main) return;
-    const frame = main.querySelector('#yt-watch-iframe');
-    if (frame) {
-      this._pendingPlayerFrame = frame;
-      this._pendingPlayerVideoId = this.watchVideo.id;
-    }
-  },
-
-  restorePlayerShell() {
-    if (!this._pendingPlayerFrame) return;
-    const main = document.getElementById('yt-body-content');
-    if (!main) return;
-    const shell = main.querySelector('#watch-player-shell');
-    if (!shell) return;
-
-    const id = this.watchVideo ? this.watchVideo.id : null;
-    const changed = !!id && id !== this._pendingPlayerVideoId;
-
-    // Re-parent the live iframe in place of the freshly-inserted one.
-    shell.replaceChildren(this._pendingPlayerFrame);
-
-    if (changed) {
-      const host = this.privacyShield ? 'https://www.youtube-nocookie.com' : 'https://www.youtube.com';
-      const origin = encodeURIComponent(window.location.origin);
-      this._pendingPlayerFrame.src = `${host}/embed/${id}?autoplay=1&rel=0&modestbranding=1&enablejsapi=1&origin=${origin}`;
-      this._pendingPlayerFrame.title = (this.watchVideo && this.watchVideo.title) || '';
-    }
-
-    this._pendingPlayerFrame = null;
-    this._pendingPlayerVideoId = null;
-  },
-
-  // The app scrolls inside <main id="yt-body-content"> (overflow-y-auto), so
-  // window.scrollTo() never moves it. Target the real container instead.
-  scrollMainToTop(instant = true) {
-    const main = document.getElementById('yt-body-content');
-    if (main) {
-      if (instant) main.scrollTop = 0;
-      else main.scrollTo({ top: 0, behavior: 'smooth' });
-    } else {
-      window.scrollTo({ top: 0, behavior: instant ? 'auto' : 'smooth' });
-    }
-  },
-
   attachWatchPageListeners() {
     if (this.watchVideo) {
-      if (!this._checkedEmbeddable) this._checkedEmbeddable = new Set();
-      const embedId = this.watchVideo.id;
-      if (!this._checkedEmbeddable.has(embedId)) {
-        this._checkedEmbeddable.add(embedId);
-        this.checkEmbeddable(embedId, 'watch-embed-fallback');
-      }
+      this.checkEmbeddable(this.watchVideo.id, 'watch-embed-fallback');
     }
-
-    // Facade player: pre-warm on hover/touch, then hydrate the real embed on click.
-    this.wireFacadeEvents('watch-player-facade', this.hydrateWatchFacade);
 
     const backBtn = document.getElementById('watch-back-btn');
     if (backBtn) {
@@ -268,24 +200,19 @@ export const watchViewMixin = {
           const prev = this.watchHistoryStack.pop();
           this.watchVideo = prev;
           this.renderBody();
+          this.syncHash();
         } else {
-          this.watchVideo = null;
-          this.renderBody();
+          // Prefer real browser history so "Back" returns to wherever the user came from.
+          this.goBack();
         }
-        this.syncHash();
       };
     }
 
-    // Expand/collapse the description in place. Never re-render: a re-render would
-    // rebuild the iframe and restart the video that is currently playing.
     const descBox = document.getElementById('toggle-desc-box');
     if (descBox) {
       descBox.onclick = () => {
         this.descriptionExpanded = !this.descriptionExpanded;
-        const p = descBox.querySelector('p');
-        const label = descBox.querySelector('span:last-child');
-        if (p) p.classList.toggle('line-clamp-2', !this.descriptionExpanded);
-        if (label) label.textContent = this.descriptionExpanded ? 'Show less' : '...more';
+        this.renderBody();
       };
     }
 
@@ -305,7 +232,7 @@ export const watchViewMixin = {
           this.watchHistoryStack.push(this.watchVideo);
         }
         this.watchVideo = found;
-        this.scrollMainToTop();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
         this.renderBody();
         this.syncHash();
       };
