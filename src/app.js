@@ -374,9 +374,7 @@ class FreeTubeApp {
               <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg>
             </button>
             <div id="nav-logo-btn" class="flex items-center gap-2 cursor-pointer shrink-0">
-              <div class="bg-[#ff0000] text-white px-2 py-0.5 rounded-[6px] font-black tracking-tighter text-sm flex items-center justify-center shadow">
-                <svg class="w-4 h-4 fill-white inline mr-0.5" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-              </div>
+              <img src="../assets/thinking.png" alt="FocusTube" class="w-7 h-7 rounded-[6px] shadow" />
               <span class="hidden sm:inline font-bold text-lg tracking-tight text-white font-sans">FocusTube</span>
             </div>
           </div>
@@ -394,11 +392,6 @@ class FreeTubeApp {
 
           <!-- RIGHT RAIL TOOLS -->
           <div class="flex items-center gap-1 sm:gap-3 shrink-0">
-            <button id="add-channel-modal-btn" class="hidden sm:flex items-center gap-1.5 px-3.5 py-1.5 bg-[#272727] hover:bg-[#3f3f3f] rounded-full text-xs font-medium text-white transition">
-              <svg class="w-4 h-4 text-[#ff0000]" fill="currentColor" viewBox="0 0 24 24"><path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/></svg>
-              <span>Add Channel</span>
-            </button>
-
             <button id="change-user-modal-btn" class="flex items-center gap-2 p-1 sm:px-3 sm:py-1.5 rounded-full hover:bg-[#272727] text-xs font-medium transition" title="Change Username">
               <div class="w-7 h-7 rounded-full bg-[#3ea6ff] text-black font-bold flex items-center justify-center uppercase shadow shrink-0">
                 ${this.userName.charAt(0)}
@@ -439,7 +432,6 @@ class FreeTubeApp {
               
               <div class="px-6 py-2 flex items-center justify-between">
                 <span class="text-xs font-bold uppercase text-[#aaa] tracking-wider font-sans">Subscriptions (${this.subscribedChannels.length})</span>
-                <button id="sidebar-add-ch-btn" class="text-[#3ea6ff] text-xs hover:underline">+ Add</button>
               </div>
 
               <!-- SUBSCRIBED CHANNELS LIST -->
@@ -473,32 +465,6 @@ class FreeTubeApp {
         </div>
 
         ${this.renderMobileBottomNav()}
-
-        <!-- ADD CHANNEL MODAL DIALOG -->
-        <div id="add-channel-modal" class="${this.showAddModal ? 'flex' : 'hidden'} fixed inset-0 z-50 bg-black/80 backdrop-blur-sm items-center justify-center p-4 animate-in fade-in duration-150">
-          <div class="bg-[#212121] border border-[#3f3f3f] rounded-2xl max-w-lg w-full p-6 flex flex-col gap-5 shadow-2xl">
-            <div class="flex items-center justify-between border-b border-[#3f3f3f] pb-3">
-              <h3 class="text-lg font-bold text-white flex items-center gap-2">
-                <svg class="w-5 h-5 text-[#ff0000]" fill="currentColor" viewBox="0 0 24 24"><path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/></svg>
-                Subscribe to YouTube Channel
-              </h3>
-              <button id="close-add-modal" class="text-[#aaa] hover:text-white">${ICONS.close}</button>
-            </div>
-
-            <form id="add-ch-form" class="flex flex-col gap-4">
-              <div>
-                <label class="block text-xs font-medium text-[#aaa] mb-1.5">YouTube Handle (@name), Channel ID or URL</label>
-                <input type="text" id="add-ch-input" required placeholder="e.g. @Veritasium or https://youtube.com/@mkbhd" class="w-full bg-[#121212] border border-[#3f3f3f] rounded-xl px-4 py-2.5 text-sm text-white focus:outline-none focus:border-[#3ea6ff]" />
-              </div>
-              <p id="add-modal-status" class="text-xs text-[#3ea6ff] hidden"></p>
-              
-              <div class="flex justify-end gap-3 pt-2">
-                <button type="button" id="cancel-add-btn" class="px-4 py-2 rounded-full hover:bg-[#3f3f3f] text-sm text-[#aaa]">Cancel</button>
-                <button type="submit" class="px-6 py-2 rounded-full bg-[#3ea6ff] hover:bg-[#65bbf7] text-black font-bold text-sm shadow">Subscribe</button>
-              </div>
-            </form>
-          </div>
-        </div>
 
         <!-- USER PROFILE MODAL -->
         <div id="user-modal" class="${this.showUserModal ? 'flex' : 'hidden'} fixed inset-0 z-50 bg-black/80 backdrop-blur-sm items-center justify-center p-4 animate-in fade-in duration-150">
