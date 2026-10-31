@@ -8,7 +8,6 @@
  *   #/channel/SLUG/playlist/ID/video/N   -> playlist video (1-indexed)
  *   #/channel/SLUG/video/VIDEO_ID        -> channel video
  *   #/library                            -> library/playlists
- *   #/subscriptions                      -> subscriptions feed
  */
 
 export const routerMixin = {
@@ -49,7 +48,7 @@ export const routerMixin = {
     if (m) return { type: 'channel', channelKey: m[1] };
 
     if (h === '#/library') return { type: 'library' };
-    if (h === '#/subscriptions') return { type: 'subscriptions' };
+    if (h === '#/subscriptions' || h === '#/subs' || h === '#/sub') return { type: 'home' };
 
     m = h.match(/^#\/search(?:\/(.*))?$/);
     if (m) return { type: 'search', query: m[1] ? decodeURIComponent(m[1]) : '' };
@@ -72,6 +71,8 @@ export const routerMixin = {
     if (route.type === 'home') {
       this.watchVideo = null;
       this.activeView = 'home';
+      this.feedFilter = 'all';
+      this.searchQuery = '';
       this.selectedChannelId = null;
       this.selectedPlaylist = null;
       return;
@@ -85,17 +86,20 @@ export const routerMixin = {
     }
     if (route.type === 'subscriptions') {
       this.watchVideo = null;
-      this.activeView = 'subscriptions';
+      this.activeView = 'home';
       this.selectedChannelId = null;
       this.selectedPlaylist = null;
+      if (window.location.hash === '#/subscriptions') {
+        try { history.replaceState(null, '', '#/'); } catch {}
+      }
       return;
     }
     if (route.type === 'search') {
       this.watchVideo = null;
       this.activeView = 'search';
+      this.searchQuery = route.query || '';
       this.selectedChannelId = null;
       this.selectedPlaylist = null;
-      this.searchQuery = route.query || '';
       return;
     }
 
@@ -143,7 +147,8 @@ export const routerMixin = {
       const allVids = this.getAllCachedVideos();
       const vidId = decodeURIComponent(route.videoId);
       this.watchVideo = allVids.find(v => v.id === vidId) || { id: vidId, title: 'Video', channelId: ch.id, channelName: ch.name };
-      this.selectedPlaylist = null;
+      // Auto-attach the playlist this video belongs to (if any) so the queue sidebar works.
+      this.selectedPlaylist = this.findPlaylistForVideo(this.watchVideo);
       return;
     }
   },
@@ -178,8 +183,10 @@ export const routerMixin = {
     }
 
     if (this.activeView === 'library') return '#/library';
-    if (this.activeView === 'subscriptions') return '#/subscriptions';
-    if (this.activeView === 'search') return this.searchQuery ? `#/search/${encodeURIComponent(this.searchQuery)}` : '#/search';
+    if (this.activeView === 'subscriptions') return '#/';
+    if (this.activeView === 'search') {
+      return this.searchQuery ? `#/search/${encodeURIComponent(this.searchQuery)}` : '#/search';
+    }
 
     return '#/';
   },
@@ -191,8 +198,9 @@ export const routerMixin = {
     }
   },
 
-  // Real browser-style back for in-page buttons: uses history when there's an
-  // entry to go back to, otherwise falls back to the home route.
+  // A real "back" that prefers the browser/Electron history stack so in-app
+  // navigation stays in sync with hardware back. Falls back to Home when there
+  // is nothing sensible to return to (e.g. the app was opened on this view).
   goBack() {
     if (window.history.length > 1) {
       window.history.back();
@@ -201,7 +209,6 @@ export const routerMixin = {
       this.activeView = 'home';
       this.selectedChannelId = null;
       this.selectedPlaylist = null;
-      this.searchQuery = '';
       this.render();
       this.syncHash();
     }

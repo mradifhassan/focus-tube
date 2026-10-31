@@ -13,6 +13,34 @@ export const eventsMixin = {
         this.render();
       }
 
+      // Mobile bottom tab bar
+      const navAction = e.target.closest('[data-nav-action]');
+      if (navAction) {
+        const action = navAction.getAttribute('data-nav-action');
+        if (action === 'channels') {
+          // Open the drawer (it lists every subscribed channel) instead of a
+          // hidden hamburger; the bottom tab makes it discoverable on mobile.
+          this.watchVideo = null;
+          this.sidebarExpanded = true;
+          this.render();
+          return;
+        }
+        if (action === 'search') {
+          const sInput = document.getElementById('yt-search-input');
+          if (sInput) sInput.focus();
+          return;
+        }
+        this.watchVideo = null;
+        this.activeView = action;
+        if (action === 'home') this.feedFilter = 'all';
+        this.selectedChannelId = null;
+        this.selectedPlaylist = null;
+        this.scrollMainToTop();
+        this.render();
+        this.syncHash();
+        return;
+      }
+
       // Tapping the backdrop closes the mobile drawer
       if (e.target.id === 'sidebar-backdrop') {
         this.sidebarExpanded = false;
@@ -28,10 +56,11 @@ export const eventsMixin = {
       if (e.target.closest('#nav-logo-btn')) {
         this.watchVideo = null;
         this.activeView = 'home';
+        this.feedFilter = 'all';
         this.selectedChannelId = null;
         this.selectedPlaylist = null;
         this.searchQuery = '';
-        this.feedFilter = 'all';
+        this.scrollMainToTop();
         this.renderBody();
         this.syncHash();
       }
@@ -41,9 +70,10 @@ export const eventsMixin = {
       if (navItem) {
         this.watchVideo = null;
         this.activeView = navItem.getAttribute('data-nav');
+        if (this.activeView === 'home') this.feedFilter = 'all';
         this.selectedChannelId = null;
         this.selectedPlaylist = null;
-        this.feedFilter = 'all';
+        this.scrollMainToTop();
         this.render();
         this.syncHash();
       }
@@ -77,8 +107,23 @@ export const eventsMixin = {
         return;
       }
 
-      // Back buttons (playlist detail, channel, isolated) use real browser history
-      if (e.target.closest('#playlist-back-btn') || e.target.closest('#channel-back-btn')) {
+      // Back button in Playlist Detail View — return to wherever the user came
+      // from (channel tab, search results, library) via real history, falling
+      // back to the library only when there is no history to go back to.
+      if (e.target.closest('#playlist-back-btn')) {
+        if (window.history.length > 1) {
+          window.history.back();
+        } else {
+          this.activeView = 'library';
+          this.selectedPlaylist = null;
+          this.render();
+          this.syncHash();
+        }
+        return;
+      }
+
+      // Back button on the Channel page
+      if (e.target.closest('#channel-back-btn')) {
         this.goBack();
         return;
       }
@@ -87,13 +132,14 @@ export const eventsMixin = {
       const filterChip = e.target.closest('[data-filter]');
       if (filterChip) {
         const filter = filterChip.getAttribute('data-filter');
-        // "Playlists" is a real destination (its own hash route), not a feed filter.
         if (filter === 'playlists') {
+          // Navigate to the real "Saved Playlists" view (gets its own hash, so
+          // the back button and sidebar both work) instead of trapping the feed.
           this.watchVideo = null;
           this.activeView = 'library';
           this.selectedChannelId = null;
           this.selectedPlaylist = null;
-          this.feedFilter = 'all';
+          this.scrollMainToTop();
           this.render();
           this.syncHash();
           return;
@@ -102,13 +148,13 @@ export const eventsMixin = {
         document.querySelectorAll('[data-filter]').forEach(b => b.classList.remove('active'));
         filterChip.classList.add('active');
         this.renderBody();
-        this.syncHash();
       }
 
       // Channel Tabs switch (Videos | Playlists | About)
       const chTab = e.target.closest('[data-ch-tab]');
       if (chTab) {
         this.channelTab = chTab.getAttribute('data-ch-tab');
+        this.scrollMainToTop();
         this.renderBody();
       }
 
@@ -120,9 +166,9 @@ export const eventsMixin = {
         const found = all.find(v => v.id === vidId) || { id: vidId, title: "YouTube Video", channelId: vidCard.getAttribute('data-ch') };
 
         // Only keep playlist queue/autoplay context when the click came from a playlist-aware card
-        // (the playlist detail page, or the in-watch-page playlist queue panel). Otherwise, if the
-        // video happens to belong to one of the user's playlists, attach that playlist so the watch
-        // sidebar shows the full native-style queue.
+        // (the playlist detail page, or the in-watch-page playlist queue panel).
+        // Otherwise, auto-detect the playlist this video belongs to so the watch page still
+        // shows the full playlist queue in the sidebar instead of random channel suggestions.
         if (!vidCard.hasAttribute('data-in-playlist')) {
           this.selectedPlaylist = this.findPlaylistForVideo(found);
         }
@@ -158,29 +204,6 @@ export const eventsMixin = {
         this.render();
       }
 
-      // Mobile bottom-nav tab bar
-      const navAction = e.target.closest('[data-nav-action]');
-      if (navAction) {
-        const action = navAction.getAttribute('data-nav-action');
-        if (action === 'channels') {
-          this.sidebarExpanded = true;
-          this.render();
-        } else if (action === 'search') {
-          const input = document.getElementById('yt-search-input');
-          if (input) input.focus();
-        } else {
-          this.watchVideo = null;
-          this.activeView = action;
-          this.selectedChannelId = null;
-          this.selectedPlaylist = null;
-          this.feedFilter = 'all';
-          this.render();
-          this.syncHash();
-          this.scrollMainToTop();
-        }
-        return;
-      }
-
       // Submit Search Btn
       if (e.target.closest('#submit-search-btn')) {
         const sInput = document.getElementById('yt-search-input');
@@ -188,6 +211,9 @@ export const eventsMixin = {
           this.searchQuery = sInput.value.trim();
           this.activeView = 'search';
           this.watchVideo = null;
+          this.selectedChannelId = null;
+          this.selectedPlaylist = null;
+          this.scrollMainToTop();
           this.render();
           this.syncHash();
         }
@@ -197,6 +223,8 @@ export const eventsMixin = {
       if (e.target.closest('#clear-search-btn')) {
         this.searchQuery = '';
         this.activeView = 'home';
+        this.watchVideo = null;
+        this.scrollMainToTop();
         this.render();
         this.syncHash();
       }
@@ -212,20 +240,32 @@ export const eventsMixin = {
           this.searchQuery = val;
           this.activeView = 'search';
           this.watchVideo = null;
+          this.selectedChannelId = null;
+          this.selectedPlaylist = null;
+          this.scrollMainToTop();
           this.render();
           this.syncHash();
         }
       }
     });
 
+    // Edit Username Form
     document.addEventListener('submit', async (e) => {
-      // Edit Username Form
       if (e.target && e.target.id === 'edit-user-form') {
         e.preventDefault();
         const uInput = document.getElementById('edit-username-input');
         if (uInput) {
-          this.userName = uInput.value.trim() || 'Radif Hassan';
-          localStorage.setItem('yt_user_name', this.userName);
+          this.userName = uInput.value.trim();
+          if (this.userName) {
+            localStorage.setItem('yt_user_name', this.userName);
+          } else {
+            this.userName = localStorage.getItem('yt_user_name') || '';
+            if (!this.userName) {
+              this.showUserModal = false;
+              this.render();
+              return;
+            }
+          }
           this.showUserModal = false;
           this.render();
         }

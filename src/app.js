@@ -11,6 +11,7 @@
  */
 
 import { ICONS } from './icons.js';
+import { RelatedVideosEngine } from './engine.js';
 import { routerMixin } from './router.js';
 import { seoMixin } from './seo.js';
 import { apiMixin } from './api.js';
@@ -18,22 +19,21 @@ import { storageMixin } from './storage.js';
 import { playerMixin } from './player.js';
 import { eventsMixin } from './events.js';
 import { viewsMixin } from './views/index.js';
-import { RelatedVideosEngine } from './engine.js';
 import { formatSeconds, formatNumber, escapeHtml } from './utils.js';
 
 class FreeTubeApp {
   constructor() {
     this.subscribedChannels = this.loadChannels();
-    this.userName = localStorage.getItem('yt_user_name') || 'Radif Hassan';
+    this.userName = localStorage.getItem('yt_user_name') || '';
     this.privacyShield = localStorage.getItem('yt_privacy_shield') !== 'false';
 
     // View State
-    this.activeView = 'home'; // 'home' | 'channel' | 'subscriptions' | 'library' | 'playlist_detail'
+    this.activeView = 'home'; // 'home' | 'channel' | 'library' | 'playlist_detail'
     this.selectedChannelId = null;
     this.selectedPlaylist = null;
     this.channelTab = 'videos'; // 'videos' | 'playlists' | 'about'
     this.searchQuery = '';
-    this.feedFilter = 'all'; // 'all' | 'playlists' | 'science' | 'tech' | 'recently'
+    this.feedFilter = 'all'; // 'all' | 'playlists' | 'science' | 'tech'
     // Sidebar is a persistent mini/full rail on large screens, a slide-over drawer on small ones.
     this.sidebarExpanded = window.innerWidth >= 1024;
     this.isMobile = window.innerWidth < 1024;
@@ -154,6 +154,37 @@ class FreeTubeApp {
     return all;
   }
 
+  // Looks up which playlist (if any) a video belongs to, so the watch page can
+  // show that playlist's full queue in the sidebar even when the video was opened
+  // from the home feed or search results (not via a playlist link). Prefers a
+  // playlist from the video's own channel, then any playlist containing it.
+  findPlaylistForVideo(video) {
+    if (!video || !video.id) return null;
+    const pls = this.getAllCachedPlaylists();
+    const mine = pls.find(p =>
+      p.channelId === video.channelId &&
+      Array.isArray(p.videos) && p.videos.includes(video.id)
+    );
+    if (mine) return mine;
+    return pls.find(p => Array.isArray(p.videos) && p.videos.includes(video.id)) || null;
+  }
+
+  // Classifies a video into a feed category using the reliable `Subject:`
+  // field carried in the catalog descriptions (e.g. "Subject: Physics"),
+  // rather than fragile title keywords. Returns 'science' | 'math' | 'other'.
+  classifyVideoSubject(video) {
+    const desc = (video && video.description) || '';
+    const m = desc.match(/Subject:\s*([A-Za-z][A-Za-z ]*)/);
+    const subject = m ? m[1].trim().toLowerCase() : '';
+    if (subject === 'physics' || subject === 'chemistry' || subject === 'biology') {
+      return 'science';
+    }
+    if (subject.includes('math')) {
+      return 'math';
+    }
+    return 'other';
+  }
+
   // Related-videos graph is O(n) to build now, but still ~200ms for the
   // 998-video channel — so build it once per channel and reuse it forever
   // (invalidated when the video count for that channel changes).
@@ -169,27 +200,38 @@ class FreeTubeApp {
   }
 
   // Pre-build the graphs during idle time right after boot, so the first video
-  // click has nothing left to compute.
+  // click has nothing left to compute. Done one channel per idle callback: a
+  // ~1000-video channel takes ~300ms to graph, so building them all in a single
+  // task would freeze the UI for a noticeable beat.
   warmRelatedEngines() {
-    const warm = () => {
-      const all = this.getAllCachedVideos();
-      this.subscribedChannels.forEach(ch => {
-        const vids = all.filter(v => v.channelId === ch.id);
-        if (vids.length) this.getRelatedEngine(ch.id, vids);
-      });
+    const all = this.getAllCachedVideos();
+    const jobs = this.subscribedChannels
+      .map(ch => ({ id: ch.id, vids: all.filter(v => v.channelId === ch.id) }))
+      .filter(j => j.vids.length);
+
+    const step = () => {
+      const job = jobs.shift();
+      if (!job) return;
+      this.getRelatedEngine(job.id, job.vids);
+      if (jobs.length) {
+        if (typeof requestIdleCallback === 'function') requestIdleCallback(step, { timeout: 2000 });
+        else setTimeout(step, 50);
+      }
     };
-    if (typeof requestIdleCallback === 'function') requestIdleCallback(warm, { timeout: 3000 });
-    else setTimeout(warm, 500);
+
+    if (typeof requestIdleCallback === 'function') requestIdleCallback(step, { timeout: 3000 });
+    else setTimeout(step, 500);
   }
 
   // ============================================================================
   // VIDEO GRID PAGINATION (incremental render + infinite scroll)
   // ----------------------------------------------------------------------------
-  // Large channels used to inject every video card into innerHTML at once, which
-  // made switching to them janky. We render one page and stream the rest in as
-  // the user scrolls, keeping the main thread responsive at any catalog size.
+  // Large channels (OnnoRokom ~1000 videos) made switching channels janky because
+  // every card was injected into innerHTML in one 1MB+ parse. We now render one
+  // page at a time and append more as the user scrolls, keeping the main thread
+  // responsive regardless of catalog size.
   // ============================================================================
-  gridPageSize() { return 48; }
+  GRID_PAGE_SIZE = 48;
 
   // Shared video-card markup so home, search and channel grids stay identical.
   videoCardHtml(v) {
@@ -216,13 +258,12 @@ class FreeTubeApp {
   }
 
   // Builds a paged grid: the first page is inlined, the rest stream in via the
-  // sentinel as it scrolls into view. `getList()` is called on demand so the grid
-  // always reflects the current data without a full re-render.
+  // sentinel below as it scrolls into view. `getList()` returns the full array
+  // on demand so the grid always reflects the current data without re-rendering.
   pagedVideoGridHtml(getList) {
     this._gridGetList = getList;
     const all = getList();
-    const size = this.gridPageSize();
-    const first = all.slice(0, size);
+    const first = all.slice(0, this.GRID_PAGE_SIZE);
     const hasMore = all.length > first.length;
     return `
       <div id="yt-video-grid" class="p-3 sm:p-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-x-4 gap-y-8">
@@ -247,15 +288,16 @@ class FreeTubeApp {
     const grid = document.getElementById('yt-video-grid');
     if (!sentinel || !grid || !this._gridGetList) return;
 
-    this._gridRendered = this.gridPageSize();
+    this._gridRendered = this.GRID_PAGE_SIZE;
 
     const loadMore = () => {
       const all = this._gridGetList ? this._gridGetList() : [];
       if (this._gridRendered >= all.length) return;
-      const next = all.slice(this._gridRendered, this._gridRendered + this.gridPageSize());
+      const next = all.slice(this._gridRendered, this._gridRendered + this.GRID_PAGE_SIZE);
       const frag = document.createElement('div');
       frag.innerHTML = next.map(v => this.videoCardHtml(v)).join('');
-      Array.from(frag.children).forEach(n => grid.appendChild(n));
+      const nodes = Array.from(frag.children);
+      nodes.forEach(n => grid.appendChild(n));
       this._gridRendered += next.length;
 
       if (this._gridRendered >= all.length) {
@@ -271,7 +313,8 @@ class FreeTubeApp {
       }, { rootMargin: '600px 0px' });
       this._gridObserver.observe(sentinel);
     } else {
-      sentinel.innerHTML = `<button class="px-4 py-2 rounded-full bg-[#272727] hover:bg-[#3f3f3f] active:bg-[#3f3f3f] text-white text-xs font-medium">Load more</button>`;
+      // Very old engines: one extra page, then a manual tap to continue.
+      sentinel.innerHTML = `<button class="px-4 py-2 rounded-full bg-[#272727] hover:bg-[#3f3f3f] text-white text-xs font-medium">Load more</button>`;
       sentinel.firstElementChild.onclick = loadMore;
     }
   }
@@ -286,45 +329,6 @@ class FreeTubeApp {
     this._gridRendered = 0;
   }
 
-  // Looks up which playlist (if any) a video belongs to, so the watch page can
-  // show that playlist's full queue in the sidebar even when the video was opened
-  // from the home feed or search results (not via a playlist link). Prefers a
-  // playlist from the video's own channel, then any playlist containing it.
-  findPlaylistForVideo(video) {
-    if (!video || !video.id) return null;
-    const pls = this.getAllCachedPlaylists();
-    const mine = pls.find(p =>
-      p.channelId === video.channelId &&
-      Array.isArray(p.videos) && p.videos.includes(video.id)
-    );
-    if (mine) return mine;
-    return pls.find(p => Array.isArray(p.videos) && p.videos.includes(video.id)) || null;
-  }
-
-  // Scrolls the main content pane (or window) back to the top after a route
-  // change, so navigating never leaves the user mid-page.
-  scrollMainToTop() {
-    const main = document.getElementById('yt-body-content');
-    if (main) main.scrollTo({ top: 0, behavior: 'auto' });
-    window.scrollTo({ top: 0, behavior: 'auto' });
-  }
-
-  // Classifies a video into a feed category using the reliable `Subject:`
-  // field carried in the catalog descriptions (e.g. "Subject: Physics"),
-  // rather than fragile title keywords. Returns 'science' | 'math' | 'other'.
-  classifyVideoSubject(video) {
-    const desc = (video && video.description) || '';
-    const m = desc.match(/Subject:\s*([A-Za-z][A-Za-z ]*)/);
-    const subject = m ? m[1].trim().toLowerCase() : '';
-    if (subject === 'physics' || subject === 'chemistry' || subject === 'biology') {
-      return 'science';
-    }
-    if (subject.includes('math')) {
-      return 'math';
-    }
-    return 'other';
-  }
-
   // Bottom tab bar for phones (hidden at lg+ where the persistent sidebar takes
   // over). Gives one-tap thumb-reach navigation like the YouTube mobile app,
   // replacing the need to open the hamburger drawer for channels/playlists.
@@ -336,15 +340,13 @@ class FreeTubeApp {
       </button>`;
 
     const home = this.activeView === 'home' && !this.watchVideo;
-    const subs = this.activeView === 'subscriptions' && !this.watchVideo;
     const lib = (this.activeView === 'library' || this.activeView === 'playlist_detail') && !this.watchVideo;
     const chans = this.activeView === 'channel' && !this.watchVideo;
 
     return `
       <nav id="mobile-bottom-nav" class="lg:hidden fixed bottom-0 inset-x-0 z-40 bg-[#0f0f0f]/95 backdrop-blur border-t border-[#272727] pb-safe-bottom">
-        <div class="flex items-stretch h-14">
+        <div class="flex items-stretch h-14 pt-safe-bottom">
           ${item('home', 'Home', `<svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>`, home)}
-          ${item('subscriptions', 'Subs', `<svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M20 8H4V6h16v2zm-2-4H6v2h12V4zM20 10H4v10h16V10zm-8 8l5-4-5-4v8z"/></svg>`, subs)}
           ${item('library', 'Playlists', `<svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-8 12.5v-9l6 4.5-6 4.5z"/></svg>`, lib)}
           ${item('channels', 'Channels', `<svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08s5.97 1.09 6 3.08c-1.29 1.94-3.5 3.22-6 3.22z"/></svg>`, chans)}
           ${item('search', 'Search', `<svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>`, false)}
@@ -362,6 +364,11 @@ class FreeTubeApp {
       return;
     }
 
+    // Preserve the live YouTube iframe across a full shell rebuild (e.g. a responsive
+    // breakpoint resize). Without this, root.innerHTML below tears down the player and
+    // the video restarts from scratch whenever the window is resized/tiled.
+    this.capturePlayerShell();
+
     this.root.innerHTML = `
       <div class="flex flex-col min-h-[100dvh] bg-[#0f0f0f] text-[#f1f1f1] select-none font-sans">
         
@@ -374,7 +381,7 @@ class FreeTubeApp {
               <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg>
             </button>
             <div id="nav-logo-btn" class="flex items-center gap-2 cursor-pointer shrink-0">
-              <img src="../assets/thinking.png" alt="FocusTube" class="w-7 h-7 rounded-[6px] shadow" />
+              <img src="assets/thinking.png" alt="FocusTube" class="w-7 h-7 rounded-[6px] shadow" />
               <span class="hidden sm:inline font-bold text-lg tracking-tight text-white font-sans">FocusTube</span>
             </div>
           </div>
@@ -393,10 +400,14 @@ class FreeTubeApp {
           <!-- RIGHT RAIL TOOLS -->
           <div class="flex items-center gap-1 sm:gap-3 shrink-0">
             <button id="change-user-modal-btn" class="flex items-center gap-2 p-1 sm:px-3 sm:py-1.5 rounded-full hover:bg-[#272727] text-xs font-medium transition" title="Change Username">
+              ${this.userName ? `
               <div class="w-7 h-7 rounded-full bg-[#3ea6ff] text-black font-bold flex items-center justify-center uppercase shadow shrink-0">
                 ${this.userName.charAt(0)}
               </div>
               <span class="hidden md:inline text-[#f1f1f1] max-w-[90px] truncate">${this.userName}</span>
+              ` : `
+              <span class="text-[#f1f1f1] px-2">Profile</span>
+              `}
             </button>
           </div>
         </header>
@@ -416,10 +427,7 @@ class FreeTubeApp {
                 <span class="${this.sidebarExpanded ? '' : 'hidden'} text-sm">Home</span>
               </div>
 
-              <div data-nav="subscriptions" class="yt-sidebar-item ${this.activeView === 'subscriptions' ? 'active' : ''}">
-                <svg class="w-5 h-5 shrink-0" fill="currentColor" viewBox="0 0 24 24"><path d="M18.7 8.7H5.3V7h13.4v1.7zm-3.4-3.4H8.7V3.6h6.6v1.7zM22 12v8H2v-8h20zM4 18h16v-4.3H4V18z"/></svg>
-                <span class="${this.sidebarExpanded ? '' : 'hidden'} text-sm">Subscriptions</span>
-              </div>
+              <!-- Subscriptions removed as requested -->
 
               <div data-nav="library" class="yt-sidebar-item ${this.activeView === 'library' || this.activeView === 'playlist_detail' ? 'active' : ''}">
                 <svg class="w-5 h-5 shrink-0" fill="currentColor" viewBox="0 0 24 24"><path d="M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-8 12.5v-9l6 4.5-6 4.5z"/></svg>
@@ -431,7 +439,7 @@ class FreeTubeApp {
               <div class="my-3 border-t border-[#272727] mx-3"></div>
               
               <div class="px-6 py-2 flex items-center justify-between">
-                <span class="text-xs font-bold uppercase text-[#aaa] tracking-wider font-sans">Subscriptions (${this.subscribedChannels.length})</span>
+                <span class="text-xs font-bold uppercase text-[#aaa] tracking-wider font-sans">Channels (${this.subscribedChannels.length})</span>
               </div>
 
               <!-- SUBSCRIBED CHANNELS LIST -->
@@ -447,13 +455,10 @@ class FreeTubeApp {
               </div>
             ` : ''}
 
-            <!-- FOOTER INFO IN SIDEBAR -->
-            <div class="mt-auto p-4 border-t border-[#272727] ${this.sidebarExpanded ? '' : 'hidden'}">
-              <p class="text-[11px] text-[#888] leading-relaxed">
-                FreeTube WebApp v2.0<br>Open Source YouTube Client.<br>&copy; 2026 Radif Hassan.
-              </p>
+            <!-- COPYRIGHT -->
+            <div class="mt-auto ${this.sidebarExpanded ? '' : 'hidden'}">
+              <p class="text-[11px] text-[#888] leading-relaxed px-6 py-4">&copy; 2026 &bull; FocusTube</p>
             </div>
-            <!-- Spacer so the drawer's last items clear the phone tab bar -->
             <div class="lg:hidden" style="height: calc(var(--bottom-nav-h) + var(--safe-bottom));"></div>
           </aside>
 
@@ -470,12 +475,12 @@ class FreeTubeApp {
         <div id="user-modal" class="${this.showUserModal ? 'flex' : 'hidden'} fixed inset-0 z-50 bg-black/80 backdrop-blur-sm items-center justify-center p-4 animate-in fade-in duration-150">
           <div class="bg-[#212121] border border-[#3f3f3f] rounded-2xl max-w-sm w-full p-6 flex flex-col gap-5 shadow-2xl">
             <div class="flex items-center justify-between border-b border-[#3f3f3f] pb-3">
-              <h3 class="text-base font-bold text-white">Edit User Profile</h3>
+              <h3 class="text-base font-bold text-white">Profile</h3>
               <button id="close-user-modal" class="text-[#aaa] hover:text-white">${ICONS.close}</button>
             </div>
             <form id="edit-user-form" class="flex flex-col gap-4">
-              <input type="text" id="edit-username-input" required value="${this.userName}" placeholder="Your Name" class="w-full bg-[#121212] border border-[#3f3f3f] rounded-xl px-4 py-2.5 text-sm text-white focus:outline-none focus:border-[#3ea6ff]" />
-              <button type="submit" class="w-full py-2.5 rounded-full bg-[#3ea6ff] text-black font-bold text-sm">Save Profile</button>
+              <input type="text" id="edit-username-input" value="${this.userName || ''}" placeholder="Enter name" class="w-full bg-[#121212] border border-[#3f3f3f] rounded-xl px-4 py-2.5 text-sm text-white focus:outline-none focus:border-[#3ea6ff]" />
+              <button type="submit" class="w-full py-2.5 rounded-full bg-[#3ea6ff] text-black font-bold text-sm">Save</button>
             </form>
           </div>
         </div>
@@ -501,7 +506,7 @@ class FreeTubeApp {
       return;
     }
 
-    if (this.activeView === 'home' || this.activeView === 'subscriptions') {
+    if (this.activeView === 'home') {
       main.innerHTML = this.renderHomePageHtml();
       this.setupGridInfiniteScroll();
     } else if (this.activeView === 'search') {

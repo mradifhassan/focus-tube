@@ -12,15 +12,22 @@ export const watchViewMixin = {
     const vid = this.watchVideo;
     const ch = this.subscribedChannels.find(c => c.id === vid.channelId) || { name: vid.channelName || 'YouTube Channel', initials: 'YT', avatarColor: 'bg-red-600' };
 
-    // "More videos" is scoped to ONLY this channel's own catalog — never pulls in outside/YouTube
-    // suggestions, so watching stays isolated to the channels the user actually follows here.
+    // Related videos are scoped to ONLY videos that belong to one of the user's
+    // own playlists — never outside/YouTube/algorithmic suggestions. Clicking any
+    // card plays it in-app (see the [data-related-vid] handler below).
     const allVids = this.getAllCachedVideos();
-    const channelVids = allVids.filter(v => v.channelId === vid.channelId);
-    const engine = this.getRelatedEngine(vid.channelId, channelVids);
-    let upNext = engine.getUpNext(vid.id, 12).filter(v => v.id !== vid.id);
-    if (upNext.length < 4) {
-      upNext = channelVids.filter(v => v.id !== vid.id).slice(0, 12);
-    }
+    const playlistVideoIds = new Set();
+    this.getAllCachedPlaylists().forEach(p => {
+      (p.videos || []).forEach(id => playlistVideoIds.add(id));
+    });
+    const byId = new Map(allVids.map(v => [v.id, v]));
+    let upNext = [];
+    playlistVideoIds.forEach(id => {
+      if (id === vid.id) return;
+      const v = byId.get(id);
+      if (v) upNext.push(v);
+    });
+    upNext = upNext.slice(0, 12);
 
     // Native-YouTube-style playlist queue: active only when the current video belongs to
     // the selected playlist (e.g. opened via "Play All" or a #/channel/.../playlist/.../video/N link).
@@ -31,9 +38,9 @@ export const watchViewMixin = {
     return `
       <!-- TOP BACK BUTTON RAIL -->
       <div class="sticky top-0 z-30 bg-[#0f0f0f] px-3 sm:px-6 py-3 border-b border-[#272727] flex flex-wrap items-center justify-between gap-2">
-        <button id="watch-back-btn" class="flex items-center gap-2 px-3 sm:px-4 py-2 bg-[#272727] hover:bg-[#3f3f3f] text-white font-bold text-xs sm:text-sm rounded-full transition shadow">
+        <button id="watch-back-btn" class="flex items-center gap-2 px-3 sm:px-4 py-2 bg-[#272727] hover:bg-[#3f3f3f] active:bg-[#4a4a4a] text-white font-bold text-xs sm:text-sm rounded-full transition shadow">
           <span>&larr;</span>
-          <span>Back (${this.watchHistoryStack.length > 0 ? 'Previous Video' : 'Home'})</span>
+          <span>Back</span>
         </button>
 
         <span class="text-[10px] sm:text-xs font-semibold px-3 py-1 rounded-full bg-[#272727] text-[#aaa]">
@@ -61,18 +68,17 @@ export const watchViewMixin = {
             </div>
           </div>
 
-          <!-- EMBEDDING-DISABLED FALLBACK (shown only if this video can't be embedded) -->
-          <div id="watch-embed-fallback" class="hidden bg-[#1f1f1f] border border-[#3f3f3f] rounded-xl p-4 text-sm text-[#ddd] flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
-            <span>This video's owner has disabled embedding, so it can't play here.</span>
-            <a href="https://www.youtube.com/watch?v=${vid.id}" target="_blank" rel="noopener" class="shrink-0 px-4 py-2 bg-red-600 hover:bg-red-700 rounded-full text-white font-bold text-xs">Watch on YouTube</a>
+          <!-- EMBEDDING-DISABLED NOTICE (shown only if this video can't be embedded) -->
+          <div id="watch-embed-fallback" class="hidden bg-[#1f1f1f] border border-[#3f3f3f] rounded-xl p-4 text-sm text-[#ddd] flex items-center justify-between gap-3">
+            <span>This video's owner has disabled embedding, so it can't play here. Pick another video from your playlists.</span>
           </div>
 
-          <!-- VIDEO TITLE + ISOLATED MODE LINK -->
+          <!-- VIDEO TITLE + ISOLATED MODE BUTTON -->
           <div class="flex items-start justify-between gap-4">
             <h1 class="text-lg sm:text-xl font-bold text-white leading-snug">${vid.title}</h1>
-            <a href="${window.location.pathname}#/v/${vid.id}" target="_blank" rel="noopener" class="shrink-0 text-[11px] px-3 py-1.5 rounded-full bg-[#272727] hover:bg-[#3f3f3f] text-[#aaa] hover:text-white transition whitespace-nowrap" title="Open this video alone, with no recommendations or feed">
+            <button id="open-isolated-btn" class="shrink-0 text-[11px] px-3 py-1.5 rounded-full bg-[#272727] hover:bg-[#3f3f3f] text-[#aaa] hover:text-white transition whitespace-nowrap" title="Open this video alone, with no recommendations or feed">
               Open Isolated
-            </a>
+            </button>
           </div>
 
           <!-- CHANNEL INFO & ACTIONS ROW -->
@@ -108,11 +114,7 @@ export const watchViewMixin = {
 
           <!-- DESCRIPTION BOX -->
           <div class="bg-[#1f1f1f] hover:bg-[#272727]/80 rounded-2xl p-4 transition cursor-pointer flex flex-col gap-2" id="toggle-desc-box">
-            <div class="flex items-center gap-3 text-xs font-bold text-white">
-              <span>${vid.views || '1,240 views'}</span>
-              <span>${vid.publishedText || 'Recently'}</span>
-            </div>
-            <p class="text-xs text-[#ddd] ${this.descriptionExpanded ? '' : 'line-clamp-2'} whitespace-pre-line leading-relaxed">${vid.description || 'Watch full video stream on FreeTube interface.'}</p>
+            <p class="text-xs text-[#ddd] ${this.descriptionExpanded ? '' : 'line-clamp-2'} whitespace-pre-line leading-relaxed select-text">${vid.description || 'Watch full video stream on FreeTube interface.'}</p>
             <span class="text-xs font-bold text-[#aaa] mt-1">${this.descriptionExpanded ? 'Show less' : '...more'}</span>
           </div>
 
@@ -143,7 +145,7 @@ export const watchViewMixin = {
                   </button>
                 </div>
               </div>
-              <div class="max-h-[70vh] lg:max-h-[600px] overflow-y-auto flex flex-col">
+              <div class="lg:max-h-[600px] lg:overflow-y-auto flex flex-col">
                 ${plIds.map((id, i) => {
                   const v = allVids.find(x => x.id === id) || { id, title: 'YouTube Broadcast (' + id + ')', thumbnail: 'https://i.ytimg.com/vi/' + id + '/hqdefault.jpg', channelName: this.selectedPlaylist.channelName, channelId: vid.channelId };
                   const active = id === vid.id;
@@ -166,7 +168,7 @@ export const watchViewMixin = {
           ` : `
             <div class="flex items-center justify-between">
               <h3 class="text-base font-bold text-white">
-                More from ${ch.name}
+                More from your playlists
               </h3>
             </div>
 
@@ -180,11 +182,10 @@ export const watchViewMixin = {
                   <div class="flex flex-col gap-1 flex-1 overflow-hidden">
                     <h4 class="text-xs font-semibold text-white line-clamp-2 leading-snug group-hover:text-[#3ea6ff]">${v.title}</h4>
                     <p class="text-[11px] text-[#aaa] truncate">${v.channelName}</p>
-                    <p class="text-[10px] text-[#888]">${v.views}</p>
                   </div>
                 </div>
               `).join('')}
-              ${upNext.length === 0 ? `<p class="text-xs text-[#888] px-2">No other videos from this channel yet.</p>` : ''}
+              ${upNext.length === 0 ? `<p class="text-xs text-[#888] px-2">No other videos in your playlists yet.</p>` : ''}
             </div>
           `}
         </div>
@@ -200,6 +201,10 @@ export const watchViewMixin = {
   // description/repeat/shuffle/autoplay toggles and related-video switches smooth
   // instead of reloading the player from scratch.
   capturePlayerShell() {
+    // If render() already captured the live iframe before rebuilding the shell
+    // (e.g. on a responsive breakpoint resize), don't clobber that reference — the
+    // frame is no longer in the DOM at this point, so a fresh query would find nothing.
+    if (this._pendingPlayerFrame) return;
     this._pendingPlayerFrame = null;
     this._pendingPlayerVideoId = null;
     if (!this.watchVideo) return;
@@ -261,18 +266,37 @@ export const watchViewMixin = {
     // Facade player: pre-warm on hover/touch, then hydrate the real embed on click.
     this.wireFacadeEvents('watch-player-facade', this.hydrateWatchFacade);
 
+    const isolatedBtn = document.getElementById('open-isolated-btn');
+    if (isolatedBtn) {
+      isolatedBtn.onclick = () => {
+        if (!this.watchVideo) return;
+        this.isolatedVideoId = this.watchVideo.id;
+        this.isolatedVideoData = null;
+        this.scrollMainToTop();
+        this.render();
+        this.syncHash();
+      };
+    }
+
     const backBtn = document.getElementById('watch-back-btn');
     if (backBtn) {
       backBtn.onclick = () => {
-        if (this.watchHistoryStack.length > 0) {
-          const prev = this.watchHistoryStack.pop();
-          this.watchVideo = prev;
+        // Prefer real history so hardware/Electron back stays in sync; fall back
+        // to popping the in-page video stack, then to Home.
+        if (window.history.length > 1) {
+          window.history.back();
+        } else if (this.watchHistoryStack.length > 0) {
+          this.watchVideo = this.watchHistoryStack.pop();
+          this.scrollMainToTop();
           this.renderBody();
+          this.syncHash();
         } else {
           this.watchVideo = null;
+          this.activeView = 'home';
+          this.scrollMainToTop();
           this.renderBody();
+          this.syncHash();
         }
-        this.syncHash();
       };
     }
 
@@ -296,9 +320,9 @@ export const watchViewMixin = {
         const found = all.find(v => v.id === vidId) || { id: vidId, title: "YouTube Stream", channelId: el.getAttribute('data-ch') };
 
         // Clicks from the playlist queue panel keep the playlist context (so autoplay keeps working);
-        // clicks from the plain "More from this channel" list are standalone.
+        // clicks from the playlist-scoped related list re-detect the playlist so we land in the queue.
         if (!el.hasAttribute('data-in-playlist')) {
-          this.selectedPlaylist = null;
+          this.selectedPlaylist = this.findPlaylistForVideo(found);
         }
 
         if (this.watchVideo) {

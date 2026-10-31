@@ -10,33 +10,32 @@
   --font-sans: "Roboto", Arial, sans-serif;
 }
 
-/* ---------------------------------------------------------------------------
-   Safe-area / mobile-viewport tokens. `--bottom-nav-h` reserves room for the
-   phone tab bar; the safe-* vars pick up Android/iOS gesture-bar insets when
-   the viewport uses viewport-fit=cover.
---------------------------------------------------------------------------- */
-:root {
-  --safe-top: env(safe-area-inset-top, 0px);
-  --safe-bottom: env(safe-area-inset-bottom, 0px);
-  --safe-left: env(safe-area-inset-left, 0px);
-  --safe-right: env(safe-area-inset-right, 0px);
-  --bottom-nav-h: 3.5rem;
-}
-@media (min-width: 1024px) {
-  :root { --bottom-nav-h: 0px; }
-}
-
-/* Utilities for insetting content away from notches / home bars. */
-.pt-safe-top { padding-top: var(--safe-top); }
-.pb-safe-bottom { padding-bottom: var(--safe-bottom); }
-.pb-nav { padding-bottom: calc(var(--bottom-nav-h) + var(--safe-bottom)); }
-
 body {
   background-color: #0f0f0f;
   color: #f1f1f1;
   font-family: "Roboto", Arial, sans-serif;
   overflow-x: hidden;
 }
+
+/* Safe-area insets for Android 15 edge-to-edge / notched devices. The navbar
+   and bottom nav pad themselves; the app shell exposes helpers so the content
+   never hides under the status bar or gesture bar. */
+:root {
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-left: env(safe-area-inset-left, 0px);
+  --safe-right: env(safe-area-inset-right, 0px);
+  --bottom-nav-h: 0px;
+}
+/* Only reserve space for the bottom tab bar below the lg breakpoint, where it
+   is actually shown (it is hidden via `lg:hidden`). */
+@media (max-width: 1023.98px) {
+  :root { --bottom-nav-h: 3.5rem; }
+}
+.pt-safe-top { padding-top: var(--safe-top); }
+.pb-safe-bottom { padding-bottom: var(--safe-bottom); }
+/* Adds room so the last content isn't hidden behind the mobile bottom nav. */
+.pb-nav { padding-bottom: calc(var(--bottom-nav-h) + var(--safe-bottom)); }
 
 /* YouTube Standard Scrollbar */
 ::-webkit-scrollbar {
@@ -67,14 +66,6 @@ body {
   background-color: #f1f1f1;
   color: #0f0f0f;
   font-weight: 500;
-}
-/* Touch feedback: Tailwind v4 gates :hover behind (hover:hover), so phones get
-   no visual response from hover classes. These :active rules restore it. */
-.yt-chip:active {
-  background-color: rgba(255, 255, 255, 0.25);
-}
-.yt-video-card:active .yt-thumb-img {
-  transform: scale(1.03);
 }
 
 /* YouTube Sidebar Item */
@@ -121,23 +112,37 @@ body {
 .yt-tab {
   position: relative;
   padding: 12px 16px;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 500;
   color: #aaa;
   cursor: pointer;
   border-bottom: 2px solid transparent;
   white-space: nowrap;
+  flex-shrink: 0;
 }
-@media (min-width: 640px) {
-  .yt-tab { padding: 12px 24px; }
-}
-.yt-tab:hover,
-.yt-tab:active {
+.yt-tab:hover {
   color: #f1f1f1;
+}
+.yt-tab:active {
+  background-color: rgba(255, 255, 255, 0.08);
 }
 .yt-tab.active {
   color: #f1f1f1;
   border-bottom-color: #f1f1f1;
+}
+
+/* Tap feedback: Tailwind v4 gates hover: behind @media (hover:hover), so on
+   touch devices there is zero feedback. Give every clickable card/row a real
+   pressed state that works on both touch and mouse. */
+.yt-video-card:active,
+.yt-list-row:active {
+  opacity: 0.7;
+}
+.yt-sidebar-item:active {
+  background-color: #333;
+}
+.yt-chip:active {
+  background-color: rgba(255, 255, 255, 0.3);
 }
 
 
