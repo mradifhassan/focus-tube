@@ -18,6 +18,8 @@
 // v17 -> v18: added OnnoRokom "Application Oriented Chemistry" playlist (19 videos).
 // v18 -> v19: added OnnoRokom "Qualitative Chemistry" playlist (34 videos).
 // v19 -> v20: added OnnoRokom "Chemical Changes" (18) + "Quantitative Chemistry" (15) playlists.
-// v20 -> v21: added One Hour Classroom channel with "Physics 2nd Paper Class 11/12"
-// (98 videos) and "Physics 1st Paper Class 11/12" (99 videos) playlists.
-export const CATALOG_VERSION = 21;
+// v21 -> v23: added OnnoRokom ICT chapters (Number Systems & Digital Devices
+// Parts 1 & 2, DBMS, Web Design & HTML, Communication & Networking = 76 videos)
+// and Math chapters (Circle Lectures 1 & 2, Straight Line 3.1-3.8, Matrix,
+// Determinant, Vector = 89 videos) = 165 videos across 17 playlists.
+export const CATALOG_VERSION = 23;
