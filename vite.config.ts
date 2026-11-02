@@ -8,7 +8,7 @@ const pkg = JSON.parse(readFileSync(path.resolve(__dirname, 'package.json'), 'ut
 
 export default defineConfig(() => {
   return {
-    base: '/',
+    base: '/focus-tube/',
     plugins: [react(), tailwindcss()],
     define: {
       // App version injected into the web layer so updater.js can read it.
