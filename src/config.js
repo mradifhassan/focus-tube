@@ -22,4 +22,9 @@
 // Parts 1 & 2, DBMS, Web Design & HTML, Communication & Networking = 76 videos)
 // and Math chapters (Circle Lectures 1 & 2, Straight Line 3.1-3.8, Matrix,
 // Determinant, Vector = 89 videos) = 165 videos across 17 playlists.
-export const CATALOG_VERSION = 23;
+// v23 -> v24: replaced AloronXYZ channel with Logical Beliefs (@logicalbelief1439).
+// v24 -> v25: added 5 OnnoRokom Higher Math playlists — Probability (15),
+// Measures of Dispersion (13), Trigonometry & Inverse Circular Functions (10),
+// Linear Programming (6), Modulus & Real Numbers (5) = 49 videos, plus other
+// subject additions across 7 more playlists (87 videos).
+export const CATALOG_VERSION = 25;
